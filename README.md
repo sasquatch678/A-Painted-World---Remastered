@@ -1,1 +1,1 @@
-# A-Painted-World---Remastered
+# A-Painted-World - Remastered
