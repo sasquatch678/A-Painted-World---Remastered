@@ -6,7 +6,7 @@ An Oblivion Remastered Wabbajack Modlist by Sasquatch.
 
 <table style="border: none;">
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/a-painted-world-2">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/a-painted-world-remastered">Load Order Library</a></td>
 <td><a href="https://discord.gg/dGP9Vy7QMG">Discord</a></td>
 <td><a href="https://www.nexusmods.com/oblivion/mods/55483">Nexus</a></td>
 <td><a href="https://ko-fi.com/sasquatch678">Ko-Fi</a></td>
@@ -30,9 +30,6 @@ If you feel overwhelmed by the difficulty when you first start out in this dange
 
 
 ### Disclaimer
-
-Owing to the need to clean master files and certain limitations with Wabbajack, A Painted World only supports **English Steam** versions of Oblivion GOTY Deluxe edition. 
-**GOG and other Languages are not supported**.
 
 Only Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and A Painted World.
 
@@ -58,14 +55,12 @@ Due to being a Wabbajack list installing A Painted World is painless and easy, t
 The following steps are required to be completed before downloading A Painted World.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
-3. Fully uninstall Oblivion by deleting the folder and the Oblivion folder inside \Documents\My Games\.
+3. Fully uninstall Oblivion Remastered by deleting the folder and the Oblivion Remastered folder inside \Documents\My Games\.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
-5. Reinstall Oblivion into a location that is not Program files. Somewhere like `C:\Games` is a good location. Avoid long file paths. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
+5. Reinstall Oblivion Remastered into a location that is not Program files. Somewhere like `C:\Games` is a good location. Avoid long file paths. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. Download and extract the 4gb patch from the link here. Run the exe on the Oblivion.exe in your game folder. <https://www.nexusmods.com/oblivion/mods/45576?tab=files>
-8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-9. Disable all Steam/Nvidia/Discord overlays.
-10. Cap fps to 60 through the Nvidia Control Panel or AMD equivalent. You may also want to force Anti Aliasing here as the ingame AA is not an option.
+7. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+8. Disable all Steam/Nvidia/Discord overlays.
 
 ### Wabbajack Installation
 
@@ -82,8 +77,8 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 Downloading and installing the list can take a while depending on your internet connection and computer. To install A Painted World, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Press the download button on A Painted World and wait for it to download.
-3. Set the installation folder to be somewhere like C:\APW. **Do not install it to your desktop or downloads folder.**
+2. Press the download button on A Painted World - Remastered and wait for it to download.
+3. Set the installation folder to be somewhere like C:\APWR. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
@@ -94,10 +89,6 @@ Downloading and installing the list can take a while depending on your internet 
 ### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
-
-- Failed Downloads
-	
-	- Missing Manual Downloads: Oblivion.exe - You did not apply the 4gb patch. Go back to [Pre-Installation](#pre-installation)  and read thoroughly.
 	
 - x is not a whitelisted download:
 
@@ -113,77 +104,27 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation :warning: **IMPORTANT**: YOUR GAME WILL NOT WORK OR CONSTANTLY CRASH UNLESS YOU DO THIS :warning:
 
-### Resolution 
-
-In the directory you installed the list to, open profiles/A Painted World/Oblivion.ini and ensure that iSize H and iSize W match your screen resolution. If they don't, change them so that they do and make sure to save your changes.
-
 ### Antivirus Exception
 
 Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow these instructions (https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-### Reshade (Optional)
-
-Due to the way Reshade interacts with DXVK/Vulkan, if you want to use the custom Reshade with the list it is required to install the Reshade binaries yourself. You can download it [here](https://reshade.me/). When it asks, point it to the Oblivion.exe in the Stock Game folder wherever you installed the mod list. Select Vulkan when given the prompt, and uncheck all effects as they are already included in MO2. That's it, it will automatically read the preset in the list.
-
 ## Starting up the list
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `Oblivion` and press the `Run` button.
-
-You will start the game in a ship cabin, here you can choose your race and create your character like normal. Once you are finished with all of the prompts give the game a good 30 seconds to finish loading all the scripts it needs to. You can loot whatever you want to bring with you in the ship, there is a table with some food and bottles of wine on a dresser. Once finished, there is a passport on a table across from the dresser. Interact with the passport once to change any of the choices you already made, and then use it to finalize your character. Finally, sleep in the bed and you will be given a prompt for a starting city. Depending on your class/skill selection you will be given some starting equipment and spells. What happens next is entirely up to you, the world is open for you to explore.
-
-## Controller Support
-
-Copy and paste the following link to a web browser. Hit enter.
-
-steam://controllerconfig/22330/3299476272
-
-A prompt will appear to open it with Steam, select Open Link. An image of the layout will appear, use :stop_button: or X to import the layout. From here you can launch the list normally through MO2 and use the controller to play. 
-
-If no prompt appears or it does not take you to a Steam page to import the layout, you may need to use a different internet browser. Chrome and Firefox definitely work.
+Make sure the dropdown box on the right is set to `Play` and press the `Run` button.
 
 ## Optional Mods - Ultrawide Support & Performance
 
-A Painted World comes with several customization options. 
+A Painted World - Remastered comes with several customization options. 
 
-There is 21x9 ultrawide support under the "ULTRAWIDE OPTIONALS (21x9)" section of Mod Organizer 2. 
-
-By default skills do not increase by using them and instead you get skill points you can distribute when leveling up. You can choose to enable skill based leveling again by disabling Oblivion XP Update. If you also want to avoid the vanilla leveling minmax, you should also consider enabling Skill Diary Undone and Attribute Progression Redesign.
-
-Special K enables quite a few features, however it needs to generate the ini during runtime so is disabled by default. If you choose to enable it, the first time you launch the game you will have a prompt to enable native DXVK support, select Yes. Anything else you may want to use it for can be read about on the wiki link here.
-https://wiki.special-k.info/FAQ
-
-Food and Drink Quotes adds funny voicelines to your character when you eat or drink food/potions/ingredients. This can be safely disabled by disabling the mod in MO2.
+There is ultrawide support under the "ULTRAWIDE OPTIONALS" section of Mod Organizer 2. Be sure to disable the 16x9 version of the mods in this section for full support.
 
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
-## Frequently Asked Questions
-
-Please consult the  [FAQ](https://github.com/sasquatch678/A-Painted-World/blob/main/FAQ.md) page here to see if your question is already answered.
-
-## Gameplay Changes
-
-A Painted World plays very differently from vanilla Oblivion, please review [Gameplay](https://github.com/sasquatch678/A-Painted-World/tree/main/Gameplay.md) for an overview of some of the new mechanics.
-
-## Stock Game & Root Builder
-
-A Painted World utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Oblivion installation within the installation location of the list. This enables greater compatibility with other mod-lists and keeps your original game folder clean of any outside files.
-
-A Painted World also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and other mods which would ordinarily require being installed to the game folder. Please see this guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
 ## Known Issues
-1. The game can stutter or fps can drop heavily in certain areas even on a powerful system. Oblivion is an old game on a 32bit engine, I have done and am still doing what I can to alleviate this as much as possible. Any area with a large cluster of npcs can cause this. Torches and light spells can cause fps to dip very heavily as well. This is unfortunately just an engine limitation which gets worsened by some of the mods adding more objects and detail to the landscape. There is no real solution except to avoid using lights in these areas.
-
-	Certain hardware also seems to have performance issues when it shouldn't with this being an older game, in particular AMD graphics cards. Experiment with setting the game to fullscreen in the Oblivion.ini in the 		profiles folder and disabling borderless in Oblivion Display Tweaks.ini in mods/A Painted World Configs/OBSE/plugins if you are experiencing this.
-   
-3. Various issues related to reloading saves from within the game or exiting to the main menu and reloading from there. Certain scripts will not initialize if not loading from a fresh launch which can create a variety of issues. If you want the most bug free experience, always close and restart the game to load or start a new save.
-
-4. The Journeyman Alteration perk can occasionally cause spell magnitudes to multiply infinitely when reloading the game. Simply restart the game when loading rather than quickloading from within the game.
-
-5. DXVK can sometimes cause weird visual anomalies or random crashes, if your performance is good enough without it you can keep it disabled. Please note that DXVK is the only way to use Reshade with Oblivion Reloaded Combined, so Reshade will not work with it disabled.
-
-Naturally, with a game and list of this scope, not even my thousands of hours ingame can cover every plausible scenario. One of the founding principles of QA is no one person can find every bug in a piece of software. If you find problems that aren't down to installation-error or missing certain advice above, let's discuss it in Discord.
+None at this time
 
 ## Updating the modlist
 
