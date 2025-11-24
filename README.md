@@ -30,16 +30,7 @@ Only Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lighte
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
-### Recommended System Requirements
-
-| Component    | Recommended | 
-|:--------------:|:-------------:|
-| CPU | Quad-core Intel or AMD CPU
-| Ram | 4GB DDR4 Ram
-| Storage | SATA SSD or higher
-| GPU | Direct X 9.0c and Vulkan compliant video card with at least 8gb of VRAM
-
-Space required: ~115GB Total 
+Space required: ~6GB Total 
 
 ## Installation
 
