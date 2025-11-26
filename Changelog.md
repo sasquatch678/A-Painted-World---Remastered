@@ -1,3 +1,11 @@
+## **1.0.2**
+
+**Removed**
+- MagicLoader and every mod that was dependent on it
+- TesSyncMap and every mod that was dependent on it
+- NPC Appearance Manager and every mod that was dependent on it
+- RaceMenu Utilities
+
 ## **1.0.1**
 
 **Removed**
