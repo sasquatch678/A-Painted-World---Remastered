@@ -9,6 +9,9 @@ There are also now directions for each quest added to your journal entries, whic
 ### Knights of the Nine
 Delayed until the player reaches level 10.
 
+### Shivering Isles
+No changes, visit the Strange Door in Niben Bay whenever you like. Suggest being a bit higher level, between 10 and 20, but no hard requirement.
+
 ### Player Homes
 - Battlehorn Castle: Fully complete the Fighter's Guild Questline; Talk to Modryn Oreyn and appoint him as your second in command.
 - Frostcrag Spire: Talk with Raminus Polus after Defeating Manimarco
