@@ -57,17 +57,17 @@ Beast Research is a more intricate but also very rewarding questline, which will
 Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe.
 
 ### Thieves Guild
-You will need to fence a higher value in stolen goods to progress in the Thieves Guild. Here are the ranks for the Thieves Guild and the amount fenced required.
+You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, and not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
-|Rank	|Skill Requirements
+|Special Job |Skill Requirements
 |:--------------:|:-------------:|
-|Associate|500|
-|Apprentice|	1,000|
-|Journeyman|	1,500
-|Evoker|2,000
-|Conjurer	|2,500
-|Magician	|3,000
-|Warlock	|4,000
-|Wizard	|6,000
-|Master Wizard|8,000
-|Arch-Mage| 10,000|
+|Untaxing the Poor|500|
+|The Elven Maiden|	1,000|
+|Ahdarji's Heirloom|	1,500
+|Misdirection|2,000
+|Lost Histories|2,500
+|Taking Care of Lex|3,000
+|Turning a Blind Eye|4,000
+|Arrow of Extrication|6,000
+|Boots of Springheel Jak|8,000
+|The Ultimate Heist| 10,000|
