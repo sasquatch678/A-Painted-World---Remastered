@@ -6,9 +6,9 @@ A Painted World addresses these issues by making the player’s power conditiona
 
 Because of this, combat should feel quick and lethal for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept for player damage, though you may wish to change these based on preference, build, or character progression. There are also several new mechanics you can take advantage of listed below. Most of these features can be configured in mods\Ultra Combat UE4SS V2 - Physical Combat Overhaul\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou).<br/>
 
-## Dodging (REQUIRES ACROBATICS 25)
-
-- Dodge by tapping mouse button 5. (Default Key: V Key) is configurable to whichever mode you prefer, and any key/input which is viable in Unreal.
+## Dodging
+- Requires a minimum 25 in Acrobatics
+- Dodge by tapping mouse button 5.
 - Dodging is blocked while the player is crouched, out of fatigue, and/or over encumbered, configurable.
 - During dodges, for 0.4s the player will have resistance to normal weapons based on acrobatics skill (2x skill, max 100%). Magic and special weapon materials can penetrate the physical barrier it provides.
 - Fatigue drain for dodging is based on acrobatics skill. Base 20 + Skill Modifier (Lower skill = More Fatigue Cost)
