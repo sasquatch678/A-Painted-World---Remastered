@@ -42,7 +42,7 @@ All summons now have a graphical effect to make it clear these are summons and n
 #### New summons
 Conjuration is the art of summoning Daedra so it makes sense various shivering isle creatures can be summoned as they are daedric creations of Sheogorath. All Shivering Isles summons have a chance to summon the mania or dementia version of them. Note all new summon spells will not replace existing standard summons when cast. They can only be cast when other summons expire. They can be cast to replace themselves though.
 #### Longer Lasting spells
-Conjuration spells never last very long (Many at 15 seconds) so I have tweaked magic effects directly to at least last to be of use.
+Conjuration spells never last very long (Many at 15 seconds) so I have tweaked magic effects directly to at last be of use.
 #### Bound Weapons
 Based on your Conjuration level, you unlock the following perks for bound weapons: <br/>
 
