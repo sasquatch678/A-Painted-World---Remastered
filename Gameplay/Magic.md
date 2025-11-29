@@ -20,6 +20,7 @@ This made a lot of sense in Oldblivion, but with the addition of the cost-based 
 ## <p align="center">  Magic School Changes
 
 ### <p align="center"> DESTRUCTION
+#### Elemental Damage
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects for all apprentice and above level spells.
 Frost spells cause an additional fatigue damage. Shock spells cause an additional magicka damage, to help against mages. Beware these effects can affect you too from enemies. A journeyman of destruction will cause fire and shock spells with a duration to blast enemies with low health away (shock is the strongest, fire is the weakest), while journeyman with frost duration spells will cause paralysis based on fatigue amount. Less fatigue increases paralysis chance.
 #### Damage Stat Effects - Diseases and Blight
