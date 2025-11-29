@@ -32,12 +32,26 @@ All summons (Yours or enemies) now have a graphical effect to make it clear thes
 Added a reanimate spell you can buy from a shady source.
 Reanimation effects from standard sources (not custom spells) additionally work on dead creatures not just npcs.
 #### New summons
-Conjuration is the art of summoning Daedra so it makes sense various shivering isle creatures can be summoned as they all daedric creations of Sheogorath. <br/>
-Summon Familiar (Novice) summon - The only novice summon in the game, but this summons a daedra spirit in the shape of a wolf.<br/>
-Skinned Hounds (Apprentice) summon - This summon scales with player level to level 10 and is no longer SI specific being its just an undead body with a daedra spirit.<br/>
-Skalon (Journeyman) summon <br/>
-Gnarl and Elytra (Expert) summons <br/>
-Grummite (Master) summon - Summons a random archer, mage or standard warrior. These summons scale with the player level forever. <br/>
-All summons have a chance to summon the mania or dementia version of them. Note all new summon spells will not replace existing standard summons when cast. They can only be cast when other summons expire. They can be cast to replace themselves though.
+Conjuration is the art of summoning Daedra so it makes sense various shivering isle creatures can be summoned as they all daedric creations of Sheogorath. All summons have a chance to summon the mania or dementia version of them. Note all new summon spells will not replace existing standard summons when cast. They can only be cast when other summons expire. They can be cast to replace themselves though.
 #### Longer Lasting spells
 Conjuration spells never last very long (Many at 15 seconds) so I have tweaked magic effects directly to at least last to be of use.
+#### Bound Weapons
+Based on your Conjuration level, you unlock the following perks for bound weapons:
+Conjuration 25 – Soul Stealer
+Your bound weapons automatically cast Soul Trap on hit.
+
+Conjuration 50 – Mystic Binding: Rank 1
+Your bound weapons deal increased damage (+3).
+
+Conjuration 60 - Hollow Binding (Inspired by Ordinator)
+Bound weapons lower targets magic resist by 15% on hit for 10 seconds.
+
+Conjuration 75 – Oblivion Binding
+Bound weapons will banish level 15 or lower Daedra, and turn Undead level 15 or lower.
+Daedra above level 15 will instead take 10 points of Shock damage.
+
+Conjuration 90 – Mystic Binding: Rank 2
+Your bound weapons deal additional increased damage (+3). (Stacks with Rank 1 for +6 total).
+
+Conjuration 100 - Elemental Conflux (Inspired by Vokrii)
+While near an elemental atronach you've summoned, bound weapons deal 10 points of elemental damage. (Element is based on atronach).
