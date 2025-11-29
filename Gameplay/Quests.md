@@ -54,8 +54,8 @@ You will need to focus on training a few of your combat skills to high levels: B
 
 #### Radiant Quests
 Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
-- Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor.
-<br/>
+- Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor. <br/>
+
 ### <p align="center"> MAGES GUILD
 
 #### Skill Requirements
