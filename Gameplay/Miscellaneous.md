@@ -1,4 +1,6 @@
 ## Survival
+
+Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
 ### HUNGER
 - Impact: Hunger affects your Endurance (maximum Health), reducing it to a minimum of ~20% of its base value.
 - Varied Nutrition: Each food type has unique nutritional value, no need to chug 10 cheese wheels to feel full!
@@ -29,10 +31,10 @@ Note: When navigating the cooking interface, a short delay may occur. That’s n
 -A 30+ pages recipe book is included with the Cooking Kit. You can also purchase one from Phintias at The First Edition book store in the Market District. Restocks every 6 hours.
 
 ### FISHING
- -Fishing: You can fish using a fishing net! Equip the fishing net (automatically provided) and head into the water. Patience will reward you with fish… and sometimes unexpected items.
-When you're done fishing, you can unequip the fishing net and head back to dry land.
--Fishing Leveling: You earn Fishing Points by catching fish, which allow you to level up (with patience!) your fishing skill and increase your chances of catching bigger fish. You automatically level up your fishing Lvl when you have enough Fishing Points (Lvl 2 = 50 pts, Lvl 3 = 200 pts).
--The fishing system includes custom messages inspired by Oblivion’s level-up messages, keeping the experience immersive and lore-friendly.
+- You can fish using a fishing net! Equip the fishing net (automatically provided) and head into the water. Patience will reward you with fish… and sometimes unexpected items.
+- When you're done fishing, you can unequip the fishing net and head back to dry land.
+- Fishing Leveling: You earn Fishing Points by catching fish, which allow you to level up (with patience!) your fishing skill and increase your chances of catching bigger fish. You automatically level up your fishing Lvl when you have enough Fishing Points (Lvl 2 = 50 pts, Lvl 3 = 200 pts).
+- The fishing system includes custom messages inspired by Oblivion’s level-up messages, keeping the experience immersive and lore-friendly.
 - Perfect for securing a steady source of food and income. 
 
 ### AMBIENCE OF THE INN
