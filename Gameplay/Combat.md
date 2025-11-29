@@ -28,7 +28,7 @@ Custom made disintegrate armor and weapon spells with a duration will now work. 
 These journeyman and expert spells modify all subsequent spells cast at the target during the effect to be classed as a poison. This means weakness to poison/resist poison now effect the spells cast so you can bypass resistance to magic effects on enemies. 
 Undead, Redguards and Argonians have strong poison resistance naturally so it is best to avoid using on those npcs as your spells may lose effectiveness instead.
 
-### Conjuration
+### <p align="center"> Conjuration
 All summons (Yours or enemies) now have a graphical effect to make it clear these are summons and not standard enemies.
 Added a reanimate spell you can buy from a shady source, and reanimation effects from standard sources (not custom spells) additionally work on dead creatures not just npcs.
 
@@ -69,7 +69,7 @@ In addition to scaling power, you now unlock unique perks as you collect more so
   20 Souls – Chill of the Crypt: Undead Summons have a 25% chance to apply a movement speed debuff to enemies when hit. Summons also gain an additional +15 to both Weapon and Magic Resistances.<br/>
   25 Souls - Master of Death: You gain the "Risen Flesh﻿" Power. Allowing you to resurrect dead bodies.<br/>
 
-### Mysticism
+### <p align="center"> Mysticism
 #### Telekinesis
 Telekinesis spells (not custom spells) have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. You can only loot dead bodies while crouched, as the remaster has a new feature allowing you to move bodies with telekinesis. If you cast telekinesis on an alive npc or creature you will quickly position yourself behind their back which is great for pickpocketing or sneak attacks.
 
@@ -102,7 +102,7 @@ Weakness to magic - is now under the mysticism skill which fits lore that mystic
 #### Absorb Mysticism School 
 Mysticism typically lacks offensive spells, which makes leveling it challenging. This changes that back to just like it was in morrowind.
 
-### Alteration
+### <p align="center"> Alteration
 
 #### Force Spells
 This provides more offensive capabilities to alteration mages while still fitting the theme of supporting magic as these cannot kill people unless gravity is involved. The spells alter the air to create a force of wind to blow enemies away. There is a small chance for enemies to be unaffected based on your willpower and luck skills.
