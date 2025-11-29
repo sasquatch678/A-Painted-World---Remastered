@@ -1,5 +1,5 @@
 
-# <p align="center"> Magic
+# <p align="center"> MAGIC
 
 Magic has received a light overhaul to better the leveling experience, and add variety to some of the more niche spell effects. There are some general changes to spellcasting and magic related systems below.
 
