@@ -60,10 +60,10 @@ While near an elemental atronach you've summoned, bound weapons deal 10 points o
 #### Necromancy
 Each filled Black Soul Gem in your inventory will increase the combat related attributes and skills of your undead summons by two points each. This buff maxes-out when you have 30 Filled Black Soul Gems. This gives Necromancer players a reason to stockpile Black Soul Gems beyond enchanting and roleplaying reasons.
 
-In addition to scaling power, you now unlock unique perks as you collect more souls:
+In addition to scaling power, you now unlock unique perks as you collect more souls:<br/>
 
-  5 Souls – Gravehide: Undead Summons gain +15 Resistance to Normal Weapons
-  10 Souls – Soulshroud: Undead Summons gain +15 Magic Resistance
-  15 Souls – Dark Conduit: While in combat with an undead summon, you regenerate an additional 1 magicka per second.
-  20 Souls – Chill of the Crypt: Undead Summons have a 25% chance to apply a movement speed debuff to enemies when hit. Summons also gain an additional +15 to both Weapon and Magic Resistances.
-  25 Souls - Master of Death: You gain the "Risen Flesh﻿" Power. Allowing you to resurrect dead bodies.
+  5 Souls – Gravehide: Undead Summons gain +15 Resistance to Normal Weapons<br/>
+  10 Souls – Soulshroud: Undead Summons gain +15 Magic Resistance<br/>
+  15 Souls – Dark Conduit: While in combat with an undead summon, you regenerate an additional 1 magicka per second.<br/>
+  20 Souls – Chill of the Crypt: Undead Summons have a 25% chance to apply a movement speed debuff to enemies when hit. Summons also gain an additional +15 to both Weapon and Magic Resistances.<br/>
+  25 Souls - Master of Death: You gain the "Risen Flesh﻿" Power. Allowing you to resurrect dead bodies.<br/>
