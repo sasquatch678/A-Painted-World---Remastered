@@ -75,3 +75,18 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
 - Numbers Jobs are commissions the Thieves Guild has received from certain clients looking the cook the books for various businesses and other organizations.
  <br/>
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you.
+
+### Dark Brotherhood
+There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
+
+Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
+
+### Arena
+In the Arena, there are no longer business hour or dress code requirements. Wear whatever you want, fight whenever you want, and loot your Arena opponents too.
+#### Radiant Quests
+Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
+
+﻿After speaking with Owyn, the player will be able to interact with the two brand new Match Registration Forms. These two separate forms will allow the player to sign up for a Match with either Human Combatants or Monsters. Activating the Combatant Match Registration Form presents the player with the above menu -
+and asks them how many Combatants they'd like to sign up to face in the Arena. You get paid more gold based on how many opponents you choose to face. <br/>
+
+After finishing a match, on the wooden table where the Match Registration Forms are found, a sack of coins will appear. Activating the Sack will give you the gold you've earned, and also signal the Custodians to get to work cleaning up the Arena.
