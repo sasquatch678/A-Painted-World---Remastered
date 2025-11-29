@@ -47,19 +47,19 @@ Note: When navigating the cooking interface, a short delay may occur. That’s n
 - This feature enhances the role of inns and supports roleplay, while also giving positive effects, so the mod isn’t only about survival drawbacks.
 
 ### VAMPIRES
- -As a vampire, your hunger for bloody flesh will intensify. You must consume raw meat, corpse flesh, human hearts, or Daedra hearts to sustain yourself.
--After progressing as a vampire, you gain the spell "Flesh Shower", allowing you to extract flesh chunks from corpses and fully feed yourself.
--You can extract bloody flesh from any corpse, with a limit of five portions in your inventory at a time.
--Bloody flesh provide less nourishment than other sources like raw meat or hearts.
--Once you become a vampire, your thirst for "traditional" drinks will fade, as will your need for sleep (within 1 to several in-game hours).
--Your blood thirst is governed by the base game's vampire system.
--If cured of vampirism, your hunger, thirst, and sleep needs revert to normal. 
+- As a vampire, your hunger for bloody flesh will intensify. You must consume raw meat, corpse flesh, human hearts, or Daedra hearts to sustain yourself.
+- After progressing as a vampire, you gain the spell "Flesh Shower", allowing you to extract flesh chunks from corpses and fully feed yourself.
+- You can extract bloody flesh from any corpse, with a limit of five portions in your inventory at a time.
+- Bloody flesh provide less nourishment than other sources like raw meat or hearts.
+- Once you become a vampire, your thirst for "traditional" drinks will fade, as will your need for sleep (within 1 to several in-game hours).
+- Your blood thirst is governed by the base game's vampire system.
+- If cured of vampirism, your hunger, thirst, and sleep needs revert to normal. 
 
 ### ALCOHOL
--Drinking alcohol will increase your blood alcohol level.
--When the level is high, you'll temporarily lose control of your character.
--A random message (from a total of 25) related to drunkenness will appear.
--Your alcohol level will automatically return to 0 once your character sobers up.
+- Drinking alcohol will increase your blood alcohol level.
+- When the level is high, you'll temporarily lose control of your character.
+- A random message (from a total of 25) related to drunkenness will appear.
+- Your alcohol level will automatically return to 0 once your character sobers up.
 
 ## Travel
 
