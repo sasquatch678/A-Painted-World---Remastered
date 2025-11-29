@@ -143,8 +143,8 @@ Weakness to poison - is now under the illusion skill which fits lore that by con
 
 ### <p align="center"> Restoration
 
-### Turn Undead Restoration School (Optional Plugin)
-Ever noticed that Turn Undead spells are sold by priests yet classified under Conjuration? This changes that and now provides more offensive capability to this school and also fits its theme better.
+### Turn Undead Restoration School 
+Ever noticed that Turn Undead spells are sold by priests yet classified under Conjuration? This is changed and now provides more offensive capability to this school and also fits its theme better.
 
-### Magic effect Weakness Spell Schools (Optional Plugin)
+### Magic effect Weakness Spell Schools
 Weakness to disease is under the restoration skill as modifying the health of someone you could exploit to make them prone to disease. This provides more offensive capability which you can pair with the new disease effect from damage health.
