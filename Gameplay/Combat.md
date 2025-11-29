@@ -19,23 +19,11 @@ This made a lot of sense in Oldblivion, but with the addition of the cost-based 
 #### Destruction
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects for all apprentice and above level spells.
 
-    Frost spells cause an additional fatigue damage.
-    Shock spells cause an additional magicka damage, to help against mages.
-    Beware these effects can affect you too from enemies.
-    A journeyman of destruction will cause fire, shock spells with a duration to blast enemies with low health away. Shock is the strongest, shock is the weakest.
-    While journeyman with frost duration spells will cause paralysis based on there fatigue amount. Less fatigue increases paralysis chance.
-
-
-Wizards Fury and Finger of the Mountain spells are the most powerful of these effects, cheaper than making your own, as well as having the way too high magicka costs fixed and the higher level spells actually castable without birthsigns and/or fortify effects.
-
-    lvl20 finger spell will use half magicka at 100 intelligence. 
-    lvl25 finger spell will use your entire magic pool at 100 intelligence.
-
+Frost spells cause an additional fatigue damage. Shock spells cause an additional magicka damage, to help against mages. Beware these effects can affect you too from enemies. A journeyman of destruction will cause fire and shock spells with a duration to blast enemies with low health away (shock is the strongest, fire is the weakest), while journeyman with frost duration spells will cause paralysis based on fatigue amount. Less fatigue increases paralysis chance.
 
 ##### Damage Stat Effects - Diseases and Blight
 
-    All standard Damage stat spells have a chance to inflict a random disease on targets including yourself, making these spells a bit more worth the additional cost while also making diseases spreadable to enemies. Disease resistance will naturally affect disease chance on enemies and yourself, chance is 50% higher than natural spread.
-    Additionally there is a 3% chance to contract a severe form of blight disease (from morrowind). These cause a larger change to stats and cannot be removed with the standard cure disease spell. You must use the new "Cure Blight Disease" spell (Master level Restoration) or scrolls.
+All standard Damage stat spells have a chance to inflict a random disease on targets including yourself, making these spells a bit more worth the additional cost while also making diseases spreadable to enemies. Disease resistance will naturally affect disease chance on enemies and yourself, chance is 50% higher than natural spread. Additionally there is a 3% chance to contract a severe form of blight disease (from morrowind). These cause a larger change to stats and cannot be removed with the standard cure disease spell. You must use the new "Cure Blight Disease" spell (Master level Restoration) or scrolls.
 
 
 ##### Disintegrate Duration Fix
