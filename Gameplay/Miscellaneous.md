@@ -1,3 +1,5 @@
+# <p align="center"> MISCELLANEOUS
+
 ### <p align="center"> TRAVEL
 Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
 
