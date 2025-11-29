@@ -116,7 +116,7 @@ No Fast Travel Remastered can be enabled if you want to play without fast travel
 ***
 
 ## Known Issues
-None at this time
+Sometimes the game can crash when starting a new game. This is listed as a known issue on the Ultra Combat mod page. If it's being persistent, you can disable the mod in mo2 and make a new save, then close the game and re-enable it, and load your save.
 
 ## Updating the modlist
 
