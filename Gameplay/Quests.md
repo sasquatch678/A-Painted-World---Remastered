@@ -55,3 +55,19 @@ Elixir Crafting and Deliveries can be done from the Library at the Anvil Mages G
 Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
 
 Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe.
+
+### Thieves Guild
+You will need to fence a higher value in stolen goods to progress in the Thieves Guild. Here are the ranks for the Thieves Guild and the amount fenced required.
+
+|Rank	|Skill Requirements
+|:--------------:|:-------------:|
+|Associate|| 500
+|Apprentice|	|	1,000
+|Journeyman|	1,500
+|Evoker|2,000
+|Conjurer	|2,500
+|Magician	|3,000
+|Warlock	|4,000
+|Wizard	|6,000
+|Master Wizard|8,000
+|Arch-Mage| 10,000|
