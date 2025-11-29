@@ -4,7 +4,7 @@
 Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
 
 ####  STABLES
-There will be an NPC at every city stables who will be able to take you to every city. It includes all the main cities, including the Kvatch encampment.
+There is a Regional Courier npc at every city stables who will be able to take you to every city. It includes all the main cities, including the Kvatch encampment.
 - Each trip will cost between 60 to 170 gold. Prices vary depending how far your destination is.
 - Time will advance when you travel.
 - After you unlock Battlehorn Castle and Frostcrag Spire, you'll be able to travel to them from their nearest cities (Chorrol and Bruma). You'll also be able to travel back to those cities from the Castle and the Spire.
