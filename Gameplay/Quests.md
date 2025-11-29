@@ -59,7 +59,7 @@ Finally, every Mages Guild Hall and the Arcane University has a receptacle for N
 ### Thieves Guild
 You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, and not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
-|Special Job |Skill Requirements
+|Special Job |Skill Requirements (gold)
 |:--------------:|:-------------:|
 |Untaxing the Poor|500|
 |The Elven Maiden|	1,000|
