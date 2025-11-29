@@ -1,8 +1,8 @@
-<p align="center">
+
 # Magic
 
 Magic has received a light overhaul to better the leveling experience, and add variety to some of the more niche spell effects. 
-<p align="center">
+
 ## Magic Skill Leveling Changes
 
 ### Spell Cost Based XP
@@ -14,10 +14,10 @@ This imbalance is fixed by making the XP gain proportional to the actual spell c
 Strangely enough, the Oblivion Remastered devs left the original Oblivion magic skill XP gain system in place, so there are two XP systems now. The Oldblivion system gives a flat amount of XP-per-spell-cast, regardless of spell cost. The main problem with leaving this system in place in Remastered, is that the Oldblivion devs chose very high flat XP values for magic schools with generally expensive spells, like Conjuration, while giving very little flat XP-per-cast to schools featuring low cost spells that are generally spammed by the player, like Minor Healing or Flare for Restoration and Destruction.
 
 This made a lot of sense in Oldblivion, but with the addition of the cost-based system of Remastered this discrepancy in flat XP gain between schools has no justification anymore. This is also fixed by giving NO flat XP-per-cast.
-<p align="center">
+
 ## Magic School Changes
 
-### Destruction
+<p align="center"> ### Destruction
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects for all apprentice and above level spells.
 Frost spells cause an additional fatigue damage. Shock spells cause an additional magicka damage, to help against mages. Beware these effects can affect you too from enemies. A journeyman of destruction will cause fire and shock spells with a duration to blast enemies with low health away (shock is the strongest, fire is the weakest), while journeyman with frost duration spells will cause paralysis based on fatigue amount. Less fatigue increases paralysis chance.
 #### Damage Stat Effects - Diseases and Blight
