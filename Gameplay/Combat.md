@@ -19,6 +19,7 @@ Because of this, combat should feel quick and lethal for both the player and npc
 - Perfect Dodge gives a 30% speed boost during 5s counter attack window.
 - Perfect Dodging has a 0.2s window-  the closer you are to the perfect frame on a dodge during enemy attack, the more damage your “Response Attack” will get (10%-30%).
 - Reticle will change colors to indicate Perfect Dodge counter windows.
+
 ## Block
 - Blocking can attack cancel using the same weapon and attack specific timings as Dodge.
 - Block attack cancelling will cost the equivalent fatigue as the cancelled attack would have.
@@ -26,16 +27,17 @@ Because of this, combat should feel quick and lethal for both the player and npc
 ### Perfect Block
 - Perfect Block provides a window of opportunity (0.3s) during an opponents attack.
 - Perfect Block further reduces damage based on block skill (50% to 90%), staggers the enemy, begins a slomo for 2s, and opens a 5s window a “Response Attack” which provides a 10-30% dmg boost based on timing.
-- - Reticle will change colors to indicate Perfect Block counter windows.
-  - 
-## Attack Cancel / Feint
-- Feint window - Cancel attacks early (before hit) to bait reactions with weapon and attack specific timings for an immersive combat feel
-- Combo breaking - Cancel attacks late (after hit) to reset
+- Reticle will change colors to indicate Perfect Block counter windows.
+
 
 ## Melee Weapons & H2H
 - Can perform power attacks with one button (default mouse button 4) instead of holding left click.
 - 10% to 30% damage buff on response attacks from Perfect Dodge/Block within 5s window.
 - Ragdoll's enemy based on an enemy strength roll, each 10 strength give 9% resistance
+
+### Attack Cancel / Feint
+- Feint window - Cancel attacks early (before hit) to bait reactions with weapon and attack specific timings for an immersive combat feel
+- Combo breaking - Cancel attacks late (after hit) to reset
 
 ## Marksman
 - Instant Draw unlocked at 50+ Marksman or with Perfect Block/Dodge Buff.
