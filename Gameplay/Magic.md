@@ -118,10 +118,10 @@ Based on similar techniques to morrowinds levitation, this simpler spell instead
 
 #### Spell Improvements
 
-Burden spells are pretty much useless for the player. Now when burden spells (not custom spells) are cast on an enemy it will root them to the spot for a few seconds while they deal with the sudden weight increase. It ranges from 1-5 seconds based on alteration skill. This provides slight offensive capability until you can use the force spells.<br/>
-Feather effects now protect you against fall damage. Note that this protection is negated if burden effects are active.<br/>
-Waterbreathing effects provide a small boost to swimming speed during its effect.<br/>
-Elemental shield effects including custom spells now cause small amounts of AOE damage per second in melee combat. This affects both yourself and enemies. This damage scales with your resistance to element and alteration skill, although there is a hard cap of 10 per second to avoid it being overpowered.<br/>
+- Burden spells are pretty much useless for the player. Now when burden spells (not custom spells) are cast on an enemy it will root them to the spot for a few seconds while they deal with the sudden weight increase. It ranges from 1-5 seconds based on alteration skill. This provides slight offensive capability until you can use the force spells.
+- Feather effects now protect you against fall damage. Note that this protection is negated if burden effects are active.
+- Waterbreathing effects provide a small boost to swimming speed during its effect.
+- Elemental shield effects including custom spells now cause small amounts of AOE damage per second in melee combat. This affects both yourself and enemies. This damage scales with your resistance to element and alteration skill, although there is a hard cap of 10 per second to avoid it being overpowered.
 
 #### Levitation
 While levitating, you lose 10 magicka per second. When you run out of magicka, levitation is dispelled. You can recast Levitation to dispel it early.
