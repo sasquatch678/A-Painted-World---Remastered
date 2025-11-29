@@ -18,9 +18,6 @@
 **Changes**
 - rebalanced robe enchantments
 
-**Bugfixes**
-- fixed issue where attacks could deal 0 damage at low levels on a high difficulty
-
 ## **1.0.3**
 
 **Added**
