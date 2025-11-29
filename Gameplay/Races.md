@@ -10,12 +10,12 @@ All races now have one passive and one greater power which can be augmented by t
 - ﻿Sidri-Ashak: Caustic Spit now also Opens expert level locks.
 
 ### Breton
-﻿Passive: Resist Magic 25% and Fortify Magicka 50 points. <br/>
+﻿Passive:Spell Absorb 25% and Fortify Magicka 50 points. <br/>
 ﻿Power: Dragon Skin - Once per day Shield yourself 50 points for 120 seconds.
 
 - ﻿Hestra: Dragon Skin now also gives 50% Magic Resistance for 120 seconds.
 - Reman: Dragon Skin now Reflects 50% of damage rather than Shield.
-- ﻿Sidri-Ashak: Dragon Skin now also gives 50% Chameleon for 120 seconds.
+- ﻿Sidri-Ashak: Dragon Skin now also gives 75% Chameleon for 120 seconds.
 
 ### Dark Elf
 ﻿Passive: Fire Resistance 75%. <br/>
@@ -27,11 +27,11 @@ All races now have one passive and one greater power which can be augmented by t
 
 ### High Elf
 ﻿Passive: Fortify Magicka 100 points, Weakness to Elements 25% <br/>
-﻿Power: Highborn - Dispel 150 points on Self and Fortify Intelligence 50 points for 120s.
+﻿Power: Highborn - Restore 5 magicka/s for 60 seconds.
 
 - ﻿Hestra: Your Magicka is now Fortified 150 points.
-- ﻿Reman: Highborn now also gives 50 points of Spell Reflection for 120 seconds.
-- ﻿Sidri-Ashak: Highborn is now a lesser power but only Fortifies 25 points of Intelligence and costs 50 Magicka.
+- ﻿Reman: Highborn now also gives 50 points of Spell Absorb for 120 seconds.
+- ﻿Sidri-Ashak: Highborn now also dispels 250 points on self and on touch.
 
 ### Imperial
 ﻿Passive: Gain 10 points of Shield. <br/>
@@ -43,8 +43,7 @@ All races now have one passive and one greater power which can be augmented by t
 
 ### Khajiit
 ﻿Passive: Gain 15 points of Chameleon while out of combat and sneaking. <br/>
-﻿Power: Prowl - Gain Invisibility for 120 seconds. <br/>
-﻿Lesser Power: Eye of Night - Gain Night Eye for 30 seconds.
+﻿Power: Prowl - Gain Night Eye and Invisibility for 75 seconds.
 
 - ﻿Hestra: You now gain 35 points of Chameleon while out of combat and sneaking.
 - ﻿Reman: Prowl now also Fortifies your Agility by 50 points for 120 seconds.
@@ -59,7 +58,7 @@ All races now have one passive and one greater power which can be augmented by t
 - ﻿Sidri-Ashak: Battle Cry now also Absorbs 5 points of Fatigue/s from all targets for 60 seconds.
 
 ### Orc
-﻿Passive: Resist Shock 50%. <br/>
+﻿Passive: Resist magic 15% and resist shock 25%. <br/>
 ﻿Power: Berserk - Fortify Strength 50 points and Resist Normal Weapons 25% for 120 seconds.
 
 - ﻿Hestra: Berserk now also Fortifies Blade and Blunt 50 points for 120 seconds.
