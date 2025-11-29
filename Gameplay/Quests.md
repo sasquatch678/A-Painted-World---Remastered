@@ -61,8 +61,8 @@ You will need to fence a higher value in stolen goods to progress in the Thieves
 
 |Rank	|Skill Requirements
 |:--------------:|:-------------:|
-|Associate|| 500
-|Apprentice|	|	1,000
+|Associate|500|
+|Apprentice|	1,000|
 |Journeyman|	1,500
 |Evoker|2,000
 |Conjurer	|2,500
