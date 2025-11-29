@@ -4,13 +4,17 @@ All birthsigns now have one passive ability and one lesser power which can be us
 
 ### <p align="center"> Combat
 
-Lady- Nimble and versatile, the Lady grants 35 points of Fatigue, Restore Fatigue (2/s), and the lesser power Lady’s Riposte, reflecting incoming weapons and spells (40% for 30s), but damaging your Luck (2 points). Suited for tireless warriors who trade pure strength for greater stamina and the power to turn foes' strength against them.
+#### Lady
+Nimble and versatile, the Lady grants 35 points of Fatigue, Restore Fatigue (2/s), and the lesser power Lady’s Riposte, reflecting incoming weapons and spells (40% for 30s), but damaging your Luck (2 points). Suited for tireless warriors who trade pure strength for greater stamina and the power to turn foes' strength against them.
 
-Lord - Always keeping up appearances, the Lord birthsign grants 10 Endurance, Restore Health (1/s) and the lesser power Lord’s Vigor, Restoring Health (6/s for 30 seconds) but gaining 100% Weakness to Magic and Normal Weapons for the duration. Ideal for fearless combatants who embrace risk to rapidly recover and stay in the fight.
+#### Lord 
+Always keeping up appearances, the Lord birthsign grants 10 Endurance, Restore Health (1/s) and the lesser power Lord’s Vigor, Restoring Health (6/s for 30 seconds) but gaining 100% Weakness to Magic and Normal Weapons for the duration. Ideal for fearless combatants who embrace risk to rapidly recover and stay in the fight.
 
-Steed - Lively and energetic, the Steed grants 10 Speed and Athletics, and the lesser power Steed’s Charge, which fortifies Athletics by 65 points, grants Water Walking, and grants 225 points of Feather for 180s, but damages Agility (2 points). Ideal for swift adventurers who value mobility over brute force in their journeys.
+####Steed
+Lively and energetic, the Steed grants 10 Speed and Athletics, and the lesser power Steed’s Charge, which fortifies Athletics by 65 points, grants Water Walking, and grants 225 points of Feather for 180s, but damages Agility (2 points). Ideal for swift adventurers who value mobility over brute force in their journeys.
 
-Warrior - A warrior lives and dies by their sword. The Warrior grants 10 Strength and Shield, and the lesser power Warrior’s Battlecry, increasing enemy damage taken in an area by 25% but damaging your equipment (5 points). Ideal for bold fighters willing to sacrifice durability.
+#### Warrior
+A warrior lives and dies by their sword. The Warrior grants 10 Strength and Shield, and the lesser power Warrior’s Battlecry, increasing enemy damage taken in an area by 25% but damaging your equipment (5 points). Ideal for bold fighters willing to sacrifice durability.
 
 ### <p align="center"> Magic
 
