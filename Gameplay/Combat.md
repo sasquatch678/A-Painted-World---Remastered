@@ -1,4 +1,4 @@
-# Combat
+# <p align="center"> COMBAT
 
 In Oblivion, players can become so powerful at high levels that the game turns boring. When most enemies pose little to no threat, encounters lose their appeal, and without any challenge, the fun fades away. Raising the difficulty helps, but it is not an ideal solution. Not only does doing so undermine the player’s sense of progression (by making them arbitrarily weaker), it also makes proper high level enemies overly challenging. This causes players to constantly adjust the difficulty just to enjoy the game again. <br/>
 
