@@ -100,7 +100,7 @@ Mystics now have the ability to defeat other mages easily with the Spellfire spe
 Weakness to magic - is now under the mysticism skill which fits lore that mysticism is around modifying magic.
 
 #### Absorb Mysticism School 
-Mysticism typically lacks offensive spells, which makes leveling it challenging. This changes that back to just like it was in morrowind.
+Mysticism typically lacks offensive spells, which makes leveling it challenging. This changes that back to just like it was in morrowind. Absorb spells range limit is now twice as long, especially as remaster has no visual effect to show this limitation. Standard absorb magicka spells include a fortify magicka on the opponent, as unlike other absorb spells this ends or never starts if there is no magicka to absorb which made them useless. They are already very difficult to use as early game they cost more than what you absorb.
 
 ### <p align="center"> Alteration
 
@@ -125,8 +125,6 @@ Weakness to normal weapons is now under the alteration skill which fits lore you
 
 ### <p align="center"> Illusion
 
-#### Spell Improvements
-
 #### Invisibility 
 Invisibility effects now take a toll to maintain and will prevent magicka regen during its effect. This is to prevent abusing very low cost invisibility spells. Buy the higher cost and run away.
 
@@ -139,6 +137,14 @@ Chameleon is pretty broken at 100% effect as no one will interact with you in co
 #### Night Eye
 Higher level night eye spells/potions (spells with long durations) dynamically detect daylight and disable the night eye effect until your back in an area which needs it. This reduces the annoyance of the effect. Additionally you are given a"Night eye control" power to manually turn the night eye effect on and off while spell is active. Note when the location lighting changes again this will override your manual toggle. This does not affect/apply to lower skill night eye ,custom spells and enchantments where night eye is always maintained. Night eye now makes it easier to find items compared to previously and will illuminate corpses.
 
-#### Magic effect Weakness Spell Schools (Optional Plugin)
+#### Magic effect Weakness Spell Schools
 Resist normal weapons - This magic effect is now under the illusion skill like in morrowinds (sanctuary) rather than restoration, and its commonly present on ghosts which are not anywhere near the restoration spell school.
 Weakness to poison - is now under the illusion skill which fits lore that by confusing the mind or hiding the poisons presence its easier to distribute the poison for maximum effect.
+
+### <p align="center"> Restoration
+
+### Turn Undead Restoration School (Optional Plugin)
+Ever noticed that Turn Undead spells are sold by priests yet classified under Conjuration? This changes that and now provides more offensive capability to this school and also fits its theme better.
+
+### Magic effect Weakness Spell Schools (Optional Plugin)
+Weakness to disease is under the restoration skill as modifying the health of someone you could exploit to make them prone to disease. This provides more offensive capability which you can pair with the new disease effect from damage health.
