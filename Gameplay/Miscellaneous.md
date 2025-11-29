@@ -1,13 +1,13 @@
-## <p align="center"> Travel
+### <p align="center"> Travel
 Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
 
-### Traveling between Stables
+#### Traveling between Stables
 There will be an NPC at every city stables who will be able to take you to every city. It includes all the main cities, including the Kvatch encampment.
 - Each trip will cost between 60 to 170 gold. Prices vary depending how far your destination is.
 - Time will advance when you travel.
 - After you unlock Battlehorn Castle and Frostcrag Spire, you'll be able to travel to them from their nearest cities (Chorrol and Bruma). You'll also be able to travel back to those cities from the Castle and the Spire.
 
-### Teleporting through the Mages Guild
+#### Teleporting through the Mages Guild
 Every guild hall (and the Arcane University Lobby) now has a Mage Guide NPC.
 - The Mage Guide NPC will teleport you for 200 gold, or 100 gold if you're the Arch Mage.
 - You'll only be able to teleport to the guild halls that you've finished your recommendation quest. The Arcane University teleport unlocks after you get all recommendations. 
@@ -15,17 +15,17 @@ Every guild hall (and the Arcane University Lobby) now has a Mage Guide NPC.
 - You must be a member of the Mages Guild in order to use the service. If you get expelled, you must rejoin before you can use it again.
 - Teleports are instant, time won't advance like stables travel.
 
-### Sailing with Row Boats
+#### Sailing with Row Boats
 At Anvil and Bravil's docks, there will be a row boat that can take you to Dunbarrow Cove (from Anvil) and Deepscorn Hollow (from Bravil). Like the other DLC homes, you'll only be able to travel there after you unlock them. You'll able to sail back to those cities from the Cove and Deepscorn Hollow.
 
-### Horse Whistle
+#### Horse Whistle
 If you have ridden a horse, you will be granted a Horse Whistle power.
 - Using the power when your horse is nearby will swap it between wait and follow modes.
 - If your horse is further away, it will teleport to you and start following you.
 - All changes in follow/wait state are complete with sound effects.
 - You cannot summon your horse whilst in cities, the realm of Oblivion, and some other locations where it would not be logical to do so.
 
-## <p align="center"> Survival
+### <p align="center"> Survival
 
 Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
 #### HUNGER
