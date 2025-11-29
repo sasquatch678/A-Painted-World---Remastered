@@ -1,7 +1,9 @@
 
 # Magic
 
-Magic has received a light overhaul to better the leveling experience, and add variety to some of the more niche spell effects. 
+Magic has received a light overhaul to better the leveling experience, and add variety to some of the more niche spell effects. There are some general changes to spellcasting and magic related systems below.
+
+Vanilla staves now have a script that adds magicka bonuses while equipped﻿. You will gain a Magicka Multiplier equal to (10+0.5+1.25*Intelligence*0.025). Theorethically you could get thousands of spell points if your intelligence is over the roof. You will also gain a bonus to your magicka regeneration starting at 1/s at 50 Willpower and scaling up to 5/s every 25 points of Willpower, up to 125.
 
 ## Magic Skill Leveling Changes
 
@@ -143,8 +145,11 @@ Weakness to poison - is now under the illusion skill which fits lore that by con
 
 ### <p align="center"> Restoration
 
-### Turn Undead Restoration School 
+#### Spells Restore Over Time
+Spells which Restore Health or Fatigue now do so over time instead of instantly on cast.
+
+#### Turn Undead Restoration School 
 Ever noticed that Turn Undead spells are sold by priests yet classified under Conjuration? This is changed and now provides more offensive capability to this school and also fits its theme better.
 
-### Magic effect Weakness Spell Schools
+#### Magic effect Weakness Spell Schools
 Weakness to disease is under the restoration skill as modifying the health of someone you could exploit to make them prone to disease. This provides more offensive capability which you can pair with the new disease effect from damage health.
