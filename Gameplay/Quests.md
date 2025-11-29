@@ -82,7 +82,7 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 
 ### <p align="center"> THIEVES GUILD
 #### Independent Thievery
-You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, and not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
+You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
 |Special Job |Fence Requirements (gold)
 |:--------------:|:-------------:|
