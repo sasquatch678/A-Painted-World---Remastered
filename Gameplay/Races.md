@@ -80,5 +80,5 @@ All races now have one passive and one greater power which can be augmented by t
 
 - ﻿Hestra: Beast Tongue now lasts 360s, gives 50% Magic Resistance to the creature for the duration, and 25% Magic Resistance to you for 60s.
 - ﻿Reman: Beast Tongue now lasts 360s, Restores 2 points of Health and Fatigue/s to the creature for the duration, and also Restores 2 points of ﻿Health and Fatigue/s to you for 60 seconds.
-﻿- Sidri-Ashak: Beast Tongue now lasts 360s and is a lesser power.
+- Sidri-Ashak: Beast Tongue now lasts 360s and is a lesser power.
 
