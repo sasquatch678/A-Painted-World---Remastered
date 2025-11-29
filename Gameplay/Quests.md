@@ -1,4 +1,4 @@
-# Quests
+# <p align="center"> QUESTS
 
 In general adding new and expansive quests or greatly modifying existing quests isn't possible in the Remaster. But there have still been changes and additions to each major factions questline, as well as delays to the main DLCs so the player won't be spammed with quest entries after first starting a game.
 
