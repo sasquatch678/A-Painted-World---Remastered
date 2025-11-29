@@ -109,9 +109,9 @@ If you own the Deluxe Edition of the game, you should enable the Unofficial Obli
 
 By default Simple Fast Start is enabled as an alternate start mod, disable it if you wish to play through the opening sewer sequence.
 
-If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
-
 No Fast Travel Remastered can be enabled if you want to play without fast travel (there are alternate methods of travel in the list).
+
+If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
 ***
 
