@@ -14,7 +14,7 @@ Because of this, combat should feel quick and lethal for both the player and npc
 - Fatigue drain for dodging is based on acrobatics skill. Base 20 + Skill Modifier (Lower skill = More Fatigue Cost)
 - Dodges allow attack cancelling, which has timings based on attack type and weapon.
 
-### Perfect Dodge
+#### Perfect Dodge
 - Perfect Dodge at Acrobatics 100 provides an "iframe" (invulnerability).
 - Perfect Dodge gives a 30% speed boost during 5s counter attack window.
 - Perfect Dodging has a 0.2s window-  the closer you are to the perfect frame on a dodge during enemy attack, the more damage your “Response Attack” will get (10%-30%).
@@ -24,7 +24,7 @@ Because of this, combat should feel quick and lethal for both the player and npc
 - Blocking can attack cancel using the same weapon and attack specific timings as Dodge.
 - Block attack cancelling will cost the equivalent fatigue as the cancelled attack would have.
 
-### Perfect Block
+#### Perfect Block
 - Perfect Block provides a window of opportunity (0.3s) during an opponents attack.
 - Perfect Block further reduces damage based on block skill (50% to 90%), staggers the enemy, begins a slomo for 2s, and opens a 5s window a “Response Attack” which provides a 10-30% dmg boost based on timing.
 - Reticle will change colors to indicate Perfect Block counter windows.
@@ -35,7 +35,7 @@ Because of this, combat should feel quick and lethal for both the player and npc
 - 10% to 30% damage buff on response attacks from Perfect Dodge/Block within 5s window.
 - Ragdoll's enemy based on an enemy strength roll, each 10 strength give 9% resistance
 
-### Attack Cancel / Feint
+#### Attack Cancel / Feint
 - Feint window - Cancel attacks early (before hit) to bait reactions with weapon and attack specific timings for an immersive combat feel
 - Combo breaking - Cancel attacks late (after hit) to reset
 
@@ -45,7 +45,7 @@ Because of this, combat should feel quick and lethal for both the player and npc
 - Rapid Shot response for Perfect Block/Dodge, 5s window.
 - At Marksman 75, Acrobatics 75, unlocks a slowmo bow jump with featherfall.
 
-### Headshot 
+#### Headshot 
 - Headshot damage based on marksman & sneak skill- 1.1x to 2x for Marksman.
 - Sneak damage is additive on top of headshot damage, up to +50% sneak damage (at 100 Sneak) if undetected.
 - Staggers the enemy if they survive.
@@ -53,15 +53,15 @@ Because of this, combat should feel quick and lethal for both the player and npc
 
 ## SlowMo
 
-### Hitstop
+#### Hitstop
 - Weapon-specific duration and intensity.
 - Attack type modifiers (light, power, sneak, blocked).
 - Cooldown system to prevent overlap with main slowmo effects.
 
-### Killcam
+#### Killcam
 - Occurs on 50% of all kills. Then, will occur on 100% of all headshots and perfect dodge/block(s) unless the enemy's max health is below 50% of the players max health (this is to prevent slowmo's on trash mobs)
 - Global 2s duration.
 - Slows to 40% speed.
 
-### Quickwheel
+#### Quickwheel
 - Will slow to 10% upon opening the quick wheel.
