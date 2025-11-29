@@ -13,8 +13,6 @@ One of the quirks of Oblivion is that it's possible to become the Arch-mage of C
 #### Skill Requirements
 You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
 
-Here are the ranks for the Fighters Guild, the total # of additional quests required to achieve that rank, and the skill certifications required.
-
 | Rank   | Skill Requirements
 |:--------------:|:-------------:|
 |Associate| |
@@ -33,6 +31,7 @@ Once you join the Fighter's Guild, you can start accepting Contracts from small 
 Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor.
 ### Mages Guild
 
+#### Skill Requirements
 You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
 
 |Rank	|Skill Requirements
@@ -47,3 +46,12 @@ You will need to focus on training your magic skills to high levels. Your skills
 |Wizard	|3 Expert
 |Master Wizard|1 Master
 |Arch-Mage| |
+
+#### Radiant Quests
+In every Mages Guild Hall as well as the Arcane University, the player can find a Sealed Letter of priority Worm Cult targets identified by the Mages Council. These quests function exactly the same as Fighter's Guild Notorious Monster and Daedra Contracts. There are 100 unique targets, and the quest will reward filled leveled soul gems upon completion.
+
+Elixir Crafting and Deliveries can be done from the Library at the Anvil Mages Guild. Instructions on how to craft Elixirs are in a book on the Elixir Crafting table. Activating the Sealed Elixir Order will randomly assign the player 1 of 20 potential radiant quest objectives. Craft the requested number of whichever specific Elixir, then deliver it to the Delivery Box marked with a Quest Marker to receive a leveled Gold reward.
+
+Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
+
+Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe.
