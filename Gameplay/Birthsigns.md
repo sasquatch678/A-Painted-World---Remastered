@@ -1,6 +1,6 @@
 # <p align="center"> BIRTHSIGNS
 
-All birthsigns now have one passive ability and one lesser power which can be used at will. All of the lesser powers are intended to be very powerful but have some kind of penalty, forcing you think about when you use them. Damaged attributes will catch up to you quickly as these effects permanently damage an attribute until you use a restore attribute spell, potion, or pray at a wayshrine of the nine. <br/>
+All birthsigns now have one passive ability and one lesser power which can be used at will. All of the lesser powers are intended to be powerful but have some kind of penalty, forcing you think about when you use them. Damaged attributes will catch up to you quickly as these effects permanently damage an attribute until you use a restore attribute spell, potion, or pray at a wayshrine of the nine. <br/>
 
 Additionally, there are unique and flavorful greater powers added to the doomstones you can find around the map. These are intended to be very powerful spells you can use once per day, as a sort of ultimate ability you unlock through exploration for each birthsign. 
 
