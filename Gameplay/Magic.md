@@ -32,8 +32,7 @@ These journeyman and expert spells modify all subsequent spells cast at the targ
 Undead, Redguards and Argonians have strong poison resistance naturally so it is best to avoid using on those npcs as your spells may lose effectiveness instead.
 
 ### <p align="center"> CONJURATION
-All summons (Yours or enemies) now have a graphical effect to make it clear these are summons and not standard enemies.
-Added a reanimate spell you can buy from a shady source, and reanimation effects from standard sources (not custom spells) additionally work on dead creatures not just npcs.
+All summons (Yours or enemies) now have a graphical effect to make it clear these are summons and not standard enemies. there is also a reanimate spell you can buy from a shady source, and reanimation effects from standard sources (not custom spells) additionally work on dead creatures, not just npcs.
 
 There are now consequences to summoning the dead due to the Mages Guild ban on necromancy, and to summoning daedra during an active Oblivion crisis. Undead summons are considered illegal, and if you summon undead near a Mages Guild member you will be expelled from the guild. In addition, while not illegal in the lore, summoning undead will result in a 100-gold bounty if done near a guard. (Note: This bounty is only added if a guard is nearby. Casting near citizens/other NPCs will not result in a bounty). As for daedric summons, while Conjuration has been an accepted school of magic in the past, in light of recent events the public perception has gone decidedly downhill. It's not illegal or anything, but absolutely frowned upon and most folk no longer trust it nor the mages who practice it. Summoning daedra while detected by a friendly npc will now add 1 point of infamy to the player. These two changes really make Conjuration feel like a dark and taboo school of magic.
 #### New summons
