@@ -44,13 +44,13 @@ You will need to focus on training a few of your combat skills to high levels: B
 |:--------------:|:-------------:|
 |Associate| |
 |Apprentice| 3 Apprentice
-|Journeyman| 3 Apprentice, 1 Journeyman
-|Swordsman| 3 Apprentice, 2 Journeyman
-|Protector| 3 Apprentice, 3 Journeyman
-|Defender|	3 Apprentice, 3 Journeyman, 1 Expert
-|Warder	| 3 Apprentice, 3 Journeyman, 2 Expert
-|Guardian| 3 Apprentice, 3 Journeyman, 3 Expert
-|Champion| 3 Apprentice, 3 Journeyman, 3 Expert, 1 Master
+|Journeyman| 1 Journeyman
+|Swordsman|  2 Journeyman
+|Protector|  3 Journeyman
+|Defender|	 1 Expert
+|Warder	|  2 Expert
+|Guardian|  3 Expert
+|Champion|  1 Master
 
 #### Radiant Quests
 Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
