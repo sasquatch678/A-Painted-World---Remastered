@@ -1,3 +1,26 @@
+## **1.0.4**
+
+**Added**
+- Ultimate Dialogue Overhaul
+
+**Updated**
+- Core Survival
+- Core Survival SFX Addon
+
+**Removed**
+- Backpacks of Cyrodiil - causing crashes
+- Mad OBScript Extender - redundant
+- Close Menus - causing crashes
+- Spell & Arrow Stagger Chance - causing crashes
+- Map Experience Overhaul - causing crashes
+- Dynamic Multiple Summons - causing crashes
+
+**Changes**
+- rebalanced robe enchantments
+
+**Bugfixes**
+- fixed issue where attacks could deal 0 damage at low levels on a high difficulty
+
 ## **1.0.3**
 
 **Added**
