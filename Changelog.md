@@ -14,6 +14,7 @@
 - Spell & Arrow Stagger Chance - causing crashes
 - Map Experience Overhaul - causing crashes
 - Dynamic Multiple Summons - causing crashes
+- Statues of Cyrodiil - causing crashes
 
 **Changes**
 - rebalanced robe enchantments
