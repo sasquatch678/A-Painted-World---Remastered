@@ -52,7 +52,7 @@ Your bound weapons automatically cast Soul Trap on hit.
 Conjuration 50 – Mystic Binding: Rank 1
 Your bound weapons deal increased damage (+3).
 
-Conjuration 60 - Hollow Binding (Inspired by Ordinator)
+Conjuration 60 - Hollow Binding
 Bound weapons lower targets magic resist by 15% on hit for 10 seconds.
 
 Conjuration 75 – Oblivion Binding
@@ -62,7 +62,7 @@ Daedra above level 15 will instead take 10 points of Shock damage.
 Conjuration 90 – Mystic Binding: Rank 2
 Your bound weapons deal additional increased damage (+3). (Stacks with Rank 1 for +6 total).
 
-Conjuration 100 - Elemental Conflux (Inspired by Vokrii)
+Conjuration 100 - Elemental Conflux
 While near an elemental atronach you've summoned, bound weapons deal 10 points of elemental damage. (Element is based on atronach).
 #### Necromancy
 Each filled Black Soul Gem in your inventory will increase the combat related attributes and skills of your undead summons by two points each. This buff maxes-out when you have 30 Filled Black Soul Gems. This gives Necromancer players a reason to stockpile Black Soul Gems beyond enchanting and roleplaying reasons.
@@ -77,7 +77,7 @@ In addition to scaling power, you now unlock unique perks as you collect more so
 
 ### <p align="center"> MYSTICISM
 #### Telekinesis
-Telekinesis spells (not custom spells) have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. You can only loot dead bodies while crouched, as the remaster has a new feature allowing you to move bodies with telekinesis. If you cast telekinesis on an alive npc or creature you will quickly position yourself behind their back which is great for pickpocketing or sneak attacks.
+Telekinesis spells (not custom spells) have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. You can only loot dead bodies while crouched, as the remaster has a new feature allowing you to move bodies with telekinesis. If you cast telekinesis on a living npc or creature you will quickly position yourself behind their back which is great for pickpocketing or sneak attacks.
 
 #### Siphon Pain / Absorb Damage
 New Siphon Pain spell similar to spell absorption effects has a chance to absorb physical damage and refill your magicka.
