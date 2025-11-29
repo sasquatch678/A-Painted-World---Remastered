@@ -14,7 +14,7 @@ All races now have one passive and one greater power which can be augmented by t
 ﻿Power: Dragon Skin - Once per day Shield yourself 50 points for 120 seconds.
 
 - ﻿Hestra: Dragon Skin now also gives 50% Magic Resistance for 120 seconds.
-﻿- Reman: Dragon Skin now Reflects 50% of damage rather than Shield.
+- Reman: Dragon Skin now Reflects 50% of damage rather than Shield.
 - ﻿Sidri-Ashak: Dragon Skin now also gives 50% Chameleon for 120 seconds.
 
 ### Dark Elf
