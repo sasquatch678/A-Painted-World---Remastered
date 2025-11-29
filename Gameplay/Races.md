@@ -43,7 +43,7 @@ All races now have one passive and one greater power which can be augmented by t
 
 ### Khajiit
 ﻿Passive: Gain 15 points of Chameleon while out of combat and sneaking. <br/>
-﻿Power: Prowl - Gain Invisibility for 120 seconds.
+﻿Power: Prowl - Gain Invisibility for 120 seconds. <br/>
 ﻿Lesser Power: Eye of Night - Gain Night Eye for 30 seconds.
 
 - ﻿Hestra: You now gain 35 points of Chameleon while out of combat and sneaking.
