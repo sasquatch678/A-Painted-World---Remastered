@@ -4,7 +4,7 @@ In general adding new and expansive quests or greatly modifying existing quests 
 
 There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, or disabling the quest markers in settings, and still be able to find where you need to go.
 
-## DLC Quests
+## <p align="center"> DLC Quests
 
 ### Knights of the Nine
 Delayed until the player reaches level 10.
@@ -18,7 +18,7 @@ No changes, visit the Strange Door in Niben Bay whenever you like. Suggest being
 - Deepscorn Hollow: Talk with Arquen after you are both teleported to the Cheydinhal Sanctuary at the end of the DBH Questline.
 - Dunbarrow Cave: Finish all steps of the Thieve's Guild Questline/Complete the Heist SUCCESSFULLY - If you fail this and are expelled from the guild, you will be permanently locked out of Dunbarrow unless you use console commands.﻿
 
-## Faction Quests
+## <p align="center"> Faction Quests
 
 One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
 
