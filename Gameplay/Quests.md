@@ -10,10 +10,10 @@ There are also now directions for each quest added to your journal entries, whic
 Delayed until the player reaches level 10.
 
 ### Player Homes
-Battlehorn Castle: Fully complete the Fighter's Guild Questline; Talk to Modryn Oreyn and appoint him as your second in command.
-Frostcrag Spire: Talk with Raminus Polus after Defeating Manimarco
-Deepscorn Hollow: Talk with Arquen after you are both teleported to the Cheydinhal Sanctuary at the end of the DBH Questline.
-Dunbarrow Cave: Finish all steps of the Thieve's Guild Questline/Complete the Heist SUCCESSFULLY - If you fail this and are expelled from the guild, you will be permanently locked out of Dunbarrow unless you use console commands.﻿
+- Battlehorn Castle: Fully complete the Fighter's Guild Questline; Talk to Modryn Oreyn and appoint him as your second in command.
+- Frostcrag Spire: Talk with Raminus Polus after Defeating Manimarco
+- Deepscorn Hollow: Talk with Arquen after you are both teleported to the Cheydinhal Sanctuary at the end of the DBH Questline.
+- Dunbarrow Cave: Finish all steps of the Thieve's Guild Questline/Complete the Heist SUCCESSFULLY - If you fail this and are expelled from the guild, you will be permanently locked out of Dunbarrow unless you use console commands.﻿
 
 ## Faction Quests
 
