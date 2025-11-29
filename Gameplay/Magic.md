@@ -19,7 +19,7 @@ This made a lot of sense in Oldblivion, but with the addition of the cost-based 
 
 ## <p align="center">  Magic School Changes
 
-### <p align="center"> Destruction
+### <p align="center"> DESTRUCTION
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects for all apprentice and above level spells.
 Frost spells cause an additional fatigue damage. Shock spells cause an additional magicka damage, to help against mages. Beware these effects can affect you too from enemies. A journeyman of destruction will cause fire and shock spells with a duration to blast enemies with low health away (shock is the strongest, fire is the weakest), while journeyman with frost duration spells will cause paralysis based on fatigue amount. Less fatigue increases paralysis chance.
 #### Damage Stat Effects - Diseases and Blight
@@ -30,7 +30,7 @@ Custom made disintegrate armor and weapon spells with a duration will now work. 
 These journeyman and expert spells modify all subsequent spells cast at the target during the effect to be classed as a poison. This means weakness to poison/resist poison now effect the spells cast so you can bypass resistance to magic effects on enemies. 
 Undead, Redguards and Argonians have strong poison resistance naturally so it is best to avoid using on those npcs as your spells may lose effectiveness instead.
 
-### <p align="center"> Conjuration
+### <p align="center"> CONJURATION
 All summons (Yours or enemies) now have a graphical effect to make it clear these are summons and not standard enemies.
 Added a reanimate spell you can buy from a shady source, and reanimation effects from standard sources (not custom spells) additionally work on dead creatures not just npcs.
 
@@ -71,7 +71,7 @@ In addition to scaling power, you now unlock unique perks as you collect more so
   20 Souls – Chill of the Crypt: Undead Summons have a 25% chance to apply a movement speed debuff to enemies when hit. Summons also gain an additional +15 to both Weapon and Magic Resistances.<br/>
   25 Souls - Master of Death: You gain the "Risen Flesh﻿" Power. Allowing you to resurrect dead bodies.<br/>
 
-### <p align="center"> Mysticism
+### <p align="center"> MYSTICISM
 #### Telekinesis
 Telekinesis spells (not custom spells) have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. You can only loot dead bodies while crouched, as the remaster has a new feature allowing you to move bodies with telekinesis. If you cast telekinesis on an alive npc or creature you will quickly position yourself behind their back which is great for pickpocketing or sneak attacks.
 
@@ -104,7 +104,7 @@ Weakness to magic - is now under the mysticism skill which fits lore that mystic
 #### Absorb Mysticism School 
 Mysticism typically lacks offensive spells, which makes leveling it challenging. This changes that back to just like it was in morrowind. Absorb spells range limit is now twice as long, especially as remaster has no visual effect to show this limitation. Standard absorb magicka spells include a fortify magicka on the opponent, as unlike other absorb spells this ends or never starts if there is no magicka to absorb which made them useless. They are already very difficult to use as early game they cost more than what you absorb.
 
-### <p align="center"> Alteration
+### <p align="center"> ALTERATION
 
 #### Force Spells
 This provides more offensive capabilities to alteration mages while still fitting the theme of supporting magic as these cannot kill people unless gravity is involved. The spells alter the air to create a force of wind to blow enemies away. There is a small chance for enemies to be unaffected based on your willpower and luck skills.
@@ -125,7 +125,7 @@ While levitating, you lose 10 magicka per second. When you run out of magicka, l
 #### Magic effect Weakness Spell Schools (Optional Plugin)
 Weakness to normal weapons is now under the alteration skill which fits lore you can weaken armor. Also provides more offensive capability to the school.
 
-### <p align="center"> Illusion
+### <p align="center"> ILLUSION
 
 #### Invisibility 
 Invisibility effects now take a toll to maintain and will prevent magicka regen during its effect. This is to prevent abusing very low cost invisibility spells. Buy the higher cost and run away.
@@ -143,7 +143,7 @@ Higher level night eye spells/potions (spells with long durations) dynamically d
 Resist normal weapons - This magic effect is now under the illusion skill like in morrowinds (sanctuary) rather than restoration, and its commonly present on ghosts which are not anywhere near the restoration spell school.
 Weakness to poison - is now under the illusion skill which fits lore that by confusing the mind or hiding the poisons presence its easier to distribute the poison for maximum effect.
 
-### <p align="center"> Restoration
+### <p align="center"> RESTORATION
 
 #### Spells Restore Over Time
 Spells which Restore Health or Fatigue now do so over time instead of instantly on cast.
