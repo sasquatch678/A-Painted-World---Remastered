@@ -57,6 +57,7 @@ Beast Research is a more intricate but also very rewarding questline, which will
 Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe.
 
 ### Thieves Guild
+#### Independent Thievery
 You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, and not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
 |Special Job |Skill Requirements (gold)
@@ -71,3 +72,9 @@ You will need to fence a higher value in stolen goods to progress in the Thieves
 |Arrow of Extrication|6,000
 |Boots of Springheel Jak|8,000
 |The Ultimate Heist| 10,000|
+
+####
+Once you join the Thieves Guild, you can start accepting Jobs from the small wooden table tucked away in the Garden of Dareloth, hidden from the ever-watchful and steely gaze of The Imperial Legion. On the table are three items  - the Thieves Guild Drop Box, a sheet for Numbers Jobs, and a sheet for Special Requests.
+- Special Requests are - as they are named - special requests made by clients that have paid the Thieves Guild to "obtain" specific requested items.
+- Numbers Jobs are commissions the Thieves Guild has received from certain clients looking the cook the books for various businesses and other organizations.
+Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself.
