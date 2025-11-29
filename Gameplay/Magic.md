@@ -38,7 +38,7 @@ Necromancy was banned by the Mages Guild, and if you summon undead near a Mages 
 
 As for daedric summons, while Conjuration has been an accepted school of magic in the past, in light of recent events the public perception has gone decidedly downhill. It's not illegal or anything, but absolutely frowned upon and most folk no longer trust it nor the mages who practice it. Summoning daedra while detected by a friendly npc will now add 1 point of infamy to the player. <br/>
 
-All summons (Yours or enemies) now have a graphical effect to make it clear these are summons and not standard enemies. there is also a reanimate spell you can buy from a shady source, and reanimation effects from standard sources (not custom spells) additionally work on dead creatures, not just npcs.
+All summons now have a graphical effect to make it clear these are summons and not standard enemies. There is also a reanimate spell you can buy from a shady source, and reanimation effects from standard sources (not custom spells) additionally work on dead creatures, not just npcs.
 #### New summons
 Conjuration is the art of summoning Daedra so it makes sense various shivering isle creatures can be summoned as they all daedric creations of Sheogorath. All summons have a chance to summon the mania or dementia version of them. Note all new summon spells will not replace existing standard summons when cast. They can only be cast when other summons expire. They can be cast to replace themselves though.
 #### Longer Lasting spells
