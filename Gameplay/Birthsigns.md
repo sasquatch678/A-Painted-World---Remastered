@@ -9,7 +9,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 #### Lady
 - Birthsign: Nimble and versatile, the Lady grants 35 points of Fatigue, Restore Fatigue (2/s), and the lesser power Lady’s Riposte, reflecting incoming weapons and spells (40% for 30s), but damaging your Luck (2 points). Suited for tireless warriors who trade pure strength for greater stamina and the power to turn foes' strength against them.
 
-- Doomstone Power: Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 15s.
+- Doomstone Power: Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 30s.
 
 #### Lord 
 - Birthsign: Always keeping up appearances, the Lord birthsign grants 10 Endurance, Restore Health (1/s) and the lesser power Lord’s Vigor, Restoring Health (6/s for 30 seconds) but gaining 100% Weakness to Magic and Normal Weapons for the duration. Ideal for fearless combatants who embrace risk to rapidly recover and stay in the fight.
@@ -72,6 +72,6 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 #### Serpent
 - Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which absorbs all attributes from a target (15 for 30s) but damages your Endurance (2 points). A sly and dangerous choice for those who strike swiftly and sap resources to survive.
 
-- Doomstone Power: Star Curse - Curse a target with 500% weakness to poison for 60s and paralyze them for 15s, but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 60s.
+- Doomstone Power: Star Curse - Curse a target with 500% weakness to poison for 60s and paralyze them for 5s, but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 60s.
 
 
