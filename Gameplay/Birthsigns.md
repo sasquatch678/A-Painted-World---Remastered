@@ -10,7 +10,7 @@ Nimble and versatile, the Lady grants 35 points of Fatigue, Restore Fatigue (2/s
 #### Lord 
 Always keeping up appearances, the Lord birthsign grants 10 Endurance, Restore Health (1/s) and the lesser power Lord’s Vigor, Restoring Health (6/s for 30 seconds) but gaining 100% Weakness to Magic and Normal Weapons for the duration. Ideal for fearless combatants who embrace risk to rapidly recover and stay in the fight.
 
-####Steed
+#### Steed
 Lively and energetic, the Steed grants 10 Speed and Athletics, and the lesser power Steed’s Charge, which fortifies Athletics by 65 points, grants Water Walking, and grants 225 points of Feather for 180s, but damages Agility (2 points). Ideal for swift adventurers who value mobility over brute force in their journeys.
 
 #### Warrior
