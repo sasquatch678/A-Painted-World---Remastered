@@ -29,8 +29,8 @@ No changes, visit the Strange Door in Niben Bay whenever you like. Suggest being
 - Battlehorn Castle: Fully complete the Fighter's Guild Questline; Talk to Modryn Oreyn and appoint him as your second in command.
 - Frostcrag Spire: Talk with Raminus Polus after Defeating Manimarco
 - Deepscorn Hollow: Talk with Arquen after you are both teleported to the Cheydinhal Sanctuary at the end of the DBH Questline.
-- Dunbarrow Cave: Finish all steps of the Thieve's Guild Questline/Complete the Heist SUCCESSFULLY - If you fail this and are expelled from the guild, you will be permanently locked out of Dunbarrow unless you use console commands.﻿
-<br/>
+- Dunbarrow Cave: Finish all steps of the Thieve's Guild Questline/Complete the Heist SUCCESSFULLY - If you fail this and are expelled from the guild, you will be permanently locked out of Dunbarrow unless you use console commands.
+
 ## Faction Quests
 
 One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
