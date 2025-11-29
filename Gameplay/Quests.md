@@ -49,7 +49,7 @@ You will need to focus on training your magic skills to high levels. Your skills
 #### Radiant Quests
 In every Mages Guild Hall as well as the Arcane University, the player can find a Sealed Letter of priority Worm Cult targets identified by the Mages Council. These quests function exactly the same as Fighter's Guild Notorious Monster and Daedra Contracts. There are 100 unique targets, and the quest will reward filled leveled soul gems upon completion.
 - Elixir Crafting and Deliveries can be done from the Library at the Anvil Mages Guild. Instructions on how to craft Elixirs are in a book on the Elixir Crafting table. Activating the Sealed Elixir Order will randomly assign the player 1 of 20 potential radiant quest objectives. Craft the requested number of whichever specific Elixir, then deliver it to the Delivery Box marked with a Quest Marker to receive a leveled Gold reward.
-- Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
+- Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond. <br/>
 Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe.
 
 ### Thieves Guild
@@ -69,8 +69,8 @@ You will need to fence a higher value in stolen goods to progress in the Thieves
 |Boots of Springheel Jak|8,000
 |The Ultimate Heist| 10,000|
 
-####
+#### Radiant Quests
 Once you join the Thieves Guild, you can start accepting Jobs from the small wooden table tucked away in the Garden of Dareloth, hidden from the ever-watchful and steely gaze of The Imperial Legion. On the table are three items  - the Thieves Guild Drop Box, a sheet for Numbers Jobs, and a sheet for Special Requests.
 - Special Requests are - as they are named - special requests made by clients that have paid the Thieves Guild to "obtain" specific requested items.
 - Numbers Jobs are commissions the Thieves Guild has received from certain clients looking the cook the books for various businesses and other organizations.
-Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself.
+Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you.
