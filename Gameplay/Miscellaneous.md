@@ -26,8 +26,7 @@ If you have ridden a horse, you will be granted a Horse Whistle power.
 - If your horse is further away, it will teleport to you and start following you.
 - All changes in follow/wait state are complete with sound effects.
 - You cannot summon your horse whilst in cities, the realm of Oblivion, and some other locations where it would not be logical to do so.
-
-
+<br/>
 
 ## <p align="center"> SURVIVAL
 
