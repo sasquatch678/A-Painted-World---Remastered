@@ -7,7 +7,7 @@ There are also now directions for each quest added to your journal entries, whic
 ## Main Quest
 During "Dagon Shrine", you will have the opportunity to join the Mythic Dawn. Greet the Door Guard as normal and proceed within. Harrow will take your belongings and a Mythic Dawn robe will be auto-equipped on you. Follow Harrow to the Shrine, and listen to Mankar Camoran's speech. Once he leaves, heed Ruma Camoran and approach the Shrine. <br/>
 
-    IMPORTANT: do not touch the Mysterium Xarxes (yet). Doing so will continue the Main Quest as normal and add the Book to your inventory. <br/>
+:warning: IMPORTANT: do not touch the Mysterium Xarxes (yet). Doing so will continue the Main Quest as normal and add the Book to your inventory. <br/>
     
 Take the Silver Dagger from the podium and slay the captured Priest. This will mark your official joining of the Cult. Speak to Ruma and she will congratulate you. To continue and leave the Lake Arrius Shrine, approach and touch the Mysterium Xarxes. Dagon will speak to you, and "The Cleansing" Quest will begin. Harrow will be "forced" to relinquish your items. Additionally, you will be added to the "Deadlands Daedra" faction as an Ally ; the Daedra of Oblivion Gates will no longer be hostile towards you. You will be given a spell to toggle your alliance with the Oblivion Gate Daedra, in-case you want to keep fighting them anyway. The exit door of Lake Arrius will be unlocked. <br/>
 
