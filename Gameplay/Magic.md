@@ -1,11 +1,11 @@
 
-# Magic
+# <p align="center"> Magic
 
 Magic has received a light overhaul to better the leveling experience, and add variety to some of the more niche spell effects. There are some general changes to spellcasting and magic related systems below.
 
 Vanilla staves now have a script that adds magicka bonuses while equipped﻿. You will gain a Magicka Multiplier equal to (10+ 0.5 + 1.25 x Intelligence x 0.025). Theorethically you could get thousands of spell points if your intelligence is over the roof. You will also gain a bonus to your magicka regeneration while holding a staff, starting at 1/s at 50 Willpower and scaling up to 5/s every 25 points of Willpower, up to 125.
 
-## Magic Skill Leveling Changes
+## <p align="center"> Magic Skill Leveling Changes
 
 ### Spell Cost Based XP
 Oblivion Remastered added a new XP gain system for Magic skills. Sadly they based the XP gain on the base cost of spells. Oblivion's high tier spells have incredibly high base costs, while compensating for that with an aggressive spell cost discount from high Magic Skill levels. By adding XP gain on the base cost of spells, the Oblivion Remastered devs introduced a major imbalance, causing Magic Skill leveling to accelerate the closer the skill level gets to 100.
@@ -17,7 +17,7 @@ Strangely enough, the Oblivion Remastered devs left the original Oblivion magic 
 
 This made a lot of sense in Oldblivion, but with the addition of the cost-based system of Remastered this discrepancy in flat XP gain between schools has no justification anymore. This is also fixed by giving NO flat XP-per-cast.
 
-## Magic School Changes
+## <p align="center">  Magic School Changes
 
 ### <p align="center"> Destruction
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects for all apprentice and above level spells.
