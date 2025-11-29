@@ -126,7 +126,7 @@ Based on similar techniques to morrowinds levitation, this simpler spell instead
 #### Levitation
 While levitating, you lose 10 magicka per second. When you run out of magicka, levitation is dispelled. You can recast Levitation to dispel it early.
 
-#### Magic effect Weakness Spell Schools (Optional Plugin)
+#### Magic effect Weakness Spell Schools
 Weakness to normal weapons is now under the alteration skill which fits lore you can weaken armor. Also provides more offensive capability to the school.
 
 ### <p align="center"> ILLUSION
