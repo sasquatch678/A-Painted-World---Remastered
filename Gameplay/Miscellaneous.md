@@ -20,15 +20,15 @@ Most features of the survival system can be configured using Core Survival spell
 - Drinking coffee reduces sleep.
 
 ### COOKING
--How it works: Click on your Cooking Kit (available from certain innkeepers, listed on the mod page). After opening it, you’ll be able to choose a recipe level and then a dish. If you have the required ingredients, the meal will be prepared. Congratulations, you’re on your way to becoming a great cook!
+- Click on your Cooking Kit (available from certain innkeepers, listed on the mod page). After opening it, you’ll be able to choose a recipe level and then a dish. If you have the required ingredients, the meal will be prepared. Congratulations, you’re on your way to becoming a great cook!
 Note: When navigating the cooking interface, a short delay may occur. That’s normal: you're probably organizing and cleaning your cooking utensils. Wonderful! 
--Cook wherever you like, whether in the wilderness or deep inside a cave. The Cooking Kit contains everything you need to prepare your meals, including juices!
--Most ingredients in the game are now useful for cooking, encouraging cooks to explore, buy, harvest, and more to gather them (including fish from the fishing system).
--Cooked meals have more powerful effects (it's up to you to discover them). They reduce hunger more effectively (and some reduce thirst as well).
--Cooking reduces the total weight of the ingredients used.
--Meals are more valuable than raw ingredients, so you can make a living as a cook.
--Leveling: Gain experience and unlock recipes by cooking. You earn 1 Cooking Point per dish prepared at your current level. (Preparing dishes below your level no longer grants points.)
--A 30+ pages recipe book is included with the Cooking Kit. You can also purchase one from Phintias at The First Edition book store in the Market District. Restocks every 6 hours.
+- Cook wherever you like, whether in the wilderness or deep inside a cave. The Cooking Kit contains everything you need to prepare your meals, including juices!
+- Most ingredients in the game are now useful for cooking, encouraging cooks to explore, buy, harvest, and more to gather them (including fish from the fishing system).
+- Cooked meals have more powerful effects (it's up to you to discover them). They reduce hunger more effectively (and some reduce thirst as well).
+- Cooking reduces the total weight of the ingredients used.
+- Meals are more valuable than raw ingredients, so you can make a living as a cook.
+- Leveling: Gain experience and unlock recipes by cooking. You earn 1 Cooking Point per dish prepared at your current level. (Preparing dishes below your level no longer grants points.)
+- A 30+ pages recipe book is included with the Cooking Kit. You can also purchase one from Phintias at The First Edition book store in the Market District. Restocks every 6 hours.
 
 ### FISHING
 - You can fish using a fishing net! Equip the fishing net (automatically provided) and head into the water. Patience will reward you with fish… and sometimes unexpected items.
