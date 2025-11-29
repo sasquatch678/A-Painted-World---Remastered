@@ -127,9 +127,11 @@ Weakness to normal weapons is now under the alteration skill which fits lore you
 
 #### Spell Improvements
 
-#### Invisibility effects now take a toll to maintain and will prevent magicka regen during its effect. This is to prevent abusing very low cost invisibility spells. Buy the higher cost and run away.
+#### Invisibility 
+Invisibility effects now take a toll to maintain and will prevent magicka regen during its effect. This is to prevent abusing very low cost invisibility spells. Buy the higher cost and run away.
 
-#### Paralyse spells are very powerful, so now they have an additional % chance to fail on all enemies based on your illusion skill and luck. At level 1 without mods its 25% resistance, then about 0% at/over 100 skill.
+#### Paralyze
+Paralyze spells are very powerful, so now they have an additional % chance to fail on all enemies based on your illusion skill and luck. At level 1 without mods its 25% resistance, then about 0% at/over 100 skill.
 
 #### Chameleon God Mode Fix
 Chameleon is pretty broken at 100% effect as no one will interact with you in combat so the effect is now capped at 99% to disable god mode. If you crouch enemies will completely lose you (similar to 100%) and will eventually end combat. This only lasts for 10-15 seconds based on sneak skill. If you uncrouch effect will be lost. After effect has expired there is a number of seconds must pass (based on sneak) and you must be uncrouched. Then you can crouch and use the same tactic again. You will see messages when its possible to crouch or the effect has ended.
