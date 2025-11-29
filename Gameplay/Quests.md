@@ -4,7 +4,7 @@ In general adding new and expansive quests or greatly modifying existing quests 
 
 There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, or disabling the quest markers in settings, and still be able to find where you need to go.
 
-## <p align="center"> DLC Quests
+## DLC Quests
 
 ### Knights of the Nine
 Delayed until the player reaches level 10.
@@ -18,11 +18,11 @@ No changes, visit the Strange Door in Niben Bay whenever you like. Suggest being
 - Deepscorn Hollow: Talk with Arquen after you are both teleported to the Cheydinhal Sanctuary at the end of the DBH Questline.
 - Dunbarrow Cave: Finish all steps of the Thieve's Guild Questline/Complete the Heist SUCCESSFULLY - If you fail this and are expelled from the guild, you will be permanently locked out of Dunbarrow unless you use console commands.﻿
 
-## <p align="center"> Faction Quests
+## Faction Quests
 
 One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or, less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
 
-### Fighters Guild
+### <p align="center"> Fighters Guild
 
 #### Skill Requirements
 You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
@@ -42,7 +42,8 @@ You will need to focus on training a few of your combat skills to high levels: B
 #### Radiant Quests
 Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
 - Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor.
-### Mages Guild
+
+### <p align="center"> Mages Guild
 
 #### Skill Requirements
 You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
@@ -66,7 +67,7 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 - Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond. <br/>
 Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe.
 
-### Thieves Guild
+### <p align="center"> Thieves Guild
 #### Independent Thievery
 You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, and not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
@@ -90,12 +91,12 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
  <br/>
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you.
 
-### Dark Brotherhood
+### <p align="center"> Dark Brotherhood
 There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
 
 Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
 
-### Arena
+### <p align="center"> The Arena
 In the Arena, there are no longer business hour or dress code requirements. Wear whatever you want, fight whenever you want, and loot your Arena opponents too.
 #### Radiant Quests
 Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
