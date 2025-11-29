@@ -95,8 +95,8 @@ Teleportation spells were a staple in Morrowind but became less critical with fa
 ﻿The classic Morrowind Mark and Recall spells have been added to vendors for teleporting to custom locations. These spells include a brief casting delay similar to Extrication: Once you mark a location, it leaves a wisp at the location and remains active until you travel to the Shivering Isles (or vice versa) or are taken to jail. In such cases, you’ll need to cast ﻿a new mark. This functionality is especially useful when fast travel is disabled. Exercise caution: Remember that recalling into an area with no exit may break ﻿your game.
 
 
-#### Create/Enchant spell (
-Spell Weave (Mysticism): Allow to create a spell outside the University and without a spell making altar.
+#### Create/Enchant spell
+Spell Weave (Mysticism): Allow to create a spell outside the University and without a spellmaking altar.
 Spell Forge (Mysticism): Allow enchanting of items without an enchanting altar.
 
 #### Spellfire
