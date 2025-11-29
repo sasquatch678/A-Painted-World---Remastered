@@ -4,19 +4,15 @@ In Oblivion, players can become so powerful at high levels that the game turns b
 
 A Painted World addresses these issues by making the player’s power conditional on skillful play. Now when struck by a weapon or spell you fail to dodge or block, you’ll suffer damage-over-time effects; Bleed for physical hits and Spell Burn for magical ones. These effects scale with your max health and stack with each hit, causing damage to escalate rapidly if you’re careless. These new mechanics result in a gameplay loop that incentives you to take every fight seriously because, if you don't, you'll die. <br/>
 
-Because of this, combat should feel quick and lethal for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept for player damage, though you may wish to change these based on preference, build, or character progression. There are also several new mechanics you can take advantage of listed below.<br/>
+Because of this, combat should feel quick and lethal for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept for player damage, though you may wish to change these based on preference, build, or character progression. There are also several new mechanics you can take advantage of listed below. All of these features can be configured in mods\Ultra Combat UE4SS V2 - Physical Combat Overhaul\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou).<br/>
 
-Dodging (REQUIRES ACROBATICS 25)
+## Dodging (REQUIRES ACROBATICS 25)
 
-1. Dodge via [Default] Double Tap [Default Key: WWAASSDD] or OneKey (Default Key: V Key) is configurable to whichever mode you prefer, and any key/input which is viable in Unreal.
-
-2. Dodging is blocked while the player is crouched, out of fatigue, and/or over encumbered, configurable.
-
-3. During dodges, for 0.4s the player will have resistance to normal weapons based on acrobatics skill (2x skill, max 100%). Magic and special weapon materials can penetrate the physical barrier it provides.
-
-4. Fatigue drain for dodging is based on acrobatics skill. Base 20 + Skill Modifier (Lower skill = More Fatigue Cost)
-
-5. Dodges allow attack cancelling, which has timings based on attack type and weapon.
+- Dodge by tapping mouse button 5. (Default Key: V Key) is configurable to whichever mode you prefer, and any key/input which is viable in Unreal.
+- Dodging is blocked while the player is crouched, out of fatigue, and/or over encumbered, configurable.
+- During dodges, for 0.4s the player will have resistance to normal weapons based on acrobatics skill (2x skill, max 100%). Magic and special weapon materials can penetrate the physical barrier it provides.
+- Fatigue drain for dodging is based on acrobatics skill. Base 20 + Skill Modifier (Lower skill = More Fatigue Cost)
+- Dodges allow attack cancelling, which has timings based on attack type and weapon.
 
 
 Perfect Dodge
