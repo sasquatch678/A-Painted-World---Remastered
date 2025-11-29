@@ -5,6 +5,10 @@ In general adding new and expansive quests or greatly modifying existing quests 
 There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, or disabling the quest markers in settings, and still be able to find where you need to go.
 
 ## Main Quest
+
+### Mythic Dawn
+The Oblivion Crisis is afoot and for years the Mythic Dawn has been in hiding; building their ranks and luring in insurgent acolytes who are willing to destroy the natural world for unnatural promises of immortality. But now the dawn is breaking and the vast sleeper network of cultist covens which inhabit the dark and gloomy hollows of Cyrodiil's dungeons are ready for the cleansing! Conjurers are replaced with cultists and their dungeons are now host to Mythic Dawn covens with their signature robes and bound armor.
+
 During "Dagon Shrine", you will have the opportunity to join the Mythic Dawn. Greet the Door Guard as normal and proceed within. Harrow will take your belongings and a Mythic Dawn robe will be auto-equipped on you. Follow Harrow to the Shrine, and listen to Mankar Camoran's speech. Once he leaves, heed Ruma Camoran and approach the Shrine. <br/>
 
 :warning: IMPORTANT: If you wish to go down this path do not touch the Mysterium Xarxes (yet). Doing so will continue the Main Quest as normal and add the Book to your inventory. <br/>
