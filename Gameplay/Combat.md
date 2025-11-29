@@ -4,7 +4,7 @@ In Oblivion, players can become so powerful at high levels that the game turns b
 
 A Painted World addresses these issues by making the player’s power conditional on skillful play. Now when struck by a weapon or spell you fail to dodge or block, you’ll suffer damage-over-time effects; Bleed for physical hits and Spell Burn for magical ones. These effects scale with your max health and stack with each hit, causing damage to escalate rapidly if you’re careless. These new mechanics result in a gameplay loop that incentives you to take every fight seriously because, if you don't, you'll die. <br/>
 
-Because of this, combat should feel quick and lethal for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept for player damage, though you may wish to change these based on preference, build, or character progression. There are also several new mechanics you can take advantage of listed below. All of these features can be configured in mods\Ultra Combat UE4SS V2 - Physical Combat Overhaul\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou).<br/>
+Because of this, combat should feel quick and lethal for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept for player damage, though you may wish to change these based on preference, build, or character progression. There are also several new mechanics you can take advantage of listed below. Most of these features can be configured in mods\Ultra Combat UE4SS V2 - Physical Combat Overhaul\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou).<br/>
 
 ## Dodging (REQUIRES ACROBATICS 25)
 
@@ -14,114 +14,52 @@ Because of this, combat should feel quick and lethal for both the player and npc
 - Fatigue drain for dodging is based on acrobatics skill. Base 20 + Skill Modifier (Lower skill = More Fatigue Cost)
 - Dodges allow attack cancelling, which has timings based on attack type and weapon.
 
+### Perfect Dodge
+- Perfect Dodge at Acrobatics 100 provides an "iframe" (invulnerability).
+- Perfect Dodge gives a 30% speed boost during 5s counter attack window.
+- Perfect Dodging has a 0.2s window-  the closer you are to the perfect frame on a dodge during enemy attack, the more damage your “Response Attack” will get (10%-30%).
+- Reticle will change colors to indicate Perfect Dodge counter windows.
+## Block
+- Blocking can attack cancel using the same weapon and attack specific timings as Dodge.
+- Block attack cancelling will cost the equivalent fatigue as the cancelled attack would have.
 
-Perfect Dodge
+### Perfect Block
+- Perfect Block provides a window of opportunity (0.3s) during an opponents attack.
+- Perfect Block further reduces damage based on block skill (50% to 90%), staggers the enemy, begins a slomo for 2s, and opens a 5s window a “Response Attack” which provides a 10-30% dmg boost based on timing.
+- - Reticle will change colors to indicate Perfect Block counter windows.
+  - 
+## Attack Cancel / Feint
+- Feint window - Cancel attacks early (before hit) to bait reactions with weapon and attack specific timings for an immersive combat feel
+- Combo breaking - Cancel attacks late (after hit) to reset
 
-1. Perfect Dodge at Acrobatics 100 provides an "iframe" (invulnerability).
+## Melee Weapons & H2H
+- Can perform power attacks with one button (default mouse button 4) instead of holding left click.
+- 10% to 30% damage buff on response attacks from Perfect Dodge/Block within 5s window.
+- Ragdoll's enemy based on an enemy strength roll, each 10 strength give 9% resistance
 
-2. Perfect Dodge gives a 30% speed boost during 5s counter attack window.
+## Marksman
+- Instant Draw unlocked at 50+ Marksman or with Perfect Block/Dodge Buff.
+- Release Animation Cancel at 50+ Marksman or with Perfect Block/Dodge Buff.
+- Rapid Shot response for Perfect Block/Dodge, 5s window.
+- At Marksman 75, Acrobatics 75, unlocks a slowmo bow jump with featherfall.
 
-3. Perfect Dodging has a 0.2s window-  the closer you are to the perfect frame on a dodge during enemy attack, the more damage your “Response Attack” will get (10%-30%).
+### Headshot 
+- Headshot damage based on marksman & sneak skill- 1.1x to 2x for Marksman.
+- Sneak damage is additive on top of headshot damage, up to +50% sneak damage (at 100 Sneak) if undetected.
+- Staggers the enemy if they survive.
+- Reticle will change colors to indicate Headshot.
 
+## SlowMo
 
-Block
+### Hitstop
+- Weapon-specific duration and intensity.
+- Attack type modifiers (light, power, sneak, blocked).
+- Cooldown system to prevent overlap with main slowmo effects.
 
-1. Blocking can attack cancel using the same weapon and attack specific timings as Dodge.
+### Killcam
+- Occurs on 50% of all kills. Then, will occur on 100% of all headshots and perfect dodge/block(s) unless the enemy's max health is below 50% of the players max health (this is to prevent slowmo's on trash mobs)
+- Global 2s duration.
+- Slows to 40% speed.
 
-2. Block attack cancelling will cost the equivalent fatigue as the cancelled attack would have.
-
-
-Perfect Block
-
-1. Perfect Block provides a window of opportunity (0.3s) during an opponents attack [configurable]
-
-2. Perfect Block further reduces damage based on block skill (50% to 90%), staggers the enemy, begins a slomo for 2s, and opens a 5s window a “Response Attack” which provides a 10-30% dmg boost based on timing.
-
-
-Attack Cancel / Feint
-
-1. Feint window - Cancel attacks early (before hit) to bait reactions with weapon and attack specific timings for an immersive combat feel
-
-2. Combo breaking - Cancel attacks late (after hit) to reset
-
-3. Cooldowns used in some mods made unnecessary to stop cancel spamming because of fatigue consumption and timings
-
-
-Slowmo
-
-1. Global 2s duration which is configurable
-
-2. 0.15s ease in and out for a smooth cinematic feel
-
-3. Occurs on 50% of all kills [configurable]. Then, will occur on 100% of all headshots and perfect dodge/block(s) unless the enemy's max health is below 50% of the players max health (this is to prevent slowmo's on trash mobs)
-
-4. Slows to 40% speed [configurable]
-
-5. Global toggle to disable slowmo.
-
-NOTE: Hitstop (Worst Effect Ever) and Quickwheel will continue working if set to true with Slowmo globally disabled.
-
-
-Headshot 
-
-1. Headshot damage based on marksman & sneak skill- 1.1x to 2x for Marksman [configurable]
-
-2. Sneak damage is additive on top of headshot damage, up to +50% sneak damage (at 100 Sneak) if undetected [configurable]
-
-3. Staggers the enemy if they survive
-
-
-
-
-Marksman
-
-1. Instant Draw unlocked at 50+ Marksman or with Perfect Block/Dodge Buff [configurable]
-
-2. Release Animation Cancel at 50+ Marksman or with Perfect Block/Dodge Buff  [configurable]
-
-3. Rapid Shot response for Perfect Block/Dodge, 5s window.
-
-4. At Marksman 75, Acrobatics 75, unlocks a slowmo bow jump with featherfall.
-
-
-Melee Weapons & H2H
-
-1. 10% to 30% damage buff on response attacks from Perfect Dodge/Block within 5s window [configurable]
-
-2. Ragdoll's enemy based on an enemy strength roll, each 10 strength give 9% resistance
-
-
-Quickwheel
-
-1. Will slow to 10% upon opening the quick wheel.
-
-2. Can be disabled.
-
-3. Will interrupt other slowmo effects.
-
-
-Reticle
-
-1. Reticle will change colors to indicate Headshot and Perfect Block & Dodge counter windows.
-
-
-The worst effect ever TM, Hitstop
-
-1. Weapon-specific duration and intensity
-
-2. Attack type modifiers (light, power, sneak, blocked)
-
-3. Player and Player + Enemy modes
-
-4. Cooldown system to prevent overlap with main slowmo effects
-
-5. All the toggles and configurations you could ever want
-
-
-One Button Combat
-
-1. Can set your own keys for Power and Light attacks
-
-2. Instant Power Attacks
-
-3. Hold to spam light attacks
+### Quickwheel
+- Will slow to 10% upon opening the quick wheel.
