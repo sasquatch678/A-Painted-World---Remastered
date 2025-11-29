@@ -15,8 +15,15 @@ Every guild hall (and the Arcane University Lobby) now has a Mage Guide NPC.
 - You must be a member of the Mages Guild in order to use the service. If you get expelled, you must rejoin before you can use it again.
 - Teleports are instant, time won't advance like stables travel.
 
-### Sailing with row boats
-- At Anvil and Bravil's docks, there will be a row boat that can take you to Dunbarrow Cove (from Anvil) and Deepscorn Hollow (from Bravil). Like the other DLC homes, you'll only be able to travel there after you unlock them. You'll able to sail back to those cities from the Cove and Deepscorn Hollow.
+### Sailing with Row Boats
+At Anvil and Bravil's docks, there will be a row boat that can take you to Dunbarrow Cove (from Anvil) and Deepscorn Hollow (from Bravil). Like the other DLC homes, you'll only be able to travel there after you unlock them. You'll able to sail back to those cities from the Cove and Deepscorn Hollow.
+
+### Horse Whistle
+If you have ridden a horse, you will be granted a Horse Whistle power.
+- Using the power when your horse is nearby will swap it between wait and follow modes.
+- If your horse is further away, it will teleport to you and start following you.
+- All changes in follow/wait state are complete with sound effects.
+- You cannot summon your horse whilst in cities, the realm of Oblivion, and some other locations where it would not be logical to do so.
 
 ## <p align="center"> Hunting
 
