@@ -36,7 +36,8 @@ Conjuration is the art of summoning Daedra so it makes sense various shivering i
 #### Longer Lasting spells
 Conjuration spells never last very long (Many at 15 seconds) so I have tweaked magic effects directly to at least last to be of use.
 #### Bound Weapons
-Based on your Conjuration level, you unlock the following perks for bound weapons:
+Based on your Conjuration level, you unlock the following perks for bound weapons: <br/>
+
 Conjuration 25 – Soul Stealer
 Your bound weapons automatically cast Soul Trap on hit.
 
