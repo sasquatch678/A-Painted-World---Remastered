@@ -1,8 +1,8 @@
 All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. In vanilla there are three types of runestones; Hestra, Reman, and Sidri-Ashak. Hestra augmentations are focused around magic and offense, Reman augmentations are focused around combat and defense, and Sidri-Ashak augmentations are focused around stealth, utility, and cooldown manipulation. This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones.
 
 ### Argonian
-﻿- Passive: Poison Immunity + Waterbreathing.
-﻿- Power: Caustic Spit - Once per day paralyze a target for 10 seconds.
+﻿Passive: Poison Immunity + Waterbreathing. <br/>
+﻿Power: Caustic Spit - Once per day paralyze a target for 10 seconds.
 
 - ﻿Hestra: Caustic Spit now also makes the target 50% Weaker to Magic for 60 seconds.
 - ﻿Reman: Caustic Spit now also Restores 5 Health per second for 60 seconds.
