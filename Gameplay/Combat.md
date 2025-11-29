@@ -33,20 +33,12 @@ Added a reanimate spell you can buy from a shady source.
 Reanimation effects from standard sources (not custom spells) additionally work on dead creatures not just npcs.
 #### New summons
 Conjuration is the art of summoning Daedra so it makes sense various shivering isle creatures can be summoned as they all daedric creations of Sheogorath.
-
-    Summon Familiar (Novice) summon - The only novice summon in the game, but this summons a daedra spirit in the shape of a wolf.
-    Skinned Hounds (Apprentice) summon - This summon scales with player level to level 10 and is no longer SI specific being its just an undead body with a daedra spirit.
-    Skalon (Journeyman) summon
-    Gnarl and Elytra (Expert) summons
-    Grummite (Master) summon - Summons a random archer, mage or standard warrior. These summons scale with the player level forever.
-    All summons have a chance to summon the mania or dementia version of them.
-    Note all new summon spells will not replace existing standard summons when cast. They can only be cast when other summons expire. They can be cast to replace themselves though.
-
-
+Summon Familiar (Novice) summon - The only novice summon in the game, but this summons a daedra spirit in the shape of a wolf.
+Skinned Hounds (Apprentice) summon - This summon scales with player level to level 10 and is no longer SI specific being its just an undead body with a daedra spirit.
+Skalon (Journeyman) summon
+Gnarl and Elytra (Expert) summons
+Grummite (Master) summon - Summons a random archer, mage or standard warrior. These summons scale with the player level forever.
+All summons have a chance to summon the mania or dementia version of them.
+Note all new summon spells will not replace existing standard summons when cast. They can only be cast when other summons expire. They can be cast to replace themselves though.
 #### Longer Lasting spells
 Conjuration spells never last very long (Many at 15 seconds) so I have tweaked magic effects directly to at least last to be of use.
-
-    In general all standard journeyman or higher summons and bound item spells now last 60 seconds.
-    Novice and apprentice spells last a minimum of 30 seconds.
-    Note magic effect costs also affect custom spells, but generally for journeyman or higher style spells will be in the region of 60-120 seconds and so better than stock spells.
-    Scrolls being one time usages last longer more towards 90s. Rufios ghost now lasts 240 seconds.
