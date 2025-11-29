@@ -1,6 +1,6 @@
 # <p align="center"> MISCELLANEOUS
 
-### <p align="center"> TRAVEL
+## <p align="center"> TRAVEL
 Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
 
 ####  STABLES
@@ -27,7 +27,7 @@ If you have ridden a horse, you will be granted a Horse Whistle power.
 - All changes in follow/wait state are complete with sound effects.
 - You cannot summon your horse whilst in cities, the realm of Oblivion, and some other locations where it would not be logical to do so.
 
-### <p align="center"> SURVIVAL
+## <p align="center"> SURVIVAL
 
 Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
 #### HUNGER
