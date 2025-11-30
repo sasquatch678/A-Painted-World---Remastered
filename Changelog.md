@@ -1,3 +1,52 @@
+## **1.0.5**
+
+**Added**
+- Arborwatch interior renovation
+- Waterfront Shack interior renovation
+- Cheydinhal House interior improvement
+- Miaura's Dunbarrow Cove Enchanted
+- Immersive Player Homes - Deepscorn Hollow
+- Unique Elemental Spells
+- Unread Skill Books Glow
+- ORWO - Ghosts and Spirits
+- Vile Lair DLC - Tweaks and Fixes
+- Benirus Minor Makeover
+- Practical Arsenal - Fine Steel
+- Protective Headwear - Guard
+- Protective Headgear - Steel Closed Helmet
+- Protective Headgear - Iron
+- Portals to Hell
+- Knights of the White Stallion Armor
+- Another Lock Retexture
+- Thieves Guild Hoods
+- Hooded Outlaws
+- No Starting Spells
+- Original Font (Kingthings Petrock)
+- Mages Wear Robes (Mages Guild Outfit Overhaul)
+- Two-handed Weapons Reach and Damage Increased
+- IRON ARMOR - BATTLEWORN RETEXTURE
+- Enemy's Weapon Stays on Corpse
+- Faster Mountain Slope Climbing
+
+**Removed**
+- Eli's Waterfront Shack Overhaul - causing crashes
+- Leyawiin Home Overhaul - invalidates home upgrade system
+- No Player Health Regen - can be added via Altar.ini instead, better to avoid UE4SS where possible
+
+**Changes**
+- Rebalanced robe enchantments (again). Only Mythic Dawn, Necromancer, and Mages, Apprentice, and Conjurer robes have enchantments now.
+- High elf Highborn power now restores magicka over 60 seconds instead of fortifying intelligence and dispel. The Reman upgrade now adds spell absorb instead of spell reflect, and the Sidri upgrade is now the only one with the dispel.
+- Khajiit no longer have Eye of Night as a bonus lesser power, instead the effects are baked into Prowl
+- Nord Sidri and Hestra effects have been swapped
+- Orc Stormrunner passive now grants 15% magic resistance and 25% resistance to shock (was just 50% shock resistance)
+- Breton magic resist is now spell absorb. Reman upgrade now also adds 50% spell reflect. Sidri upgrade now grants 75 Chameleon
+- the skeleton key now fortifies sneak by 25 points, rather than a borderline useless 40 points of security
+- greatly reduced the amount of junk you start with when using the alternate start mod
+
+**Bugfixes**
+- fixed equipment not degrading by default
+- fixed some clipping conflicts between Infinitum Compendium and Available Arcane Enchanters
+
 ## **1.0.4**
 
 **Added**
