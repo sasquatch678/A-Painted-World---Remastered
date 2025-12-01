@@ -1,3 +1,35 @@
+## **1.0.6**
+
+**Added**
+- Beneficial Enchantment Glow Begone
+- TES4R Civis Sheep Wander Fix
+- Noble Horse Armour - Steel Horse Armour Retexture
+- Reduced Procedural Slope Leaning
+- Better Reticle
+- Devotion - Blessings Remastered
+- Dark Brotherhood Sanctuary Player Room
+- Dangerous Waters
+- Quick Cast (Cast Automatically)
+- No Vignettes
+- SM Combat Hide
+
+**Updated**
+- Ultimate Dialogue Overhaul
+- Core Survival
+
+**Removed**
+- Mad Spell Pack - LUA Magic Effects - UE4SS - just doesn't fit into the list very well and causes black screen issue/crashes
+- Mad Mod Config Menu - it can apparently cause some crashes on load and there just isn't a great reason to keep it
+- Rebalanced Movement - Slower Run and Sprint - redundant and could have a conflicting hook with Analog Controller Speed and remove Inertia - Gliding (UE4SS)
+
+**Changes**
+- made Imperial Palace Guard armor playable
+- made sunrises a bit less purple
+- nerfed run and sprint speeds to a reasonable level
+
+**Bugfixes**
+- downgraded Wonger's Shield on Back to 0.3 to avoid ctd issues
+
 ## **1.0.5**
 
 **Added**
