@@ -1,3 +1,37 @@
+## **1.0.7**
+
+**Added**
+- Sketchy Merchants
+- GSR Stealth Crime n Thievery
+- Gamblers of Cyrodiil
+- Yami's Conjuration Rebalanced
+- Yami's Lore Friendly Daedric Artifacts
+- More Unique look for Unique Daedric Realms
+- Sambuca's Weapons Overhaul
+- Sambuca's Badass Enemies
+- Immersive Quest Marker Overhaul
+
+**Updated**
+- Let's Eat - Core Survival Version
+
+**Removed**
+- Responsive Combat AI - redundant
+
+**Changes**
+- enabled health regen by default
+- further reduced necromancer and mythic dawn enchantments to lower the sell value
+- Trophy Boars and Bucks will now drop a higher value hide than their regular counterparts + fixed AI for Trophy Bucks to run away now
+- Mudcrab Chitin and Rat Pelts no longer have Cure Disease as their first alchemical property as this created an extremely easy way to get rid of diseases. Instead Chitin now has waterwalking and Rat Pelts have Resist Disease as the first property
+- Skeleton key now fortifies luck by 10 instead of sneak by 25
+- reworked Divine blessing tiers, see [Gods and Worship]((https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md)) for details
+- reduced scale of giant slaughterfish, and the amount of items in its inventory
+- reduced attack reach of all mudcrab variants and skeletons
+- disabled spell burn by default as I find getting hit by a spell generally punishing enough without it
+
+**Bugfixes**
+- fixed issues with the arena raiment
+- fixed the emperor's entourage getting stuck at the door during the tutorial where the wall breaks open with rats
+
 ## **1.0.6**
 
 **Added**
