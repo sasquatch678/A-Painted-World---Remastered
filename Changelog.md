@@ -10,6 +10,9 @@
 - Sambuca's Weapons Overhaul
 - Sambuca's Badass Enemies
 - Immersive Quest Marker Overhaul
+- Little Locations
+- Tribal Minotaur Camps
+- Statues of Cyrodiil
 
 **Updated**
 - Let's Eat - Core Survival Version
