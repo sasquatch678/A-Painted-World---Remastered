@@ -38,15 +38,15 @@ Blessings are received by visiting an altar, and build up a moderate amount of D
 
 | Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
 |:--------------:|:-------------:|:-------------:|:-------------:|
-| Akatosh | +5 Speed | +10 Speed, Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed, +5 Athletics, Acrobatics, & Light Armor |
-| Arkay | +15 Health | +30 Health 30 points, Cure Disease & Restore Health | 
-| Dibella | +5 Personality | +10 Personality, Cure Disease & Restore Personality |
-| Julianos | +5 Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | 
-| Kynareth | +5 Agility | +10 Agility, Cure Disease & Restore Agility | 
-| Mara | +5 Willpower | +10 Willpower, Cure Disease & Restore Willpower | 
-| Stendarr | +5 Endurance | +10 Endurance, Cure Disease & Restore Endurance | 
-| Talos | +5 Strength | +10 Strength, Cure Disease & Restore Strength | 
-| Zenithar | +5 Luck | +10 Luck, Cure Disease & Restore Luck | 
+| Akatosh | +5 Speed | +10 Speed, Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor |
+| Arkay | +15 Health | +30 Health, Cure Disease & Restore Health | +50 Health, Cure Disease & Restore Health, +5 Armor Rating |
+| Dibella | +5 Personality | +10 Personality, Cure Disease & Restore Personality | +10 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
+| Julianos | +5 Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
+| Kynareth | +5 Agility | +10 Agility, Cure Disease & Restore Agility | +10 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman |
+| Mara | +5 Willpower | +10 Willpower, Cure Disease & Restore Willpower | +10 Willpower, Cure Disease & Restore Willpower, +10 Alteration, Destruction, Restoration |
+| Stendarr | +5 Endurance | +10 Endurance, Cure Disease & Restore Endurance | +10 Endurance, Cure Disease & Restore Endurance, +10 Armorer, Block, Heavy Armor |
+| Talos | +5 Strength | +10 Strength, Cure Disease & Restore Strength | +10 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand to Hand |
+| Zenithar | +5 Luck | +10 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck, +5 All skills
 
 #### Prayers
 Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
