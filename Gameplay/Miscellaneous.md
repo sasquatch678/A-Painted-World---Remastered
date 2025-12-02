@@ -39,7 +39,7 @@ Blessings are received by visiting an altar, and build up a moderate amount of D
 | Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
 |:--------------:|:-------------:|:-------------:|:-------------:|
 | Akatosh | +5 Speed | +10 Speed, Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor |
-| Arkay | +15 Health | +30 Health, Cure Disease & Restore Health | +50 Health, Cure Disease & Restore Health, +5 Armor Rating |
+| Arkay | +15 Health | +30 Health, Cure Disease & Restore Health | +50 Health, Cure Disease & +5 Armor Rating, Restore Heath 1/s |
 | Dibella | +5 Personality | +10 Personality, Cure Disease & Restore Personality | +10 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
 | Julianos | +5 Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
 | Kynareth | +5 Agility | +10 Agility, Cure Disease & Restore Agility | +10 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman |
