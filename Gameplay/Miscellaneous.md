@@ -36,17 +36,17 @@ Show devotion to a Divine by visiting their Altars and Praying out in the world.
 #### Blessings
 Blessings are received by visiting an altar, and build up a moderate amount of Devotion. Works similarly to vanilla, but scale the more you use them. The bonuses for each tier of devotion are listed below.
 
-| Divine    | Blessing | 
-|:--------------:|:-------------:|
-| Akatosh | Fortify Speed 5 points for 6480 seconds.
-| Arkay | Fortify Health 15 points for 6480 seconds.
-| Dibella | Fortify Personality 5 points for 6480 seconds.
-| Julianos | Fortify Intelligence 5 points for 6480 seconds.
-| Kynareth | Fortify Agility 5 points for 6480 seconds.
-| Mara | Fortify Willpower 5 points for 6480 seconds.
-| Stendarr | Fortify Endurance 5 points for 6480 seconds.
-| Talos | Fortify Strength 5 points for 6480 seconds.
-| Zenithar | Fortify Luck 5 points for 6480 seconds.
+| Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
+|:--------------:|:-------------:|:-------------:|:-------------:|
+| Akatosh | Fortify Speed 5 points. | | |
+| Arkay | Fortify Health 15 points. | | |
+| Dibella | Fortify Personality 5 points. | | |
+| Julianos | Fortify Intelligence 5 points. | | |
+| Kynareth | Fortify Agility 5 points. | | |
+| Mara | Fortify Willpower 5 points. | | |
+| Stendarr | Fortify Endurance 5 points. | | |
+| Talos | Fortify Strength 5 points. | | |
+| Zenithar | Fortify Luck 5 points. | | |
 
 #### Prayers
 Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
