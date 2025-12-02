@@ -38,15 +38,15 @@ Blessings are received by visiting an altar, and build up a moderate amount of D
 
 | Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
 |:--------------:|:-------------:|:-------------:|:-------------:|
-| Akatosh | Fortify Speed 5 points. | | |
-| Arkay | Fortify Health 15 points. | | |
-| Dibella | Fortify Personality 5 points. | | |
-| Julianos | Fortify Intelligence 5 points. | | |
-| Kynareth | Fortify Agility 5 points. | | |
-| Mara | Fortify Willpower 5 points. | | |
-| Stendarr | Fortify Endurance 5 points. | | |
-| Talos | Fortify Strength 5 points. | | |
-| Zenithar | Fortify Luck 5 points. | | |
+| Akatosh | Fortify Speed 5 points. | Fortify Speed 10 points, Cure Disease, & Cure Damaged Speed | |
+| Arkay | Fortify Health 15 points. | Fortify Health 30 points, Cure Disease, & Restore Health | |
+| Dibella | Fortify Personality 5 points. | Fortify Personality 10 points, Cure Disease, & Cure Damaged Personality | |
+| Julianos | Fortify Intelligence 5 points. | Fortify Intelligence 10 points, Cure Disease, & Cure Damaged Intelligence | |
+| Kynareth | Fortify Agility 5 points. | Fortify Agility 10 points, Cure Disease, & Cure Damaged Agility | |
+| Mara | Fortify Willpower 5 points. | Fortify Willpower 10 points, Cure Disease, & Cure Damaged Willpower | |
+| Stendarr | Fortify Endurance 5 points. | Fortify Endurance 10 points, Cure Disease, & Cure Damaged Endurance | |
+| Talos | Fortify Strength 5 points. | Fortify Strength 10 points, Cure Disease, & Cure Damaged Strength | |
+| Zenithar | Fortify Luck 5 points. | Fortify Luck 10 points, Cure Disease, & Cure Damaged Luck | |
 
 #### Prayers
 Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
