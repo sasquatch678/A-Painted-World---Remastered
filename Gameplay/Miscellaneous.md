@@ -28,6 +28,35 @@ If you have ridden a horse, you will be granted a Horse Whistle power.
 - You cannot summon your horse whilst in cities, the realm of Oblivion, and some other locations where it would not be logical to do so.
 <br/>
 
+
+## <p align="center"> GODS & WORSHIP
+
+Show devotion to a Divine by visiting their Altars and Praying out in the world. As your devotion grows, their blessing will be stronger the next time you visit a chapel altar. Betray a Divine by praying to another, repeated betrayals have consequences. Divine blessings and prayers now last for an entire day.
+
+#### Blessings
+Blessings are received by visiting an altar, and build up a moderate amount of Devotion. Works similarly to vanilla, but scale the more you use them. The bonuses for each tier of devotion are listed below.
+
+| Divine    | Blessing | 
+|:--------------:|:-------------:|
+| Akatosh | Fortify Speed 5 points for 6480 seconds.
+| Arkay | Fortify Health 15 points for 6480 seconds.
+| Dibella | Fortify Personality 5 points for 6480 seconds.
+| Julianos | Fortify Intelligence 5 points for 6480 seconds.
+| Kynareth | Fortify Agility 5 points for 6480 seconds.
+| Mara | Fortify Willpower 5 points for 6480 seconds.
+| Stendarr | Fortify Endurance 5 points for 6480 seconds.
+| Talos | Fortify Strength 5 points for 6480 seconds.
+| Zenithar | Fortify Luck 5 points for 6480 seconds.
+
+#### Prayers
+Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
+
+#### Wayshrines
+Wayshrines give tier 1 blessings, and due to their remoteness may be taken in secret. Builds a small amount of Devotion. Less powerful than an altar blessing, but can be taken whenever you run across one on an adventure without fear of triggering a betrayal
+
+#### Betrayal
+Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
+
 ## <p align="center"> SURVIVAL
 
 Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
