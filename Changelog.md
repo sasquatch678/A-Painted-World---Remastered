@@ -1,3 +1,62 @@
+## **1.0.8**
+
+**Added**
+- Statues of Cyrodiil
+- Little Locations
+- Little Quests
+- Tribal Minotaur Camps
+- Vampires Cursed Arsenal
+- Sinweaver Replacer
+- Hircine Quest Expansion
+- Lived In - Arcane University
+- Lived In - Imperial Waterfront - tweaked to improve fps
+- Lived In - Imperial Gateway - tweaked to improve fps
+- Lived In - Imperial Docks - tweaked to improve fps
+- Realistic High Quality Skin
+- Young Textures Revamped
+- Indoril Odyssey
+- Urban Bypass - Alternative City Entrances and Exits
+- Mages Guild (Remastered)
+- Oblivion Travelers
+- Smithing
+- More Natural Elf Male Head
+- More Natural Elf Female Head
+- Nerfed Damage Enchantments
+- Devastation of Kvatch Redux Remastered
+- Balanced NPC Level Cap
+- Simple Creature Level Cap
+- Faster Sleep Wait
+- Better City Gate Sound FX
+- Wooden Door SFX
+
+**Removed**
+- Better Dialogue - I would rather have paused dialogue menus than deal with npcs moving while you talk to them every other conversation. Also potentially causes issues with scheduling since time is not truly paused.
+- Aldos Othran VA Restored
+- Beast Voice Variety
+- Shivering Isles Voice Acting Restored - the way these mods are implemented causes the affected npcs to lose their lip sync
+
+**Updated**
+- Guild Advancement
+- Core Survival (Needs - Cooking - Fishing)
+
+**Changes**
+- weapons will now recharge 50% of their charge per day (was 3,200 points per day) to not totally invalidate soul gems
+- reduced amount of mudcrab spawns in leveled lists
+- increased slope climbing speed
+- no longer need to sleep to level up, it just happens automatically
+- nerfed enchantments on dark brotherhood equipment
+- spellmaking and enchanting altars in the mages guildhalls will now use the frostcrag altar model to look a bit more official, like they are officially sanctioned by the arcane university
+- increased gold cost to enchant items significantly
+- arena raiment now adds 50% resistance to paralysis, and the raiment of valor adds 100% resistance
+- arena combatants now all have 100 sneak and passive night eye, so they can more easily detect if the player is trying to sneak back in one of the hallways
+- nerfed damage of trophy boars
+- added ores from Smithing to blacksmith leveled lists
+
+**Bugfixes**
+- fixed several more clipping conflicts in the Anvil and Chorrol Mages Guild
+- fixed several clipping conflicts and small issues in the Cheydinhal Sanctuary
+- fixed Land Dreugh being unable to attack
+
 ## **1.0.7**
 
 **Added**
