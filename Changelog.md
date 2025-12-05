@@ -1,3 +1,29 @@
+## **1.0.9**
+
+**Added**
+- Dynamic Magic Crafting
+- Classic Blackwood Company Armor
+- Less Bulky Iron Armor
+- Less Bulky Fur Armor
+- HD Reworked Leather Armor
+- HD Reworked Ebony Armor
+- Natural Bodies of Oblivion (NBO) with Body Morph - (nevernude enabled by default)
+- Natural Male Bodies - NBO Addon - (nevernude enabled by default)
+- Race-based Player Body and NPC Bodies for NBO
+- NBO - Outfit Conversion - All-in-One
+- NBO and NPCAM Stability Patch
+- Labelled Skill Books
+
+**Changes**
+- slightly reduced boar attack damage
+- slaughterfish are more aggressive and a bit faster
+- Ultra Plus moved to optional section and disabled by default for a better new user experience
+
+**Bugfixes**
+- fixed minor clipping with the statue plaques in the Arboretum
+- fixed vilverin bandits having a negative level offset which could result in infinite hp if the player was low level
+- fixed UW hud options missing from install
+
 ## **1.0.8**
 
 **Added**
