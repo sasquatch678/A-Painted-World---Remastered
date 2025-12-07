@@ -110,7 +110,7 @@ There are no new requirements to progress in the Dark Brotherhood, however there
 Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
 <br/>
 ### <p align="center"> THE ARENA
-In the Arena, there are no longer business hour or dress code requirements. Wear whatever you want, fight whenever you want, and loot your Arena opponents too.
+You may now loot your opponents in the Arena, however it is seen as dishonorable by the spectators and you will gain a point of infamy by doing so.
 #### Radiant Quests
 Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
 
