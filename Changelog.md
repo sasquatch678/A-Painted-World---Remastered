@@ -1,3 +1,26 @@
+## **1.0.10**
+
+**Added**
+- Pleasing Palettes - Red Silk Hood and Robe
+- Honorable Arena
+- Two Sides of the Coin Quest Tweaks
+- Spell Tomes DLC - Tweaks and Fixes
+- Jobs of Oblivion
+- Better Sneak
+
+**Removed**
+- Unlocked Arena - causes some weird bugs, and I think it gives too much freedom. Implemented my own version with Honorable Arena that just allows you to loot enemies in the arena, but doing so adds a point of infamy (also plays the crowd boo sound, immersive!).
+
+**Changes**
+- nerfed Arena equipment enchantments and reduced gold value so they can't be exploited for huge gold
+- hypothermia and hygiene system are enabled by default (requires new game to take effect)
+
+**Bugfixes**
+- fixed Owyn wandering around the Bloodworks which could soft-lock the player if they spoke to him from the other side of the gate after a match as the gate would close immediately after
+- consistency patched elven waraxes and enchanted variants to the same speed
+- fixed nude body option not working
+- removed thigh and butt physics on male body presets
+
 ## **1.0.9**
 
 **Added**
