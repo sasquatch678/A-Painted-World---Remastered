@@ -1,3 +1,27 @@
+## **1.0.11**
+
+**Added**
+- Amelion's Paladin Armor (1.2 Updated)
+- Protective Headgear - Leather (1.2 Updated)
+- Protective Headgear - Crusader (1.2 Updated)
+- Protective Headgear - Glass Helmet (1.2 Updated)
+- Practical Arsenal - Glass (1.2 Updated)
+- More Immersive Daedra Worshippers Redux
+
+**Updated**
+- Arena Armor Overhaul (WIP)
+- Core Survival
+- Ultimate Dialogue Overhaul
+- Dark Brotherhood Arsenal ReDone (WIP)
+
+**Removed**
+- Faster Sleep and Wait - conflicts with sleep system
+- Fatigue Affects Damage - strange behavior on higher difficulties (enemies healing/taking no damage)
+- Engaging Combat - redundant with Injuries, which I think is a better system
+
+**Changes**
+- negative survival effects reworded for clarity/immersion
+
 ## **1.0.10**
 
 **Added**
