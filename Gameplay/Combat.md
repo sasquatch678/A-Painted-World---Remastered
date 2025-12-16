@@ -71,4 +71,4 @@ There are also several new mechanics listed below. Most of these features can be
 ## Injuries
 - 25% chance when taking damage to suffer light bleeding for 30 seconds.
 - If hit again while the bleed is still active, there is a 25% chance for it to progress to a moderate, and then severe bleed which deal increasing damage.
-- All levels of bleed can be removed with a new bandage item, sold by innkeepers and encouraging you to stay prepared.
+- All levels of bleed can be removed with a new bandage item sold by innkeepers, encouraging you to stay prepared.
