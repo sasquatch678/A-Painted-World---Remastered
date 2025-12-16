@@ -4,7 +4,7 @@ Weapon balance has been completely overhauled. Firstly, weapon weight has been c
 
 Enemy AI has also been overhauled to be more aggressive, with lower idle times between attacks. Enemies before would attack and then stand for sometimes seconds at a time, as if they weren't actually fighting for their lives. Now enemies fight as if their life depends on it. They chain attacks, fast and consistently. Enemies are also more likely to dodge and block your attacks, making for a more fast paced and engaging system where action never stops, and every hit matters.
 
-Because of this, combat should feel quick and lethal for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept for player damage, though you may wish to change these based on preference, build, or character progression. <br/>
+Because of this, combat should feel quick, lethal, and fair for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept for player damage, though you may wish to change these based on preference, build, or character progression. <br/>
 
 There are also several new mechanics listed below. Most of these features can be configured in mods\Ultra Combat UE4SS V2 - Physical Combat Overhaul\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou).<br/>
 
