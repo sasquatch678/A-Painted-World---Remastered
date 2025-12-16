@@ -7,6 +7,7 @@
 - Protective Headgear - Glass Helmet (1.2 Updated)
 - Practical Arsenal - Glass (1.2 Updated)
 - More Immersive Daedra Worshippers Redux
+- Injuries
 
 **Updated**
 - Arena Armor Overhaul (WIP)
