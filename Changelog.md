@@ -1,3 +1,22 @@
+## **1.0.12**
+
+**Added**
+- Castle Brazier Fix
+- CRT West Wing Door Fix
+- TES4R Civis Ascended Immortals Spawn Fix
+- Simple Fast Start - Adventurer's Inventory
+
+**Updated**
+- TES4R Civis Sheep Wander Fix
+- Ultimate Dialogue Overhaul
+
+**Removed**
+- Simple Player Eating Idle - the Core Survival version is outdated
+
+**Changes**
+- reverted Jewel of the Rumare enchantment effect to waterbreathing instead of waterwalking
+- Core Survival moved to optional section (disabled by default), removed my custom script edits as they were breaking the mod in some places
+
 ## **1.0.11**
 
 **Added**
