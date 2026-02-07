@@ -1,3 +1,26 @@
+## **1.0.13**
+**Added**
+- Hides His Heart Voice Fix
+- Underwater Treasures
+- Sensible Shields - Daedric
+- Protective Headgear - Glass
+- Protective Headgear - Amber
+- Protective Headgear - Elven
+- Sensible Shields - Iron
+- Practical Duskfang and Dawnfang
+- Practical Order of Jyggalag
+- Sensible Shields - Leather
+- Sensible Shields - Knights of the Thorn
+- Sensible Shields - Elven
+- Practical Uniques
+
+**Updated**
+- Ultimate Dialogue Overhaul
+- Harrada Spiddal Plants Dart Traps Fix
+- Jobs of Oblivion
+- More Immersive Daedra Worshippers
+- Nirnroots Glow Fix
+
 ## **1.0.12**
 
 **Added**
