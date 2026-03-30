@@ -1,3 +1,32 @@
+## **1.0.14**
+
+**Added**
+- Immersive Movement
+- Sustaining Cyrodiil - A Farm Overhaul
+- Idle Dialogue Remaster
+- Supreme Magicka - Extrication Spell Freeze Fix
+- Vampirism Eye Fix
+- TES4R Civis Deluxe Content Fix
+- Map Experience Overhaul
+- Basin of Renewal Crash Fix
+- True Fatigue - Stamina Management Overhaul
+- True Bleed - A Damage Over Time Bleeding Overhaul
+- Dynamic Difficulty Multipliers (MCM)
+
+**Removed**
+- Little Quests
+- Eyebrow Retexture
+- Analog Controller Speed and remove Inertia - Gliding (UE4SS)
+- Amelion's Paladin Armor - sword ctds
+- Ultimate Dialogue Overhaul - many ctds tied to this mod
+- NPCs Catch Fire
+- Faster Mountain Slope Climbing - conflicts and redundant with Immersive Movement
+
+**Changes**
+- enchanting magnitudes now have an intelligence cap to prevent a fortify intelligence loop
+- removed insane fortify health passives added by Stronger Bosses
+- added a separate controller profile - currently this only does two things, changes the dodge button to B (or O) and disables one button power attacks
+
 ## **1.0.13**
 **Added**
 - Hides His Heart Voice Fix
