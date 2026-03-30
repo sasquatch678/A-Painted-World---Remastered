@@ -11,7 +11,7 @@
 - Basin of Renewal Crash Fix
 - True Fatigue - Stamina Management Overhaul
 - True Bleed - A Damage Over Time Bleeding Overhaul
-- Dynamic Difficulty Multipliers (MCM)
+- Dynamic Difficulty Multipliers (MCM) - default settings make Master 4x damage taken 25% damage dealt (vanilla is 6x damage taken 16.7% damage dealt)
 
 **Removed**
 - Little Quests
