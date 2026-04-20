@@ -1,3 +1,31 @@
+## **1.0.16**
+
+**Added**
+- Grass Replacer - Cattail 2.1
+
+**Updated**
+- Glorious Holes of Oblivion (GHO)
+- Map Experience Overhaul
+- Brazier Meets Wood (BMW)
+
+**Removed**
+- Natural Bodies and all addons/dependencies for it - unstable and too many clipping issues
+- Practical Arsenal - uniques - was not properly updated for 1.2, still crashes the game
+- Lived In - Imperial Waterfront - simply way too heavy on fps
+
+**Changes**
+- Khajiit Stalk passive now grants movement speed while sneaking instead of Chameleon, renamed to Feline Grace
+- removed controller profile, added controller config for Ultra Combat to optional section instead
+- Quick Cast (Cast Automatically) moved to optional mods
+- Mythic Dawn now use leveled fire spells instead of shock spells
+- removed the random unowned horse you could just take for free on the Talos Bridge
+- removed Dispel on touch from the Lover lesser power as this made the npc you use it on hostile if used for purposes of the charm effect
+- increased amount of each attribute absorbed by the Serpent lesser power to 25 (was 15)
+- Atronach passive now grants 5 points of each elemental shield to make use of Supreme Magicka's change to make these effects deal damage in an area around you (was 15 points of resistance to each element and 15 points of Shield)
+
+**Bugfixes**
+- fixed issue that could cause player to get stuck in the air when pressing jump
+
 ## **1.0.14**
 
 **Added**
