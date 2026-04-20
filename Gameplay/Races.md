@@ -42,10 +42,10 @@ All races now have one passive and one greater power which can be augmented by t
 - ﻿Sidri-Ashak: Voice of the Emperor is now a lesser power.
 
 ### Khajiit
-﻿Passive: Gain 15 points of Chameleon while out of combat and sneaking. <br/>
+﻿Passive: Gain 25 points of Speed while out of combat and sneaking. <br/>
 ﻿Power: Prowl - Gain Night Eye and Invisibility for 75 seconds.
 
-- ﻿Hestra: You now gain 35 points of Chameleon while out of combat and sneaking.
+- ﻿Hestra: You now gain 50 points of Speed while out of combat and sneaking.
 - ﻿Reman: Prowl now also Fortifies your Agility by 50 points for 120 seconds.
 - ﻿Sidri-Ashak: Prowl is now a lesser power, but lasts 10 seconds and costs 75 Fatigue.
 
