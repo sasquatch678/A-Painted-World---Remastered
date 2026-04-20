@@ -33,7 +33,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Doomstone Power: Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
 
 #### Atronach 
-- Birthsign: The most resilient of the magical signs, the Atronach grants 15% resistance to the elements and physical damage, and the lesser power Atronach’s Thirst, which grants 50% spell absorption but damages your own Magicka reserves over 30 seconds (3/s).
+- Birthsign: The most resilient of the magical signs, the Atronach grants 5% of each elemental shield providing resistance to the elements and physical damage and dealing area effect damage, and the lesser power Atronach’s Thirst, which grants 50% spell absorption but damages your own Magicka reserves over 30 seconds (3/s).
 
 - Doomstone Power: Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
 
