@@ -50,7 +50,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 ### <p align="center"> Stealth
 
 #### Lover 
-- Birthsign: Seductive and charming, the Lover birthsign grants 10 Personality, Speechcraft, Mercantile, and the lesser power Lover’s Kiss, which dispels magic effects on self and on touch (100 points) and charms (15 for 15s) but damages fatigue (50 points). Perfect for silver-tongued adventurers who use allure and wit to turn the tide—at the expense of their stamina.
+- Birthsign: Seductive and charming, the Lover birthsign grants 10 Personality, Speechcraft, Mercantile, and the lesser power Lover’s Kiss, which dispels magic effects on self (100 points) and charms (15 for 15s) but damages fatigue (50 points). Perfect for silver-tongued adventurers who use allure and wit to turn the tide—at the expense of their stamina.
 
 - Doomstone Power: Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
   
@@ -70,7 +70,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 ### <p align="center"> Other
 
 #### Serpent
-- Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which absorbs all attributes from a target (15 for 30s) but damages your Endurance (2 points). A sly and dangerous choice for those who strike swiftly and sap resources to survive.
+- Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which absorbs all attributes from a target (25 for 30s) but damages your Endurance (2 points). A sly and dangerous choice for those who strike swiftly and sap resources to survive.
 
 - Doomstone Power: Star Curse - Curse a target with 500% weakness to poison for 60s and paralyze them for 5s, but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 60s.
 
