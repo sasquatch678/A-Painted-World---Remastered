@@ -1,3 +1,23 @@
+## **1.0.17**
+
+**Added**
+- Ultra Combat V2 - Fixed Edition
+- Grass Replacer - WildGrass 2.0
+
+**Updated**
+- Core Survival Sound Addon
+- Oblivion Travelers
+- More Immersive Daedra Worshippers Redux
+
+**Removed**
+- Ultra Combat
+- True Fatigue - Stamina Management Overhaul
+- SM Combat Hide
+- Turpentine
+
+**Changse**
+- Ultra Plus is now enabled by default - with Ultra Combat - Fixed Edition this no longer seems to crash when starting a new game
+
 ## **1.0.16**
 
 **Added**
