@@ -15,7 +15,7 @@
 - SM Combat Hide
 - Turpentine
 
-**Changse**
+**Changes**
 - Ultra Plus is now enabled by default - with Ultra Combat - Fixed Edition this no longer seems to crash when starting a new game
 
 ## **1.0.16**
