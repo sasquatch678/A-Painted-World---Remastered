@@ -24,8 +24,8 @@ This made a lot of sense in Oldblivion, but with the addition of the cost-based 
 ### <p align="center"> DESTRUCTION
 #### Elemental Damage
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects, inspired by Skyrim. Frost spells cause additional fatigue damage, shock spells cause additional magicka damage, and fire spells deal bonus damage over time. Beware as these effects can affect you too from enemies. A journeyman of destruction will cause fire and shock spells with a duration to blast enemies with low health away (shock is the strongest, fire is the weakest), while journeyman with frost duration spells will cause paralysis based on fatigue amount. Less fatigue increases paralysis chance.
-#### Damage Stat Effects - Diseases and Blight
-All standard Damage stat spells have a chance to inflict a random disease on targets including yourself, making these spells a bit more worth the additional cost while also making diseases spreadable to enemies. Disease resistance will naturally affect disease chance on enemies and yourself, chance is 50% higher than natural spread. Additionally there is a 3% chance to contract a severe form of blight disease (from morrowind). These cause a larger change to stats and cannot be removed with the standard cure disease spell. You must use the new "Cure Blight Disease" spell (Master level Restoration) or scrolls.
+#### Damage Stat Effects - Diseases
+All standard Damage stat spells have a chance to inflict a random disease on targets including yourself, making these spells a bit more worth the additional cost while also making diseases spreadable to enemies. Disease resistance will naturally affect disease chance on enemies and yourself, chance is 50% higher than natural spread.
 #### Disintegrate Duration Fix
 Custom made disintegrate armor and weapon spells with a duration will now work. The additional damage over time is unaffected by spell magnitude but takes about 30 seconds to fully destroy a single items health.
 #### Poison Spells
