@@ -1,3 +1,49 @@
+## **1.1.0**
+
+**Added**
+- AI Actor limit fix and Longer Corpse Despawn
+- Being A Vampire Makes People Dislike You
+- Quicker Quill-Weave - Alternative Solutions for Fighters Guild Rat Problem Quest
+- Sha'dar - Panther Companion (Creature follower)
+- Simple Dog Follower - Clancy
+- Sigil Stone Transmuter - Varla Stone Cost
+- The Glarthir Dilemma
+- Bathhouses of Cyrodiil
+- Guards Revised
+- Ultimate Dialogue Overhaul - found conflicting mod that caused it to crash in the past, and it's being removed now
+- Realistic Combat Behaviour
+- Fatigue Affects Damage - doesn't have issue where attacks could deal 0 damage anymore
+- Still NPCs - Less Head Movement
+- Wrathplate Armor Overhaul - distributed as a unique armor set to the Knights of the Thorn
+- Static Loot and World - Oblivion Overhaul
+- TWEAKS for Static Loot and World
+
+**Updated**
+- MO2 to latest dev build, which allows plugins to be sorted above the Altar plugins. The hope is that this will fix issues with TesSyncMap for users who don't own the deluxe edition of the game
+
+**Removed**
+- GSR Stealth Crime n Thievery - causes crashes with Ultimate Dialogue Overhaul (something to do with guards)
+- Better Sneak - implemented what can be (which is most of the mod) via esp to reduce reliance on ue4ss
+
+**Changes**
+- merchants now sometimes sell enchanted arrows instead of only regular arrows
+- reverted previous change to the Atronach sign to deal aoe elemental damage as the constant spam of the effect in combat was really annoying, now it just grants elemental and physical resistance again
+- spirit hounds and revenant enemies now have standard ethereal undead resistances, like you would expect from ghost-like enemies
+- undead with "flesh" resistances now also restore 1 point of health per second
+- reworked Stendarr and Arkay's blessings since they had some overlap with one fortifying health (doesn't even work in the remaster lol) and the other fortifying endurance. Stendarr now fortifies armor rating, while Arkay fortifies Endurance along with their other progressive bonuses based on devotion.
+- decreased slow-mo duration and magnitude for various combat actions to 1s (was 2s)
+- mythic dawn robes are no longer enchanted with fire shield
+- increased duration of buff given by donating to a beggar to 120s (was 60s)
+- moved Wear Robes With Boots Gloves Greaves to optional mods section
+- slightly reduced black levels as nights and some interiors were darker than intended
+- removed ability to contract blight diseases - these are just annoying
+- reduced headshot damage by 50%
+- nerfed the damage and enchantments on weapons added by Vampire A Cursed Arsenal to a much more reasonable level (they were all as powerful as daedric equivalents with almost infinite charge)
+- skeletons can no longer bleed
+
+**Bugfixes**
+- fixed bug preventing power attacks from being triggered on controller
+
 ## **1.0.17**
 
 **Added**
