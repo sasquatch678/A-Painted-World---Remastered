@@ -39,10 +39,10 @@
 - removed ability to contract blight diseases - these are just annoying
 - reduced headshot damage by 50%
 - nerfed the damage and enchantments on weapons added by Vampire A Cursed Arsenal to a much more reasonable level (they were all as powerful as daedric equivalents with almost infinite charge)
-- skeletons can no longer bleed
 
 **Bugfixes**
 - fixed bug preventing power attacks from being triggered on controller
+- skeletons can no longer bleed
 
 ## **1.0.17**
 
