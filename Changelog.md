@@ -13,6 +13,7 @@
 - Ultimate Dialogue Overhaul - found conflicting mod that caused it to crash in the past, and it's being removed now
 - Realistic Combat Behaviour
 - Fatigue Affects Damage - doesn't have issue where attacks could deal 0 damage anymore
+- Balanced Shield Bash
 - Still NPCs - Less Head Movement
 - Wrathplate Armor Overhaul - distributed as a unique armor set to the Knights of the Thorn
 - Static Loot and World - Oblivion Overhaul
@@ -24,6 +25,7 @@
 **Removed**
 - GSR Stealth Crime n Thievery - causes crashes with Ultimate Dialogue Overhaul (something to do with guards)
 - Better Sneak - implemented what can be (which is most of the mod) via esp to reduce reliance on ue4ss
+- Unique Artifacts - Sinweaver - Replacer - not updated to 1.2 so causes the game to ctd
 
 **Changes**
 - merchants now sometimes sell enchanted arrows instead of only regular arrows
