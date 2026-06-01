@@ -61,72 +61,41 @@ Betrayals occur when you switch from one Divine to another. Betrayals reset your
 Pick up a Job Contract from an innkeeper (buy) and read it. You will then have the choice between various jobs. Once you make your choice, the client will detail their request. If you accept, the contract begins! A Job Book will be given to you for your very first contract. This book contains various information to help you complete your contracts. The contract’s progress depends on the job: some require making deliveries, being proactive, having certain components, etc. Payment is collected upon reaching the delivery point (or directly on-site for certain jobs). The amount depends on the job type and the client (for example: a jeweler job for a wealthy client pays more than a harvester job for a poor client). Jobs are unlimited! You can do them as many times as you want.
 
 Job-related equipment can be purchased at Jensine's “Good as New” Merchandise in the Imperial City, Market District (items are restocked regularly; waiting a few hours is enough). You can also find the tools required to perform your jobs from the following NPCs:
-Norbert Lelles, Lelles' Quality Merchandise in Anvil
-Nilawen, The Fair Deal in Bravil
-Suurootan, Novaroma in Bruma
-Borba gra-Uzgash, Borba's Goods and Stores in Cheydinhal
-Seed-Neeus, Northern Goods and Trade in Chorrol
-Gundalas, Best Goods and Guarantees in Leyawiin
-Gunder, Colovian Traders in Skingrad
+- Norbert Lelles, Lelles' Quality Merchandise in Anvil
+- Nilawen, The Fair Deal in Bravil
+- Suurootan, Novaroma in Bruma
+- Borba gra-Uzgash, Borba's Goods and Stores in Cheydinhal
+- Seed-Neeus, Northern Goods and Trade in Chorrol
+- Gundalas, Best Goods and Guarantees in Leyawiin
+- Gunder, Colovian Traders in Skingrad
 
 Job Contracts are available from innkeepers at regular intervals (a few hours). You cannot take on multiple jobs at once. Accepting a new contract cancels the current one (the components used will not be returned).
 
 Here are the jobs currently available:
 
-Harvester:
+#### Harvester:
 ﻿
-You must harvest the grapes and then make the delivery for multiple clients.
+You must harvest the grapes and then make the delivery for multiple clients. Equip the Harvest Basket, head to the vineyards near Skingrad (southwest of Skingrad), and crouch to start harvesting. You don’t need to interact directly with the vines.
 
-    Equip the Harvest Basket, head to the vineyards near Skingrad (southwest of Skingrad), and crouch to start harvesting.
-    You don’t need to interact directly with the vines.
+#### Jeweler:
 
+Craft various types of jewelry and deliver them afterwards. This job pays more due to the rarity of its materials. Equip the Jewelry Pliers, then sit down to start working. May require: Gold Nugget, Silver Nugget, and gems (not flawed/flawless).
 
-Jeweler:
-
-Craft various types of jewelry and deliver them afterwards. This job pays more due to the rarity of its materials.
-
-    Equip the Jewelry Pliers, then sit down to start working.
-    May require: Gold Nugget, Silver Nugget, and gems (not flawed/flawless).
-
-
-Painter:
+#### Painter:
 ﻿
-Clients appreciate art. Paint different artworks and bring them directly to the client. It pays less than jewelry, but the materials are easier to find.
+Clients appreciate art. Paint different artworks and bring them directly to the client. It pays less than jewelry, but the materials are easier to find. Equip the Painting Kit, then sit down to start working. May require: Flax Seeds, Bonemeal, Lady’s Smock Leaves, Redwort Flower, Morning Glory Root Pulp, Aloe Vera Leaves, Troll Fat, Nightshade, Flame Stalk, Somnalius Frond, Alkanet Flower, Wormwood Leaves, Green Stain Cup Cap.
 
-    Equip the Painting Kit, then sit down to start working.
-    May require: Flax Seeds, Bonemeal, Lady’s Smock Leaves, Redwort Flower, Morning Glory Root Pulp, Aloe Vera Leaves, Troll Fat, Nightshade, Flame Stalk, Somnalius Frond, Alkanet Flower, Wormwood Leaves, Green Stain Cup Cap.
+#### Builder:
 
+Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site. Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing. This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
 
-Builder:
+#### Guard:
 
-Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site.
+Provide reinforcement to the Imperial Guard. Patrol the districts, or do as some guards do: stay in place and observe your surroundings. Don’t forget your uniform! Your supervisor will come directly to pay you at the end of the job. Put on the full Legion uniform (also available at the stores listed previously) and head to the marked location to begin your patrol.
 
-    Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing.
-    This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
+#### Hunter:
 
-
-Guard:
-
-Provide reinforcement to the Imperial Guard. Patrol the districts, or do as some guards do: stay in place and observe your surroundings. Don’t forget your uniform! Your supervisor will come directly to pay you at the end of the job.
-
-    Put on the full Legion uniform (also available at the stores listed previously) and head to the marked location to begin your patrol.
-
-The uniform includes:
-
-    Legion Boots
-    Legion Cuirass
-    Legion Gauntlets
-    Legion Greaves
-    Legion Helmet
-
-
-Hunter:
-
-Hunt animals and monsters to collect their hides, meat, and other ingredients.
-
-    Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note.
-    If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
-
+Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
 
 ## <p align="center"> SURVIVAL
 
