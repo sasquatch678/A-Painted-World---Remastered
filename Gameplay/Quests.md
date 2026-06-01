@@ -114,7 +114,29 @@ You may now loot your opponents in the Arena, however it is seen as dishonorable
 #### Radiant Quests
 Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
 
-﻿After speaking with Owyn, the player will be able to interact with the two brand new Match Registration Forms. These two separate forms will allow the player to sign up for a Match with either Human Combatants or Monsters. Activating the Combatant Match Registration Form presents the player with the above menu -
-and asks them how many Combatants they'd like to sign up to face in the Arena. You get paid more gold based on how many opponents you choose to face. <br/>
+### <p align="center"> THE IMPERIAL LEGION
 
-After finishing a match, on the wooden table where the Match Registration Forms are found, a sack of coins will appear. Activating the Sack will give you the gold you've earned, and also signal the Custodians to get to work cleaning up the Arena.
+After you complete the vanilla quest "Imperial Corruption" you will receive an offer to speak with Field Officer Leveilleur and receive your standard-issue equipment in the Armory. He will supply you with reading materials about the two potential assignment paths you can take in the Legion - Watch or Forestry.
+#### Radiant Quests
+##### Imperial Watch - Arrest Warrants
+If you join the Imperial Watch, you can start accepting Arrest Warrants to track down and Arrest specific, random NPCs. Once you accept a Warrant, the Quest will tell you which major City your target is in, and will also give you a Quest Marker to their exact location. Inform the target Citizen for whom you possess the Warrant that they have violated the law. After you tell the Citizen they have violated the law and are under arrest, there is a 50/50 chance they will either agree and come along quietly to the Imperial Prison or Resist Arrest!
+
+If the perp chooses to come along quietly, activate them again after the conversation to commence the Arrest and send them to Prison. If the perp chooses to Resist Arrest, kill them, and make an example of those who question the unquestionable - Imperial Law!
+
+Regardless of the outcome you receive, upon completion, you will be able to return to Field Officer Leveilleur at The Imperial Legion Headquarters for your leveled Gold Reward and Writ of Merit. Writs of Merit can be used to rank up in The Imperial Legion. Speak to Field Officer Leveilleur about Promotion.
+
+##### Imperial Forestry - Outlaw Bounties
+If you choose an Imperial Forestry Assignment instead, you will be told by your Quest Log to report to Field Officer Fern at the Imperial Foresty Lodge in Weye, just outside of the Imperial City. After being welcomed into the Forestry as a Ranger, you can now accept Outlaw Bounties right outside of the Lodge. The Chest right beside the table is also perfectly safe for the player to store things inside of, if they wish.
+
+Once you accept a Bounty, your Quest Log will update you. Unlike other Infinitum Quests, this quest will not give you specific information in the Quest Log. However, you will still be given a Quest Marker, so you should have zero issues locating your quarry in the game world.
+
+The reason for this is that all Forestry Outlaw Bounties - though randomly selected - hang out at the various (non-Trainer) Camps around Cyrodiil. Realistically, Camps are intended to be temporary resting spots and/or fortifications, especially for an Outlaw on the run, and any Outlaw Camp would realistically hardly exist long enough to become named, recognized landmarks as they exist in Oblivion for game function.
+
+Once you track down and kill your randomly-selected Notorious Bandit, return to Field Officer Fern at The Imperial Forestry Lodge in Weye for your leveled Gold Reward and Writ of Merit. Writs of Merit can be used to rank up in The Imperial Legion. Speak to Field Officer Fern about Promotion.
+
+##### Charging Fines/Corruption
+As an Officer of Imperial Law, you possess the authority to charge Cyrodiil's Citizens for fines based on broken laws and infractions. While Warrants and Bounties usually cover these things in an official capacity, you may feel the desire to take the Law into your own hands, and extort people for gold. All Citizens of Cyrodiil's 8 major cities can be strong-armed into paying you gold, except for other Guards and Nobles. 
+
+﻿If you choose to do this, your Corruption Level will increase by 10 for each illegally-demanded Fine, and the game will inform you of your current Corruption level whenever it increases or decreases. If you really go out of control, and manage to reach a Corruption Level of 100, you will be permanently expelled from The Imperial Legion. This will remove any pending Warrants or Bounties, strip you of your ranks, and remove all Imperial Legion Infinitum content from the game, as well as slam you with an extremely heavy bounty. 
+
+In order to decrease your Corruption Level, complete Outlaw Bounties or Arrest Warrants. Your Corruption Level will decrease by 5 for each one you complete, but it cannot go below 0.
