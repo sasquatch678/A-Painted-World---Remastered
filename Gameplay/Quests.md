@@ -140,3 +140,22 @@ As an Officer of Imperial Law, you possess the authority to charge Cyrodiil's Ci
 ﻿If you choose to do this, your Corruption Level will increase by 10 for each illegally-demanded Fine, and the game will inform you of your current Corruption level whenever it increases or decreases. If you really go out of control, and manage to reach a Corruption Level of 100, you will be permanently expelled from The Imperial Legion. This will remove any pending Warrants or Bounties, strip you of your ranks, and remove all Imperial Legion Infinitum content from the game, as well as slam you with an extremely heavy bounty. 
 
 In order to decrease your Corruption Level, complete Outlaw Bounties or Arrest Warrants. Your Corruption Level will decrease by 5 for each one you complete, but it cannot go below 0.
+
+### <p align="center"> ORDER OF THE VIRTUOUS BLOOD
+You must first finish The Order of the Virtuous Blood quest in the Imperial City Temple District. If you are not familiar with this fantastic quest, go to the Temple District and wait until you are approached by an NPC. Once you have joined The Order of The Virtuous Blood Faction, Vampire Hunting - Take Back the Night will begin. Once this quest begins, you will receive a new log entry and gain access to the Virtuous Blood Headquarters beneath Seridur's Basement (the door is in his basement).
+
+Inside of the Headquarters, you will meet three new Vampire Hunter NPCs - one is a Master Trainer in Blade, one is a Master Trainer in Blunt, and one is both a Merchant and a Master Trainer in Armorer. The new Merchant will sell Holy Plate Armor, and Holy Weapons, each of which deals 20 pts of Holy Damage on strike. Additionally, you will find a special Retort with which you can purify Vampire Dust into Holy Water (a unique poison that deals 20 pts of Holy Damage). Also inside of the Headquarters, you can find a list of Vampire Targets. When you interact with this list, you will be randomly assigned 1 of 100 radiant objectives. There is always a 50% chance you will be given a Quest to hunt down and root out a Vampire in a random town, or hunt down and destroy a Notorious Vampire in a random dungeon.
+#### Radiant Quests
+If you receive a quest to hunt down a Vampire in a City, you will be given a quest marker pointing towards their location. When you arrive, the reported suspect will be behaving as normal, completely blended in to society. At this point - you have two options, but one of those options will potentially land you in some trouble and heavily mitigate your Gold reward.
+
+Option 1
+If you choose to just kill the Suspect outright, you will complete the objective, but the Law may view it as a senseless murder
+and it will not only land you in Prison, but reflect very poorly on the Order. As such, you will receive very little Gold for killing the Target this way.
+
+Option 2
+If you possess at least 1 Bottle of Holy Water, you can click on the Suspect and splash them with it! This will force them to erupt into their true form,
+at which point you can slay them without penalty, and receive your full Gold reward.
+
+If you receive a quest to hunt down a Notorious Vampire lurking within one of Cyrodiil's many dangerous dungeons, you will receive a quest marker pointing directly to their location. Travel to the listed location and destroy the Vampire as you would any other enemy, and you will receive your full Gold reward. Upon completing your quest, you can grab your Gold reward at the same location you accept Targets.
+
+After you grab your Gold reward, you will be able to accept a new Vampire target whenever you're ready.
