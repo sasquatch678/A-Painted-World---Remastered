@@ -148,11 +148,11 @@ Inside of the Headquarters, you will meet three new Vampire Hunter NPCs - one is
 #### Radiant Quests
 If you receive a quest to hunt down a Vampire in a City, you will be given a quest marker pointing towards their location. When you arrive, the reported suspect will be behaving as normal, completely blended in to society. At this point - you have two options, but one of those options will potentially land you in some trouble and heavily mitigate your Gold reward.
 
-Option 1
+##### Option 1
 If you choose to just kill the Suspect outright, you will complete the objective, but the Law may view it as a senseless murder
 and it will not only land you in Prison, but reflect very poorly on the Order. As such, you will receive very little Gold for killing the Target this way.
 
-Option 2
+##### Option 2
 If you possess at least 1 Bottle of Holy Water, you can click on the Suspect and splash them with it! This will force them to erupt into their true form,
 at which point you can slay them without penalty, and receive your full Gold reward.
 
