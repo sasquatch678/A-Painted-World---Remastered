@@ -116,7 +116,7 @@ Once the player becomes the Grand Champion of The Imperial City Arena, they gain
 
 ### <p align="center"> THE IMPERIAL LEGION
 
-After you complete the vanilla quest "Imperial Corruption" you will receive an offer to speak with Field Officer Leveilleur and receive your standard-issue equipment in the Armory. He will supply you with reading materials about the two potential assignment paths you can take in the Legion - Watch or Forestry.
+After you complete the vanilla quest "Imperial Corruption" and successfully convict a corrupt Imperial Guard Captain, you will receive an offer to speak with Field Officer Leveilleur to officially join the Imperial Legion and receive your standard-issue equipment in the Armory. He will supply you with reading materials about the two potential assignment paths you can take in the Legion - Watch or Forestry.
 #### Radiant Quests
 ##### Imperial Watch - Arrest Warrants
 If you join the Imperial Watch, you can start accepting Arrest Warrants to track down and Arrest specific, random NPCs. Once you accept a Warrant, the Quest will tell you which major City your target is in, and will also give you a Quest Marker to their exact location. Inform the target Citizen for whom you possess the Warrant that they have violated the law. After you tell the Citizen they have violated the law and are under arrest, there is a 50/50 chance they will either agree and come along quietly to the Imperial Prison or Resist Arrest!
