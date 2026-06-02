@@ -1,3 +1,70 @@
+## **1.1.1**
+
+**Added**
+- Daedric Claymore Glitch Fix
+- Better Oblivion Crisis - Greymarch Edition
+- Vampire Hunting - Infinitum
+- Imperial Legion - Infinitum - modified quest so it only begins after the player completes the quest "Imperial Corruption" rather than immediately on game start
+- Initial Quest Popups Begone
+- Mastercrafted Steel Armor - Remastered
+- Blue Axe of Icy Darkness
+- Alternative Quest Icon Colours
+- Skingrad East Stable Clutter
+- Major Minor Mediation
+- Iron Palm - Hand to Hand Rebalanced
+- Simple Leather Eyepatch (UPDATED FOR OBR 1.2)
+- Enhanced Tree Bark
+- Unarmed Equipment Expansion
+- Oh Deer
+- Scabbards Of Oblivion (SOO)
+- Reduced Screen Blood Splatter
+- Linked Chests - Shared Storage for Player Homes
+- Reworked Race Heights
+- Arcane University Player Room
+- Cloud Ruler Temple Player Room
+- Hoe_Rake Anim Glitch Fix
+- Quarantined Oblivion Gates
+- A Kvatch Survivor
+- The Breton Hero Armor
+- Sheogorath's Beard
+- Magical Item and Spell Sorter (MISS) - Customisable Inventory Sorting (optional section)
+- Swift Claymore
+- Female Locomotion Replacer v2 (Crash Fix)
+- Sambuca's Armors Overhaul - not the spell effectiveness changes
+- Daedric Might - Daedric Artifacts Overhaul
+- Gold to Septims
+- Melee Stagger UE4SS
+- Knights of the Nine - Infinitum
+- Reduced Climbing Penalty
+
+**Updated**
+- Infinitum - Compendium
+- Core Survival
+
+**Changes**
+- increased movement speed in heavy armor slightly
+- reduced movement while moving backwards and strafing, primarily to make marksman players less invincible
+- tweaked sneak game settings to make sound and running a higher multiplier in the overall formula
+- restore magicka can no longer be used in custom spells or enchantments
+- restore health and fatigue can no longer be used in custom enchantments
+- paralyze can no longer be used in custom enchantments
+- reworked formula for soulgems, and custom enchantments and spells. the gold cost to make custom spells/enchantments now scales less with intelligence, but the system is actually useable with a normal amount of charge now (woops). Additionally, soulgems will no longer recharge for a pitiful amount.
+- small mudcrabs are now much less aggressive, practically docile. Larger mudcrabs are also a bit less aggressive
+- doubled the value of daedric weapons - with the modified rarity, the original values in Sambuca's Combat Calibration don't make sense to keep
+- increased reach of two-handed weapons by ~20%
+- changes to the unleveled patch to make the creature variety added by ORWO more common
+- ayleid wells now also restore magicka 1/s for 5 minutes in addition to their existing effects, to give a reason to continue interacting with them even after collecting their one time fortify magicka buff
+- ayleid wells no longer restore hp as this just incentivized kiting difficult enemies to wells to get a onetime use full heal during the fight
+
+**Bugfixes**
+- reverted change made by TES4R Civis Master Trainers Fix to modify the GameHour variable to be a float rather than short value. This was causing a specific crash and could have also been reponsible for other odd behavior. There is no reason this mod should be changing this variable in this way, nor any mod for that matter.
+- removed AI packages added by TES4R Civis Sheep Wander Fix as these could cause the game to crash - another unnecessary change for what the mod is meant to do
+- may no longer hear rumors about the deluxe edition quests while in the Shivering Isles
+- fixed several inconsistencies when the unleveled patch was toggled off
+- fixed an issue that prevented flame atronachs from casting spells
+- applied "Fix and Port Script" to all mods in the load order - this fixed over a dozen plugins with bad cell data and missing location tags that are unique to the remaster
+- fixed the Blue Team Gladiator in the Bloodworks deciding they don't need to wear anything at all
+
 ## **1.1.0**
 
 **Added**
