@@ -1,4 +1,4 @@
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/44-1745615623-1831370669.webp)
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/OblivionRemastered-Win64-Shipping%202025-11-30%2015-40-05_533%20A%20Paigsagnted%20World%20-%20Remastered%20NEW.png)
 
 <p align="center">
 An Oblivion Remastered Wabbajack Modlist by Sasquatch.
