@@ -2,13 +2,20 @@
 
 Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive. In general daggers and shortswords gained some reach, while most other weapons lost some. Lastly, blunt weapons have been tweaked to be much more viable. While they lack even more in reach than before (in line with the afore-mentioned reach tweak), their damage has been buffed very high, from 25% with one handed blunt weapons, to up to 50% on two handed blunt weapons.
 
-All weapons can now cause stagger, bleed damage, and critically strike. Blunt weapons have a much higher chance to cause stagger, while bladed weapons have a higher chance to cause bleed and critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance.
-
 Enemy AI has also been overhauled to be more aggressive, with lower idle times between attacks. Enemies before would attack and then stand for sometimes seconds at a time, as if they weren't actually fighting for their lives. Now enemies fight as if their life depends on it. They chain attacks, fast and consistently. Enemies are also more likely to dodge and block your attacks, making for a more fast paced and engaging system where action never stops, and every hit matters.
 
 Because of this, combat should feel quick, lethal, and fair for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept/Journeyman for player damage for a moderate challenge that won't get you killed too often (as long as you are playing well), though you may wish to change these based on preference, build, or character progression. <br/>
 
 There are also several new mechanics listed below. Most of these features can be configured in mods\Ultra Combat UE4SS V2 - Physical Combat Overhaul\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou).<br/>
+
+## Blade & Blunt
+Blunt weapons tend to have high base damage, but low reach and low speed. Blade weapons have higher reach and speed, but lower base damage.
+
+All weapons can now cause stagger, bleed damage, and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to cause bleed and critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
+
+- Can perform power attacks with one button (default mouse button 4) instead of holding left click.
+- 10% to 30% damage buff on response attacks from Perfect Dodge/Block within 5s window.
+- Ragdoll's enemy based on an enemy strength roll, each 10 strength give 9% resistance
 
 ## Dodging
 - Requires a minimum 25 in Acrobatics
@@ -32,12 +39,6 @@ There are also several new mechanics listed below. Most of these features can be
 - Perfect Block provides a window of opportunity (0.3s) during an opponents attack.
 - Perfect Block further reduces damage based on block skill (50% to 90%), staggers the enemy, begins a slomo for 2s, and opens a 5s window a “Response Attack” which provides a 10-30% dmg boost based on timing.
 - Reticle will change colors to indicate Perfect Block counter windows.
-
-
-## Melee Weapons & H2H
-- Can perform power attacks with one button (default mouse button 4) instead of holding left click.
-- 10% to 30% damage buff on response attacks from Perfect Dodge/Block within 5s window.
-- Ragdoll's enemy based on an enemy strength roll, each 10 strength give 9% resistance
 
 #### Attack Cancel / Feint
 - Feint window - Cancel attacks early (before hit) to bait reactions with weapon and attack specific timings for an immersive combat feel
