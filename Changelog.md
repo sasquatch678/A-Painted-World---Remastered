@@ -1,6 +1,58 @@
 ## **1.1.1**
 
 **Added**
+- Fancy Tan Robe
+- Cataclysm Armor Fixes
+- Tinted Glass Armour and Weapons
+- Blackwood Company Wears Blackwood Armor
+- Alternative shock spell icon
+- HQ Masser Blood Moon Retexture
+- Vampire Feed Bug Fix
+- Kynareth's Grotto Restored
+- Skeleton's Bane
+- Masquerade (Faction Disguises) - only guard uniforms
+- Rebalanced Weakness Enchantments
+- Silent Torch Equip SFX - helps with the random torch equip sound bug
+- Alternate Start - Main Quest Delayer
+- Mad Experience - Alternate Leveling System - both static and non-static versions to optional section - pick one, or neither if you like vanilla leveling
+- Radiant Mages Guild Dungeon Quests
+- Radiant Knights of the Nine Dungeon Quests
+- Vampires' Conditional Sun Damage
+- TES Legends Classic loading screens - Remastered
+
+**Removed**
+- Not so deadly trap
+- Lethal Lava
+- Simple Fast Start - Adventurer's Inventory
+- Enhanced Tree Bark - causes weird glossy trees in blackwood
+- TES4R Civis Daedric Quests Fix
+- Remastered Loading Screens
+
+**Updated**
+- Knights of the Nine - Infinitum
+- Daedra Are Actually Bad
+- Daedric Might - Daedric Artifacts Overhaul
+- Reshade
+
+**Changes**
+- increased the base cost of Calm and Invisibility spells by 2x - it was really easy to cheese enemies with these effects
+- greatly reduced the reach of Large Mudcrabs
+- greatly reduced the reach of goblins
+- Burden effect on Tower's Vigilance now lasts the same duration as the buff
+- increased ability of actors to detect the player when the player is already in combat
+- reduced the purpleness of foggy weather
+
+**Bugfixes**
+- fixed several more inconsistencies with leveled lists and creature spawns when playing without the unleveled patch
+- "Trade With Clavicus Vile" is no longer considered a starting conjuration spell
+- fixed ctd caused by all daedra summoning spells
+- added AltVoiceFaction (used to trigger the new voice acting in the remaster) to every mod that adds new npcs since they were all missing this - could cause ctd when approaching these npcs in combination with Ultimate Dialogue Overhaul
+- fixed gas traps not dealing any damage
+
+
+## **1.1.1**
+
+**Added**
 - Daedric Claymore Glitch Fix
 - Better Oblivion Crisis - Greymarch Edition
 - Vampire Hunting - Infinitum
