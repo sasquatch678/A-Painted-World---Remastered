@@ -46,7 +46,7 @@
 - fixed several more inconsistencies with leveled lists and creature spawns when playing without the unleveled patch
 - "Trade With Clavicus Vile" is no longer considered a starting conjuration spell
 - fixed ctd caused by all daedra summoning spells
-- added AltVoiceFaction (used to trigger the new voice acting in the remaster) to every mod that adds new npcs since they were all missing this - could cause ctd when approaching these npcs in combination with Ultimate Dialogue Overhaul
+- added AltVoiceFaction (used to trigger the new voice acting in the remaster) to npcs of races that got new voice acting in every mod that adds new npcs since they were all missing this - could cause ctd when approaching these npcs in combination with Ultimate Dialogue Overhaul
 - fixed gas traps not dealing any damage
 
 
