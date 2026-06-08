@@ -1,3 +1,38 @@
+## **1.1.3**
+
+**Added**
+- Blackwood Armour Redesign
+- Mythic Dawn First Person Fix
+- Optimized Tweaks OBLR
+- Pointy Breton Ears
+- Rabbit's Real Lights Imperial City
+- Rabbit's Real Lights Skingrad
+- Rabbit's Real Lights Bruma
+- Rabbit's Real Lights Cheydinhal
+- Altars for Temple of the One
+- Alternate Start - Main Quest Delayer Enhancer
+- ALTERNATIVE LEVELING - optional leveling method that forces you to use trainers to level up
+
+**Removed**
+- Classic Blackwood Company Armor
+- Horses and Livestock
+- TES4R Civis Sheep Wander Fix
+- Ultimate Dialogue Overhaul
+
+**Updated**
+- Sustaining Cyrodiil - A Farm Overhaul
+- Melee Stagger UE4SS
+- Race Based Runestones
+
+**Changes**
+- removed annoying initialization messages when starting a new game
+- improved starting options - all starts will now be given 100 gold, 3 weak health/magicka/fatigue potions, food and drink, and more fitting equipment based on their skills
+- decorated the starting room a bit so it's not so dark and empty
+- removed "Guard" jobs from Jobs of Oblivion since there's a ton of overlap with Imperial Legion Infinitum, also they're kinda buggy from my experience
+- lightly tweaked magicka cost scaling settings, with the goal to reduce how big the scaling cost reduction can get at endgame
+- slightly buffed movement speed with shields and when a weapon is drawn
+- alternate start is no longer in optional section since it requires some records to be forwarded into the conflict resolution patch. You will play the tutorial anyway when you start the main quest.
+
 ## **1.1.2**
 
 **Added**
