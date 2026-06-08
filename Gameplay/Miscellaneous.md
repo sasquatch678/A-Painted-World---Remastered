@@ -89,10 +89,6 @@ Clients appreciate art. Paint different artworks and bring them directly to the 
 
 Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site. Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing. This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
 
-#### Guard:
-
-Provide reinforcement to the Imperial Guard. Patrol the districts, or do as some guards do: stay in place and observe your surroundings. Don’t forget your uniform! Your supervisor will come directly to pay you at the end of the job. Put on the full Legion uniform (also available at the stores listed previously) and head to the marked location to begin your patrol.
-
 #### Hunter:
 
 Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
