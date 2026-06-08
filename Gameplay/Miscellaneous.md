@@ -93,6 +93,18 @@ Repair Kvatch, small inns, and other damaged structures through hard manual labo
 
 Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
 
+## <p align="center"> Gambling
+You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
+
+- Guess How Many Septims:
+Pretty much what the title suggests. There are two variations of the game. One where the NPCs hide up to five Septims in their hand and another version where you hide up to five Septims in your hand. The first version depends on your real life luck, meaning there is only one right choice. The second version depends on the NPCs luck. The payout is the choice selected, not the actual septims in hand. Meaning if you thought he had 3 septims, you will pay 3 septims and vice versa.
+
+- Double or Nothing:
+Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
+
+- High Stakes:
+Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
+
 ## <p align="center"> SURVIVAL
 
 Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
@@ -155,15 +167,3 @@ Note: When navigating the cooking interface, a short delay may occur. That’s n
 - When the level is high, you'll temporarily lose control of your character.
 - A random message (from a total of 25) related to drunkenness will appear.
 - Your alcohol level will automatically return to 0 once your character sobers up.
-
-## <p align="center"> Gambling
-You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
-
-- Guess How Many Septims:
-Pretty much what the title suggests. There are two variations of the game. One where the NPCs hide up to five Septims in their hand and another version where you hide up to five Septims in your hand. The first version depends on your real life luck, meaning there is only one right choice. The second version depends on the NPCs luck. The payout is the choice selected, not the actual septims in hand. Meaning if you thought he had 3 septims, you will pay 3 septims and vice versa.
-
-- Double or Nothing:
-Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
-
-- High Stakes:
-Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
