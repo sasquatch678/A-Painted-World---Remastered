@@ -43,7 +43,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Doomstone Power: Elemental Triune - Conjure a massive storm of elemental power, dealing 10 points of fire, frost, and shock damage in a 75 yard radius for 60 seconds. The storm batters your own defenses, causing you to be 50% weaker to the elements for the duration.
 
 #### Ritual 
-- Birthsign: Righteous but bearing a dark secret, being born under the Ritual grants 10 Restoration, Conjuration, and Magic Resistance, and the lesser power Ritual’s Prayer, which cures all poisons and diseases, soul traps, and turns the dead (15s), but damages Health (5 for 5s). A sacred gift for those who endure pain to purge corruption or embrace it.
+- Birthsign: Righteous but bearing a dark secret, being born under the Ritual grants 10 Restoration, Conjuration, and Magic Resistance, and the lesser power Ritual’s Prayer, which cures all poisons and diseases, soul traps, and turns the dead (15s), but damages Health (5 for 5s). A sacred gift for those who endure pain to purge corruption, or embrace it.
 
 - Doomstone Power: Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
 
