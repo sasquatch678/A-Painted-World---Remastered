@@ -14,8 +14,8 @@ Blunt weapons tend to have high base damage, but low reach and low speed. Blade 
 All weapons can now cause stagger, bleed damage, and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to cause bleed and critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
 
 - Can perform power attacks with one button (default mouse button 4) instead of holding left click.
-- 10% to 30% damage buff on response attacks from Perfect Dodge/Block within 5s window.
-- Ragdoll's enemy based on an enemy strength roll, each 10 strength give 9% resistance
+- 10% to 30% damage buff on counter attacks from Perfect Dodge/Block within 5s window.
+- Counter attacks ragdoll the enemy based on an enemy strength roll, each 10 strength give 9% resistance
 
 ## Dodging
 - Requires a minimum 25 in Acrobatics
