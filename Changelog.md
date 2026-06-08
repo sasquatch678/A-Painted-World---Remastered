@@ -17,7 +17,7 @@
 - Classic Blackwood Company Armor
 - Horses and Livestock
 - TES4R Civis Sheep Wander Fix
-- Ultimate Dialogue Overhaul - done trying to troubleshoot this, the mod is broken simple as
+- Ultimate Dialogue Overhaul - done trying to troubleshoot the ctds from this, the mod is broken simple as
 
 **Updated**
 - Sustaining Cyrodiil - A Farm Overhaul
