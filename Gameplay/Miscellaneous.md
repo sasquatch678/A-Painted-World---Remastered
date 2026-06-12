@@ -95,7 +95,7 @@ Repair Kvatch, small inns, and other damaged structures through hard manual labo
 
 Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
 
-## <p align="center"> Gambling
+## <p align="center"> GAMBLING
 You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
 
 - Guess How Many Septims:
