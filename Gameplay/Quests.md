@@ -107,6 +107,7 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you. <br/>
 ***
 ### <p align="center"> DARK BROTHERHOOD
+
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
 
