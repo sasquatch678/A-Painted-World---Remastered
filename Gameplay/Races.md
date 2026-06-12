@@ -1,9 +1,9 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/imperialcity.png)
 # <p align="center"> RACES
 All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones. In vanilla there are three types of runestones; Hestra, Reman, and Sidri-Ashak.
-- Hestra augmentations are focused around magic and offense.
-- Reman augmentations are focused around combat and defense.
-- Sidri-Ashak augmentations are focused around stealth, utility, and cooldown manipulation.
+- Hestra augmentations are focused around magic and offense, and are believed to be named for the late First Era Empress Hestra.
+- Reman augmentations are focused around combat and defense, almost certainly named for Reman Cyrodiil, the First Era emperor.
+- Sidri-Ashak augmentations are focused around stealth, utility, and cooldown manipulation. Thought to be named for an obscure Akaviri potentate, Sidri-Ashak.
 
 ***
 ### Argonian
