@@ -1,6 +1,6 @@
+***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/chorrol.png)
 # <p align="center"> QUESTS
-
 <p align="center">
 [ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-main-quest">Main Quest</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dlc-quests">DLC Quests</a> |
@@ -11,7 +11,7 @@
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-arena">The Arena</a> |
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-imperial-legion">Imperial Legion</a> |
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Order of the Virtuous Blood</a> ]
-    
+***    
 In general adding new and expansive quests or greatly modifying existing quests isn't possible in the Remaster. But there have still been changes and additions to each major factions questline, as well as delays to the main DLCs so the player won't be spammed with quest entries after first starting a game.
 
 Quest markers have also been modified. It is somewhat unimmersive and detrimential to roleplaying for the player character to have the clairvoyant ability to see a quest item in a cave on the other side of Tamriel. That said, the quest marker system can be helpful and saves the player from a lot of frustration. Searching for Radiant AI-driven NPCs or hovering over every map marker on the map is not THAT fun. The issue is that the current available options are either to keep all quest markers or to have no markers at all.
@@ -68,8 +68,8 @@ One of the quirks of Oblivion is that it's possible to become the Arch-mage of C
 
 ***
 ### <p align="center"> FIGHTERS GUILD
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/brumafightersguild.png)
+***
 #### Skill Requirements
 You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
 
@@ -80,8 +80,8 @@ Once you join the Fighter's Guild, you can start accepting Contracts from small 
 - Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor. <br/>
 ***
 ### <p align="center"> MAGES GUILD
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/skingradmagesguild.png)
+***
 #### Skill Requirements
 You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
 
@@ -94,8 +94,8 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 - Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe. <br/>
 ***
 ### <p align="center"> THIEVES GUILD
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/thievesguild.png)
+***
 #### Independent Thievery
 You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
@@ -109,20 +109,16 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you.
 
 ***
-
 ### <p align="center"> DARK BROTHERHOOD
-
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
-
+***
 There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
 
 Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
-<br/>
 ***
 ### <p align="center"> THE ARENA
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arenadead.png)
+***
 You may now loot your opponents in the Arena, however it is seen as dishonorable by the spectators and you will gain a point of infamy by doing so.
 #### Radiant Quests
 Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
@@ -130,8 +126,8 @@ Once the player becomes the Grand Champion of The Imperial City Arena, they gain
 ## <p align="center"> Additional Faction Quests
 
 ### <p align="center"> THE IMPERIAL LEGION
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/imperiallegion.png)
+***
 After you complete the vanilla quest "Imperial Corruption" and successfully convict a corrupt Imperial Guard Captain, you will receive an offer to speak with Field Officer Leveilleur to officially join the Imperial Legion and receive your standard-issue equipment in the Armory. He will supply you with reading materials about the two potential assignment paths you can take in the Legion - Watch or Forestry.
 #### Radiant Quests
 ##### Imperial Watch - Arrest Warrants
@@ -158,8 +154,8 @@ As an Officer of Imperial Law, you possess the authority to charge Cyrodiil's Ci
 In order to decrease your Corruption Level, complete Outlaw Bounties or Arrest Warrants. Your Corruption Level will decrease by 5 for each one you complete, but it cannot go below 0.
 ***
 ### <p align="center"> ORDER OF THE VIRTUOUS BLOOD
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/virtuousblood.png)
+***
 You must first finish The Order of the Virtuous Blood quest in the Imperial City Temple District. If you are not familiar with this fantastic quest, go to the Temple District and wait until you are approached by an NPC. Once you have joined The Order of The Virtuous Blood Faction, Vampire Hunting - Take Back the Night will begin. Once this quest begins, you will receive a new log entry and gain access to the Virtuous Blood Headquarters beneath Seridur's Basement (the door is in his basement).
 
 Inside of the Headquarters, you will meet three new Vampire Hunter NPCs - one is a Master Trainer in Blade, one is a Master Trainer in Blunt, and one is both a Merchant and a Master Trainer in Armorer. The new Merchant will sell Holy Plate Armor, and Holy Weapons, each of which deals 20 pts of Holy Damage on strike. Additionally, you will find a special Retort with which you can purify Vampire Dust into Holy Water (a unique poison that deals 20 pts of Holy Damage). Also inside of the Headquarters, you can find a list of Vampire Targets. When you interact with this list, you will be randomly assigned 1 of 100 radiant objectives. There is always a 50% chance you will be given a Quest to hunt down and root out a Vampire in a random town, or hunt down and destroy a Notorious Vampire in a random dungeon.
