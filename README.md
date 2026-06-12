@@ -2,7 +2,7 @@
 
 <p align="center">
 An Oblivion Remastered Wabbajack Modlist by Sasquatch.
-
+<p align="center">
 <table style="border: none;">
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Wabbajack</a></td>	
 <td><a href="https://loadorderlibrary.com/lists/a-painted-world-remastered">Load Order Library</a></td>
@@ -17,7 +17,7 @@ An Oblivion Remastered Wabbajack Modlist by Sasquatch.
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
+</p>
 ## Overview
 
 A Painted World is a vanilla friendly overhaul of Oblivion Remastered which enhances visuals, atmosphere, and immersion while honoring the heart of classic Oblivion.
