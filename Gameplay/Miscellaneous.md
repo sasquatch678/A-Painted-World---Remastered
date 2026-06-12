@@ -2,6 +2,8 @@
 # <p align="center"> MISCELLANEOUS
 
 ## <p align="center"> TRAVEL
+***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/cheydinhalstables.png)
 >[!TIP]
 >Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
 
@@ -32,7 +34,8 @@ If you have ridden a horse, you will be granted a Horse Whistle power.
 
 
 ## <p align="center"> GODS & WORSHIP
-
+***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arboretum.png)
 Show devotion to a Divine by visiting their Altars and Praying out in the world. As your devotion grows, their blessing will be stronger the next time you visit a chapel altar. Betray a Divine by praying to another, repeated betrayals have consequences. Divine blessings and prayers now last for an entire day.
 
 #### BLESSINGS
@@ -86,6 +89,8 @@ Here are the jobs currently available:
 - **HUNTER** - Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
 
 ## <p align="center"> GAMBLING
+***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gambling.png)
 You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
 
 ### GUESS HOW MANY SEPTIMS
@@ -98,8 +103,10 @@ Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will g
 Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
 >[!TIP]
 > You could craft a custom spell to Fortify Luck on touch/target in order to always play at High Stakes. You could also Fortify your own Luck to increase your own chances of winning.
-## <p align="center"> SURVIVAL (OPTIONAL)
 
+## <p align="center"> SURVIVAL (OPTIONAL)
+***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/survival.png)
 Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
 #### HUNGER
 - Impact: Hunger affects your Endurance (maximum Health), reducing it to a minimum of ~20% of its base value.
