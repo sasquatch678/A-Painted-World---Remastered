@@ -5,7 +5,7 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-mysticism">Jobs</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-alteration">Gambling</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-illusion">Survival</a> ]
-</p>
+
 ## <p align="center"> TRAVEL
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/cheydinhalstables.png)
