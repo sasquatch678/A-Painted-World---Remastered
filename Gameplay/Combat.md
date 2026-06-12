@@ -11,7 +11,7 @@ Because of this, combat should feel quick, lethal, and fair for both the player 
 >[!TIP]
 >Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
 
-## Blade & Blunt
+## WEAPON DISTINCTION
 Blunt weapons tend to have high base damage, but low reach and low speed. Blade weapons have higher reach and speed, but lower base damage.
 
 All weapons can now cause stagger, bleed damage, and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to cause bleed and critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
