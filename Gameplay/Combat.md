@@ -56,7 +56,6 @@ All weapons can now cause stagger, bleed damage, and critically strike. Blunt we
 #### Headshot 
 - Headshot damage based on marksman & sneak skill- 1.1x to 2x for Marksman.
 - Sneak damage is additive on top of headshot damage, up to +50% sneak damage (at 100 Sneak) if undetected.
-- Staggers the enemy if they survive.
 - Reticle will change colors to indicate Headshot.
 
 ## SlowMo
