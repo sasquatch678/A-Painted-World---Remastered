@@ -2,9 +2,8 @@
 
 <p align="center">
 An Oblivion Remastered Wabbajack Modlist by Sasquatch.
-	
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]<table style="border: none;">
+
+<table style="border: none;">
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Wabbajack</a></td>	
 <td><a href="https://loadorderlibrary.com/lists/a-painted-world-remastered">Load Order Library</a></td>
 <td><a href="https://discord.gg/dGP9Vy7QMG">Discord</a></td>
@@ -13,7 +12,6 @@ An Oblivion Remastered Wabbajack Modlist by Sasquatch.
 </table>
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
