@@ -1,4 +1,4 @@
-# MISCELLANEOUS
+# <p align="center"> MISCELLANEOUS
 <p align="center">
 [ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-travel">Travel</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gods--worship">Gods & Worship</a> |
