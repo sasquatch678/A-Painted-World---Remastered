@@ -24,7 +24,7 @@ An Oblivion Remastered Wabbajack Modlist by Sasquatch.
 
 A Painted World is a vanilla friendly overhaul of The Elder Scrolls IV: Oblivion Remastered, designed to enhance the game's visuals, atmosphere, and immersion without losing the charm that made the original a classic. Every addition and adjustment has been carefully selected to feel like a natural extension of the base game, preserving the familiar world, gameplay, and spirit of Cyrodiil while refining the overall experience for modern players.
 
-Expect improved visuals, richer environmental detail, enhanced lighting and weather, immersive audio enhancements, and thoughtful quality of life improvements that blend seamlessly into the world. The goal is not to reinvent Oblivion, but to elevate it, creating a more vibrant, believable, and engaging adventure while staying true to Bethesda's original vision.
+Expect improved visuals, richer environmental detail, enhanced lighting and weather, immersive audio enhancements, and thoughtful quality of life improvements that blend seamlessly into the world. The goal is not to reinvent Oblivion, but to elevate it, creating a more vibrant, believable, and engaging adventure while staying true to Bethesda's original vision. You can find a summary of all relevant gameplay changes and notable mods on the [Gameplay Guide](https://github.com/sasquatch678/A-Painted-World---Remastered/tree/main/Gameplay).
 
 Whether you're returning to Cyrodiil for another journey or experiencing Oblivion for the first time, this collection delivers a polished and atmospheric experience that feels like the game you remember, only better.
 
