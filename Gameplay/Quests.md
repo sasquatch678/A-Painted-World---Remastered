@@ -30,9 +30,10 @@ This modlist tries to strike a balance. It removes some of the quest markers onl
 - If you have to find an NPC but it is implied that you don't know their exact location, frequent locations where the NPC can be found might be shown for some quests.
 
 There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, and still be able to find where you need to go.
-
+***
 ## <p align="center"> Main Quest
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/obliviongate.jpg)
+***
 ### Mythic Dawn
 The Oblivion Crisis is afoot and for years the Mythic Dawn has been in hiding; building their ranks and luring in insurgent acolytes who are willing to destroy the natural world for unnatural promises of immortality. But now the dawn is breaking and the vast sleeper network of cultist covens which inhabit the dark and gloomy hollows of Cyrodiil's dungeons are ready for the cleansing! Conjurers are replaced with cultists and their dungeons are now host to Mythic Dawn covens with their signature robes and bound armor.
 
@@ -43,9 +44,10 @@ During "Dagon Shrine", you will have the opportunity to join the Mythic Dawn. Gr
 Take the Silver Dagger from the podium and slay the captured Priest. This will mark your official joining of the Cult. Speak to Ruma and she will congratulate you. To continue and leave the Lake Arrius Shrine, approach and touch the Mysterium Xarxes. Dagon will speak to you, and "The Cleansing" Quest will begin. Harrow will be "forced" to relinquish your items. Additionally, you will be added to the "Deadlands Daedra" faction as an Ally ; the Daedra of Oblivion Gates will no longer be hostile towards you. You will be given a spell to toggle your alliance with the Oblivion Gate Daedra, in-case you want to keep fighting them anyway. The exit door of Lake Arrius will be unlocked. <br/>
 
 After completion of "The Cleansing" quest, the various Counts and Countesses of Cyrodiil will be marked unessential and available to kill. Upon the death of each one, Mehrunes Dagon will reward the player with a unique piece of equipment. This step is considered "optional", as many of these NPCs are critical to certain quests and the player may wish to keep them alive until such a time as their usefulness expires. 
-
+***
 ## <p align="center"> DLC Quests
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gnarl.png)
+***
 ### Knights of the Nine
 Delayed until the player reaches level 10.
 
