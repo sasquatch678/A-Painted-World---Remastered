@@ -53,6 +53,7 @@ Once you join the Fighter's Guild, you can start accepting Contracts from small 
 
 ### <p align="center"> MAGES GUILD
 ***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/skingradmagesguild.png)
 #### Skill Requirements
 You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
 
