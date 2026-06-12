@@ -109,7 +109,7 @@ Make sure the dropdown box on the right is set to `Play` and press the `Run` but
 
 A Painted World - Remastered comes with several customization options. 
 
-<[!TIP]
+>[!TIP]
 >You don't need to mess with the load order after changing any of these options. They have already had been patched for the rest of the modlist where applicable.
 
 There is ultrawide support under the "ULTRAWIDE SUPPORT" section of Mod Organizer 2. Be sure to disable the 16x9 version of the mods in this section for full support.
