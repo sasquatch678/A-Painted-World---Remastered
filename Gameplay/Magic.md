@@ -1,4 +1,4 @@
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
+
 # <p align="center"> MAGIC
 
 Magic has received a light overhaul to better the leveling experience, and add variety to some of the more niche spell effects. There are some general changes to spellcasting and magic related systems below.
