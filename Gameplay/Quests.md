@@ -19,7 +19,7 @@ Take the Silver Dagger from the podium and slay the captured Priest. This will m
 After completion of "The Cleansing" quest, the various Counts and Countesses of Cyrodiil will be marked unessential and available to kill. Upon the death of each one, Mehrunes Dagon will reward the player with a unique piece of equipment. This step is considered "optional", as many of these NPCs are critical to certain quests and the player may wish to keep them alive until such a time as their usefulness expires. 
 
 ## <p align="center"> DLC Quests
-
+***
 ### Knights of the Nine
 Delayed until the player reaches level 10.
 
