@@ -14,7 +14,7 @@ Magic has received a light overhaul to better the leveling experience, and add v
 
 - **Robes** no longer take up the lower clothing slot, so you can use an extra enchantment slot on your leg equipment with a robe. 
 >[!TIP]
->This can create some clipping, but can be easily toggled off by disabling the mod in the optional mods section of MO2.
+>This can create some clipping, but can be easily toggled off if it bothers you by disabling the mod in the optional mods section of MO2.
 
 ## <p align="center"> Magic Skill Leveling Changes
 
