@@ -9,7 +9,7 @@
 <td><a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-illusion">Illusion</a></td>
 <td><a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-restoration">Restoration</a></td>
 </table>
-</p>
+
 Magic has received a light overhaul to better the leveling experience, and add variety to some of the more niche spell effects. There are some general changes to spellcasting and magic related systems below.
 
 - **Staves** now have a script that adds magicka bonuses while equipped﻿. You will gain a Magicka Multiplier equal to (10+ 0.5 + 1.25 x Intelligence x 0.025). Theorethically you could get thousands of spell points if your intelligence is over the roof. You will also gain a bonus to your magicka regeneration while holding a staff, starting at 1/s at 50 Willpower and scaling up to 5/s every 25 points of Willpower, up to 125.
