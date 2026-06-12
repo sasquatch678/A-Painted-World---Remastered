@@ -32,7 +32,8 @@ Due to being a Wabbajack list installing A Painted World is painless and easy, t
 
 ### Pre-Installation
 
-The following steps are required to be completed before downloading A Painted World.
+>[!IMPORTANT]
+>The following steps are required to be completed before downloading A Painted World.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
 3. Fully uninstall Oblivion Remastered by deleting the folder and the Oblivion Remastered folder inside \Documents\My Games\.
