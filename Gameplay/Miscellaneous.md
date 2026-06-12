@@ -58,7 +58,7 @@ Wayshrines give tier 1 blessings, and due to their remoteness may be taken in se
 #### Betrayal
 Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
 
-### JOBS
+## <p align="center"> JOBS
 Pick up a Job Contract from an innkeeper (buy) and read it. You will then have the choice between various jobs. Once you make your choice, the client will detail their request. If you accept, the contract begins! A Job Book will be given to you for your very first contract. This book contains various information to help you complete your contracts. The contract’s progress depends on the job: some require making deliveries, being proactive, having certain components, etc. Payment is collected upon reaching the delivery point (or directly on-site for certain jobs). The amount depends on the job type and the client (for example: a jeweler job for a wealthy client pays more than a harvester job for a poor client). Jobs are unlimited! You can do them as many times as you want.
 
 Job-related equipment can be purchased at Jensine's “Good as New” Merchandise in the Imperial City, Market District (items are restocked regularly; waiting a few hours is enough). You can also find the tools required to perform your jobs from the following NPCs:
