@@ -109,6 +109,9 @@ Make sure the dropdown box on the right is set to `Play` and press the `Run` but
 
 A Painted World - Remastered comes with several customization options. 
 
+<[!TIP]
+>You don't need to mess with the load order after changing any of these options. They have already had been patched for the rest of the modlist where applicable.
+
 There is ultrawide support under the "ULTRAWIDE SUPPORT" section of Mod Organizer 2. Be sure to disable the 16x9 version of the mods in this section for full support.
 
 If you own the Deluxe Edition of the game, you should enable the Unofficial Oblivion Remastered Patch - Deluxe here.
@@ -129,7 +132,7 @@ Sometimes the game can crash when starting a new game. This is listed as a known
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. You may also need to reset your resolution in the Oblivion.ini in the profiles folder. **Note**: Any mods you have added will be deleted when updating unless prefixed with [NoDelete].
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating unless prefixed with [NoDelete].
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
