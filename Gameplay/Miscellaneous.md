@@ -1,10 +1,10 @@
 # MISCELLANEOUS
 <p align="center">
-[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-destruction">Travel</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-conjuration">Gods & Worship</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-mysticism">Jobs</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-alteration">Gambling</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-illusion">Survival</a> ]
+[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-travel">Travel</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gods--worship">Gods & Worship</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-jobs">Jobs</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gambling">Gambling</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-survival-optional">Survival</a> ]
 
 ## <p align="center"> TRAVEL
 ***
