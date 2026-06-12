@@ -11,8 +11,8 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dark-brotherhood">Dark Brotherhood</a> |
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-arena">The Arena</a> |
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-imperial-legion">Imperial Legion</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Order of the Virtuous Blood</a> ]  
-</br>
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Order of the Virtuous Blood</a> ]  </br>
+
 In general adding new and expansive quests or greatly modifying existing quests isn't possible in the Remaster. But there have still been changes and additions to each major factions questline, as well as delays to the main DLCs so the player won't be spammed with quest entries after first starting a game.
 
 Quest markers have also been modified. It is somewhat unimmersive and detrimential to roleplaying for the player character to have the clairvoyant ability to see a quest item in a cave on the other side of Tamriel. That said, the quest marker system can be helpful and saves the player from a lot of frustration. Searching for Radiant AI-driven NPCs or hovering over every map marker on the map is not THAT fun. The issue is that the current available options are either to keep all quest markers or to have no markers at all.
