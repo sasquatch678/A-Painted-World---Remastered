@@ -7,8 +7,6 @@ There are also now directions for each quest added to your journal entries, whic
 
 ## <p align="center"> Main Quest
 
-### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/obliviondoor.jpg)
-
 ### Mythic Dawn
 The Oblivion Crisis is afoot and for years the Mythic Dawn has been in hiding; building their ranks and luring in insurgent acolytes who are willing to destroy the natural world for unnatural promises of immortality. But now the dawn is breaking and the vast sleeper network of cultist covens which inhabit the dark and gloomy hollows of Cyrodiil's dungeons are ready for the cleansing! Conjurers are replaced with cultists and their dungeons are now host to Mythic Dawn covens with their signature robes and bound armor.
 
