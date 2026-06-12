@@ -5,7 +5,9 @@ Magic has received a light overhaul to better the leveling experience, and add v
 
 - **Staves** now have a script that adds magicka bonuses while equipped﻿. You will gain a Magicka Multiplier equal to (10+ 0.5 + 1.25 x Intelligence x 0.025). Theorethically you could get thousands of spell points if your intelligence is over the roof. You will also gain a bonus to your magicka regeneration while holding a staff, starting at 1/s at 50 Willpower and scaling up to 5/s every 25 points of Willpower, up to 125.
 
-- **Robes** no longer take up the lower clothing slot, so you can use an extra enchantment slot on your leg equipment with a robe.
+- **Robes** no longer take up the lower clothing slot, so you can use an extra enchantment slot on your leg equipment with a robe. 
+>[!TIP]
+>This can create some clipping, but can be easily toggled off by disabling the mod in the optional mods section of MO2.
 
 ## <p align="center"> Magic Skill Leveling Changes
 
