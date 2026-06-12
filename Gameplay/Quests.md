@@ -18,6 +18,8 @@ Take the Silver Dagger from the podium and slay the captured Priest. This will m
 
 After completion of "The Cleansing" quest, the various Counts and Countesses of Cyrodiil will be marked unessential and available to kill. Upon the death of each one, Mehrunes Dagon will reward the player with a unique piece of equipment. This step is considered "optional", as many of these NPCs are critical to certain quests and the player may wish to keep them alive until such a time as their usefulness expires. 
 
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gnarl.png)
+
 ## <p align="center"> DLC Quests
 
 ### Knights of the Nine
@@ -36,6 +38,9 @@ No changes, visit the Strange Door in Niben Bay whenever you like. I suggest bei
 
 One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
 <br/>
+
+
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/brumafightersguild.png)
 ### <p align="center"> FIGHTERS GUILD
 ***
 #### Skill Requirements
@@ -60,6 +65,7 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 - Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
 - Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe. <br/>
 
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/thievesguild.png)
 ### <p align="center"> THIEVES GUILD
 ***
 #### Independent Thievery
@@ -74,6 +80,8 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
  <br/>
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you. <br/>
 
+
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
 ### <p align="center"> DARK BROTHERHOOD
 ***
 There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
