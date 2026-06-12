@@ -10,7 +10,7 @@ All races now have one passive and one greater power which can be augmented by t
 - ﻿Reman: Caustic Spit now also Restores 5 Health per second for 120 seconds.
 - ﻿Sidri-Ashak: Caustic Spit now also Opens expert level locks and completely Disintegrates opponents armor.
 
-### Breton
+### ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/breton.png) Breton
 ﻿Passive: Aldmeri Heritage - Magic Resistance 25% and Fortify Magicka 50 points. <br/>
 ﻿Power: Dragon Skin - Once per day Shield yourself 50 points for 120 seconds.
 
