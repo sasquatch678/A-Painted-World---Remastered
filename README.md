@@ -66,7 +66,7 @@ Downloading and installing the list can take a while depending on your internet 
 
 1. Open Wabbajack and click on browse modlists.
 2. Press the download button on A Painted World - Remastered and wait for it to download.
-3. Set the installation folder to be somewhere like C:\APWR. **Do not install it to your desktop or downloads folder.**
+3. Set the installation folder to be somewhere like C:Modlists\APWR. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
