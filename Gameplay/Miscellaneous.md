@@ -11,8 +11,8 @@ There is a Regional Courier npc at every city stables who will be able to take y
 - Time will advance when you travel.
 - After you unlock Battlehorn Castle and Frostcrag Spire, you'll be able to travel to them from their nearest cities (Chorrol and Bruma). You'll also be able to travel back to those cities from the Castle and the Spire.
 
-####  MAGES GUILD
-Every guild hall (and the Arcane University Lobby) now has a Mage Guide NPC.
+####  GUILD GUIDES
+Every mages guildhall (and the Arcane University Lobby) now has a Mage Guide NPC.
 - The Mage Guide NPC will teleport you for 200 gold, or 100 gold if you're the Arch Mage.
 - You'll only be able to teleport to the guild halls that you've finished your recommendation quest. The Arcane University teleport unlocks after you get all recommendations. 
 - It includes all the main cities (except Kvatch) and the Arcane University Lobby.
