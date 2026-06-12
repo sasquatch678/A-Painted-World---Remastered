@@ -1,7 +1,7 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arena.png)
 ***
 # <p align="center"> COMBAT
-
+***
 Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive.
 
 Enemy AI has also been overhauled to be more aggressive, with lower idle times between attacks. Enemies before would attack and then stand for sometimes seconds at a time, as if they weren't actually fighting for their lives. Now enemies fight as if their life depends on it. They chain attacks, fast and consistently. Enemies are also more likely to dodge and block your attacks, making for a more fast paced and engaging system where action never stops, and every hit matters.
@@ -12,6 +12,7 @@ Because of this, combat should feel quick, lethal, and fair for both the player 
 >Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
 ***
 ## WEAPON DISTINCTION
+***
 No more different modeled paddles! Blunt weapons tend to have high base damage, but low reach and low speed. Blade weapons have higher reach and speed, but lower base damage.
 
 All weapons can now cause stagger, bleed damage, and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to cause bleed and critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
@@ -19,8 +20,9 @@ All weapons can now cause stagger, bleed damage, and critically strike. Blunt we
 - Can perform power attacks with one button (default mouse button 4) instead of holding left click.
 - 10% to 30% damage buff on counter attacks from Perfect Dodge/Block within 5s window.
 - Counter attacks ragdoll the enemy based on an enemy strength roll, each 10 strength give 9% resistance
-
-## Dodging
+***
+## DODGING
+***
 - Requires a minimum 25 in Acrobatics
 - Dodge by tapping mouse button 5.
 - Dodging is blocked while the player is crouched, out of fatigue, and/or over encumbered, configurable.
@@ -33,8 +35,9 @@ All weapons can now cause stagger, bleed damage, and critically strike. Blunt we
 - Perfect Dodge gives a 30% speed boost during 5s counter attack window.
 - Perfect Dodging has a 0.2s window-  the closer you are to the perfect frame on a dodge during enemy attack, the more damage your “Response Attack” will get (10%-30%).
 - Reticle will change colors to indicate Perfect Dodge counter windows.
-
-## Block
+***
+## BLOCK
+***
 - Blocking can attack cancel using the same weapon and attack specific timings as Dodge.
 - Block attack cancelling will cost the equivalent fatigue as the cancelled attack would have.
 
@@ -46,8 +49,9 @@ All weapons can now cause stagger, bleed damage, and critically strike. Blunt we
 #### Attack Cancel / Feint
 - Feint window - Cancel attacks early (before hit) to bait reactions with weapon and attack specific timings for an immersive combat feel
 - Combo breaking - Cancel attacks late (after hit) to reset
-
-## Marksman
+***
+## MARKSMAN
+***
 - Instant Draw unlocked at 50+ Marksman or with Perfect Block/Dodge Buff.
 - Release Animation Cancel at 50+ Marksman or with Perfect Block/Dodge Buff.
 - Rapid Shot response for Perfect Block/Dodge, 5s window.
@@ -57,9 +61,9 @@ All weapons can now cause stagger, bleed damage, and critically strike. Blunt we
 - Headshot damage based on marksman & sneak skill- 1.1x to 2x for Marksman.
 - Sneak damage is additive on top of headshot damage, up to +50% sneak damage (at 100 Sneak) if undetected.
 - Reticle will change colors to indicate Headshot.
-
-## SlowMo
-
+***
+## SLOWMO
+***
 #### Hitstop
 - Weapon-specific duration and intensity.
 - Attack type modifiers (light, power, sneak, blocked).
@@ -72,3 +76,4 @@ All weapons can now cause stagger, bleed damage, and critically strike. Blunt we
 
 #### Quickwheel
 - Will slow to 10% upon opening the quick wheel.
+***
