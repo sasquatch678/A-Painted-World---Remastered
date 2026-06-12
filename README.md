@@ -109,6 +109,7 @@ Make sure the dropdown box on the right is set to `Play` and press the `Run` but
 
 A Painted World - Remastered comes with several customization options. 
 
+- There are three (four if you count reverting to vanilla) options to overhaul the **leveling system**.
 - **Ultrawide Support** can be found under the "ULTRAWIDE SUPPORT" section of Mod Organizer 2. Be sure to disable the 16x9 version of the mods in this section for full support.
 - If you own the **Deluxe Edition** of the game, you should enable the Unofficial Oblivion Remastered Patch - Deluxe here.
 - By default Simple Fast Start is enabled as an **alternate start** mod, disable it if you wish to play through the opening sewer sequence.
