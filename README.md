@@ -10,14 +10,14 @@ An Oblivion Remastered Wabbajack Modlist by Sasquatch.
 <td><a href="https://www.nexusmods.com/games/oblivionremastered/collections/e3ojze">Nexus</a></td>
 <td><a href="https://ko-fi.com/sasquatch678">Ko-Fi</a></td>
 </table>
-
+</p>
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-</p>
+
 ## Overview
 
 A Painted World is a vanilla friendly overhaul of Oblivion Remastered which enhances visuals, atmosphere, and immersion while honoring the heart of classic Oblivion.
