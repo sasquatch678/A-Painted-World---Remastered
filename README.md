@@ -19,7 +19,6 @@ A Painted World is a vanilla friendly overhaul of Oblivion Remastered which enha
 >[!WARNING]
 >Only Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and A Painted World.
 >Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
->Space required: ~10GB Total 
 
 ***
 
