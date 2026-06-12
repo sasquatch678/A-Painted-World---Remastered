@@ -20,7 +20,7 @@ Strangely enough, the Oblivion Remastered devs left the original Oblivion magic 
 This made a lot of sense in Oldblivion, but with the addition of the cost-based system of Remastered this discrepancy in flat XP gain between schools has no justification anymore. This is also fixed by giving NO flat XP-per-cast.
 
 ## <p align="center">  Magic School Changes
-***
+
 ### <p align="center"> DESTRUCTION
 #### Elemental Damage
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects, inspired by Skyrim. Frost spells cause additional fatigue damage, shock spells cause additional magicka damage, and fire spells deal bonus damage over time. Beware as these effects can affect you too from enemies. A journeyman of destruction will cause fire and shock spells with a duration to blast enemies with low health away (shock is the strongest, fire is the weakest), while journeyman with frost duration spells will cause paralysis based on fatigue amount. Less fatigue increases paralysis chance.
