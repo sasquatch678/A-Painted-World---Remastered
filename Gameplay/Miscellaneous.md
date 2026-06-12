@@ -2,7 +2,8 @@
 # <p align="center"> MISCELLANEOUS
 
 ## <p align="center"> TRAVEL
-Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
+>[!TIP]
+>Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
 
 ####  STABLES
 There is a Regional Courier npc at every city stables who will be able to take you to every city. It includes all the main cities, including the Kvatch encampment.
