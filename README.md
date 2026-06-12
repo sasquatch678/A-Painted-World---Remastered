@@ -115,7 +115,7 @@ A Painted World - Remastered comes with several customization options.
 - **No Fast Travel Remastered** can be enabled if you want to play without fast travel (there are alternate methods of travel in the list).
 
 >[!TIP]
->You don't need to mess with the load order after changing any of these options. They have already been patched for the rest of the modlist where applicable.
+>You should not mess with the load order after changing any of these options. They have already been patched for the rest of the modlist where applicable if you just leave them in their default locations.
 
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
