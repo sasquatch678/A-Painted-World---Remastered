@@ -35,6 +35,7 @@ Whether you're returning to Cyrodiil for another journey or experiencing Oblivio
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/forest.png)
 ## Installation
+***
 Due to being a Wabbajack list installing A Painted World is painless and easy, taking a fraction of the time it would to create a modlist like this yourself. You will need to own a Steam copy of Oblivion GOTY Deluxe Edition before proceeding.
 </br>
 >[!IMPORTANT]
@@ -94,7 +95,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/doomstone2.jpg)
 ## Post-Installation :warning: **IMPORTANT**: YOUR GAME WILL NOT WORK OR CONSTANTLY CRASH UNLESS YOU DO THIS :warning:
-
+***
 ### Antivirus Exception
 
 Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow these instructions (https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
@@ -123,6 +124,7 @@ If you add any mods yourself or change major game functions through the ingame m
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/cheydinhalstreets.png)
 ## Known Issues
+***
 Sometimes the game can crash when starting a new game. This is listed as a known issue on the Ultra Combat mod page. If it's being persistent, you can disable the mod in mo2 and make a new save, then close the game and re-enable it, and load your save.
 
 ## Updating the modlist
