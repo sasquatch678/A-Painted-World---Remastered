@@ -32,9 +32,8 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 Space required: ~10GB Total 
 
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/forest.png)
-
 ## Installation
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/forest.png)
 
 Due to being a Wabbajack list installing A Painted World is painless and easy, taking a fraction of the time it would to create a modlist like this yourself. You will need to own a Steam copy of Oblivion GOTY Deluxe Edition before proceeding.
 
