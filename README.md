@@ -4,13 +4,13 @@
 An Oblivion Remastered Wabbajack Modlist by Sasquatch.
 	
 
-<table style="border: none;">
-<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/a-painted-world-remastered">Load Order Library</a></td>
-<td><a href="https://discord.gg/dGP9Vy7QMG">Discord</a></td>
-<td><a href="https://www.nexusmods.com/oblivion/mods/55483">Nexus</a></td>
-<td><a href="https://ko-fi.com/sasquatch678">Ko-Fi</a></td>
-</table>
+<p align="center"> <table style="border: none;">
+<p align="center"> <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Wabbajack</a></td>	
+<p align="center"> <td><a href="https://loadorderlibrary.com/lists/a-painted-world-remastered">Load Order Library</a></td>
+<p align="center"> <td><a href="https://discord.gg/dGP9Vy7QMG">Discord</a></td>
+<p align="center"> <td><a href="https://www.nexusmods.com/oblivion/mods/55483">Nexus</a></td>
+<p align="center"> <td><a href="https://ko-fi.com/sasquatch678">Ko-Fi</a></td>
+<p align="center"> </table>
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
