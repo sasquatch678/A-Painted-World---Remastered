@@ -32,7 +32,7 @@ If you have ridden a horse, you will be granted a Horse Whistle power.
 - You cannot summon your horse whilst in cities, the realm of Oblivion, and some other locations where it would not be logical to do so.
 <br/>
 
-
+***
 ## <p align="center"> GODS & WORSHIP
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arboretum.png)
@@ -61,7 +61,7 @@ Wayshrines give tier 1 blessings, and due to their remoteness may be taken in se
 
 #### BETRAYAL
 Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
-
+***
 ## <p align="center"> JOBS
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/jobs.png)
@@ -89,7 +89,7 @@ Here are the jobs currently available:
 - **BUILDER** - Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site. Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing. This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
 
 - **HUNTER** - Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
-
+***
 ## <p align="center"> GAMBLING
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gambling.png)
@@ -105,7 +105,7 @@ Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will g
 Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
 >[!TIP]
 > You could craft a custom spell to Fortify Luck on touch/target in order to always play at High Stakes. You could also Fortify your own Luck to increase your own chances of winning.
-
+***
 ## <p align="center"> SURVIVAL (OPTIONAL)
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/survival.png)
@@ -169,3 +169,4 @@ Note: When navigating the cooking interface, a short delay may occur. That’s n
 - When the level is high, you'll temporarily lose control of your character.
 - A random message (from a total of 25) related to drunkenness will appear.
 - Your alcohol level will automatically return to 0 once your character sobers up.
+***
