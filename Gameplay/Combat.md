@@ -9,7 +9,7 @@ Enemy AI has also been overhauled to be more aggressive, with lower idle times b
 Because of this, combat should feel quick, lethal, and fair for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept/Journeyman for player damage for a moderate challenge that won't get you killed too often (as long as you are playing well), though you may wish to change these based on preference, build, or character progression. <br/>
 
 >[!TIP]
->Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou).<br/>
+>Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
 
 ## Blade & Blunt
 Blunt weapons tend to have high base damage, but low reach and low speed. Blade weapons have higher reach and speed, but lower base damage.
