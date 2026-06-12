@@ -22,12 +22,12 @@ This modlist tries to strike a balance. It removes some of the quest markers onl
 
 How quest markers work now?
 
-    If you need to find an item or kill something in a cave or dungeon, the quest marker will show the location of the dungeon but will not point to the item or enemy directly; the quest marker will not be shown inside the dungeon.
-    For finding items in houses and other public areas, the quest marker will guide you to the building but not the exact item position. Exceptions: when the stuff you need to find is too generic, like a specific desk you need to place an item in which is not really different from other containers in the location
-    If a quest requires you to investigate an area or find something in the worldspace, the marker will show an approximate location and will disappear when you are within the search area.
-    For quests where the exact target location is unknown (e.g., finding a cave on a river shore and a map marker is not given), the marker will be in an area close to your destination.
-    Markers will generally show the location of quest givers or NPCs in town if it is implied that their current location is known to the player and is not a secret. This avoids the annoyance of searching for NPCs following their daily schedules or hovering over cell names in the local map.
-    If you have to find an NPC but it is implied that you don't know their exact location, frequent locations where the NPC can be found might be shown for some quests.
+- If you need to find an item or kill something in a cave or dungeon, the quest marker will show the location of the dungeon but will not point to the item or enemy directly; the quest marker will not be shown inside the dungeon.
+- For finding items in houses and other public areas, the quest marker will guide you to the building but not the exact item position. Exceptions: when the stuff you need to find is too generic, like a specific desk you need to place an item in which is not really different from other containers in the location
+- If a quest requires you to investigate an area or find something in the worldspace, the marker will show an approximate location and will disappear when you are within the search area.
+- For quests where the exact target location is unknown (e.g., finding a cave on a river shore and a map marker is not given), the marker will be in an area close to your destination.
+- Markers will generally show the location of quest givers or NPCs in town if it is implied that their current location is known to the player and is not a secret. This avoids the annoyance of searching for NPCs following their daily schedules or hovering over cell names in the local map.
+- If you have to find an NPC but it is implied that you don't know their exact location, frequent locations where the NPC can be found might be shown for some quests.
 
 There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, or disabling the quest markers in settings, and still be able to find where you need to go.
 
