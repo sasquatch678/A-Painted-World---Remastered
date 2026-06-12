@@ -32,7 +32,7 @@ No changes, visit the Strange Door in Niben Bay whenever you like. I suggest bei
 - Deepscorn Hollow: Talk with Arquen after you are both teleported to the Cheydinhal Sanctuary at the end of the DBH Questline.
 - Dunbarrow Cave: Finish all steps of the Thieve's Guild Questline/Complete the Heist SUCCESSFULLY - If you fail this and are expelled from the guild, you will be permanently locked out of Dunbarrow unless you use console commands.
 
-## <p align="center"> Faction Quests
+## <p align="center"> Main Faction Quests
 
 One of the quirks of Oblivion is that it's possible to become the Arch-mage of Cyrodiil without ever casting a single spell. Or less likely but still possible, to become head of the Fighters Guild with scarcely more than novice combat skills. You will now need to meet minimum standards in certain skills to advance in rank and continue each questline.
 <br/>
@@ -114,6 +114,8 @@ Additionally, when you grab each reward bag RNG decides whether or not you recei
 You may now loot your opponents in the Arena, however it is seen as dishonorable by the spectators and you will gain a point of infamy by doing so.
 #### Radiant Quests
 Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
+
+## <p align="center"> Additional Faction Quests
 
 ### <p align="center"> THE IMPERIAL LEGION
 
