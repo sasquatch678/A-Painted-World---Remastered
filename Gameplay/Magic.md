@@ -15,7 +15,7 @@ Magic has received a light overhaul to better the leveling experience, and add v
 - **Robes** no longer take up the lower clothing slot, so you can use an extra enchantment slot on your leg equipment with a robe. 
 >[!TIP]
 >This can create some clipping, but can be easily toggled off if it bothers you by disabling the mod in the optional mods section of MO2.
-
+***
 ## <p align="center"> Magic Skill Leveling Changes
 
 ### Spell Cost Based XP
@@ -29,8 +29,9 @@ Strangely enough, the Oblivion Remastered devs left the original Oblivion magic 
 This made a lot of sense in Oldblivion, but with the addition of the cost-based system of Remastered this discrepancy in flat XP gain between schools has no justification anymore. This is also fixed by giving NO flat XP-per-cast.
 
 ## <p align="center">  Magic School Changes
-
+***
 ### <p align="center"> DESTRUCTION
+***
 #### Elemental Damage
 To improve the effectiveness of standard frost and spark spells/scrolls (not custom spells) they now include additional effects, inspired by Skyrim. Frost spells cause additional fatigue damage, shock spells cause additional magicka damage, and fire spells deal bonus damage over time. Beware as these effects can affect you too from enemies. A journeyman of destruction will cause fire and shock spells with a duration to blast enemies with low health away (shock is the strongest, fire is the weakest), while journeyman with frost duration spells will cause paralysis based on fatigue amount. Less fatigue increases paralysis chance.
 #### Damage Stat Effects - Diseases
@@ -42,6 +43,7 @@ These journeyman and expert spells modify all subsequent spells cast at the targ
 Undead, Redguards and Argonians have strong poison resistance naturally so it is best to avoid using on those npcs as your spells may lose effectiveness instead.
 ***
 ### <p align="center"> CONJURATION
+***
 There are now consequences to summoning the dead due to the Mages Guild ban on necromancy, and to summoning daedra due to the ongoing Oblivion crisis. These two changes really make Conjuration feel like a dark and taboo school of magic. <br/>
 
 Necromancy was banned by the Mages Guild, and if you summon undead near a Mages Guild member you will be expelled from the guild. In addition, while not illegal in the lore, summoning undead will result in a 100-gold bounty if done near a guard. (Note: This bounty is only added if a guard is nearby. Casting near citizens/other NPCs will not result in a bounty). <br/>
@@ -86,6 +88,7 @@ In addition to scaling power, you now unlock unique perks as you collect more so
   25 Souls - Master of Death: You gain the "Risen Flesh﻿" Power. Allowing you to resurrect dead bodies.<br/>
 ***
 ### <p align="center"> MYSTICISM
+***
 #### Telekinesis
 Telekinesis spells (not custom spells) have been overhauled into really useful utility spells. They can loot chests, open doors, loot dead bodies and pick up items. You can only loot dead bodies while crouched, as the remaster has a new feature allowing you to move bodies with telekinesis. If you cast telekinesis on a living npc or creature you will quickly position yourself behind their back which is great for pickpocketing or sneak attacks.
 
@@ -119,7 +122,7 @@ Weakness to magic - is now under the mysticism skill which fits lore that mystic
 Mysticism typically lacks offensive spells, which makes leveling it challenging. This changes that back to just like it was in morrowind. Absorb spells range limit is now twice as long, especially as remaster has no visual effect to show this limitation. Standard absorb magicka spells include a fortify magicka on the opponent, as unlike other absorb spells this ends or never starts if there is no magicka to absorb which made them useless. They are already very difficult to use as early game they cost more than what you absorb.
 ***
 ### <p align="center"> ALTERATION
-
+***
 #### Force Spells
 This provides more offensive capabilities to alteration mages while still fitting the theme of supporting magic as these cannot kill people unless gravity is involved. The spells alter the air to create a force of wind to blow enemies away. There is a small chance for enemies to be unaffected based on your willpower and luck skills.
 
@@ -140,7 +143,7 @@ While levitating, you lose 10 magicka per second. When you run out of magicka, l
 Weakness to normal weapons is now under the alteration skill which fits lore you can weaken armor. Also provides more offensive capability to the school.
 ***
 ### <p align="center"> ILLUSION
-
+***
 #### Invisibility 
 Invisibility effects now take a toll to maintain and will prevent magicka regen during its effect. This is to prevent abusing very low cost invisibility spells. Buy the higher cost and run away.
 
@@ -158,7 +161,7 @@ Resist normal weapons - This magic effect is now under the illusion skill like i
 Weakness to poison - is now under the illusion skill which fits lore that by confusing the mind or hiding the poisons presence its easier to distribute the poison for maximum effect.
 ***
 ### <p align="center"> RESTORATION
-
+***
 #### Spells Restore Over Time
 Spells and potions which Restore Health or Fatigue now do so over time instead of instantly on cast.
 
