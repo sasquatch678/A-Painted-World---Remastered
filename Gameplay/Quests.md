@@ -41,7 +41,7 @@ One of the quirks of Oblivion is that it's possible to become the Arch-mage of C
 #### Skill Requirements
 You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
 
-<p align="center"> | Rank   | Skill Requirements
+| Rank   | Skill Requirements
 |:--------------:|:-------------:|
 |Associate| |
 |Apprentice| 3 Apprentice
