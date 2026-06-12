@@ -160,7 +160,7 @@ Weakness to poison - is now under the illusion skill which fits lore that by con
 ### <p align="center"> RESTORATION
 
 #### Spells Restore Over Time
-Spells which Restore Health or Fatigue now do so over time instead of instantly on cast.
+Spells and potions which Restore Health or Fatigue now do so over time instead of instantly on cast.
 
 #### Turn Undead Restoration School 
 Ever noticed that Turn Undead spells are sold by priests yet classified under Conjuration? This is changed and now provides more offensive capability to this school and also fits its theme better.
