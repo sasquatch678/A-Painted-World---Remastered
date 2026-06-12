@@ -40,8 +40,8 @@ If you have ridden a horse, you will be granted a Horse Whistle power.
 
 ***
 ## <p align="center"> GODS & WORSHIP
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arboretum.png)
+***
 Show devotion to a Divine by visiting their Altars and Praying out in the world. As your devotion grows, their blessing will be stronger the next time you visit a chapel altar. Betray a Divine by praying to another, repeated betrayals have consequences. Divine blessings and prayers now last for an entire day.
 
 #### BLESSINGS
@@ -69,8 +69,8 @@ Wayshrines give tier 1 blessings, and due to their remoteness may be taken in se
 Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
 ***
 ## <p align="center"> JOBS
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/jobs.png)
+***
 Pick up a Job Contract from an innkeeper (buy) and read it. You will then have the choice between various jobs. Once you make your choice, the client will detail their request. If you accept, the contract begins! A Job Book will be given to you for your very first contract. This book contains various information to help you complete your contracts. The contract’s progress depends on the job: some require making deliveries, being proactive, having certain components, etc. Payment is collected upon reaching the delivery point (or directly on-site for certain jobs). The amount depends on the job type and the client (for example: a jeweler job for a wealthy client pays more than a harvester job for a poor client). Jobs are unlimited! You can do them as many times as you want.
 
 Job-related equipment can be purchased at Jensine's “Good as New” Merchandise in the Imperial City, Market District (items are restocked regularly; waiting a few hours is enough). You can also find the tools required to perform your jobs from the following NPCs:
@@ -97,8 +97,8 @@ Here are the jobs currently available:
 - **HUNTER** - Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
 ***
 ## <p align="center"> GAMBLING
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gambling.png)
+***
 You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
 
 ### GUESS HOW MANY SEPTIMS
@@ -113,8 +113,8 @@ Any NPC with a luck higher than 60 will give the option to play games at higher 
 > You could craft a custom spell to Fortify Luck on touch/target in order to always play at High Stakes. You could also Fortify your own Luck to increase your own chances of winning.
 ***
 ## <p align="center"> SURVIVAL (OPTIONAL)
-***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/survival.png)
+***
 Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
 #### HUNGER
 - Impact: Hunger affects your Endurance (maximum Health), reducing it to a minimum of ~20% of its base value.
