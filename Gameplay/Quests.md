@@ -89,6 +89,7 @@ Additionally, when you grab each reward bag RNG decides whether or not you recei
 <br/>
 ### <p align="center"> THE ARENA
 ***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arenadead.png)
 You may now loot your opponents in the Arena, however it is seen as dishonorable by the spectators and you will gain a point of infamy by doing so.
 #### Radiant Quests
 Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
@@ -96,7 +97,8 @@ Once the player becomes the Grand Champion of The Imperial City Arena, they gain
 ## <p align="center"> Additional Faction Quests
 
 ### <p align="center"> THE IMPERIAL LEGION
-
+***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/imperiallegion.png)
 After you complete the vanilla quest "Imperial Corruption" and successfully convict a corrupt Imperial Guard Captain, you will receive an offer to speak with Field Officer Leveilleur to officially join the Imperial Legion and receive your standard-issue equipment in the Armory. He will supply you with reading materials about the two potential assignment paths you can take in the Legion - Watch or Forestry.
 #### Radiant Quests
 ##### Imperial Watch - Arrest Warrants
@@ -123,6 +125,8 @@ As an Officer of Imperial Law, you possess the authority to charge Cyrodiil's Ci
 In order to decrease your Corruption Level, complete Outlaw Bounties or Arrest Warrants. Your Corruption Level will decrease by 5 for each one you complete, but it cannot go below 0.
 
 ### <p align="center"> ORDER OF THE VIRTUOUS BLOOD
+***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/virtuousblood.png)
 You must first finish The Order of the Virtuous Blood quest in the Imperial City Temple District. If you are not familiar with this fantastic quest, go to the Temple District and wait until you are approached by an NPC. Once you have joined The Order of The Virtuous Blood Faction, Vampire Hunting - Take Back the Night will begin. Once this quest begins, you will receive a new log entry and gain access to the Virtuous Blood Headquarters beneath Seridur's Basement (the door is in his basement).
 
 Inside of the Headquarters, you will meet three new Vampire Hunter NPCs - one is a Master Trainer in Blade, one is a Master Trainer in Blunt, and one is both a Merchant and a Master Trainer in Armorer. The new Merchant will sell Holy Plate Armor, and Holy Weapons, each of which deals 20 pts of Holy Damage on strike. Additionally, you will find a special Retort with which you can purify Vampire Dust into Holy Water (a unique poison that deals 20 pts of Holy Damage). Also inside of the Headquarters, you can find a list of Vampire Targets. When you interact with this list, you will be randomly assigned 1 of 100 radiant objectives. There is always a 50% chance you will be given a Quest to hunt down and root out a Vampire in a random town, or hunt down and destroy a Notorious Vampire in a random dungeon.
