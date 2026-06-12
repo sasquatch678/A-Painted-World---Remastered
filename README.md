@@ -36,7 +36,7 @@ Whether you're returning to Cyrodiil for another journey or experiencing Oblivio
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/forest.png)
 ## Installation
 ***
-Due to being a Wabbajack list installing A Painted World is painless and easy, taking a fraction of the time it would to create a modlist like this yourself. You will need to own a Steam copy of Oblivion GOTY Deluxe Edition before proceeding.
+Due to being a Wabbajack list installing A Painted World is painless and easy, taking a fraction of the time it would to create a modlist like this yourself. You will need to own a copy of Oblivion Remastered before proceeding (Deluxe or Base version is fine).
 </br>
 
 ### Pre-Installation
