@@ -93,7 +93,7 @@ Additionally, when you grab each reward bag RNG decides whether or not you recei
 You may now loot your opponents in the Arena, however it is seen as dishonorable by the spectators and you will gain a point of infamy by doing so.
 #### Radiant Quests
 Once the player becomes the Grand Champion of The Imperial City Arena, they gain access to infinitely repeatable arena fights for leveled gold. Go to The Imperial City Arena Bloodworks in The Imperial City and speak with Blademaster Owyn. Once the Ceaseless Combat quest begins and you speak with Owyn, he will have a brand new dialogue option available. Going through this new dialogue will grant the player access to Arena - Infinitum's endless Combatant and Monster Arena Match-Ups. <br/>
-
+***
 ## <p align="center"> Additional Faction Quests
 
 ### <p align="center"> THE IMPERIAL LEGION
