@@ -6,7 +6,7 @@ All birthsigns now have one passive ability and one lesser power which can be us
 Additionally, there are unique and flavorful greater powers added to the doomstones you can find around the map. These are intended to be very powerful spells you can use once per day, as a sort of ultimate ability you unlock through exploration for each birthsign. You may unlock a doomstone power even if the stone does not match your birthsign choice, but you may only ever have one at a time.
 
 ### <p align="center"> Combat
-
+***
 #### Lady
 - Birthsign: Nimble and versatile, the Lady grants 35 points of Fatigue, Restore Fatigue (2/s), and the lesser power Lady’s Riposte, reflecting incoming weapons and spells (40% for 30s), but damaging your Luck (2 points). Suited for tireless warriors who trade pure strength for greater stamina and the power to turn foes' strength against them.
 
@@ -27,7 +27,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Doomstone Power: Berserker Rage - Become a whirlwind of flesh and steel, fortifying your strength, blade, blunt, and hand to hand by 50 for 120 seconds. Each time you succumb to your rage you lose some of your humanity and become no better than the mindless beasts, damaging your intelligence by 10 points.
 
 ### <p align="center"> Magic
-
+***
 #### Apprentice 
 - Birthsign: Eager to learn but foolhardy, the Apprentice birthsign grants Restore Magicka (2/s), 10 Willpower, and the lesser power Apprentice's Folly, which greatly boosts Magicka regeneration (15/s for 30s) at the cost of damaged Intelligence (2 points).  Ideal for bold mages who value raw magical force and hasty spellcasting over careful control.
 
@@ -49,7 +49,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Doomstone Power: Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
 
 ### <p align="center"> Stealth
-
+***
 #### Lover 
 - Birthsign: Seductive and charming, the Lover birthsign grants 10 Personality, Speechcraft, Mercantile, and the lesser power Lover’s Kiss, which dispels magic effects on self (100 points) and charms (15 for 15s) but damages fatigue (50 points). Perfect for silver-tongued adventurers who use allure and wit to turn the tide—at the expense of their stamina.
 
@@ -69,7 +69,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 
 - Doomstone Power: Fortified Walls - Envelop yourself with spiked and impenetrable walls, reflecting 85% of incoming damage for 30s, but paralyze yourself for 15s.
 ### <p align="center"> Other
-
+***
 #### Serpent
 - Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which absorbs all attributes from a target (25 for 30s) but damages your Endurance (2 points). A sly and dangerous choice for those who strike swiftly and sap resources to survive.
 
