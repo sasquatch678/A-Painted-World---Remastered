@@ -91,6 +91,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Post-Installation :warning: **IMPORTANT**: YOUR GAME WILL NOT WORK OR CONSTANTLY CRASH UNLESS YOU DO THIS :warning:
 
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/doomstone2.jpg)
+
 ### Antivirus Exception
 
 Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow these instructions (https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
