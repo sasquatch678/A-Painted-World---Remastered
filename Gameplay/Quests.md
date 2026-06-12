@@ -18,10 +18,8 @@ Take the Silver Dagger from the podium and slay the captured Priest. This will m
 
 After completion of "The Cleansing" quest, the various Counts and Countesses of Cyrodiil will be marked unessential and available to kill. Upon the death of each one, Mehrunes Dagon will reward the player with a unique piece of equipment. This step is considered "optional", as many of these NPCs are critical to certain quests and the player may wish to keep them alive until such a time as their usefulness expires. 
 
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gnarl.png)
-
 ## <p align="center"> DLC Quests
-
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gnarl.png)
 ### Knights of the Nine
 Delayed until the player reaches level 10.
 
@@ -40,9 +38,10 @@ One of the quirks of Oblivion is that it's possible to become the Arch-mage of C
 <br/>
 
 
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/brumafightersguild.png)
+
 ### <p align="center"> FIGHTERS GUILD
 ***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/brumafightersguild.png)
 #### Skill Requirements
 You will need to focus on training a few of your combat skills to high levels: Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor,  and Armorer. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next.
 
@@ -65,9 +64,9 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 - Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
 - Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe. <br/>
 
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/thievesguild.png)
 ### <p align="center"> THIEVES GUILD
 ***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/thievesguild.png)
 #### Independent Thievery
 You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
@@ -80,10 +79,9 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
  <br/>
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you. <br/>
 
-
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
 ### <p align="center"> DARK BROTHERHOOD
 ***
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
 There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
 
 Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
