@@ -4,7 +4,7 @@
 All birthsigns now have one passive ability and one lesser power which can be used at will. All of the lesser powers are intended to be powerful but have some kind of penalty, forcing you think about when you use them. Damaged attributes will catch up to you quickly as these effects permanently damage an attribute until you use a restore attribute spell, potion, or pray at a wayshrine of the nine. <br/>
 
 Additionally, there are unique and flavorful greater powers added to the doomstones you can find around the map. These are intended to be very powerful spells you can use once per day, as a sort of ultimate ability you unlock through exploration for each birthsign. You may unlock a doomstone power even if the stone does not match your birthsign choice, but you may only ever have one at a time.
-
+***
 ### <p align="center"> Combat
 ***
 #### Lady
@@ -25,7 +25,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Birthsign: A warrior lives and dies by their sword. The Warrior grants 10 Strength and Shield, and the lesser power Warrior’s Battlecry, increasing enemy damage taken in an area by 25% but damaging your equipment (5 points). Ideal for bold fighters willing to sacrifice durability.
 
 - Doomstone Power: Berserker Rage - Become a whirlwind of flesh and steel, fortifying your strength, blade, blunt, and hand to hand by 50 for 120 seconds. Each time you succumb to your rage you lose some of your humanity and become no better than the mindless beasts, damaging your intelligence by 10 points.
-
+***
 ### <p align="center"> Magic
 ***
 #### Apprentice 
@@ -47,7 +47,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Birthsign: Righteous but bearing a dark secret, being born under the Ritual grants 10 Restoration, Conjuration, and Magic Resistance, and the lesser power Ritual’s Prayer, which cures all poisons and diseases, soul traps, and turns the dead (15s), but damages Health (5 for 5s). A sacred gift for those who endure pain to purge corruption, or embrace it.
 
 - Doomstone Power: Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
-
+***
 ### <p align="center"> Stealth
 ***
 #### Lover 
@@ -68,6 +68,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Birthsign: Steadfast and immovable, the Tower birthsign grants 15% Damage Reflection and the lesser power Tower’s Vigilance, which grants 50 points of Resist Normal Weapons, Detect Life and Night Eye (15s), but renders you immobile (Burden 1000 points for 5s). A powerful choice for those who stand firm and watch over the battlefield, trading mobility for keen awareness and defense.
 
 - Doomstone Power: Fortified Walls - Envelop yourself with spiked and impenetrable walls, reflecting 85% of incoming damage for 30s, but paralyze yourself for 15s.
+***
 ### <p align="center"> Other
 ***
 #### Serpent
