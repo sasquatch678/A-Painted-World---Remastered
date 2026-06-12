@@ -1,6 +1,17 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/chorrol.png)
 # <p align="center"> QUESTS
 
+<p align="center">
+[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-main-quest">Main Quest</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dlc-quests">DLC Quests</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-fighters-guild">Fighters Guild</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-mages-guild">Mages Guild</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-thieves-guild">Thieves Guild</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dark-brotherhood">Dark Brotherhood</a> |
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-arena">The Arena</a> |
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-imperial-legion">Imperial Legion</a> |
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Order of the Virtuous Blood</a> ]
+    
 In general adding new and expansive quests or greatly modifying existing quests isn't possible in the Remaster. But there have still been changes and additions to each major factions questline, as well as delays to the main DLCs so the player won't be spammed with quest entries after first starting a game.
 
 There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, or disabling the quest markers in settings, and still be able to find where you need to go.
