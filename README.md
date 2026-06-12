@@ -119,6 +119,7 @@ If you add any mods yourself or change major game functions through the ingame m
 ***
 
 ## Known Issues
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/obliviongate.jpg)
 Sometimes the game can crash when starting a new game. This is listed as a known issue on the Ultra Combat mod page. If it's being persistent, you can disable the mod in mo2 and make a new save, then close the game and re-enable it, and load your save.
 
 ## Updating the modlist
