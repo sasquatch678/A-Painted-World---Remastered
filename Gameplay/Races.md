@@ -3,8 +3,8 @@
 All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. In vanilla there are three types of runestones; Hestra, Reman, and Sidri-Ashak. Hestra augmentations are focused around magic and offense, Reman augmentations are focused around combat and defense, and Sidri-Ashak augmentations are focused around stealth, utility, and cooldown manipulation. This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones.
 ***
 ### Argonian
-﻿**Passive**: *Marsh Skin* - Poison Resistance 75% + Waterbreathing. <br/>
-﻿**Power**: *Caustic Spit* - Once per day paralyze a target for 10 seconds.
+﻿*Passive* - Marsh Skin - Poison Resistance 75% + Waterbreathing. <br/>
+*Power* - Caustic Spit - Once per day paralyze a target for 10 seconds.
 
 - ﻿Hestra: Caustic Spit now also makes the target 50% Weaker to Magic for 120 seconds.
 - ﻿Reman: Caustic Spit now also Restores 5 Health per second for 120 seconds.
@@ -12,8 +12,8 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Breton
 
-﻿*Passive*: Aldmeri Heritage - Magic Resistance 25% and Fortify Magicka 50 points. <br/>
-﻿*Power*: Dragon Skin - Once per day Shield yourself 50 points for 120 seconds.
+﻿*Passive* - Aldmeri Heritage - Magic Resistance 25% and Fortify Magicka 50 points. <br/>
+﻿*Power* - Dragon Skin - Once per day Shield yourself 50 points for 120 seconds.
 
 - ﻿Hestra: Dragon Skin now also gives 50% Magic Resistance for 120 seconds.
 - Reman: Dragon Skin now Reflects 50% of damage rather than Shield.
@@ -21,8 +21,8 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Dark Elf
 
-﻿*Passive*: Balanced Scales - When below 50% of your base Magicka, Fortify 25 points of Strength and Agility. When below 50% Fatigue, Fortify 25 points of Intelligence and Willpower. Also gain 50% Fire Resistance. <br/>
-﻿*Power*: Ancestor Guardian - Once per day Summon an Ancestor Guardian to protect you for 120s. (Ancestor Guardian now scales 1:1 with the player's level, has Fire Immunity in addition to it's existing Immunities, and casts a leveled fire spell instead of just snowball).
+﻿*Passive* - Balanced Scales - When below 50% of your base Magicka, Fortify 25 points of Strength and Agility. When below 50% Fatigue, Fortify 25 points of Intelligence and Willpower. Also gain 50% Fire Resistance. <br/>
+﻿*Power* - Ancestor Guardian - Once per day Summon an Ancestor Guardian to protect you for 120s. (Ancestor Guardian now scales 1:1 with the player's level, has Fire Immunity in addition to it's existing Immunities, and casts a leveled fire spell instead of just snowball).
 
 - ﻿Hestra: Ancestor Guardian now also creates a 15 yard radius fire storm that deals 10 damage per second for 10 seconds.
 - ﻿Reman: Ancestor Guardian now also gives you 25 points of Fire Shield for 120 seconds.
@@ -30,8 +30,8 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### High Elf
 
-﻿*Passive*: Naturalborn Talent - Fortify Magicka 75 points, Weakness to Elements 15% <br/>
-﻿*Power*: Highborn - Restore 10 magicka/s for 120 seconds.
+﻿*Passive* - Naturalborn Talent - Fortify Magicka 75 points, Weakness to Elements 15% <br/>
+﻿*Power* - Highborn - Restore 10 magicka/s for 120 seconds.
 
 - ﻿Hestra: Your Magicka is now Fortified 150 points.
 - ﻿Reman: Highborn now also gives 50 points of Spell Reflect for 120 seconds.
@@ -39,12 +39,12 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Imperial
 
-﻿*Passive*: Bulwark of Cyrodiil - Gain 10 points of Shield. <br/>
-﻿*Power*: Voice of the Emperor - Charm on target 30 points for 30 seconds.
+﻿*Passive* - Bulwark of Cyrodiil - Gain 10 points of Shield. <br/>
+﻿*Power* - Voice of the Emperor - Charm on target 30 points for 30 seconds.
 
-- ﻿Hestra: You gain the power Emperor's Madness, causing a target to be frenzied for 120 seconds.
-- ﻿Reman: You gain the power Emperor's Decree, commanding a target to obey for 120 seconds.
-- ﻿Sidri-Ashak: Voice of the Emperor is now a lesser power.
+- ﻿Hestra - You gain the power Emperor's Madness, causing a target to be frenzied for 120 seconds.
+- ﻿Reman - You gain the power Emperor's Decree, commanding a target to obey for 120 seconds.
+- ﻿Sidri-Ashak - Voice of the Emperor is now a lesser power.
 ***
 ### Khajiit
 
