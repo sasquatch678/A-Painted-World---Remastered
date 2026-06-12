@@ -43,18 +43,6 @@ You will need to focus on training a few of your combat skills to high levels: B
 
 ## <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/fgranks.png)
 
-| Rank   | Skill Requirements
-|:--------------:|:-------------:|
-|Associate| |
-|Apprentice| 3 Apprentice
-|Journeyman| 1 Journeyman
-|Swordsman|  2 Journeyman
-|Protector|  3 Journeyman
-|Defender|	 1 Expert
-|Warder	|  2 Expert
-|Guardian|  3 Expert
-|Champion|  1 Master
-
 #### Radiant Quests
 Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
 - Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor. <br/>
@@ -64,18 +52,7 @@ Once you join the Fighter's Guild, you can start accepting Contracts from small 
 #### Skill Requirements
 You will need to focus on training your magic skills to high levels. Your skills will be certified automatically via quest update when you reach a new threshold. Consult the quest in your journal if you are uncertain what is required next. Here are the ranks for the Mages Guild and the skill certifications required.
 
-|Rank	|Skill Requirements
-|:--------------:|:-------------:|
-|Associate||
-|Apprentice|	|	3 Apprentice
-|Journeyman|	1 Journeyman
-|Evoker|2 Journeyman
-|Conjurer	|3 Journeyman
-|Magician	|1 Expert
-|Warlock	|2 Expert
-|Wizard	|3 Expert
-|Master Wizard|1 Master
-|Arch-Mage| |
+## <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/mgranks.png)
 
 #### Radiant Quests
 In every Mages Guild Hall as well as the Arcane University, the player can find a Sealed Letter of priority Worm Cult targets identified by the Mages Council. These quests function exactly the same as Fighter's Guild Notorious Monster and Daedra Contracts. There are 100 unique targets, and the quest will reward filled leveled soul gems upon completion.
@@ -87,18 +64,7 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 #### Independent Thievery
 You will need to fence a higher value in stolen goods to progress in the Thieves Guild. The Thieves Guild works a little differently in that progressing the Independent Thievery quest unlocks a new special job at each stage, not necessarily a new rank. As such, each special job and the fenced amount requirement is listed below.
 
-|Special Job |Fence Requirements (gold)
-|:--------------:|:-------------:|
-|Untaxing the Poor|500|
-|The Elven Maiden|	1,000|
-|Ahdarji's Heirloom|	1,500
-|Misdirection|2,000
-|Lost Histories|2,500
-|Taking Care of Lex|3,000
-|Turning a Blind Eye|4,000
-|Arrow of Extrication|6,000
-|Boots of Springheel Jak|8,000
-|The Ultimate Heist| 10,000|
+## <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/tgranks.png)
 
 #### Radiant Quests
 Once you join the Thieves Guild, you can start accepting Jobs from the small wooden table tucked away in the Garden of Dareloth, hidden from the ever-watchful and steely gaze of The Imperial Legion. On the table are three items  - the Thieves Guild Drop Box, a sheet for Numbers Jobs, and a sheet for Special Requests.
