@@ -64,7 +64,7 @@ One of the quirks of Oblivion is that it's possible to become the Arch-mage of C
 <br/>
 
 
-
+***
 ### <p align="center"> FIGHTERS GUILD
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/brumafightersguild.png)
@@ -76,7 +76,7 @@ You will need to focus on training a few of your combat skills to high levels: B
 #### Radiant Quests
 Once you join the Fighter's Guild, you can start accepting Contracts from small wooden tables in every Fighter's Guild Hall in Cyrodiil. On each table will be a Contract to hunt a Notorious Monster, and a Contract to hunt a Notorious Daedra. Both Contract types reward 1 Fighter's Commendation, and a leveled Gold reward. Both Contract types can be accepted simultaneously, and are infinitely repeatable with 200 unique possible targets.
 - Fighter's Commendations can be used in the Training Hall of the Leyawiin Fighter's Guild Basement to train up your Combat Skills. These are not limited by level like regular Training sessions, and require four Fighter's Commendations per session. Once you have enough Commendations, you can activate the Sign-Up Sheet for any of the Combat Skills you'd like to train - Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, and Heavy Armor. <br/>
-
+***
 ### <p align="center"> MAGES GUILD
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/skingradmagesguild.png)
@@ -90,7 +90,7 @@ In every Mages Guild Hall as well as the Arcane University, the player can find 
 - Elixir Crafting and Deliveries can be done from the Library at the Anvil Mages Guild. Instructions on how to craft Elixirs are in a book on the Elixir Crafting table. Activating the Sealed Elixir Order will randomly assign the player 1 of 20 potential radiant quest objectives. Craft the requested number of whichever specific Elixir, then deliver it to the Delivery Box marked with a Quest Marker to receive a leveled Gold reward.
 - Beast Research is a more intricate but also very rewarding questline, which will unlock a system where the player can earn permanent Attribute buffs from studying the various different Monsters and Animals in Cyrodiil and beyond.
 - Finally, every Mages Guild Hall and the Arcane University has a receptacle for Necromancer Robe Recycling. Activating the chest will remove all Necromancer Robes from the player's inventory, and give them 100 (unleveled) Gold per Robe. <br/>
-
+***
 ### <p align="center"> THIEVES GUILD
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/thievesguild.png)
@@ -105,7 +105,7 @@ Once you join the Thieves Guild, you can start accepting Jobs from the small woo
 - Numbers Jobs are commissions the Thieves Guild has received from certain clients looking the cook the books for various businesses and other organizations.
  <br/>
 Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both of these operations are overseen by the Master Thief Winston Mallory, right hand of the Gray Fox himself. If you speak with Winston as a Thieves Guild member, he offers various helpful services in exchange for Fox's Favor. He also offers explanations regarding Special Requests and Numbers Jobs, in-case the player is curious how they work. If you speak with Winston as The Gray Fox, he will not offer his regular services, and will instead have special dialogue. If you speak with Winston as a non-member of the Thieves Guild, he will have nothing special to tell you. <br/>
-
+***
 ### <p align="center"> DARK BROTHERHOOD
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
@@ -113,6 +113,7 @@ There are no new requirements to progress in the Dark Brotherhood, however there
 
 Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
 <br/>
+***
 ### <p align="center"> THE ARENA
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arenadead.png)
@@ -149,7 +150,7 @@ As an Officer of Imperial Law, you possess the authority to charge Cyrodiil's Ci
 ﻿If you choose to do this, your Corruption Level will increase by 10 for each illegally-demanded Fine, and the game will inform you of your current Corruption level whenever it increases or decreases. If you really go out of control, and manage to reach a Corruption Level of 100, you will be permanently expelled from The Imperial Legion. This will remove any pending Warrants or Bounties, strip you of your ranks, and remove all Imperial Legion Infinitum content from the game, as well as slam you with an extremely heavy bounty. 
 
 In order to decrease your Corruption Level, complete Outlaw Bounties or Arrest Warrants. Your Corruption Level will decrease by 5 for each one you complete, but it cannot go below 0.
-
+***
 ### <p align="center"> ORDER OF THE VIRTUOUS BLOOD
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/virtuousblood.png)
