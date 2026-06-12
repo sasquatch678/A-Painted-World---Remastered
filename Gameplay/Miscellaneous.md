@@ -35,7 +35,7 @@ If you have ridden a horse, you will be granted a Horse Whistle power.
 
 Show devotion to a Divine by visiting their Altars and Praying out in the world. As your devotion grows, their blessing will be stronger the next time you visit a chapel altar. Betray a Divine by praying to another, repeated betrayals have consequences. Divine blessings and prayers now last for an entire day.
 
-#### Blessings
+#### BLESSINGS
 Blessings are received by visiting an altar, and build up a moderate amount of Devotion. Works similarly to vanilla, but scale the more you use them. The bonuses for each tier of devotion are listed below.
 
 | Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
@@ -50,13 +50,13 @@ Blessings are received by visiting an altar, and build up a moderate amount of D
 | Talos | +5 Strength | +10 Strength, Cure Disease & Restore Strength | +10 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand to Hand |
 | Zenithar | +5 Luck | +10 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck, +5 All skills
 
-#### Prayers
+#### PRAYERS
 Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
 
-#### Wayshrines
+#### WAYSHRINES
 Wayshrines give tier 1 blessings, and due to their remoteness may be taken in secret. Builds a small amount of Devotion. Less powerful than an altar blessing, but can be taken whenever you run across one on an adventure without fear of triggering a betrayal
 
-#### Betrayal
+#### BETRAYAL
 Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
 
 ## <p align="center"> JOBS
@@ -75,33 +75,33 @@ Job Contracts are available from innkeepers at regular intervals (a few hours). 
 
 Here are the jobs currently available:
 
-#### Harvester:
+#### HARVESTER
 ﻿
 You must harvest the grapes and then make the delivery for multiple clients. Equip the Harvest Basket, head to the vineyards near Skingrad (southwest of Skingrad), and crouch to start harvesting. You don’t need to interact directly with the vines.
 
-#### Jeweler:
+#### JEWELER
 
 Craft various types of jewelry and deliver them afterwards. This job pays more due to the rarity of its materials. Equip the Jewelry Pliers, then sit down to start working. May require: Gold Nugget, Silver Nugget, and gems (not flawed/flawless).
 
-#### Painter:
+#### PAINTER
 ﻿
 Clients appreciate art. Paint different artworks and bring them directly to the client. It pays less than jewelry, but the materials are easier to find. Equip the Painting Kit, then sit down to start working. May require: Flax Seeds, Bonemeal, Lady’s Smock Leaves, Redwort Flower, Morning Glory Root Pulp, Aloe Vera Leaves, Troll Fat, Nightshade, Flame Stalk, Somnalius Frond, Alkanet Flower, Wormwood Leaves, Green Stain Cup Cap.
 
-#### Builder:
+#### BUILDER
 
 Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site. Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing. This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
 
-#### Hunter:
+#### HUNTER
 
 Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
 
 ## <p align="center"> GAMBLING
 You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
 
-- Guess How Many Septims:
+### GUESS HOW MANY SEPTIMS
 Pretty much what the title suggests. There are two variations of the game. One where the NPCs hide up to five Septims in their hand and another version where you hide up to five Septims in your hand. The first version depends on your real life luck, meaning there is only one right choice. The second version depends on the NPCs luck. The payout is the choice selected, not the actual septims in hand. Meaning if you thought he had 3 septims, you will pay 3 septims and vice versa.
 
-- Double or Nothing:
+### DOUBLE OR NOTHING
 Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
 
 - High Stakes:
