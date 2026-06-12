@@ -1,4 +1,3 @@
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/goldcoast.jpg)
 # <p align="center"> MISCELLANEOUS
 
 ## <p align="center"> TRAVEL
