@@ -75,25 +75,15 @@ Job Contracts are available from innkeepers at regular intervals (a few hours). 
 
 Here are the jobs currently available:
 
-#### HARVESTER
-﻿
-You must harvest the grapes and then make the delivery for multiple clients. Equip the Harvest Basket, head to the vineyards near Skingrad (southwest of Skingrad), and crouch to start harvesting. You don’t need to interact directly with the vines.
+- **HARVESTER** - You must harvest the grapes and then make the delivery for multiple clients. Equip the Harvest Basket, head to the vineyards near Skingrad (southwest of Skingrad), and crouch to start harvesting. You don’t need to interact directly with the vines.
 
-#### JEWELER
+- **JEWELER** - Craft various types of jewelry and deliver them afterwards. This job pays more due to the rarity of its materials. Equip the Jewelry Pliers, then sit down to start working. May require: Gold Nugget, Silver Nugget, and gems (not flawed/flawless).
 
-Craft various types of jewelry and deliver them afterwards. This job pays more due to the rarity of its materials. Equip the Jewelry Pliers, then sit down to start working. May require: Gold Nugget, Silver Nugget, and gems (not flawed/flawless).
+- **PAINTER** - Clients appreciate art. Paint different artworks and bring them directly to the client. It pays less than jewelry, but the materials are easier to find. Equip the Painting Kit, then sit down to start working. May require: Flax Seeds, Bonemeal, Lady’s Smock Leaves, Redwort Flower, Morning Glory Root Pulp, Aloe Vera Leaves, Troll Fat, Nightshade, Flame Stalk, Somnalius Frond, Alkanet Flower, Wormwood Leaves, Green Stain Cup Cap.
 
-#### PAINTER
-﻿
-Clients appreciate art. Paint different artworks and bring them directly to the client. It pays less than jewelry, but the materials are easier to find. Equip the Painting Kit, then sit down to start working. May require: Flax Seeds, Bonemeal, Lady’s Smock Leaves, Redwort Flower, Morning Glory Root Pulp, Aloe Vera Leaves, Troll Fat, Nightshade, Flame Stalk, Somnalius Frond, Alkanet Flower, Wormwood Leaves, Green Stain Cup Cap.
+- **BUILDER** - Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site. Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing. This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
 
-#### BUILDER
-
-Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site. Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing. This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
-
-#### HUNTER
-
-Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
+- **HUNTER** - Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
 
 ## <p align="center"> GAMBLING
 You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
