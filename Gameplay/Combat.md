@@ -2,11 +2,11 @@
 ***
 # <p align="center"> COMBAT
 <p align="center">
-[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-destruction">Weapons</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-conjuration">Dodging</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-mysticism">Block</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-alteration">Marksman</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-illusion">SloMo</a> ]
+[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#weapons">Weapons</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#dodging">Dodging</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#block">Block</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#marksman">Marksman</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#slowmo">SloMo</a> ]
 </p>
 Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive.
 
