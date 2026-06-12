@@ -29,9 +29,10 @@ Whether you're returning to Cyrodiil for another journey or experiencing Oblivio
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/forest.png)
 ## Installation
 Due to being a Wabbajack list installing A Painted World is painless and easy, taking a fraction of the time it would to create a modlist like this yourself. You will need to own a Steam copy of Oblivion GOTY Deluxe Edition before proceeding.
-
+</br>
 >[!IMPORTANT]
 >The following steps are required to be completed before downloading A Painted World.
+
 ### Pre-Installation
 
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
