@@ -109,6 +109,7 @@ Both Job types will reward the player with leveled gold, and 1 Fox's Favor. Both
 ### <p align="center"> DARK BROTHERHOOD
 ***
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
+
 There are no new requirements to progress in the Dark Brotherhood, however there are 200 new radiant contracts. Once you've officially joined The Dark Brotherhood and have gained access to the Dark Brotherhood Sanctuary, near the Well exit you will find a small table, two Sealed Contract documents, and a Bonus Reward chest. Regardless of your Rank in The Dark Brotherhood, or the status of the Sanctuary's inhabitants, you can always accept a new Contract from this table. You can accept a regular Contract and a High Priority Contract at the same time. Upon completion, two sacks of gold are waiting on the same small table where you accepted the Contracts to begin with. Interacting with the bags will give gold, and make the next Contracts available. <br/>
 
 Additionally, when you grab each reward bag RNG decides whether or not you receive a Bonus Item for either Contract. The chance is low, but If you turn in both Contracts at the same time, there is a 50% chance at least one item will be given as a Bonus. If you're ever really lucky, you'll receive multiple items as a Bonus. Not all Bonus items are as awesome as others. Some are great, some are not. Keep doing Contracts to see what you get in addition to your gold - if anything.
