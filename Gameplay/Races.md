@@ -1,16 +1,17 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/imperialcity.png)
 # <p align="center"> RACES
 <p align="center">
-[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-main-quest">Argonian</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dlc-quests">Breton</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-fighters-guild">Dark Elf</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-mages-guild">High Elf</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-thieves-guild">Imperial</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dark-brotherhood">Khajiit</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-arena">Nord</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-imperial-legion">Orc</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Redguard</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Wood Elf</a> |
+[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#argonian">Argonian</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#breton">Breton</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#dark-elf">Dark Elf</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#high-elf">High Elf</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#imperial">Imperial</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#khajiit">Khajiit</a> |
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#nord">Nord</a> |
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#orc">Orc</a> |
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#redguard">Redguard</a> |
+    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#wood-elf">Wood Elf</a> ]
+  
 All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones. In vanilla there are three types of runestones; Hestra, Reman, and Sidri-Ashak.
 - Hestra augmentations are focused around magic and offense, and are believed to be named for the late First Era Empress Hestra.
 - Reman augmentations are focused around combat and defense. Almost certainly named for Reman Cyrodiil, the First Era emperor.
