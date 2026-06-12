@@ -97,7 +97,7 @@ Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will g
 - High Stakes:
 Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
 
-## <p align="center"> SURVIVAL
+## <p align="center"> SURVIVAL (OPTIONAL)
 
 Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
 #### HUNGER
