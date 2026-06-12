@@ -4,7 +4,7 @@ All races now have one passive and one greater power which can be augmented by t
 - Hestra augmentations are focused around magic and offense.
 - Reman augmentations are focused around combat and defense.
 - Sidri-Ashak augmentations are focused around stealth, utility, and cooldown manipulation. </br>
-This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones.
+</br>This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones.
 ***
 ### Argonian
 ﻿*Passive* - Marsh Skin - Poison Resistance 75% + Waterbreathing. <br/>
