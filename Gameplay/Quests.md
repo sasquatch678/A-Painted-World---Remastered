@@ -20,7 +20,7 @@ This modlist tries to strike a balance. It removes some of the quest markers onl
 
 ---
 
-How quest markers work now?
+**How do quest markers work now?**
 
 - If you need to find an item or kill something in a cave or dungeon, the quest marker will show the location of the dungeon but will not point to the item or enemy directly; the quest marker will not be shown inside the dungeon.
 - For finding items in houses and other public areas, the quest marker will guide you to the building but not the exact item position. Exceptions: when the stuff you need to find is too generic, like a specific desk you need to place an item in which is not really different from other containers in the location
