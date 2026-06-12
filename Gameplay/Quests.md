@@ -1,6 +1,6 @@
 ***
-# <p align="center"> QUESTS
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/chorrol.png)
+# <p align="center"> QUESTS
 ***
 <p align="center">
 [ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-main-quest">Main Quest</a> |
