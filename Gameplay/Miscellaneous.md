@@ -94,7 +94,7 @@ Pretty much what the title suggests. There are two variations of the game. One w
 ### DOUBLE OR NOTHING
 Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
 
-- High Stakes:
+### HIGH STAKES
 Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
 
 ## <p align="center"> SURVIVAL (OPTIONAL)
