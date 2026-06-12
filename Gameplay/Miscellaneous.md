@@ -1,4 +1,4 @@
-#MISCELLANEOUS
+# MISCELLANEOUS
 <p align="center">
 [ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-destruction">Travel</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Magic.md#-conjuration">Gods & Worship</a> |
