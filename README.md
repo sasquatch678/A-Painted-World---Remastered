@@ -105,12 +105,9 @@ Open the installation folder and double-click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Play` and press the `Run` button.
 
-## Optional Mods - Ultrawide Support & Performance
+## Optional Mods - Ultrawide Support, Leveling Options, & More!
 
 A Painted World - Remastered comes with several customization options. 
-
->[!TIP]
->You don't need to mess with the load order after changing any of these options. They have already had been patched for the rest of the modlist where applicable.
 
 There is ultrawide support under the "ULTRAWIDE SUPPORT" section of Mod Organizer 2. Be sure to disable the 16x9 version of the mods in this section for full support.
 
@@ -119,6 +116,9 @@ If you own the Deluxe Edition of the game, you should enable the Unofficial Obli
 By default Simple Fast Start is enabled as an alternate start mod, disable it if you wish to play through the opening sewer sequence.
 
 No Fast Travel Remastered can be enabled if you want to play without fast travel (there are alternate methods of travel in the list).
+
+>[!TIP]
+>You don't need to mess with the load order after changing any of these options. They have already had been patched for the rest of the modlist where applicable.
 
 If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
