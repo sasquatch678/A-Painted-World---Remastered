@@ -49,15 +49,15 @@ Blessings are received by visiting an altar, and build up a moderate amount of D
 
 | Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
 |:--------------:|:-------------:|:-------------:|:-------------:|
-| Akatosh | Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed | +15 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor |
-| Arkay | Cure Disease | +10 Endurance, Cure Disease | +15 Endurance, Cure Disease, Restore Heath (1/s) |
-| Dibella | Cure Disease & Restore Personality | +10 Personality, Cure Disease & Restore Personality | +15 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
-| Julianos | Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +15 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
-| Kynareth | Cure Disease & Restore Agility | +10 Agility, Cure Disease & Restore Agility | +15 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman |
-| Mara | Cure Disease & Restore Willpower | +10 Willpower, Cure Disease & Restore Willpower | +15 Willpower, Cure Disease & Restore Willpower, +10 Alteration, Destruction, Restoration |
-| Stendarr | Cure Disease & Restore Endurance | +10 Armor Rating, Cure Disease & Restore Endurance | +15 Armor Rating, Cure Disease & Restore Endurance, +10 Armorer, Block, Heavy Armor |
-| Talos | Cure Disease & Restore Strength | +10 Strength, Cure Disease & Restore Strength | +15 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand to Hand |
-| Zenithar | Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck, +5 All skills
+| Akatosh | +5 Speed, Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed | +15 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor |
+| Arkay | +5 Endurance, Cure Disease | +10 Endurance, Cure Disease | +15 Endurance, Cure Disease, Restore Heath (1/s) |
+| Dibella | +5 Personality, Cure Disease & Restore Personality | +10 Personality, Cure Disease & Restore Personality | +15 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
+| Julianos | +5 Intelligence, Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +15 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
+| Kynareth | +5 Agility, Cure Disease & Restore Agility | +10 Agility, Cure Disease & Restore Agility | +15 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman |
+| Mara | +5 Willpower, Cure Disease & Restore Willpower | +10 Willpower, Cure Disease & Restore Willpower | +15 Willpower, Cure Disease & Restore Willpower, +10 Alteration, Destruction, Restoration |
+| Stendarr | +5 Armor Rating, Cure Disease & Restore Endurance | +10 Armor Rating, Cure Disease & Restore Endurance | +15 Armor Rating, Cure Disease & Restore Endurance, +10 Armorer, Block, Heavy Armor |
+| Talos | +5 Strength, Cure Disease & Restore Strength | +10 Strength, Cure Disease & Restore Strength | +15 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand to Hand |
+| Zenithar | +5 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck, +5 All skills
 
 #### PRAYERS
 Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
