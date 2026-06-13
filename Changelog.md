@@ -1,5 +1,26 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+## **1.1.4**
+
+**Added**
+- Chillrend Remastered
+- DB Quick Entrance Fix
+- Turpentine - only 4 patches enabled, no more performance hit
+- Sambuca's Creatures Overhaul - only the reach changes
+- Less White Faded Wraith
+- Advanced Followers Remastered - heavily tweaked
+
+**Changes**
+- reduced xp rewarded from lockpicking in Mad Experience
+- removed war axes from the Practical Arsenal series
+- headshots will no longer cause stagger, was too easy to perma stunlock enemies
+- tier 1 blessings now include cure disease and restore attribute to make these effects more accessible with the birthsign system
+- tier 3 blessings now fortify their respective attribute by 15 points (was 10) in addition to their other effects
+- deluxe edition quest rumors can no longer be heard until the player completes Dagon Shrine
+
+**Bugfixes**
+- fixed all faction starts not adding needed dialogue topics that were required to proceed with the faction quests
+
 ## **1.1.3**
 
 **Added**
