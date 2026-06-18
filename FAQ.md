@@ -1,3 +1,4 @@
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/weynonprioryroad.png)
 # <p align="center"> FAQ
 
 **The game crashes or freezes when I launch/click new game.** </br>
