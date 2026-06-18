@@ -13,9 +13,9 @@
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#wood-elf">Wood Elf</a> ]
   
 All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones. In vanilla there are three types of runestones; Hestra, Reman, and Sidri-Ashak.
-- Hestra augmentations are focused around magic and offense, and are believed to be named for the late First Era Empress Hestra.
-- Reman augmentations are focused around combat and defense. Almost certainly named for Reman Cyrodiil, the First Era emperor.
-- Sidri-Ashak augmentations are focused around stealth, utility, and cooldown manipulation. Thought to be named for an obscure Akaviri potentate, Sidri-Ashak.
+- Hestra stones are believed to be named for the late First Era Empress Hestra. These augmentations are focused around magic and offense.
+- Reman stones are almost certainly named for Reman Cyrodiil, the First Era emperor. These augmentations are focused around combat and defense.
+- Sidri-Ashak stones are thought to be named for an obscure Akaviri potentate, Sidri-Ashak. These augmentations are focused around stealth, utility, and cooldown manipulation.
 
 ***
 ### Argonian
