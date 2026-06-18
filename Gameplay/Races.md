@@ -103,7 +103,7 @@ All races now have one passive and one greater power which can be augmented by t
 ﻿*Passive* - Roots of Valen - While outdoors, Restore 1 point of Health, Fatigue, and Magicka per second, and gain Resist Disease 75%. <br/>
 ﻿*Power* - Beast Tongue - Command a Creature to fight under your control for 360 seconds.
 
-- ﻿Hestra - Beast Tongue now lasts 600s, gives 50% Magic Resistance to the creature for the duration, and 25% Magic Resistance to you for 1200s.
+- ﻿Hestra - Beast Tongue now lasts 600s, gives 50% Magic Resistance to the creature for the duration, and 25% Magic Resistance to you for 120s.
 - ﻿Reman - Beast Tongue now lasts 600s, Restores 2 points of Health and Fatigue/s to the creature for the duration, and also Restores 2 points of ﻿Health and Fatigue/s to you for 120 seconds.
 - Sidri-Ashak - Beast Tongue now lasts 1200s and is a lesser power.
 ***
