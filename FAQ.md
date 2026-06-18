@@ -1,4 +1,4 @@
-# FAQ
+<p align="center"> # FAQ
 
 **The game crashes or freezes when I launch/click new game.** </br>
 Make a backup of everything in Documents\My Games\Oblivion Remastered and then delete everything in this location to force the game to recompile shaders.
