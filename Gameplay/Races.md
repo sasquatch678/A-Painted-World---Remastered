@@ -65,7 +65,7 @@ All races now have one passive and one greater power which can be augmented by t
 ### Khajiit
 
 ﻿*Passive* - Feline Grace - Gain 25 points of Speed and 50 points of Detect Life while sneaking. <br/>
-﻿*Power* - Prowl - Gain Night Eye and Invisibility for 120 seconds.
+﻿*Power* - Prowl - Gain Invisibility for 120 seconds.
 
 - ﻿Hestra - You now gain 50 points of Speed and 100 points of Detect Life while sneaking.
 - ﻿Reman - Prowl now also Fortifies your Agility by 50 points for 120 seconds.
