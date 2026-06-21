@@ -1,5 +1,74 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+## **1.1.5**
+
+**Added**
+- GSLoader (UE5 Game Settings Loader)
+- Denizens of Cyrodiil - All-in-One - also integrated with follower patch so these npcs can be recruited
+- UE4SS Easy Tweaks
+- Loot Glow
+- Time on HUD
+- AHP Cute Rats
+- Blackwater Blade Fix
+- Reworked Race Relations Remastered
+- Disable Annoying Clipping Objects (Bliss Fountain plus Fort Linchal)
+- The Necromancers Amulet Quest Fix
+- Tempering Armor and Weapons - integrated with Smithing mod, added Smithing section to gameplay guide
+- Better Origin Descriptions
+- Spell Damage Scaling - UE4SS
+- Pleasing Palettes - Dark Green Shirt
+- Amelion's Paladin Armor (1.2 Updated)
+- Daedric Quests - Fame Requirements
+- Oblivion Music Legend - Chapter One - Echoes of the Past
+- Faster Sleep and Wait - OBSE - conflicts with sleep system in Core Survival, added note to disable if using Core Survival
+
+**Removed**
+- Runtime EditorIDs (Console)
+- Sha'dar - Panther Companion (Creature follower)
+- Dynamic AI Behavior - Animals
+- Core Survival Sound Addon
+- True Bleed
+
+**Updated**
+- Core Survival
+
+**Changes**
+- the "Play" button now launches GSLoader, which in turn launches MagicLoader, which in turn launches OBSE. This does add about 10-15 seconds to the games boot time, but it also allows me to include modifications to game settings on the unreal side of things which previously was not possible without adding additional manual steps for you all.
+- merged 46 plugins to make space for new additions as well as for people adding their own mods
+- rebalanced difficulty settings to bring them each closer together and to utilize the full range of options. higher levels are actually playable - Master works out to be similar to the current Journeyman
+- reduced damage of many creature enemies in the unleveled patch since these values were calibrated by the original mod author for a different set of rebalancing mods than what APWR uses
+- increased player and horse movement speeds by ~10%
+- reduced spellmaking and enchanting gold costs by ~15%
+- increased swim speed in heavy armor by 15%
+- the chance to recover arrows from corpses has been reduced to 50%
+- there is no more delay to fatigue, magicka, or health regen
+- passive health regen is reduced by 25%
+- base magicka regen has been reduced by 25%, but the multiplier willpower has on the formula has been increased by 25% to make this attribute more attractive
+- enemies will now suffer a slight knockback when hit with a melee weapon, increasing with your strength
+- magic projectiles move 25% faster
+- Restore Attribute can no longer be used in spellmaking or enchanting, and can no longer be purchased from spell vendors. With how powerful some birthsign lesser powers are, it doesn't make sense to allow the damaged attributes to be restored with a simple spell that can be infinitely recast. The intended gameplay loop is that you regularly visit chapels to restore attributes, or stock up on potions. You can also still use the greater power from the Lady Doomstone to fully restore all attributes once per day.
+- intelligence now also scales your damage with spells and enchantments by 0.5% per level
+- willpower now also increases your damage with staves by 0.5% per level
+- Birthsigns which damage an attribute have had this damage increased to 3 per use (was 2)
+- the Tower's passive damage reflection has been reduced to 10% (was 15%). The associated doomstone power has been reduced to 75% damage reflection (was 85%)
+- Mage's Brilliance now Fortifies Intelligence by 100 points intead of Fortifying Magicka 250 points. This is to allow the power to now scale your spell damage instead of just adding to your available pool.
+- Lover's Kiss now Calms any enemy for 10s, rather than 15 points of Charm for 15s.
+- Ritual's Prayer now cures poison and disease, deals Holy Fire (fire+light) damage, turns the undead, and causes 25% weakness to fire over 10 seconds in a small area; no longer soul traps. The associated doomstone greater power now soul traps in an area in addition to its previous effects.
+- Serpent's Bite now causes paralysis for 5 seconds. The associated doomstone power Star Curse now absorbs all attributes by 50 points for 120s and causes 500% weakness to poison on touch.
+- Shadow's Prowl now also blinks the player to where the reticle is aimed.
+- interacting with a Smithing Anvil will now give an option to temper your equipment, granting 10 points of Shield, Fortify Blade, Fortify Blunt, and Fortify Marksman for 15 minutes.
+- the penalty to being detected while summoning daedra now only occurs after the kvatch oblivion gate has been closed, and to prevent cheesing the new daedric quest requirements it modifies disposition with the detecting npc instead of granting a point of infamy
+- the Hunting Grounds for Hircine's daedric quest now play dungeon music instead of exploration music to better fit the atmosphere
+- "Shield" sigil stones now grant more armor rating than their elemental shield counterparts, since elemental shields also grant resistance to that element and deal aoe damage
+- removed mace and warhammer models from the practical arsenal series
+
+**Bugfixes**
+- fixed an issue causing wolves and some other animals to lose most of their aggression
+- fixed the random coin clanking sound at the fountain in Mania
+- removed detect life from Khajiit Prowl power to prevent bug which caused the purple detect life screen overlay to appear even when an npc cast the power
+- fixed charm spells having a ridiculous magicka cost
+- MCM is now opened with F10 to avoid a bug which could prevent closing the inventory
+
 ## **1.1.4**
 
 **Added**
