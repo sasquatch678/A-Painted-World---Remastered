@@ -72,8 +72,8 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 ### <p align="center"> Other
 ***
 #### Serpent
-- Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which paralyzes on touch (5s) but damages your Endurance (3 points). A sly and dangerous choice for those who strike swiftly and sap resources to survive.
+- Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which paralyzes on touch (5s) but damages your Endurance (3 points). A sly and dangerous choice for those who seize opportunity to strike swiftly and sap resources to survive.
 
-- Doomstone Power: Star Curse - Curse a target with 500% weakness to poison for 60s and paralyze them for 5s, but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 60s.
+- Doomstone Power: Star Curse - Curse a target with 500% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
 
 
