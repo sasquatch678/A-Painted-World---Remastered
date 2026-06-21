@@ -58,7 +58,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 #### Shadow 
 - Birthsign: Elusive and calculating, those born under the Shadow gain 10 Agility and Sneak, and the lesser power Shadow’s Prowl, gaining Invisibility (60s) and teleport to an area, but at the cost of damaged Speed (3 points). Perfect for elusive operatives who favor subtlety over swiftness in the art of infiltration.
 
-- Doomstone Power: Aspect of Terror - Demoralize targets in a 100 yard radius causing them to run in fear for 60s. In doing so you lose your ability to sneak, creating a 600 yard area of light centered on yourself for the duration.
+- Doomstone Power: Aspect of Terror - Demoralize targets in a 100 yard radius causing them to run in fear for 60s. In doing so you lose your ability to sneak, creating a 100 yard area of light centered on yourself for the duration.
 #### Thief
 - Birthsign: Nimble and dexterous, the Thief grants 15 Luck and the lesser power Thief’s Spree, fortifying Acrobatics and Security (50 points) and granting Telekinesis (30 yards) for 30s, but at the cost of damaged Personality (3 points). Perfect for swashbuckling rogues who rely on chance and fate to navigate dangerous paths.
 
