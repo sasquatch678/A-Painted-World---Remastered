@@ -99,10 +99,15 @@ Here are the jobs currently available:
 ## <p align="center"> SMITHING
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/smithing.png)
 ***
-***SMITHING CHEST*** - Every Smithing Workstation has its own special Smithing Chest, where you store all the items you want the Leather Rack or Equipment Smelter to process. All Smithing Chests are safe containers, so no worries about vanishing items!
-***SMITHING ANVIL*** - Interacting with the Smithing Anvil will open the UE4SS Smithing Menu, where you can navigate by tabbing and scrolling to find your desired item. You can only craft one item at a time, and it checks the player's inventory for required materials - it does not check the Smithing Chest.
-**EQUIPMENT SMELTER*** - With the Equipment Smelter, you can melt down all non-unique Vanilla Armor and Weapons into materials with which you can craft new items. The Smelter at every workstation will check its specific workstation's Smithing Chest for items to melt down. Salvaged materials are deposited into the player's inventory. 
-***LEATHER RACK*** - Here you can process Wolf Pelts, Bear Pelts, Lion Pelts, Scamp Skin, and Daedra Silk. Every Leather Rack will check its specific workstation's Smithing Chest for materials to process. Crafted items are deposited into the player's inventory.
+There are smithing stations placed in each major city, usually in blacksmith shops. Anywhere that used to drop gold and silver nuggets in the vanilla game can now drop additional ores used in the smithing system. There are also Rich Ore Veins which contain more materials than a regular Ore Vein and with a higher chance at more rare materials.
+
+**SMITHING CHEST** - Every Smithing Workstation has its own special Smithing Chest, where you store all the items you want the Leather Rack or Equipment Smelter to process. All Smithing Chests are safe containers, so no worries about vanishing items!
+
+**SMITHING ANVIL** - Interacting with the Smithing Anvil will give you a choice to temper or smith. If you choose to temper, you will gain a small armor and weapon damage buff for 15 minutes. If you choose to smith, it will open the UE4SS Smithing Menu, where you can navigate by tabbing and scrolling to find your desired item. You can only craft one item at a time, and it checks the player's inventory for required materials - it does not check the Smithing Chest.
+
+**EQUIPMENT SMELTER** - With the Equipment Smelter, you can melt down all non-unique Vanilla Armor and Weapons into materials with which you can craft new items. The Smelter at every workstation will check its specific workstation's Smithing Chest for items to melt down. Salvaged materials are deposited into the player's inventory. 
+
+**LEATHER RACK** - Here you can process Wolf Pelts, Bear Pelts, Lion Pelts, Scamp Skin, and Daedra Silk. Every Leather Rack will check its specific workstation's Smithing Chest for materials to process. Crafted items are deposited into the player's inventory.
 ***
 ## <p align="center"> GAMBLING
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gambling.png)
