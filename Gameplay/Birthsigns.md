@@ -51,7 +51,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 ### <p align="center"> Stealth
 ***
 #### Lover 
-- Birthsign: Seductive and charming, the Lover birthsign grants 10 Personality, Speechcraft, Mercantile, and the lesser power Lover’s Kiss, which dispels magic effects on self and on touch (100 points) and calms enemies (5s) but damages fatigue (50 points). Perfect for silver-tongued adventurers who use allure and wit to turn the tide—at the expense of their stamina.
+- Birthsign: Seductive and charming, the Lover birthsign grants 10 Personality, Speechcraft, Mercantile, and the lesser power Lover’s Kiss, which dispels magic effects on self and on touch (100 points) and calms enemies (10s) but damages fatigue (50 points). Perfect for silver-tongued adventurers who use allure and wit to turn the tide—at the expense of their stamina.
 
 - Doomstone Power: Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
   
