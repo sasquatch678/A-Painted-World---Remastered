@@ -46,7 +46,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 #### Ritual 
 - Birthsign: Righteous but bearing a dark secret, being born under the Ritual grants 10 Restoration, Conjuration, and Magic Resistance, and the lesser power Ritual’s Prayer, which cures all poisons and diseases, deals holy fire (fire + light) damage over time, and turns the dead (15s), but damages Health (5 for 5s). A sacred gift for those who endure pain to purge corruption, or embrace it.
 
-- Doomstone Power: Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
+- Doomstone Power: Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, soul trap in an area, and reanimate on touch for the duration of the drain effect.
 ***
 ### <p align="center"> Stealth
 ***
