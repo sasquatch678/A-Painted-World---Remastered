@@ -39,7 +39,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 - Doomstone Power: Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
 
 #### Mage
-- Birthsign: Boasting a natural talent for spellcasting, the Mage grants 50 Magicka, 10 Intelligence, and the lesser power Mage’s Brilliance, fortifying magicka (250 points for 30s) at the cost of damaged Willpower. (3 points). Ideal for gifted spellcasters who burn bright, even if briefly.
+- Birthsign: Boasting a natural talent for spellcasting, the Mage grants 50 Magicka, 10 Intelligence, and the lesser power Mage’s Brilliance, fortifying intelligence (100 points for 30s) at the cost of damaged Willpower. (3 points). Ideal for gifted spellcasters who burn bright, even if briefly.
 
 - Doomstone Power: Elemental Triune - Conjure a massive storm of elemental power, dealing 10 points of fire, frost, and shock damage in a 75 yard radius for 60 seconds. The storm batters your own defenses, causing you to be 50% weaker to the elements for the duration.
 
