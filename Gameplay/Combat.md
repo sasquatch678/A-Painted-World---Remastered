@@ -10,7 +10,8 @@
 </p>
 The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
 
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillamultipliers.png)![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/apwrmultipliers.png)
+<p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillamultipliers.png)
+<p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/apwrmultipliers.png)
 
 Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive. </br>
 
