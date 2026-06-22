@@ -9,11 +9,11 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#slowmo">SloMo</a> ]
 </p>
 The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
-
-#### <p align="center"> VANILLA
-#### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillascaling.png)
 >[!TIP]
 >You can configure these multipliers by pressing F10 and navigating the MCM ingame.<br/>
+#### <p align="center"> VANILLA
+#### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillascaling.png)
+
 #### <p align="center"> APWR
 #### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/apwrscaling.png)
 
