@@ -32,7 +32,7 @@ Because of all of this, combat should feel quick, lethal, and fair for both the 
 ***
 No more different modeled paddles! Blunt weapons tend to have high base damage, but low reach and low speed. Blade weapons have higher reach and speed, but lower base damage.
 
-All weapons can now cause stagger, bleed damage, and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to cause bleed and critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
+All weapons can now cause stagger and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
 
 - Can perform power attacks with one button (default mouse button 4) instead of holding left click.
 - 10% to 30% damage buff on counter attacks from Perfect Dodge/Block within 5s window.
