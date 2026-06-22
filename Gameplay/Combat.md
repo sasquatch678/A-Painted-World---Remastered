@@ -9,13 +9,8 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#slowmo">SloMo</a> ]
 </p>
 The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
-
-**Novice** - +100% damage dealt, -50% damage taken (Vanilla is +500% damage dealt, -84% damage taken)
-**Apprentice** - +66% damage dealt, -40% damage taken (Vanilla is +250% damage dealt, -72% damage taken)
-**Adept** - +33% damage dealt, -33% damage taken (Vanilla is +0% damage dealt, +0% damage taken)
-**Journeyman** - +0% damage dealt, +0% damage taken (Vanilla is -40% damage dealt, +150% damage taken)
-**Expert** - -25% damage dealt, +33% damage taken (Vanilla is -72% damage dealt, +250% damage taken)
-**Master** - -60% damage dealt, +66% damage taken (Vanilla is -84% damage dealt, +500% damage taken)
+<p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillamultipliers.png)
+<p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/apwrmultipliers.png)
 
 Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive. </br>
 
