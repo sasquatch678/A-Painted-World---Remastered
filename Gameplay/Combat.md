@@ -11,6 +11,7 @@
 The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
 >[!TIP]
 >You can configure these multipliers by pressing F10 and navigating the MCM ingame.<br/>
+
 #### <p align="center"> VANILLA
 #### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillascaling.png)
 
