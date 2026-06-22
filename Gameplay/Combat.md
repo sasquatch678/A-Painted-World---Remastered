@@ -10,7 +10,7 @@
 </p>
 The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
 
-|Vanilla | APWR
+# <p align="center"> Vanilla
 | Difficulty Setting | Damage Dealt | Damage Taken    
 |:--------------:|:-------------:|:-------------:|
 | Novice| 600% | 16%
