@@ -10,25 +10,9 @@
 </p>
 The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
 
-#### <p align="center"> Vanilla
-| Difficulty Setting | Damage Dealt | Damage Taken    
-|:--------------:|:-------------:|:-------------:|
-| Novice| 600% | 16%
-| Apprentice | 350%| 28%
-| Adept | 100% | 100%
-| Journeyman | 40% | 250%
-| Expert | 28% | 350%
-| Master | 16% | 600%
+#### <p align="center"> Vanilla ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillascaling.png)
 
-#### <p align="center"> APWR
-| Difficulty Setting | Damage Dealt | Damage Taken    
-|:--------------:|:-------------:|:-------------:|
-| Novice| 200% | 50%
-| Apprentice | 166%| 60%
-| Adept | 133% | 75%
-| Journeyman | 100% | 100%
-| Expert | 75% | 133%
-| Master | 60% | 166%
+#### <p align="center"> APWR ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/apwrscaling.png)
 
 Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive. </br>
 
