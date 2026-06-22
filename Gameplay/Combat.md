@@ -8,11 +8,20 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#marksman">Marksman</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#slowmo">SloMo</a> ]
 </p>
-Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive.
+The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
+
+**Novice** - +100% damage dealt, -50% damage taken (Vanilla is +500% damage dealt, -84% damage taken)
+**Apprentice** - +66% damage dealt, -40% damage taken (Vanilla is +250% damage dealt, -72% damage taken)
+**Adept** - +33% damage dealt, -33% damage taken (Vanilla is +0% damage dealt, +0% damage taken)
+**Journeyman** - +0% damage dealt, +0% damage taken (Vanilla is -40% damage dealt, +150% damage taken)
+**Expert** - -25% damage dealt, +33% damage taken (Vanilla is -72% damage dealt, +250% damage taken)
+**Master** - -60% damage dealt, +66% damage taken (Vanilla is -84% damage dealt, +500% damage taken)
+
+Weapon balance has been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive. </br>
 
 Enemy AI has also been overhauled to be more aggressive, with lower idle times between attacks. Enemies before would attack and then stand for sometimes seconds at a time, as if they weren't actually fighting for their lives. Now enemies fight as if their life depends on it. They chain attacks, fast and consistently. Enemies are also more likely to dodge and block your attacks, making for a more fast paced and engaging system where action never stops, and every hit matters.
 
-Because of this, combat should feel quick, lethal, and fair for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept/Journeyman for player damage for a moderate challenge that won't get you killed too often (as long as you are playing well), though you may wish to change these based on preference, build, or character progression. <br/>
+Because of all of this, combat should feel quick, lethal, and fair for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept/Journeyman for player damage for a moderate challenge that won't get you killed too often (as long as you are playing well), though you may wish to change these based on preference, build, or character progression. <br/>
 
 >[!TIP]
 >Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
