@@ -37,7 +37,7 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Dark Elf
 
-﻿*Passive* - Balanced Scales - When below 50% of your base Magicka, Fortify 25 points of Strength and Agility. When below 50% Fatigue, Fortify 25 points of Intelligence and Willpower. Also gain 50% Fire Resistance. <br/>
+﻿*Passive* - Balanced Scales - When below 50% of your base Magicka, Fortify 25 points of Strength. When below 50% Fatigue, Fortify 25 points of Intelligence. Also gain 50% Fire Resistance. <br/>
 ﻿*Power* - Ancestor Guardian - Once per day Summon an Ancestor Guardian to protect you for 120s. (Ancestor Guardian now scales 1:1 with the player's level, has Fire Immunity in addition to it's existing Immunities, and casts a leveled fire spell instead of just snowball).
 
 - ﻿Hestra - Ancestor Guardian now also creates a 15 yard radius fire storm that deals 10 damage per second for 10 seconds.
@@ -100,7 +100,7 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Wood Elf
 
-﻿*Passive* - Roots of Valen - While outdoors, Restore 1 point of Health, Fatigue, and Magicka per second, and gain Resist Disease 75%. <br/>
+﻿*Passive* - Roots of Valen - While outdoors, Restore 1 point of Fatigue per second, Fortify Speed 15 points, and gain Resist Disease 75%. <br/>
 ﻿*Power* - Beast Tongue - Command a Creature to fight under your control for 360 seconds.
 
 - ﻿Hestra - Beast Tongue now lasts 600s, gives 50% Magic Resistance to the creature for the duration, and 25% Magic Resistance to you for 120s.
