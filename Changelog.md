@@ -1,5 +1,44 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+## **1.1.6**
+
+**Added**
+- Superior Sigil Stones
+- Sigil Stones Effects - Magic Loader
+- No Invisible World Border
+- Marksman Fatigue Perk Rebalanced
+- Oh Well
+- Nosferat's Merchant and Loot Additions
+- Alert Enemies
+- Re-Evaluate Misc Item
+- Ultimate Combat
+
+**Updated**
+- GSLoader
+- Radiant Knights of the Nine Dungeon Quests
+- Core Survival
+
+**Removed**
+- Ultra Combat V2 - Fixed Edition + Controller Config - redundant
+
+**Changes**
+- mcm is now opened with F12 to avoid another keybinding conflict
+- added new reshade preset with a bit colder and more natural lighting - if you prefer the old one, you can toggle between them at any point ingame by pressing the PgUp key
+- Ancestor Guardian uses slightly lower level fire spells
+- renamed fire/frost/shock shield to fire/frost/shock cloak to make it more clear that these now deal aoe damage
+- increased the barter and spell cost of fire/frost/shock cloak since they are a bit too efficient for 1 enchantment slot
+- modified the text of 9 vanilla loading screens and added a few new ones to better explain changed and new mechanics
+- added new ingame descriptions for racial abilities
+- Roots of Valen woodelf passive no longer restores health or magicka, but now also fortifies 10 points of speed while outdoors
+- rebalanced blackwater blade enchantment, no longer absorbs fatigue over time, but absorbs a greater amount on each strike - requires you to actively be hitting enemies instead of hit once and kite away until they fall down, repeat
+- buffed fatigue of creatures to their vanilla values - for some reason the remaster reduces to 1/4 of their original value but doesn't nerf damage/drain fatigue effects to compensate so these spells just ragdoll everything within a few seconds
+
+**Bugfixes**
+- fixed issue causing Balanced Scales to constantly be added to dark elf players if they were below 50% fatigue
+- fixed Jauffre having some lines referencing the Emperor's death before the MQ is started
+- created file to hide "spell has been added to the player's spell list" for all scripted race effects
+- fixed attribute descriptions in the levelup menu showing up as missing string entries
+
 ## **1.1.5**
 
 **Added**
