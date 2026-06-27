@@ -16,11 +16,8 @@ This is an issue with the [Mad Experience](<https://www.nexusmods.com/oblivionre
 **Why am I moving so slowly?** </br>
 You will move more slowly while wearing armor (heavy is slowest), when a shield is equipped, while moving side to side or backwards, and when your weapon is unsheathed. You can tweak these modifiers and more in the config section of mods\Immersive Movement\UE4SS\ImmersiveMovement\Scripts\main.lua
 
-**How do I power attack?** </br>
-By pressing MB4 or holding the right trigger on controller. You can change the key in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](<https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou>).
-
-**How do I dodge?** </br>
-By pressing MB5 or pressing the B/O button on controller. You can change the key in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](<https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou>).
+**How do I open the MCM?** </br>
+Press F12
 
 **What are TamrielLeveledRegion.esp and AltarGymNagivation.esp and why are they disabled?** </br>
 They ship with the base game and are disabled there too. I don't know what they do or why Bethesda ships them. You should not enable them.
