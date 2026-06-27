@@ -1,6 +1,6 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
-## **1.1.6**
+## **1.1.6/Revision 3**
 
 **Added**
 - Superior Sigil Stones
