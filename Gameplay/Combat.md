@@ -16,7 +16,7 @@ Enemy AI has also been overhauled to be more aggressive, with lower idle times b
 The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
 
 >[!TIP]
->You can configure these multipliers by pressing F10 and navigating the MCM ingame.<br/>
+>You can configure these multipliers by pressing F12 and navigating the MCM ingame.<br/>
 
 #### <p align="center"> VANILLA
 #### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillascaling.png)
@@ -27,7 +27,7 @@ The difficulty settings in Oblivion Remastered are a total mess. Novice is a jok
 Because of all of this, combat should feel quick, lethal, and fair for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept/Journeyman for player damage for a moderate challenge that won't get you killed too often (as long as you are playing well), though you may wish to change these based on preference, build, or character progression. <br/>
 
 >[!TIP]
->Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
+>Most of the below features can be configured in the ingame MCM which is opened with F12.<br/>
 ***
 ## WEAPONS
 ***
@@ -35,14 +35,22 @@ No more different modeled paddles! Blunt weapons tend to have high base damage, 
 
 All weapons can now cause stagger and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
 
-- Can perform power attacks with one button (default mouse button 4) instead of holding left click.
+- Can perform power attacks with one button instead of holding left click. KB&M - MB5, Controller - L3/LS
 - 10% to 30% damage buff on counter attacks from Perfect Dodge/Block within 5s window.
 - Counter attacks ragdoll the enemy based on an enemy strength roll, each 10 strength give 9% resistance
 ***
+## LOCK-ON
+***
+- Third-person Lock-On targeting with target cycling and body-part targeting. Hold Alt on kb&m or hold A/Cross on controller.
+- Default Lock-On aim point is Spine for steadier tracking.
+- Optional Enemies Only Lock-On filter, disabled by default.
+- Keyboard/mouse target cycling uses Z and X. Controller uses Right Joystick.
+- Keyboard/mouse body-part cycling works by quick tapping the Lock-On button while already locked on.
+
 ## DODGING
 ***
 - Requires a minimum 25 in Acrobatics
-- Dodge by tapping mouse button 5.
+- Dodge by tapping Control/hold to sneak. On controller tap B/Circle to dodge/hold to sneak.
 - Dodging is blocked while the player is crouched, out of fatigue, and/or over encumbered, configurable.
 - During dodges, for 0.4s the player will have resistance to normal weapons based on acrobatics skill (2x skill, max 100%). Magic and special weapon materials can penetrate the physical barrier it provides.
 - Fatigue drain for dodging is based on acrobatics skill. Base 20 + Skill Modifier (Lower skill = More Fatigue Cost)
@@ -93,5 +101,5 @@ All weapons can now cause stagger and critically strike. Blunt weapons have a mu
 - Slows to 40% speed.
 
 #### Quickwheel
-- Will slow to 10% upon opening the quick wheel.
+- Time will slow to 20% upon opening the quick wheel.
 ***
