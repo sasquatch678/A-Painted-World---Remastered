@@ -27,6 +27,10 @@
 - ZZZ Red Diamond Jewelry
 - Shiny and Glowing Skin
 - Stop combat guard fix
+- CLANNFEAR- VIRIDIAN REPTILE RETEXTURE
+- DAEDROTH- DEATH DRAGON RETEXTURE
+- Exquisitely Chosen Original Voices - only for non-beast (and orc) races since otherwise these mods break lip sync
+- Shivering Isles Voice Acting Restored - only for non-beast (and orc) races since otherwise these mods break lip sync
 
 **Updated**
 - GSLoader
