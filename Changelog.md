@@ -12,6 +12,21 @@
 - Alert Enemies
 - Re-Evaluate Misc Item
 - Ultimate Combat
+- Amber Equipment Fix
+- Auto Horse Pathing
+- Black Robe Texture Fix
+- Blades Gauntlets Fix
+- Bound Armor Clipping Fix
+- Darker Huntsman- Pants and Vest
+- Darker Orcish Armor and Shield
+- Forester - Darker Green Recolor
+- HQ Secunda Earth Moon Retexture
+- Less Cartoony Eating and Drinking SFX Replacer
+- Shivering Isles Clothing Mesh Fixes
+- Sitting camera fix (and race-list-based player height)
+- ZZZ Red Diamond Jewelry
+- Shiny and Glowing Skin
+- Stop combat guard fix
 
 **Updated**
 - GSLoader
@@ -20,6 +35,7 @@
 
 **Removed**
 - Ultra Combat V2 - Fixed Edition + Controller Config - redundant
+- Protective Headgear - Daedric (Updated for 1.2)
 
 **Changes**
 - mcm is now opened with F12 to avoid another keybinding conflict
