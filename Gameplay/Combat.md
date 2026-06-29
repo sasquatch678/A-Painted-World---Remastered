@@ -26,14 +26,11 @@ The difficulty system in Oblivion Remastered was heavily inconsistent. Novice wa
 >You can configure these multipliers by pressing F12 and opening the in-game MCM.<br/>
 
 ### VANILLA
-<p align="center">
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillascaling.png)
-</p>
 
 ### APWR
-<p align="center">
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/apwrscaling.png)
-</p>
+
 
 Overall, combat is designed to feel quick, lethal, and fair for both player and NPCs.
 
