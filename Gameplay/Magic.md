@@ -61,7 +61,7 @@ Magic progression is now fully unified under cost-based XP only.
 Elemental spells now include secondary effects:
 
 - **Fire:** Damage over time  
-- **Frost:** Fatigue damage + paralysis scaling  
+- **Frost:** Fatigue damage
 - **Shock:** Magicka damage  
 
 ⚠️ Effects can also apply to the caster if hit by reflected spells.
