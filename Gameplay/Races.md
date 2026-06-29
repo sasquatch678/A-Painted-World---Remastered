@@ -1,109 +1,209 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/imperialcity.png)
-# <p align="center"> RACES
+
+# <p align="center">RACES</p>
+
 <p align="center">
-[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#argonian">Argonian</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#breton">Breton</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#dark-elf">Dark Elf</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#high-elf">High Elf</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#imperial">Imperial</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#khajiit">Khajiit</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#nord">Nord</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#orc">Orc</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#redguard">Redguard</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#wood-elf">Wood Elf</a> ]
-  
-All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. This makes the runestones actually useful and worth visiting while also overhauling the races to make them more balanced and unique. You can swap between each augmentation once per day by visiting one of the associated rune stones. In vanilla there are three types of runestones; Hestra, Reman, and Sidri-Ashak.
-- Hestra stones are believed to be named for the late First Era Empress Hestra. These augmentations are focused around magic and offense.
-- Reman stones are almost certainly named for Reman Cyrodiil, the First Era emperor. These augmentations are focused around combat and defense.
-- Sidri-Ashak stones are thought to be named for an obscure Akaviri potentate, Sidri-Ashak. These augmentations are focused around stealth, utility, and cooldown manipulation.
+[ Argonian | Breton | Dark Elf | High Elf | Imperial | Khajiit | Nord | Orc | Redguard | Wood Elf ]
+</p>
 
-***
-### Argonian
-﻿*Passive* - Marsh Skin - Poison Resistance 75% + Waterbreathing. <br/>
-*Power* - Caustic Spit - Once per day paralyze a target for 10 seconds.
+---
 
-- ﻿Hestra - Caustic Spit now also makes the target 50% Weaker to Magic for 120 seconds.
-- ﻿Reman - Caustic Spit now also Restores 5 Health per second for 120 seconds.
-- ﻿Sidri-Ashak - Caustic Spit now also Opens expert level locks and completely Disintegrates opponents armor.
-***
-### Breton
+## Race System Overview
 
-﻿*Passive* - Aldmeri Heritage - Magic Resistance 25% and Fortify Magicka 50 points. <br/>
-﻿*Power* - Dragon Skin - Once per day Shield yourself 50 points for 120 seconds.
+Each race now has:
 
-- ﻿Hestra - Dragon Skin now also gives 50% Magic Resistance for 120 seconds.
-- Reman - Dragon Skin now Reflects 50% of damage rather than Shield.
-- ﻿Sidri-Ashak - Dragon Skin now also gives 75% Chameleon for 120 seconds.
-***
-### Dark Elf
+- 1 Passive ability  
+- 1 Greater Power  
+- 3 Runestone Augment Paths (Hestra / Reman / Sidri-Ashak)
 
-﻿*Passive* - Balanced Scales - When below 50% of your base Magicka, Fortify 25 points of Strength. When below 50% Fatigue, Fortify 25 points of Intelligence. Also gain 50% Fire Resistance. <br/>
-﻿*Power* - Ancestor Guardian - Once per day Summon an Ancestor Guardian to protect you for 120s. (Ancestor Guardian now scales 1:1 with the player's level, has Fire Immunity in addition to it's existing Immunities, and casts a leveled fire spell instead of just snowball).
+### Runestone Rule Clarification
 
-- ﻿Hestra - Ancestor Guardian now also creates a 15 yard radius fire storm that deals 10 damage per second for 10 seconds.
-- ﻿Reman - Ancestor Guardian now also gives you 25 points of Fire Shield for 120 seconds.
-- ﻿Sidri-Ashak - Balanced Scales now also regenerates Fatigue when below 50% base Magicka, and regenerates Magicka when below 50% Fatigue.
-***
-### High Elf
+Runestone effects:
 
-﻿*Passive* - Naturalborn Talent - Fortify Magicka 75 points, Weakness to Elements 15% <br/>
-﻿*Power* - Highborn - Restore 10 magicka/s for 120 seconds.
+- Apply to a **specific racial ability (Passive or Power)**
+- Are always **in addition to the base effect**
+- Only replace or alter effects when explicitly stated
+- Can be swapped once per day at matching Runestones
 
-- ﻿Hestra - Your Magicka is now Fortified 150 points.
-- ﻿Reman - Highborn now also gives 50 points of Spell Reflect for 120 seconds.
-- ﻿Sidri-Ashak - Highborn now also dispels 250 points on self and on touch.
-***
-### Imperial
+---
 
-﻿*Passive* - Bulwark of Cyrodiil - Gain 10 points of Shield. <br/>
-﻿*Power* - Voice of the Emperor - Charm on target 30 points for 30 seconds.
+### Runestone Themes
 
-- ﻿Hestra - You gain the power Emperor's Madness, causing a target to be frenzied for 120 seconds.
-- ﻿Reman - You gain the power Emperor's Decree, commanding a target to obey for 120 seconds.
-- ﻿Sidri-Ashak - Voice of the Emperor is now a lesser power.
-***
-### Khajiit
+- **Hestra:** Offensive / magical enhancement  
+- **Reman:** Combat / defensive reinforcement  
+- **Sidri-Ashak:** Utility / stealth / rule-breaking effects  
 
-﻿*Passive* - Feline Grace - Gain 25 points of Speed and 50 points of Detect Life while sneaking. <br/>
-﻿*Power* - Prowl - Gain Invisibility for 120 seconds.
+---
 
-- ﻿Hestra - You now gain 50 points of Speed and 100 points of Detect Life while sneaking.
-- ﻿Reman - Prowl now also Fortifies your Agility by 50 points for 120 seconds.
-- ﻿Sidri-Ashak - Prowl is now a lesser power, but lasts 10 seconds and costs 75 Fatigue.
-***
-### Nord
+# ARGONIAN
 
-﻿*Passive* - Shor's Bones - Resist Frost 50% and Resist Shock 50%. <br/>
-﻿*Power* - Battle Cry - Demoralize all targets in a 25 yard radius for 120 seconds.
+**Passive:** Marsh Skin  
+- 75% Poison Resistance  
+- Waterbreathing  
 
-- ﻿Hestra - Battle Cry now also Burdens targets, rendering them unable to move for 120 seconds.
-- ﻿Reman - Battle Cry now also causes 25% Weakness to Normal Weapons for 120 seconds.
-- ﻿Sidri-Ashak - Battle Cry now also Absorbs 5 points of Fatigue/s from all targets for 120 seconds.
-***
-### Orc
+**Power:** Caustic Spit (1/day)  
+- Paralyze target for 10s  
 
-﻿*Passive* - Malacath's Scorn - When you are below 33% base Health, Fortify Strength 25 points and Restore Health 2/s. <br/>
-﻿*Power* - Berserk - Fortify Strength 50 points and Resist Normal Weapons 25% for 120 seconds.
+### Runestone Upgrades (Caustic Spit – Power)
 
-- ﻿Hestra - Berserk now also Fortifies Blade, Blunt, and Hand to Hand by 50 points for 120 seconds.
-- ﻿Reman - Berserk now also Fortifies Endurance 50 points for 120 seconds.
-- ﻿Sidri-Ashak - Malacath's Scorn can now be triggered when below 66% base Health.
-***
-### Redguard
+- **Hestra (Power Upgrade):**  
+  Caustic Spit also applies 50% Weakness to Magic for 120s  
 
-﻿*Passive* - Nomadic Heritage - Fortify Fatigue 100 points. <br/>
-﻿*Power* - Adrenaline Rush - Restore 10 points of Fatigue/s for 120 seconds.
+- **Reman (Power Upgrade):**  
+  Caustic Spit also restores 5 Health/sec for 120s  
 
-- ﻿Hestra - Adrenaline Rush now also Restores 5 points of Magicka/s for 120 seconds.
-- ﻿Reman - Your passive Fatigue is now Fortified by 200 points.
-- ﻿Sidri-Ashak - Adrenaline Rush now also Fortifies your Speed by 50 points for 120 seconds.
-***
-### Wood Elf
+- **Sidri-Ashak (Power Upgrade):**  
+  Caustic Spit also opens Expert locks and disintegrates target armor  
 
-﻿*Passive* - Roots of Valen - While outdoors, Restore 1 point of Fatigue per second, Fortify Speed 15 points, and gain Resist Disease 75%. <br/>
-﻿*Power* - Beast Tongue - Command a Creature to fight under your control for 360 seconds.
+---
 
-- ﻿Hestra - Beast Tongue now lasts 600s, gives 50% Magic Resistance to the creature for the duration, and 25% Magic Resistance to you for 120s.
-- ﻿Reman - Beast Tongue now lasts 600s, Restores 2 points of Health and Fatigue/s to the creature for the duration, and also Restores 2 points of ﻿Health and Fatigue/s to you for 120 seconds.
-- Sidri-Ashak - Beast Tongue now lasts 1200s and is a lesser power.
-***
+# BRETON
+
+**Passive:** Aldmeri Heritage  
+- 25% Magic Resistance  
+- +50 Magicka  
+
+**Power:** Dragon Skin (1/day)  
+- 50 Shield for 120s  
+
+### Runestone Upgrades (Dragon Skin – Power)
+
+- **Hestra:** +50% Magic Resistance (adds to Shield effect)  
+- **Reman:** Converts Shield into 50% Damage Reflection (replaces Shield effect only)  
+- **Sidri-Ashak:** Adds 75% Chameleon  
+
+---
+
+# DARK ELF
+
+**Passive:** Balanced Scales  
+- <50% Magicka → +25 Strength  
+- <50% Fatigue → +25 Intelligence  
+- 50% Fire Resistance  
+
+**Power:** Ancestor Guardian (1/day)  
+- Summon Guardian (120s, level scaling)
+
+### Runestone Upgrades (Ancestor Guardian – Power)
+
+- **Hestra:** Adds fire storm aura (10 DPS for 10s)  
+- **Reman:** Adds 25 Fire Shield to player  
+- **Sidri-Ashak:** Improves sustain mechanics (Magicka/Fatigue recovery synergy while passive conditions are active)
+
+---
+
+# HIGH ELF
+
+**Passive:** Naturalborn Talent  
+- +75 Magicka  
+- 15% Weakness to Elements  
+
+**Power:** Highborn (1/day)  
+- Restore 10 Magicka/sec (120s)
+
+### Runestone Upgrades (Highborn – Power)
+
+- **Hestra:** +150 Max Magicka (passive increase during duration)  
+- **Reman:** Adds 50 Spell Reflect  
+- **Sidri-Ashak:** Adds self-dispel (250 magnitude)
+
+---
+
+# IMPERIAL
+
+**Passive:** Bulwark of Cyrodiil  
+- +10 Shield  
+
+**Power:** Voice of the Emperor (1/day)  
+- Charm 30 for 30s  
+
+### Runestone Upgrades (Power)
+
+- **Hestra:** Replaces effect with Emperor’s Madness (Frenzy 120s)  
+- **Reman:** Replaces effect with Emperor’s Decree (Command 120s)  
+- **Sidri-Ashak:** Converts Power into Lesser Power (reduced cooldown/utility scaling)
+
+---
+
+# KHAJIIT
+
+**Passive:** Feline Grace  
+- +25 Speed  
+- +50 Detect Life while sneaking  
+
+**Power:** Prowl (1/day)  
+- Invisibility 120s  
+
+### Runestone Upgrades (Power)
+
+- **Hestra:** Adds +50 Speed and +100 Sneak Detect Life  
+- **Reman:** Adds +50 Agility  
+- **Sidri-Ashak:** Converts to Lesser Power (shorter duration, Fatigue cost added)
+
+---
+
+# NORD
+
+**Passive:** Shor’s Bones  
+- 50% Frost Resistance  
+- 50% Shock Resistance  
+
+**Power:** Battle Cry (1/day)  
+- AoE Demoralize (120s)
+
+### Runestone Upgrades (Power)
+
+- **Hestra:** Adds Burden (movement suppression)  
+- **Reman:** Adds 25% Weakness to Normal Weapons  
+- **Sidri-Ashak:** Adds Fatigue drain (5/sec)
+
+---
+
+# ORC
+
+**Passive:** Malacath’s Scorn  
+- Below 33% Health: +25 Strength + 2 Health/sec  
+
+**Power:** Berserk (1/day)  
+- +50 Strength  
+- 25% Resist Normal Weapons (120s)
+
+### Runestone Upgrades (Power / Passive Hybrid)
+
+- **Hestra (Power):** +50 Blade / Blunt / H2H  
+- **Reman (Power):** +50 Endurance  
+- **Sidri-Ashak (Passive Modification):** Triggers passive at 66% Health instead of 33%
+
+---
+
+# REDGUARD
+
+**Passive:** Nomadic Heritage  
+- +100 Fatigue  
+
+**Power:** Adrenaline Rush (1/day)  
+- Restore 10 Fatigue/sec (120s)
+
+### Runestone Upgrades (Power)
+
+- **Hestra:** Adds 5 Magicka/sec regeneration  
+- **Reman:** Increases passive Fatigue to +200  
+- **Sidri-Ashak:** Adds +50 Speed  
+
+---
+
+# WOOD ELF
+
+**Passive:** Roots of Valen  
+- Outdoors: +1 Fatigue/sec  
+- +15 Speed  
+- 75% Disease Resistance  
+
+**Power:** Beast Tongue (1/day)  
+- Command Creature (360s)
+
+### Runestone Upgrades (Power)
+
+- **Hestra:** 600s duration + grants Magic Resistance bonuses  
+- **Reman:** Adds Health/Fatigue regeneration to both player and creature  
+- **Sidri-Ashak:** Converts to Lesser Power (1200s duration, reduced cost)
