@@ -16,15 +16,6 @@ Each race now has:
 - 1 Greater Power  
 - 3 Runestone Augment Paths (Hestra / Reman / Sidri-Ashak)
 
-### Runestone Rule Clarification
-
-Runestone effects:
-
-- Apply to a **specific racial ability (Passive or Power)**
-- Are always **in addition to the base effect**
-- Only replace or alter effects when explicitly stated
-- Can be swapped once per day at matching Runestones
-
 ---
 
 ### Runestone Themes
@@ -35,7 +26,7 @@ Runestone effects:
 
 ---
 
-# ARGONIAN
+## ARGONIAN
 
 **Passive:** Marsh Skin  
 - 75% Poison Resistance  
@@ -57,7 +48,7 @@ Runestone effects:
 
 ---
 
-# BRETON
+## BRETON
 
 **Passive:** Aldmeri Heritage  
 - 25% Magic Resistance  
@@ -74,7 +65,7 @@ Runestone effects:
 
 ---
 
-# DARK ELF
+## DARK ELF
 
 **Passive:** Balanced Scales  
 - <50% Magicka → +25 Strength  
@@ -92,7 +83,7 @@ Runestone effects:
 
 ---
 
-# HIGH ELF
+## HIGH ELF
 
 **Passive:** Naturalborn Talent  
 - +75 Magicka  
@@ -109,7 +100,7 @@ Runestone effects:
 
 ---
 
-# IMPERIAL
+## IMPERIAL
 
 **Passive:** Bulwark of Cyrodiil  
 - +10 Shield  
@@ -125,7 +116,7 @@ Runestone effects:
 
 ---
 
-# KHAJIIT
+## KHAJIIT
 
 **Passive:** Feline Grace  
 - +25 Speed  
@@ -142,7 +133,7 @@ Runestone effects:
 
 ---
 
-# NORD
+## NORD
 
 **Passive:** Shor’s Bones  
 - 50% Frost Resistance  
@@ -159,7 +150,7 @@ Runestone effects:
 
 ---
 
-# ORC
+## ORC
 
 **Passive:** Malacath’s Scorn  
 - Below 33% Health: +25 Strength + 2 Health/sec  
@@ -176,7 +167,7 @@ Runestone effects:
 
 ---
 
-# REDGUARD
+## REDGUARD
 
 **Passive:** Nomadic Heritage  
 - +100 Fatigue  
@@ -192,7 +183,7 @@ Runestone effects:
 
 ---
 
-# WOOD ELF
+## WOOD ELF
 
 **Passive:** Roots of Valen  
 - Outdoors: +1 Fatigue/sec  
