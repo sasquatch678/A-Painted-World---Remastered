@@ -13,44 +13,64 @@
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-imperial-legion">Imperial Legion</a> |
     <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Order of the Virtuous Blood</a> ]  </br>
 
-In general adding new and expansive quests or greatly modifying existing quests isn't possible in the Remaster. But there have still been changes and additions to each major factions questline, as well as delays to the main DLCs so the player won't be spammed with quest entries after first starting a game.
+## Quest Philosophy
 
-Quest markers have also been modified. It is somewhat unimmersive and detrimential to roleplaying for the player character to have the clairvoyant ability to see a quest item in a cave on the other side of Tamriel. That said, the quest marker system can be helpful and saves the player from a lot of frustration. Searching for Radiant AI-driven NPCs or hovering over every map marker on the map is not THAT fun. The issue is that the current available options are either to keep all quest markers or to have no markers at all.
+This modlist does not aim to massively expand questlines, but instead to refine pacing, immersion, and gameplay structure while staying true to Oblivion’s identity.
 
-This modlist tries to strike a balance. It removes some of the quest markers only when it makes sense, both in terms of common sense and gameplay. Some markers have been tweaked to remain helpful without breaking immersion. Almost every vanilla quest has been reworked.
+Many questlines have been adjusted to reduce early-game overload and improve long-term engagement.
+
+Quest markers have also been redesigned into a **hybrid immersion system**:
+
+- Dungeons: show entrance, not interior targets  
+- Interiors: guide to buildings, not exact items  
+- Search objectives: give approximate zones that fade when nearby  
+- Unknown targets: provide regional or contextual hints  
+- NPCs: show logical locations when known (e.g. city presence)  
+- Hidden NPCs: may still require investigation depending on quest intent  
+
+Additionally, **journal entries now include written directions**, allowing players to complete quests even with reduced or disabled markers.
 
 ---
 
-**How do quest markers work now?**
-
-- If you need to find an item or kill something in a cave or dungeon, the quest marker will show the location of the dungeon but will not point to the item or enemy directly; the quest marker will not be shown inside the dungeon.
-- For finding items in houses and other public areas, the quest marker will guide you to the building but not the exact item position. Exceptions: when the stuff you need to find is too generic, like a specific desk you need to place an item in which is not really different from other containers in the location
-- If a quest requires you to investigate an area or find something in the worldspace, the marker will show an approximate location and will disappear when you are within the search area.
-- For quests where the exact target location is unknown (e.g., finding a cave on a river shore and a map marker is not given), the marker will be in an area close to your destination.
-- Markers will generally show the location of quest givers or NPCs in town if it is implied that their current location is known to the player and is not a secret. This avoids the annoyance of searching for NPCs following their daily schedules or hovering over cell names in the local map.
-- If you have to find an NPC but it is implied that you don't know their exact location, frequent locations where the NPC can be found might be shown for some quests.
-
-There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, and still be able to find where you need to go.
-***
 ## Main Quest
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/obliviongate.jpg)
 
-### Mythic Dawn
+### Mythic Dawn Overhaul
 
-The Mythic Dawn have expanded far beyond obscurity, embedding themselves throughout Cyrodiil’s dungeon networks. Conjurer encounters are now often replaced with cultist covens, complete with robes and bound armor.
+The Mythic Dawn have expanded far beyond their original presence, embedding themselves throughout Cyrodiil’s dungeon ecosystem. Many former conjurer encounters are now replaced with cultist covens equipped with robes and bound armor.
 
-During **“Dagon Shrine”**, you may choose to join the Mythic Dawn:
+### How to Start / Join Mythic Dawn Path
 
-- Accept the robe and follow Harrow to the shrine  
-- Participate in the ritual and slay the prisoner  
-- Approach the Mysterium Xarxes to fully commit  
+During the main quest **“Dagon Shrine”**, you gain the opportunity to join the Mythic Dawn:
 
-⚠️ **Warning:** Interacting with the Mysterium Xarxes continues the main quest normally.
+1. Enter the shrine as normal and speak with the Door Guard  
+2. Harrow confiscates your gear and equips you with a Mythic Dawn robe  
+3. Follow Harrow and listen to Mankar Camoran’s speech  
+4. After he leaves, follow Ruma Camoran to the inner shrine  
 
-Joining grants access to unique alignment changes, including temporary Daedric hostility immunity and optional Deadlands allegiance toggling.
+⚠️ **Important Choice Point:**
+- If you interact with the **Mysterium Xarxes**, you proceed the main quest normally  
+- If you **do NOT interact yet**, you can instead take the cult initiation route
 
-After **“The Cleansing”**, Cyrodiil’s rulers become killable, with unique rewards from Mehrunes Dagon for each.
+### Joining the Cult
+
+To fully join:
+- Take the **Silver Dagger** from the altar  
+- Slay the captured priest  
+- Speak to Ruma Camoran to confirm your initiation  
+
+This unlocks:
+- Mythic Dawn alignment status  
+- Optional Daedric/Deadlands faction toggle (via spell)  
+- Temporary Daedra non-hostility in Oblivion Gates  
+
+### Post-Cleansing Changes
+
+After completing **“The Cleansing”**:
+- Counts and Countesses of Cyrodiil become killable  
+- Each provides unique rewards from Mehrunes Dagon  
+- This path is optional due to quest dependency risks  
 
 ---
 
@@ -58,86 +78,176 @@ After **“The Cleansing”**, Cyrodiil’s rulers become killable, with unique 
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gnarl.png)
 
-- **Knights of the Nine:** unlocked at level 10  
-- **Shivering Isles:** unchanged, recommended level 10–20  
+### Knights of the Nine
+- Unlocks at **level 10**
+- Starts naturally via the pilgrimage / rumor chain as in vanilla
+
+### Shivering Isles
+- Unchanged start: enter through the **Strange Door in Niben Bay**
+- Recommended level: **10–20**
+- No additional restrictions
+
+---
 
 ### Player Homes Unlock Conditions
 
-- Battlehorn Castle → Finish Fighters Guild, appoint Modryn Oreyn  
-- Frostcrag Spire → Speak to Raminus Polus after Mannimarco  
-- Deepscorn Hollow → Speak to Arquen post Dark Brotherhood  
-- Dunbarrow Cave → Complete Thieves Guild heist successfully  
+Player homes now require meaningful progression:
+
+- **Battlehorn Castle** → Complete Fighters Guild, then speak to Modryn Oreyn  
+- **Frostcrag Spire** → Speak to Raminus Polus after defeating Mannimarco  
+- **Deepscorn Hollow** → Speak to Arquen after the Dark Brotherhood finale sequence  
+- **Dunbarrow Cave** → Complete Thieves Guild heist successfully (failure locks access permanently)
 
 ---
 
-## Guild Systems
+## Guild Progression System
 
-Progression now requires **skill certification thresholds**. You cannot rise in rank without demonstrating competence in relevant skills.
+Guild advancement now requires **skill certification**, meaning rank is tied to competence, not just quest completion.
+
+Each guild tracks relevant skills and automatically validates progression when thresholds are reached.
 
 ---
 
-### Fighters Guild
+## Fighters Guild
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/brumafightersguild.png)
 
-**Core Skills:** Blade, Blunt, Block, Hand-to-Hand, Athletics, Heavy Armor, Armorer
+### How to Join
+- Join any Fighters Guild hall in Cyrodiil (as in vanilla)
+- Speak to the local guild steward to begin contract work
 
-### Radiant Contracts
-- Hunt Notorious Monsters or Daedra (200 variants)
-- Reward: Gold + Fighter’s Commendations  
-- Commendations unlock unlimited training in Leyawiin  
+### Core Skill Requirements
+Blade, Blunt, Block, Hand-to-Hand, Athletics, Heavy Armor, Armorer
+
+Skill progression is tracked automatically and required for rank advancement.
+
+### Radiant Contracts (Infinitum System)
+
+Once a member, you gain access to contract tables in Fighters Guild halls.
+
+Two contract types are available:
+- **Notorious Monster Hunts**
+- **Notorious Daedra Hunts**
+
+Each contract:
+- Rewards gold + 1 Fighters Commendation  
+- Is repeatable with ~200 target variations  
+- Can be taken simultaneously  
+
+### Commendation System
+
+Fighters Commendations can be spent in the **Leyawiin Fighters Guild basement training hall** to:
+- Train combat skills beyond normal trainer limits  
+- Spend 4 commendations per training session  
+- Select specific combat disciplines (Blade, Block, etc.)
 
 ---
 
-### Mages Guild
+## Mages Guild
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/skingradmagesguild.png)
 
-**Skill Certification required for rank progression**
+### How to Join
+- Join any Mages Guild hall (vanilla initiation still applies)
+- Progress through recommendation quests as normal
 
-### Radiant Content
-- Worm Cult Target Contracts (100 variants) → soul gems  
-- Elixir Crafting Orders → randomized alchemy tasks  
-- Beast Research → permanent attribute buffs  
-- Necromancer Robe recycling → gold conversion  
+### Skill Requirements
+Magic skill thresholds are required for rank advancement and automatically validated.
+
+### Radiant Systems
+
+Each guild hall (and Arcane University) contains sealed orders:
+
+#### Worm Cult Target Contracts
+- 100 unique enemy targets  
+- Rewards: leveled filled soul gems  
+
+#### Elixir Crafting Orders
+- Start at Anvil Mages Guild library  
+- Accept randomized crafting requests  
+- Deliver crafted potions for gold rewards  
+
+#### Beast Research System
+- Track and study creatures across Cyrodiil  
+- Grants permanent attribute bonuses over time  
+
+#### Necromancer Robe Recycling
+- Deposit unwanted robes  
+- Receive flat gold reward per robe  
 
 ---
 
-### Thieves Guild
+## Thieves Guild
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/thievesguild.png)
 
-Progression is based on **fence value + special jobs**, not rank alone.
+### How to Join
+- Follow the Gray Fox questline as normal  
+- Access the Garden of Dareloth to begin radiant systems
+
+### Progression System
+Advancement is based on:
+- Total value of stolen goods fenced  
+- Completion of special job milestones  
 
 ### Radiant Jobs
-- Special Requests (client thefts)  
-- Numbers Jobs (economic manipulation contracts)  
-- Rewards: Gold + Fox’s Favor  
 
-Fox’s Favor can be exchanged for services from Winston Mallory.
+Located at the Garden of Dareloth table:
+
+- **Special Requests** → Client-driven theft contracts  
+- **Numbers Jobs** → Financial manipulation / bookkeeping fraud  
+
+Rewards:
+- Gold  
+- Fox’s Favor (currency for guild services)
+
+### Fox’s Favor Services
+Winston Mallory (Master Thief contact) provides:
+- Special services  
+- Job explanations  
+- Gray Fox-specific dialogue variations  
 
 ---
 
-### Dark Brotherhood
+## Dark Brotherhood
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/blackdoor.png)
 
-No rank restrictions for radiant contracts.
+### How to Start Radiant Contracts
+- Join the Dark Brotherhood via the usual initiation (Lucien Lachance questline)
+- Access the Sanctuary near Cheydinhal
 
-- 200 repeatable assassination contracts  
-- Optional High Priority targets  
-- Bonus loot chance on contract completion  
-- Reward bags appear after turning in jobs  
+### Radiant Contract System
+
+Inside the Sanctuary:
+- Table with **Sealed Contracts**
+- Separate **High Priority Contracts**
+- Bonus reward chest system
+
+Features:
+- 200 radiant assassination targets  
+- Repeatable contracts  
+- Reward bags appear after turn-in  
+- Chance-based bonus loot system  
 
 ---
 
-### Arena
+## Arena
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arenadead.png)
 
-- Looting allowed (adds Infamy)  
-- Infinite arena mode unlocked after Grand Champion  
-- Speak to Owyn for endless combat rotations  
+### How to Start
+- Become Grand Champion of the Imperial City Arena (vanilla progression)
+
+### Infinitum Mode
+After becoming Grand Champion:
+- Speak to **Blademaster Owyn**
+- Unlock infinite combat rotations:
+  - Arena fighters
+  - Monster match-ups
+  - Endless reward scaling
+
+Looting opponents is allowed but increases Infamy.
 
 ---
 
@@ -145,21 +255,46 @@ No rank restrictions for radiant contracts.
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/imperiallegion.png)
 
-Two career paths:
+### How to Join
+- Complete **“Imperial Corruption”**
+- Report to Field Officer Leveilleur in Imperial Legion HQ
 
-### Imperial Watch
-- Arrest warrants for random NPCs  
-- Choices: arrest or execute resistance  
-- Rewards: Writs of Merit for promotion  
+You will choose between two career paths.
 
-### Imperial Forestry
-- Outlaw bounty hunts at wilderness camps  
-- Less explicit tracking, more exploration-based  
+---
+
+### Imperial Watch (Law Enforcement)
+
+- Accept **Arrest Warrants**
+- Track targets to cities
+- Decide:
+  - Arrest (send to prison)
+  - Execute (if they resist)
+
+Rewards:
+- Gold  
+- Writs of Merit (used for promotion)
+
+---
+
+### Imperial Forestry (Wilderness Operations)
+
+- Report to Field Officer Fern in Weye Lodge
+- Accept Outlaw Bounties
+- Hunt bandits in wilderness camps
+
+More exploration-focused, less precise tracking.
+
+---
 
 ### Corruption System
-- Abuse of authority increases corruption  
-- At 100 corruption → expelled from Legion permanently  
-- Cleared via completing legal assignments  
+
+- Illegal fines increase Corruption (+10 each)
+- Legal assignments reduce Corruption (-5 each)
+- At 100 Corruption:
+  - Permanent expulsion from Legion
+  - High bounty issued
+  - Content locked out permanently  
 
 ---
 
@@ -167,16 +302,30 @@ Two career paths:
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/virtuousblood.png)
 
-Vampire hunting guild with enhanced tools and radiant targets.
+### How to Start
+- Go to the Imperial City Temple District
+- Wait for NPC approach to begin questline
+- Join the Order via **“Order of the Virtuous Blood”**
 
-### Core Loop
-- 100 radiant vampire targets  
-- City or dungeon-based hunts  
-- Holy Water required to safely expose city vampires  
+### Headquarters Unlock
+- Access hidden HQ beneath Seridur’s basement after joining
 
-### Mechanics
-- Killing suspects without confirmation reduces rewards and adds legal risk  
-- Correct identification grants full rewards  
-- Vampire dust can be refined into Holy Water  
+### Radiant Vampire Hunts
+
+Inside HQ:
+- Vampire target board (100 radiant targets)
+- City or dungeon-based hunts
+
+### City Vampire Mechanic
+
+When hunting city targets:
+- Suspects appear normal and hidden in society  
+- Must confirm identity using **Holy Water**  
+- Killing without confirmation reduces rewards and may cause legal issues  
+
+### Rewards
+- Gold rewards scale with correct identification  
+- Holy Water crafted from Vampire Dust  
+- Fully repeatable hunt system  
 
 ---
