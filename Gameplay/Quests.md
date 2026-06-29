@@ -119,6 +119,8 @@ Each guild tracks relevant skills and automatically validates progression when t
 ### Core Skill Requirements
 Blade, Blunt, Block, Hand-to-Hand, Athletics, Heavy Armor, Armorer
 
+## <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/fgranks.png)
+
 Skill progression is tracked automatically and required for rank advancement.
 
 ### Radiant Contracts (Infinitum System)
@@ -153,6 +155,8 @@ Fighters Commendations can be spent in the **Leyawiin Fighters Guild basement tr
 
 ### Skill Requirements
 Magic skill thresholds are required for rank advancement and automatically validated.
+
+## <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/mgranks.png)
 
 ### Radiant Systems
 
@@ -189,6 +193,8 @@ Each guild hall (and Arcane University) contains sealed orders:
 Advancement is based on:
 - Total value of stolen goods fenced  
 - Completion of special job milestones  
+
+## <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/tgranks.png)
 
 ### Radiant Jobs
 
