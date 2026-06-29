@@ -58,7 +58,7 @@ Return travel is available once unlocked through their respective questlines.
 ### HORSES
 
 While mounted:
-- Press **H** to auto-path toward your tracked objective or map marker
+- Press **P** to auto-path toward your tracked objective or map marker
 
 After first horse usage, you gain **Horse Whistle**:
 
