@@ -3,7 +3,7 @@
 # <p align="center">RACES</p>
 
 <p align="center">
-[ [Argonian](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#argonian) | [Breton](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#breton) | [Dark Elf](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#dark-elf) | [High Elf](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#high-elf) | [Imperial](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#imperial) | [Khajiit](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#khajiit) | [Nord](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#nord) | [Orc](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#orc) | [Redguard](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#redguard) | [Wood Elf](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Races.md#wood-elf) ]
+[ Argonian | Breton | Dark Elf | High Elf | Imperial | Khajiit | Nord | Orc | Redguard | Wood Elf ]
 </p>
 
 ---
