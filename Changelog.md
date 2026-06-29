@@ -1,153 +1,205 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
-## **1.1.6/Revision 3**
+# <p align="center">1.1.6 / Revision 3</p>
 
-**Added**
-- Superior Sigil Stones
-- Sigil Stones Effects - Magic Loader
-- No Invisible World Border
-- Marksman Fatigue Perk Rebalanced
-- Oh Well
-- Nosferat's Merchant and Loot Additions
-- Alert Enemies
-- Re-Evaluate Misc Item
-- Ultimate Combat
-- Amber Equipment Fix
-- Auto Horse Pathing
-- Black Robe Texture Fix
-- Blades Gauntlets Fix
-- Bound Armor Clipping Fix
-- Darker Huntsman- Pants and Vest
-- Darker Orcish Armor and Shield
-- Forester - Darker Green Recolor
-- HQ Secunda Earth Moon Retexture
-- Less Cartoony Eating and Drinking SFX Replacer
-- Shivering Isles Clothing Mesh Fixes
-- Sitting camera fix (and race-list-based player height)
-- ZZZ Red Diamond Jewelry
-- Shiny and Glowing Skin
-- Stop combat guard fix
-- CLANNFEAR- VIRIDIAN REPTILE RETEXTURE
-- DAEDROTH- DEATH DRAGON RETEXTURE
-- Exquisitely Chosen Original Voices - only for non-beast (and orc) races since otherwise these mods break lip sync
-- Shivering Isles Voice Acting Restored - only for non-beast (and orc) races since otherwise these mods break lip sync
+***
 
-**Updated**
-- GSLoader
-- Radiant Knights of the Nine Dungeon Quests
-- Core Survival
+## ADDED
+- Superior Sigil Stones  
+- Sigil Stones Effects - Magic Loader  
+- No Invisible World Border  
+- Marksman Fatigue Perk Rebalanced  
+- Oh Well  
+- Nosferat's Merchant and Loot Additions  
+- Alert Enemies  
+- Re-Evaluate Misc Item  
+- Ultimate Combat  
+- Amber Equipment Fix  
+- Auto Horse Pathing  
+- Black Robe Texture Fix  
+- Blades Gauntlets Fix  
+- Bound Armor Clipping Fix  
+- Darker Huntsman Pants and Vest  
+- Darker Orcish Armor and Shield  
+- Forester - Darker Green Recolor  
+- HQ Secunda Earth Moon Retexture  
+- Less Cartoony Eating and Drinking SFX Replacer  
+- Shivering Isles Clothing Mesh Fixes  
+- Sitting Camera Fix (race-based player height)  
+- ZZZ Red Diamond Jewelry  
+- Shiny and Glowing Skin  
+- Stop Combat Guard Fix  
+- Clannfear - Viridian Reptile Retexture  
+- Daedroth - Death Dragon Retexture  
+- Exquisitely Chosen Original Voices (non-beast races only)  
+- Shivering Isles Voice Acting Restored (non-beast races only)  
 
-**Removed**
-- Ultra Combat V2 - Fixed Edition + Controller Config - redundant
-- Protective Headgear - Daedric (Updated for 1.2)
+***
 
-**Changes**
-- mcm is now opened with F12 to avoid another keybinding conflict
-- added new reshade preset with a bit colder and more natural lighting - if you prefer the old one, you can toggle between them at any point ingame by pressing the PgUp key
-- Ancestor Guardian uses slightly lower level fire spells
-- renamed fire/frost/shock shield to fire/frost/shock cloak to make it more clear that these now deal aoe damage
-- increased the barter and spell cost of fire/frost/shock cloak since they are a bit too efficient for 1 enchantment slot
-- modified the text of 9 vanilla loading screens and added a few new ones to better explain changed and new mechanics
-- added new ingame descriptions for racial abilities
-- Roots of Valen woodelf passive no longer restores health or magicka, but now also fortifies 10 points of speed while outdoors
-- rebalanced blackwater blade enchantment, no longer absorbs fatigue over time, but absorbs a greater amount on each strike - requires you to actively be hitting enemies instead of hit once and kite away until they fall down, repeat
-- buffed fatigue of creatures to their vanilla values - for some reason the remaster reduces to 1/4 of their original value but doesn't nerf damage/drain fatigue effects to compensate so these spells just ragdoll everything within a few seconds
+## UPDATED
+- GSLoader  
+- Radiant Knights of the Nine Dungeon Quests  
+- Core Survival  
 
-**Bugfixes**
-- fixed issue causing Balanced Scales to constantly be added to dark elf players if they were below 50% fatigue
-- fixed Jauffre having some lines referencing the Emperor's death before the MQ is started
-- created file to hide "spell has been added to the player's spell list" for all scripted race effects
-- fixed attribute descriptions in the levelup menu showing up as missing string entries
+***
 
-## **1.1.5**
+## REMOVED
+- Ultra Combat V2 - Fixed Edition + Controller Config (redundant)  
+- Protective Headgear - Daedric (updated in 1.2)  
 
-**Added**
-- GSLoader (UE5 Game Settings Loader)
-- Denizens of Cyrodiil - All-in-One - also integrated with follower patch so these npcs can be recruited
-- UE4SS Easy Tweaks
-- Loot Glow
-- Time on HUD
-- AHP Cute Rats
-- Blackwater Blade Fix
-- Reworked Race Relations Remastered
-- Disable Annoying Clipping Objects (Bliss Fountain plus Fort Linchal)
-- The Necromancers Amulet Quest Fix
-- Tempering Armor and Weapons - integrated with Smithing mod, added Smithing section to gameplay guide
-- Better Origin Descriptions
-- Spell Damage Scaling - UE4SS
-- Pleasing Palettes - Dark Green Shirt
-- Amelion's Paladin Armor (1.2 Updated)
-- Daedric Quests - Fame Requirements
-- Oblivion Music Legend - Chapter One - Echoes of the Past
-- Faster Sleep and Wait - OBSE - conflicts with sleep system in Core Survival, added note to disable if using Core Survival
+***
 
-**Removed**
-- Runtime EditorIDs (Console)
-- Sha'dar - Panther Companion (Creature follower)
-- Dynamic AI Behavior - Animals
-- Core Survival Sound Addon
-- True Bleed
+## CHANGES
+- MCM is now opened with **F12** to avoid keybinding conflicts  
+- New reshade preset with colder, more natural lighting  
+  - Toggle old/new preset in-game with **PgUp**  
+- Ancestor Guardian uses lower-level fire spells  
+- Renamed:
+  - Fire/Frost/Shock Shield → Fire/Frost/Shock Cloak (now AoE damage)  
+- Increased barter and spell cost of Cloaks (balance pass)  
+- Modified loading screens (9 vanilla edits + new entries) for clarity on mechanics  
+- Added new in-game racial ability descriptions  
+- Wood Elf passive (Roots of Valen) no longer restores HP/Magicka  
+  - Now also grants +10 Speed outdoors  
+- Blackwater Blade rework:
+  - No longer passive fatigue drain  
+  - Now triggers higher burst absorption on hit  
+- Creature fatigue restored to vanilla values  
+  - Fixes unintended ragdoll spam from fatigue scaling mismatch  
 
-**Updated**
-- Core Survival
+***
 
-**Changes**
-- the "Play" button now launches GSLoader, which in turn launches MagicLoader, which in turn launches OBSE. This does add about 10-15 seconds to the games boot time, but it also allows me to include modifications to game settings on the unreal side of things which previously was not possible without adding additional manual steps for you all.
-- merged 46 plugins to make space for new additions as well as for people adding their own mods
-- rebalanced difficulty settings to bring them each closer together and to utilize the full range of options. higher levels are actually playable - Master works out to be similar to the current Journeyman
-- reduced damage of many creature enemies in the unleveled patch since these values were calibrated by the original mod author for a different set of rebalancing mods than what APWR uses
-- increased player and horse movement speeds by ~10%
-- reduced spellmaking and enchanting gold costs by ~15%
-- increased swim speed in heavy armor by 15%
-- the chance to recover arrows from corpses has been reduced to 50%
-- there is no more delay to fatigue, magicka, or health regen
-- passive health regen is reduced by 25%
-- base magicka regen has been reduced by 25%, but the multiplier willpower has on the formula has been increased by 25% to make this attribute more attractive
-- enemies will now suffer a slight knockback when hit with a melee weapon, increasing with your strength
-- magic projectiles move 25% faster
-- Restore Attribute can no longer be used in spellmaking or enchanting, and can no longer be purchased from spell vendors. With how powerful some birthsign lesser powers are, it doesn't make sense to allow the damaged attributes to be restored with a simple spell that can be infinitely recast. The intended gameplay loop is that you regularly visit chapels to restore attributes, or stock up on potions. You can also still use the greater power from the Lady Doomstone to fully restore all attributes once per day.
-- intelligence now also scales your damage with spells and enchantments by 0.5% per level
-- willpower now also increases your damage with staves by 0.5% per level
-- Birthsigns which damage an attribute have had this damage increased to 3 per use (was 2)
-- the Tower's passive damage reflection has been reduced to 10% (was 15%). The associated doomstone power has been reduced to 75% damage reflection (was 85%)
-- Mage's Brilliance now Fortifies Intelligence by 100 points intead of Fortifying Magicka 250 points. This is to allow the power to now scale your spell damage instead of just adding to your available pool.
-- Lover's Kiss now Calms any enemy for 10s, rather than 15 points of Charm for 15s.
-- Ritual's Prayer now cures poison and disease, deals Holy Fire (fire+light) damage, turns the undead, and causes 25% weakness to fire over 10 seconds in a small area; no longer soul traps. The associated doomstone greater power now soul traps in an area in addition to its previous effects.
-- Serpent's Bite now causes paralysis for 5 seconds. The associated doomstone power Star Curse now absorbs all attributes by 50 points for 120s and causes 500% weakness to poison on touch.
-- Shadow's Prowl now also blinks the player to where the reticle is aimed.
-- interacting with a Smithing Anvil will now give an option to temper your equipment, granting 10 points of Shield, Fortify Blade, Fortify Blunt, and Fortify Marksman for 15 minutes.
-- the penalty to being detected while summoning daedra now only occurs after the kvatch oblivion gate has been closed, and to prevent cheesing the new daedric quest requirements it modifies disposition with the detecting npc instead of granting a point of infamy
-- the Hunting Grounds for Hircine's daedric quest now play dungeon music instead of exploration music to better fit the atmosphere
-- "Shield" sigil stones now grant more armor rating than their elemental shield counterparts, since elemental shields also grant resistance to that element and deal aoe damage
-- removed mace and warhammer models from the practical arsenal series
+## BUG FIXES
+- Fixed Balanced Scales repeatedly applying to Dark Elves under 50% fatigue  
+- Fixed Jauffre referencing Emperor’s death before MQ start  
+- Hidden “spell added” messages for scripted race effects  
+- Fixed missing string entries in level-up attribute descriptions  
 
-**Bugfixes**
-- fixed an issue causing wolves and some other animals to lose most of their aggression
-- fixed the random coin clanking sound at the fountain in Mania
-- removed detect life from Khajiit Prowl power to prevent bug which caused the purple detect life screen overlay to appear even when an npc cast the power
-- fixed charm spells having a ridiculous magicka cost
-- MCM is now opened with F10 to avoid a bug which could prevent closing the inventory
+***
 
-## **1.1.4**
+# <p align="center">1.1.5</p>
 
-**Added**
-- Chillrend Remastered
-- DB Quick Entrance Fix
-- Turpentine - only 4 patches enabled, no more performance hit
-- Sambuca's Creatures Overhaul - only the reach changes
-- Less White Faded Wraith
-- Advanced Followers Remastered - heavily tweaked
+***
 
-**Changes**
-- reduced xp rewarded from lockpicking in Mad Experience
-- removed war axes from the Practical Arsenal series
-- headshots will no longer cause stagger, was too easy to perma stunlock enemies
-- tier 1 blessings now include cure disease and restore attribute to make these effects more accessible with the birthsign system
-- tier 3 blessings now fortify their respective attribute by 15 points (was 10) in addition to their other effects
-- deluxe edition quest rumors can no longer be heard until the player completes Dagon Shrine
+## ADDED
+- GSLoader (UE5 Game Settings Loader)  
+- Denizens of Cyrodiil - All-in-One (follower compatible)  
+- UE4SS Easy Tweaks  
+- Loot Glow  
+- Time on HUD  
+- AHP Cute Rats  
+- Blackwater Blade Fix  
+- Reworked Race Relations Remastered  
+- Disable Clipping Objects (Bliss Fountain / Fort Linchal)  
+- Necromancer’s Amulet Quest Fix  
+- Tempering Armor and Weapons (Smithing integration)  
+- Better Origin Descriptions  
+- Spell Damage Scaling - UE4SS  
+- Pleasing Palettes - Dark Green Shirt  
+- Amelion’s Paladin Armor (1.2 Updated)  
+- Daedric Quests - Fame Requirements  
+- Oblivion Music Legend - Chapter One  
+- Faster Sleep and Wait (optional, Core Survival conflict noted)  
 
-**Bugfixes**
-- fixed all faction starts not adding needed dialogue topics that were required to proceed with the faction quests
+***
+
+## REMOVED
+- Runtime EditorIDs (Console)  
+- Sha'dar Panther Companion  
+- Dynamic AI Behavior - Animals  
+- Core Survival Sound Addon  
+- True Bleed  
+
+***
+
+## UPDATED
+- Core Survival  
+
+***
+
+## CHANGES
+- Launcher chain updated:
+  - Play → GSLoader → MagicLoader → OBSE  
+  - +10–15s startup time, required for UE-side settings control  
+- Merged 46 plugins (load order optimization + user expansion space)  
+- Difficulty scaling normalized across all modes  
+  - Master ≈ current Journeyman equivalent  
+- Creature damage reduced (unleveled patch rebalance)  
+- Player + horse speed increased (~10%)  
+- Enchanting/spellmaking costs reduced (~15%)  
+- Swim speed in heavy armor +15%  
+- Arrow recovery chance reduced to 50%  
+- Removed delayed regen system:
+  - No regen delay for HP/Magicka/Fatigue  
+- Passive HP regen -25%  
+- Magicka regen -25% base  
+  - Willpower scaling +25% (to make stat meaningful)  
+- Melee hit knockback added (scales with Strength)  
+- Magic projectile speed +25%  
+- Restore Attribute removed from:
+  - Spellmaking  
+  - Enchanting  
+  - Vendors  
+  - (Now chapel/potion-based only, except Lady Doomstone)  
+- Intelligence now scales spell/enchant damage (0.5% per level)  
+- Willpower now scales staff damage (0.5% per level)  
+- Birthsign attribute damage increased (2 → 3)  
+- Tower adjustments:
+  - Reflection reduced (15% → 10%)  
+  - Doomstone reflection (85% → 75%)  
+- Mage’s Brilliance reworked:
+  - Int buff instead of Magicka pool scaling  
+- Lover’s Kiss simplified:
+  - Charm → full Calm (10s)  
+- Ritual’s Prayer reworked (adds fire weakness + AoE holy fire)  
+- Serpent/Star Curse expanded attribute drain scaling  
+- Shadow’s Prowl now includes blink-to-reticle  
+- Smithing Anvil interaction:
+  - Temporary combat buff crafting added  
+- Daedra summoning detection delay moved post-Kvatch gate  
+- Hircine dungeon music swap for atmosphere  
+- Shield sigils buffed vs elemental shields  
+- Removed mace/warhammer models from Practical Arsenal  
+
+***
+
+## BUG FIXES
+- Fixed animal aggression regression  
+- Fixed Mania fountain coin sound bug  
+- Fixed Khajiit Detect Life overlay bug  
+- Fixed Charm spell magicka costs  
+- Fixed MCM keybind conflict (now **F10**)  
+
+***
+
+# <p align="center">1.1.4</p>
+
+***
+
+## ADDED
+- Chillrend Remastered  
+- DB Quick Entrance Fix  
+- Turpentine (reduced patch set)  
+- Sambuca’s Creature Overhaul (reach changes only)  
+- Less White Wraith  
+- Advanced Followers Remastered (heavily tweaked)  
+
+***
+
+## CHANGES
+- Reduced lockpick XP (Mad Experience system)  
+- Removed war axes from Practical Arsenal  
+- Headshots no longer stagger (prevents stun-lock loops)  
+- Tier 1 blessings: now include cure disease + restore attribute  
+- Tier 3 blessings: +15 attribute fortification  
+- Deluxe quest rumors gated behind Dagon Shrine completion  
+
+***
+
+## BUG FIXES
+- Fixed faction starts missing dialogue progression topics  
+
+***
 
 ## **1.1.3**
 
