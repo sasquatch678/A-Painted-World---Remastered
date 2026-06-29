@@ -17,7 +17,7 @@ After the sewer sequence, retrieve your belongings from the evidence chest in th
 ---
 
 **How do I take screenshots?**  
-Press **L** to hide the UI, then press **Print Screen**.
+Press **L** to hide the UI, then press **Ins**.
 
 ---
 
