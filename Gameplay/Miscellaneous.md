@@ -28,8 +28,6 @@ Once unlocked, these locations are added to the stable network for return travel
 
 ### GUILD GUIDES (Mage Teleport Network)
 
-![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arboretum.png)
-
 Every Mages Guild Hall (and the Arcane University Lobby) includes a **Mage Guide NPC**.
 
 **How to unlock:**
