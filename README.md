@@ -13,11 +13,15 @@
 
 ## Overview
 
-*A Painted World* is a vanilla-friendly overhaul of **The Elder Scrolls IV: Oblivion Remastered**, designed to enhance visuals, atmosphere, and immersion while preserving the original identity of Cyrodiil.
+A Painted World – Remastered is a vanilla-friendly overhaul of Oblivion Remastered that refines and reimagines Cyrodiil without losing the charm of the original. The goal is not to replace Oblivion, but to elevate it into a more cohesive, immersive, and modern-feeling experience while preserving its identity.
 
-Every change is carefully curated to feel natural to the base game. Rather than reinventing Oblivion, this list refines it—improving lighting, weather, audio, environmental detail, and quality-of-life systems while keeping gameplay familiar.
+This modlist enhances visual fidelity and atmosphere, making Cyrodiil feel richer, more lived-in, and more consistent across its regions. Lighting, weather, and environmental touches are tuned to deepen exploration and reinforce the world’s fantasy tone without drifting into visual overload.
 
-The result is a more vibrant, immersive, and cohesive version of Cyrodiil that still feels like *Oblivion* at its core.
+Under the surface, the experience is significantly more stable and polished. Numerous bug fixes and consistency patches address long-standing issues in quests, AI behavior, world interactions, and general gameplay jank. Encounters feel less unpredictable in a broken way and more dynamic in a designed way, with improved reliability across systems that traditionally caused friction in vanilla Oblivion.
+
+Combat and gameplay receive a meaningful overhaul, introducing more engaging and responsive systems. Fights are no longer simple exchanges of damage but layered encounters that reward positioning, timing, and preparation. Expanded combat options—alongside smarter enemy behavior—create a more reactive and tactical flow, whether you’re sneaking through ruins, clashing in melee, or engaging at range. Magic, stealth, and physical combat all feel more distinct and viable, encouraging different playstyles rather than funneling the player into one dominant approach.
+
+Across the board, A Painted World – Remastered aims for a carefully curated balance: familiar enough to feel like Oblivion, but refined enough to feel like the world it was always meant to be.
 
 A gameplay breakdown of major changes can be found in the [Gameplay Guide](https://github.com/sasquatch678/A-Painted-World---Remastered/tree/main/Gameplay).
 
