@@ -57,7 +57,7 @@ A gameplay breakdown of major changes can be found in the [Gameplay Guide](https
 
 ### Wabbajack Installation
 
-1. Download the latest Wabbajack
+1. Download the latest [Wabbajack](https://www.wabbajack.org/)
 2. Place it in a folder like `C:\Games\Wabbajack`
 3. Open Wabbajack → Browse Modlists
 4. Select **A Painted World – Remastered**
