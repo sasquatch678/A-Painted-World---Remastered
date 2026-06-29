@@ -186,7 +186,8 @@ Each race now has:
 ## WOOD ELF
 
 **Passive:** Roots of Valen  
-- Outdoors: +1 Fatigue/sec  
+**Outdoors:**
+- +1 Fatigue/sec  
 - +15 Speed  
 - 75% Disease Resistance  
 
