@@ -45,7 +45,7 @@ Due to being a Wabbajack list installing A Painted World is painless and easy, t
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
 3. Fully uninstall Oblivion Remastered by deleting the base game folder as well as the Oblivion Remastered folder inside \Documents\My Games\.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
-5. Reinstall Oblivion Remastered into a location that is not Program files. Somewhere like `C:\Games` is a good location. Avoid long file paths. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
+5. Reinstall Oblivion Remastered into a location that is not Program files. Somewhere like C:\Games is a good location. Avoid long file paths. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 8. Disable all Steam/Nvidia/Discord overlays.
@@ -54,7 +54,7 @@ Due to being a Wabbajack list installing A Painted World is painless and easy, t
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as C:\Games\Wabbajack. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
 :warning: **NOTE**: A Painted World will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
@@ -100,9 +100,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow these instructions (https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Starting up the list
-Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+Open the installation folder and double-click on the program called ModOrganizer.exe. 
 
-Make sure the dropdown box on the right is set to `Play` and press the `Run` button.
+Make sure the dropdown box on the right is set to Play and press the Run button.
 
 ## Optional Mods - Ultrawide Support, Leveling Options, & More!
 
@@ -129,7 +129,7 @@ Sometimes the game can crash when starting a new game. This is listed as a known
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating unless prefixed with [NoDelete].
+Updating is like installing the list. Simply make sure your paths are the same and tick the overwrite existing modlist button. **Note**: Any mods you have added will be deleted when updating unless prefixed with [NoDelete].
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
@@ -140,5 +140,132 @@ Simply delete the folder, and you have uninstalled it.
 - biggie_boss for answering all my questions, motivating me to create APW, and introducing me to Wabbajack in the first place with his Youtube content.
 - everyone in the Discord making reports and providing feedback. The list would not be in the current state without you.
 - Halgari and everyone on the WJ Team - Wabbajack is an amazing tool.
+
+This is already solid, but it’s doing too much at once visually, especially for GitHub/Wabbajack readers. The main issues are:
+
+    Repeated banners break reading flow
+
+    HTML <p align="center"> is unnecessary clutter
+
+    Link cluster is visually noisy
+
+    Long warning block competes with overview
+
+    Mixed Markdown + HTML + badges = inconsistent rendering across platforms
+
+Here’s a cleaned, modernized, Wabbajack-style version that preserves everything but improves flow and readability:
+
+![Banner](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/44-1745637238-495473451.webp)
+
+# A Painted World – Remastered
+### An Oblivion Remastered Wabbajack Modlist by Sasquatch
+
+[Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) |
+[Load Order Library](https://loadorderlibrary.com/lists/a-painted-world-remastered) |
+[Discord](https://discord.gg/dGP9Vy7QMG) |
+[Nexus](https://www.nexusmods.com/games/oblivionremastered/collections/e3ojze) |
+[Ko-Fi](https://ko-fi.com/sasquatch678)
+
+---
+
+## Overview
+
+*A Painted World* is a vanilla-friendly overhaul of **The Elder Scrolls IV: Oblivion Remastered**, designed to enhance visuals, atmosphere, and immersion while preserving the original identity of Cyrodiil.
+
+Every change is carefully curated to feel natural to the base game. Rather than reinventing Oblivion, this list refines it—improving lighting, weather, audio, environmental detail, and quality-of-life systems while keeping gameplay familiar.
+
+The result is a more vibrant, immersive, and cohesive version of Cyrodiil that still feels like *Oblivion* at its core.
+
+A gameplay breakdown of major changes can be found in the [Gameplay Guide](https://github.com/sasquatch678/A-Painted-World---Remastered/tree/main/Gameplay).
+
+---
+
+## ⚠️ Requirements
+
+> Only **Windows 10/11 (21H2 or newer)** is supported. Modified or lightweight Windows versions are not supported.
+
+- Do not install on HDD or external drives (SSD strongly recommended)
+- Requires a clean Oblivion Remastered install
+- Do not use OneDrive or similar file-sync tools
+- Disable overlays (Steam, Discord, NVIDIA, etc.)
+- Antivirus software may interfere with installation
+
+---
+
+## Installation
+
+### Pre-Installation
+
+1. Install:
+   - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+   - [.NET Runtime 8.0 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
+
+2. Fully uninstall Oblivion Remastered (including Documents folder data)
+3. Reinstall outside Program Files (e.g. `C:\Games\Oblivion`)
+4. Launch once to generate settings
+5. Disable antivirus/overlays
+6. Ensure clean system environment before proceeding
+
+---
+
+### Wabbajack Installation
+
+1. Download the latest Wabbajack
+2. Place it in a folder like `C:\Games\Wabbajack`
+3. Open Wabbajack → Browse Modlists
+4. Select **A Painted World – Remastered**
+5. Set install folder (e.g. `C:\Modlists\APWR`)
+6. Click Install and wait
+
+---
+
+## Troubleshooting
+
+- **Missing download / whitelist error** → Wait for update or check Discord
+- **Game not found** → Reinstall correctly outside Program Files
+- **Antivirus issues** → Add exclusion for modlist folder and Mod Organizer 2
+
+---
+
+## Post-Installation
+
+Launch via `ModOrganizer.exe` and press **Run**.
+
+---
+
+## Optional Mods
+
+- Multiple leveling system options available
+- Ultrawide support (enable in MO2)
+- Deluxe Edition patch available
+- Optional fast travel removal
+
+> Do not change load order after selecting options.
+
+---
+
+## Known Issues
+
+- Rare crash on new game start (disable Ultra Combat temporarily if needed)
+
+---
+
+## Updating
+
+Follow Wabbajack update process.  
+Back up saves before updating.
+
+> Mods not prefixed with `[NoDelete]` will be removed.
+
+---
+
+## Credits
+
+- You, for using the list
+- biggie_boss for support and inspiration
+- Wabbajack team
+- Community testers and Discord members
+
+
 
 
