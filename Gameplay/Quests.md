@@ -3,15 +3,7 @@
 # <p align="center"> QUESTS
 ***
 <p align="center">
-[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-main-quest">Main Quest</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dlc-quests">DLC Quests</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-fighters-guild">Fighters Guild</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-mages-guild">Mages Guild</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-thieves-guild">Thieves Guild</a> |
-  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-dark-brotherhood">Dark Brotherhood</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-arena">The Arena</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-the-imperial-legion">Imperial Legion</a> |
-    <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Quests.md#-order-of-the-virtuous-blood">Order of the Virtuous Blood</a> ]  </br>
+[ Main Quest | DLC Quests | Fighters Guild | Mages Guild | Thieves Guild | Dark Brotherhood | The Arena | Imperial Legion | Order of the Virtuous Blood ]
 
 ## Quest Philosophy
 
