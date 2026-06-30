@@ -45,5 +45,5 @@ Press **F12**
 ---
 
 **What are `TamrielLeveledRegion.esp` and `AltarGymNagivation.esp`, and why are they disabled?**  
-They are leftover base game plugins that ship enabled internally but disabled by default.  
+They are leftover base game plugins that ship with the base game but disabled by default.  
 Their function is unclear, and enabling them is not recommended.
