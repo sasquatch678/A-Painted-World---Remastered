@@ -1,5 +1,71 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.7 / Revision 4</p>
+
+***
+
+## ADDED
+- ImpeREAL Empire - Unique Castles
+- ImpeREAL City
+- RaceMenu Utilities
+- NPC Appearance Manager
+- NPC Overhaul - Oblivion Remastered
+- Allure of the Magi - Mages Guild NPC Overhaul
+- Velothi Vanity (NPC Overhaul for the Dunmer - Dark Elves)
+- ORR Series - Orc NPCs
+- Pretty Kitties - Khajiit NPC Overhaul
+- NPC Revamp
+- An old fisherman
+- Citizens Appearance Overhaul. Shadows Hide Them
+- Horrendous Hackdirt
+- Deadly Visage - Dark Brotherhood NPC Overhaul
+- Malignant Mannimarco - A Truly Vile Foe
+- The Reclusive Count of Skingrad
+- The Kids Aren't Alright - An Unexpected Voyage NPC Overhaul
+- Timothee LaRouche the Able Seaman
+- Battlehorn Castle NPC Overhaul
+- Classic Faces - NPC Overhaul
+- Curated Citizens of Cyrodiil - An NPC Overhaul
+- Ongar the World Weary
+- Lossless In Game Soundtrack (.wav to .wem)
+- Wider Single Beds
+- Fancy Black Robe
+- Fancy Green Robe
+- Female Complexion Edits
+- Basic Bounty System
+- Natural Bodies
+- Natural Male Bodies
+- Race Based Player & NPC Bodies for NBO
+- NBO Outfit Conversion
+- NBO Huntsman Vest
+- Golden Saint NBO
+- Dark Seducer NBO
+- Golden Dream
+- Chapels of Cyrodiil
+- Seamless Horse
+- Bay Paint Horse Replacer
+
+***
+
+## REMOVED
+- Realistic High Quality Skin - makes presets look weird
+- Shiny and Glowing Skin - makes presets look weird
+
+***
+
+## CHANGES
+- more valuable/unique ores will be a bit more rare while more common ores (iron, silver, gold) will appear more commonly
+- barrels and crates which could never carry anything valuable now have a small chance for something valuable to appear
+- reduced training costs in Mad Experience so that the costs match vanilla costs (aka reduced by 90%)
+
+***
+
+## BUG FIXES
+- fixed Anvil Mages guild vendors getting stuck and unable to get behind their counters
+
+***
+
+
 # <p align="center">1.1.6 / Revision 3</p>
 
 ***
