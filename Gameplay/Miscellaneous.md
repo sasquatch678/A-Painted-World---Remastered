@@ -1,271 +1,305 @@
-# <p align="center">MISCELLANEOUS</p>
+# <p align="center"> MISCELLANEOUS
 
 <p align="center">
-[ Travel | Gods & Worship | Jobs | Gambling | Survival (Optional) ]
-</p>
+[ <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-travel">Travel</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gods--worship">Gods & Worship</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-jobs">Jobs</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gambling">Gambling</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-survival-optional">Survival</a> ] </br>
+  
 
----
-
-## TRAVEL
-
+## <p align="center"> TRAVEL
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/cheydinhalstables.png)
-
+***
 >[!TIP]
->Fast Travel can be disabled via **No Fast Travel Remastered (MO2 optional section)** for a fully immersive experience.
+>Fast Travel can be disabled by enabling the No Fast Travel Remastered mod in the optional section of MO2.
 
-### STABLES (Regional Carriages)
-At every city stable, a **Regional Courier NPC** offers travel between major cities, including the Kvatch encampment.
+####  STABLES
+There is a Regional Courier npc at every city stables who will be able to take you to every city. It includes all the main cities, including the Kvatch encampment.
+- Each trip will cost between 60 to 170 gold. Prices vary depending how far your destination is.
+- Time will advance when you travel.
+- After you unlock Battlehorn Castle and Frostcrag Spire, you'll be able to travel to them from their nearest cities (Chorrol and Bruma). You'll also be able to travel back to those cities from the Castle and the Spire.
 
-- Costs: 60–170 gold depending on distance  
-- Time advances during travel  
-- Unlocks:
-  - Battlehorn Castle (from Chorrol routes)
-  - Frostcrag Spire (from Bruma routes)
+####  GUILD GUIDES
+Every mages guildhall (and the Arcane University Lobby) now has a Mage Guide NPC.
+- The Mage Guide NPC will teleport you for 200 gold, or 100 gold if you're the Arch Mage.
+- You'll only be able to teleport to the guild halls that you've finished your recommendation quest. The Arcane University teleport unlocks after you get all recommendations. 
+- It includes all the main cities (except Kvatch) and the Arcane University Lobby.
+- You must be a member of the Mages Guild in order to use the service. If you get expelled, you must rejoin before you can use it again.
+- Teleports are instant, time won't advance like stables travel.
 
-Once unlocked, these locations are added to the stable network for return travel.
+#### SAILING
+At Anvil and Bravil's docks, there will be a row boat that can take you to Dunbarrow Cove (from Anvil) and Deepscorn Hollow (from Bravil). Like the other DLC homes, you'll only be able to travel there after you unlock them. You'll able to sail back to those cities from the Cove and Deepscorn Hollow.
 
----
+####  HORSES
+While riding a horse, you can press "H" and the horse will auto path towards your custom marker or tracked objective.
 
-### GUILD GUIDES (Mage Teleport Network)
+If you have ridden a horse, you will be granted a Horse Whistle power.
+- Using the power when your horse is nearby will swap it between wait and follow modes.
+- If your horse is further away, it will teleport to you and start following you.
+- All changes in follow/wait state are complete with sound effects.
+- You cannot summon your horse whilst in cities, the realm of Oblivion, and some other locations where it would not be logical to do so.
+<br/>
 
-Every Mages Guild Hall (and the Arcane University Lobby) includes a **Mage Guide NPC**.
-
-**How to unlock:**
-- Complete recommendation quests for each guild hall
-- Arcane University unlocks after all recommendations
-
-**Features:**
-- Teleport between unlocked guild halls and major cities (Kvatch excluded)
-- Cost: 200 gold (100 gold as Arch-Mage)
-- Instant travel (no time progression)
-- Requires Mages Guild membership
-
-Expulsion removes access until rejoining.
-
----
-
-### SAILING
-
-Boat travel connects coastal DLC homes:
-
-- Anvil → Dunbarrow Cove  
-- Bravil → Deepscorn Hollow  
-
-Return travel is available once unlocked through their respective questlines.
-
----
-
-### HORSES
-
-While mounted:
-- Press **P** to auto-path toward your tracked objective or map marker
-
-After first horse usage, you gain **Horse Whistle**:
-
-- Toggle follow/wait state remotely
-- Teleport horse to player if nearby or distant
-- Includes sound feedback
-- Disabled in cities, Oblivion realms, and restricted interiors
-
----
-
-## GODS & WORSHIP
-
+***
+## <p align="center"> GODS & WORSHIP
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/arboretum.png)
+***
+Show devotion to a Divine by visiting their Altars and Praying out in the world. As your devotion grows, their blessing will be stronger the next time you visit a chapel altar. Betray a Divine by praying to another, repeated betrayals have consequences. Divine blessings and prayers now last for an entire day.
 
-Divines now form a **progression-based devotion system** tied to repeated worship and behavior.
+#### BLESSINGS
+Blessings are received by visiting an altar, and build up a moderate amount of Devotion. Works similarly to vanilla, but scale the more you use them. The bonuses for each tier of devotion are listed below.
 
-### How to Start
-- Pray at **chapel altars or wilderness shrines**
-- Choose a Divine to begin devotion tracking
+| Divine    | Tier 1 Blessing | Tier 2 Blessing | Tier 3 Blessing |
+|:--------------:|:-------------:|:-------------:|:-------------:|
+| Akatosh | +5 Speed, Cure Disease & Restore Speed | +10 Speed, Cure Disease & Restore Speed | +15 Speed, Cure Disease & Restore Speed, +10 Athletics, Acrobatics, Light Armor |
+| Arkay | +5 Endurance, Cure Disease | +10 Endurance, Cure Disease | +15 Endurance, Cure Disease, Restore Heath (1/s) |
+| Dibella | +5 Personality, Cure Disease & Restore Personality | +10 Personality, Cure Disease & Restore Personality | +15 Personality, Cure Disease & Restore Personality, +10 Mercantile, Speechcraft, Illusion |
+| Julianos | +5 Intelligence, Cure Disease & Restore Intelligence | +10 Intelligence, Cure Disease & Restore Intelligence | +15 Intelligence, Cure Disease & Restore Intelligence, +10 Alchemy, Conjuration, Mysticism |
+| Kynareth | +5 Agility, Cure Disease & Restore Agility | +10 Agility, Cure Disease & Restore Agility | +15 Agility, Cure Disease & Restore Agility, +10 Security, Sneak, Marksman |
+| Mara | +5 Willpower, Cure Disease & Restore Willpower | +10 Willpower, Cure Disease & Restore Willpower | +15 Willpower, Cure Disease & Restore Willpower, +10 Alteration, Destruction, Restoration |
+| Stendarr | +5 Armor Rating, Cure Disease & Restore Endurance | +10 Armor Rating, Cure Disease & Restore Endurance | +15 Armor Rating, Cure Disease & Restore Endurance, +10 Armorer, Block, Heavy Armor |
+| Talos | +5 Strength, Cure Disease & Restore Strength | +10 Strength, Cure Disease & Restore Strength | +15 Strength, Cure Disease & Restore Strength, +10 Blade, Blunt, Hand to Hand |
+| Zenithar | +5 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck | +10 Luck, Cure Disease & Restore Luck, +5 All skills
 
-Switching gods is allowed, but may trigger **betrayal consequences**.
+#### PRAYERS
+Prayers are learned by visiting an altar, and can be used once a day. They grant a blessing of tier 1 strength and build up a small amount of Devotion. Praying while out on adventure will often increase the strength of your next altar blessing﻿﻿.
 
----
+#### WAYSHRINES
+Wayshrines give tier 1 blessings, and due to their remoteness may be taken in secret. Builds a small amount of Devotion. Less powerful than an altar blessing, but can be taken whenever you run across one on an adventure without fear of triggering a betrayal
 
-### BLESSINGS (ALTAR DEVOTION)
+#### BETRAYAL
+Betrayals occur when you switch from one Divine to another. Betrayals reset your devotion and strip any existing blessings belonging to your previous Divine. Committing multiple betrayals against a Divine will cause them to leave the temple and require a new pilgrimage.
+***
+## <p align="center"> JOBS
 
-Blessings scale across 3 tiers based on devotion level.
 
-Each Divine offers unique stat paths:
 
-- **Akatosh:** Speed + mobility skills  
-- **Arkay:** Endurance + regeneration  
-- **Dibella:** Personality + social skills  
-- **Julianos:** Intelligence + magic schools  
-- **Kynareth:** Agility + stealth/ranged  
-- **Mara:** Willpower + spellcasting  
-- **Stendarr:** Defense + armor skills  
-- **Talos:** Strength + melee combat  
-- **Zenithar:** Luck + general skill boost  
 
-Blessings last **1 in-game day** and scale with continued worship.
 
----
 
-### PRAYERS
 
-- Learned after first altar interaction  
-- Usable once per day  
-- Grants Tier 1 blessing effects  
-- Builds devotion faster when used during travel
 
----
 
-### WAYSHRINES
 
-- Found in wilderness locations  
-- Always grant Tier 1 blessings  
-- Lower devotion gain than altars  
-- Designed for exploration use while traveling
 
----
 
-### BETRAYAL SYSTEM
 
-Switching Divines causes:
 
-- Loss of current devotion and blessings  
-- Reset of progression for that deity  
-- Repeated betrayal may cause Divine abandonment, requiring renewed pilgrimage
 
----
 
-## JOBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/jobs.png)
+***
+Pick up a Job Contract from an innkeeper (buy) and read it. You will then have the choice between various jobs. Once you make your choice, the client will detail their request. If you accept, the contract begins! A Job Book will be given to you for your very first contract. This book contains various information to help you complete your contracts. The contract’s progress depends on the job: some require making deliveries, being proactive, having certain components, etc. Payment is collected upon reaching the delivery point (or directly on-site for certain jobs). The amount depends on the job type and the client (for example: a jeweler job for a wealthy client pays more than a harvester job for a poor client). Jobs are unlimited! You can do them as many times as you want.
 
-### How to Start Jobs
-- Speak to **any innkeeper**
-- Purchase a **Job Contract**
-- Read it to select available work
+Job-related equipment can be purchased at Jensine's “Good as New” Merchandise in the Imperial City, Market District (items are restocked regularly; waiting a few hours is enough). You can also find the tools required to perform your jobs from the following NPCs:
+- Norbert Lelles, Lelles' Quality Merchandise in Anvil
+- Nilawen, The Fair Deal in Bravil
+- Suurootan, Novaroma in Bruma
+- Borba gra-Uzgash, Borba's Goods and Stores in Cheydinhal
+- Seed-Neeus, Northern Goods and Trade in Chorrol
+- Gundalas, Best Goods and Guarantees in Leyawiin
+- Gunder, Colovian Traders in Skingrad
 
-You may only hold **one job at a time**.
+Job Contracts are available from innkeepers at regular intervals (a few hours). You cannot take on multiple jobs at once. Accepting a new contract cancels the current one (the components used will not be returned).
 
----
+Here are the jobs currently available:
 
-### JOB TYPES
+- **HARVESTER** - You must harvest the grapes and then make the delivery for multiple clients. Equip the Harvest Basket, head to the vineyards near Skingrad (southwest of Skingrad), and crouch to start harvesting. You don’t need to interact directly with the vines.
 
-Each job provides unique mechanics, tools, and delivery conditions:
+- **JEWELER** - Craft various types of jewelry and deliver them afterwards. This job pays more due to the rarity of its materials. Equip the Jewelry Pliers, then sit down to start working. May require: Gold Nugget, Silver Nugget, and gems (not flawed/flawless).
 
-- **HARVESTER:** Collect grapes in Skingrad vineyards using Harvest Basket  
-- **JEWELER:** Craft jewelry using metals and gems (high value work)  
-- **PAINTER:** Create artwork using gathered alchemy-style materials  
-- **BUILDER:** Repair damaged structures (Kvatch, inns, etc.) using fatigue-based hammer work  
-- **HUNTER:** Gather hides, meat, and monster parts for delivery  
 
----
 
-### JOB SYSTEM DETAILS
 
-- Payments vary by client wealth and job type  
-- Delivery completes contracts (or on-site for builder work)  
-- Contracts are repeatable and rotate over time  
-- Accepting a new job cancels the current one (no refund of materials)
 
----
+- **PAINTER** - Clients appreciate art. Paint different artworks and bring them directly to the client. It pays less than jewelry, but the materials are easier to find. Equip the Painting Kit, then sit down to start working. May require: Flax Seeds, Bonemeal, Lady’s Smock Leaves, Redwort Flower, Morning Glory Root Pulp, Aloe Vera Leaves, Troll Fat, Nightshade, Flame Stalk, Somnalius Frond, Alkanet Flower, Wormwood Leaves, Green Stain Cup Cap.
 
-### JOB SUPPLIES
+- **BUILDER** - Repair Kvatch, small inns, and other damaged structures through hard manual labor. Clients will pay you on site. Equip the Builder Hammer, go to the repair site, crouch, and repeatedly strike the structure that needs fixing. This activity requires effort and only works if your fatigue level is not empty. Read the Builder Note provided when accepting the contract for more details.
 
-Tools and materials can be purchased from general merchants across Cyrodiil:
+- **HUNTER** - Hunt animals and monsters to collect their hides, meat, and other ingredients. Collect the requested items, then deliver the hunter package to the client. The details of the client’s request can be found on the Hunter note. If you already have the items requested by the client, the Hunter package will be prepared and ready for delivery.
+***
+## <p align="center"> SMITHING
+![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/smithing.png)
+***
+There are smithing stations placed in each major city, usually in blacksmith shops. Anywhere that used to drop gold and silver nuggets in the vanilla game can now drop additional ores used in the smithing system. There are also Rich Ore Veins which contain more materials than a regular Ore Vein and with a higher chance at more rare materials.
 
-- Imperial City: Jensine’s “Good as New” (main hub)
-- Regional merchants in each city provide restocks and crafting supplies
+**SMITHING CHEST** - Every Smithing Workstation has its own special Smithing Chest, where you store all the items you want the Leather Rack or Equipment Smelter to process. All Smithing Chests are safe containers, so no worries about vanishing items!
 
----
+**SMITHING ANVIL** - Interacting with the Smithing Anvil will give you a choice to temper or smith. If you choose to temper, you will gain a small armor and weapon damage buff for 15 minutes. If you choose to smith, it will open the UE4SS Smithing Menu, where you can navigate by tabbing and scrolling to find your desired item. You can only craft one item at a time, and it checks the player's inventory for required materials - it does not check the Smithing Chest.
 
-## GAMBLING
+**EQUIPMENT SMELTER** - With the Equipment Smelter, you can melt down all non-unique Vanilla Armor and Weapons into materials with which you can craft new items. The Smelter at every workstation will check its specific workstation's Smithing Chest for items to melt down. Salvaged materials are deposited into the player's inventory. 
 
+
+
+
+
+
+
+
+**LEATHER RACK** - Here you can process Wolf Pelts, Bear Pelts, Lion Pelts, Scamp Skin, and Daedra Silk. Every Leather Rack will check its specific workstation's Smithing Chest for materials to process. Crafted items are deposited into the player's inventory.
+***
+## <p align="center"> GAMBLING
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gambling.png)
+***
+You may ask "In the mood for a game?" to any NPC at a tavern or inn, provided they like you enough and that they have at least ten septims. The gold on these NPCs is handled by the game itself via leveled lists. There are 2 potential games they can play, which is completely random. 
 
-### How to Start
-- Ask any tavern/inn NPC: **“In the mood for a game?”**
-- Requires:
-  - NPC friendliness
-  - At least 10 septims
+### GUESS HOW MANY SEPTIMS
+Pretty much what the title suggests. There are two variations of the game. One where the NPCs hide up to five Septims in their hand and another version where you hide up to five Septims in your hand. The first version depends on your real life luck, meaning there is only one right choice. The second version depends on the NPCs luck. The payout is the choice selected, not the actual septims in hand. Meaning if you thought he had 3 septims, you will pay 3 septims and vice versa.
 
----
 
-### GAME TYPES
 
-#### GUESS HOW MANY SEPTIMS
-- One player hides up to 5 septims  
-- Other guesses the amount  
-- Outcome depends on luck (player or NPC depending on variant)
 
-#### DOUBLE OR NOTHING
-- Standard coin flip  
-- 10 septim wager each  
-- Winner takes 20 septims
 
-#### HIGH STAKES
-- Available if NPC luck > 60  
-- Multipliers: 2x / 3x / 4x bets  
-- Both players must afford wager
 
+
+
+### DOUBLE OR NOTHING
+Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will get to flip the coin. Whoever doesn't flip the coin calls heads or tails. If you get a match you get 20 septims. Depends on the caller's luck.
+
+
+
+
+
+
+
+
+
+
+
+
+
+### HIGH STAKES
+Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
 >[!TIP]
->Luck-boosting spells can significantly influence outcomes and unlock high-stakes play more consistently.
+> You could craft a custom spell to Fortify Luck on touch/target in order to always play at High Stakes. You could also Fortify your own Luck to increase your own chances of winning.
+***
+## <p align="center"> SURVIVAL (OPTIONAL)
 
----
 
-## SURVIVAL (OPTIONAL)
 
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/survival.png)
+***
+Most features of the survival system can be configured using Core Survival spell and navigating the menu that appears when you use it. You can completely disable the mod through this menu if you don't want to deal with it at all. You can also choose to enable a Digestion, Hygeine, and Hypothermia system.
+#### HUNGER
+- Impact: Hunger affects your Endurance (maximum Health), reducing it to a minimum of ~20% of its base value.
+- Varied Nutrition: Each food type has unique nutritional value, no need to chug 10 cheese wheels to feel full!
+- New foods: Plenty of new food items to enjoy!
 
-All survival systems are fully optional and configurable via the **Core Survival spell menu**, including complete disablement.
+#### THIRST﻿
+- Impact: Thirst affects your Intelligence (maximum Magicka), reducing it to a minimum of ~20% of its base value.
+- New drinks (Water, Nirnroot Tea, Coffee, Milk, Orange Juice, Watermelon Juice, Apple Juice, Grape Juice, Carrot Juice)
+- Waterskin: Fillable in any deep water, indoors or outdoors. Comes with 3 charges and is auto-added (It's not possible to craft/buy additional ones for balance reasons). Swim to fill the Waterskin. There's a chance to fill your waterskin with rain or snow (it will often fill if you stay under bad weather for 1 hour). Reserving a seat at the inn also refills your waterskin.
+- Drink from rivers, lakes,...: Just swim to drink.
+- Certain foods like watermelons, oranges, and grapes can also quench your thirst.
 
----
+ #### SLEEP
+- Sleep Deprivation: Lack of rest reduces Willpower (maximum Fatigue), down to a minimum of ~20% of its base value.
+- Rest to Recover: Sleeping in beds or bedrolls fully resets your sleep need. It is recommended to sleep for at least several hours to give the system enough time to perform its calculations.
+- Sleeping in a bedroll has a chance to give you a random disease - sleep in a real bed to avoid this.
+- Drinking coffee reduces sleep.
 
-### CORE NEEDS
+#### COOKING
+- Click on your Cooking Kit (available from certain innkeepers, listed on the mod page). After opening it, you’ll be able to choose a recipe level and then a dish. If you have the required ingredients, the meal will be prepared. Congratulations, you’re on your way to becoming a great cook!
+Note: When navigating the cooking interface, a short delay may occur. That’s normal: you're probably organizing and cleaning your cooking utensils. Wonderful! 
+- Cook wherever you like, whether in the wilderness or deep inside a cave. The Cooking Kit contains everything you need to prepare your meals, including juices!
+- Most ingredients in the game are now useful for cooking, encouraging cooks to explore, buy, harvest, and more to gather them (including fish from the fishing system).
+- Cooked meals have more powerful effects (it's up to you to discover them). They reduce hunger more effectively (and some reduce thirst as well).
+- Cooking reduces the total weight of the ingredients used.
+- Meals are more valuable than raw ingredients, so you can make a living as a cook.
+- Leveling: Gain experience and unlock recipes by cooking. You earn 1 Cooking Point per dish prepared at your current level. (Preparing dishes below your level no longer grants points.)
+- A 30+ pages recipe book is included with the Cooking Kit. You can also purchase one from Phintias at The First Edition book store in the Market District. Restocks every 6 hours.
 
-- **Hunger → Endurance (Health cap)**  
-- **Thirst → Intelligence (Magicka cap)**  
-- **Sleep → Willpower (Fatigue cap)**  
+#### FISHING
+- You can fish using a fishing net! Equip the fishing net (automatically provided) and head into the water. Patience will reward you with fish… and sometimes unexpected items.
+- When you're done fishing, you can unequip the fishing net and head back to dry land.
+- Fishing Leveling: You earn Fishing Points by catching fish, which allow you to level up (with patience!) your fishing skill and increase your chances of catching bigger fish. You automatically level up your fishing Lvl when you have enough Fishing Points (Lvl 2 = 50 pts, Lvl 3 = 200 pts).
+- The fishing system includes custom messages inspired by Oblivion’s level-up messages, keeping the experience immersive and lore-friendly.
+- Perfect for securing a steady source of food and income. 
 
-Each reduces stats down to ~20% if neglected.
+#### AMBIENCE OF THE INN
+- Reserve a seat with the innkeeper (Purchase a "Reserved Seat" in the barter menu), then sit anywhere inside the inn.
+- Wait patiently and receive a long-lasting stat bonus.
+- The bonus you get depends on a randomly triggered event, chosen from a total of 48 events displayed through in-game messages.
+- The event will be canceled if you stand up or leave the inn.
+- Taking part in an inn event restores hunger and thirst.
+- Reserving a seat at the inn also refills your waterskin.
+- This feature enhances the role of inns and supports roleplay, while also giving positive effects, so the mod isn’t only about survival drawbacks.
 
----
+#### VAMPIRES
+- As a vampire, your hunger for bloody flesh will intensify. You must consume raw meat, corpse flesh, human hearts, or Daedra hearts to sustain yourself.
+- After progressing as a vampire, you gain the spell "Flesh Shower", allowing you to extract flesh chunks from corpses and fully feed yourself.
+- You can extract bloody flesh from any corpse, with a limit of five portions in your inventory at a time.
+- Bloody flesh provide less nourishment than other sources like raw meat or hearts.
+- Once you become a vampire, your thirst for "traditional" drinks will fade, as will your need for sleep (within 1 to several in-game hours).
+- Your blood thirst is governed by the base game's vampire system.
+- If cured of vampirism, your hunger, thirst, and sleep needs revert to normal. 
 
-### COOKING
-
-- Use Cooking Kit (sold by select innkeepers)
-- Unlock recipes via leveling system
-- Most ingredients are now usable
-- Cooking increases food value and reduces weight
-- Includes 30+ page recipe book (Market District bookseller or included kit)
-
----
-
-### FISHING
-
-- Equip fishing net in water to begin
-- Catch fish + rare items
-- Earn Fishing Points to level skill
-- Improves catch rates over time
-
----
-
-### SLEEP & INNS
-
-- Reserve inn seat for buffs and events
-- 48 possible inn events
-- Rest also restores hunger/thirst
-- Staying inside enhances immersion benefits
-
----
-
-### VAMPIRES
-
-- Must feed on raw meat, hearts, or corpse flesh
-- Gain ability to extract flesh from corpses
-- Sleep and thirst needs reduce significantly
-- Blood system overrides normal survival loops
-
----
-
-### ALCOHOL
-
-- Builds intoxication over time
-- High levels cause temporary control loss
-- 25 unique drunken messages
-- Automatically wears off over time
+#### ALCOHOL
+- Drinking alcohol will increase your blood alcohol level.
+- When the level is high, you'll temporarily lose control of your character.
+- A random message (from a total of 25) related to drunkenness will appear.
+- Your alcohol level will automatically return to 0 once your character sobers up.
+***
