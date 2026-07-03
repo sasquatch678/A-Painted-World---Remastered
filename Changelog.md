@@ -33,7 +33,6 @@
 - increased spellmaking duration, magnitude, and area caps by 33%
 - increased movement speed of boars
 - reduced the duration of the fire damage spell Caminalda has since a 20 second dot at that low level is just kinda lame
-- the Deranged Zombies in the Skingrad Recommendation quest
 - nerfed health of Trophy animals
 - Wear Robes With Boots Gloves Greave - disabled by default
 - enabled player only scaling for Spell Damage Scaling - otherwise spellcasters just do way too much damage, might also reduce/eliminate crashes when fighting against spellcasters
