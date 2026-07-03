@@ -1,5 +1,57 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.8 / Revision 5</p>
+
+***
+
+## ADDED
+- Cauldrons Of Oblivion (COO)
+- Spells Unlocked - No More Skill Requirements - if you have the magicka, you should be able to cast spells
+- NBO and NPCAM Stability Patch
+- Ultra Combat - Fixed Edition - replacing Ultimate Combat
+
+***
+
+## UPDATED
+- Idle Dialogue Remaster
+- Core Survival - now has visible bars for needs
+- ImpeREAL Empire - Unique Castles
+- Alert Enemies
+
+***
+
+## REMOVED
+- Oblivion Travelers - they always just get clumped up and destroy performance whenever you encounter them
+- Ultimate Combat - has been a lot more unstable than originally thought
+
+***
+
+## CHANGES
+- increased the size of some animals to feel more intimidating
+- changed text of the Travel topic to better fit in with other dialogue
+- reduced recharge costs by 60% - in a world where enchantments partially recharge automatically it doesn't make sense to ever pay 6000+ gold for it
+- increased spellmaking duration, magnitude, and area caps by 33%
+- increased movement speed of boars
+- reduced the duration of the fire damage spell Caminalda has since a 20 second dot at that low level is just kinda lame
+- the Deranged Zombies in the Skingrad Recommendation quest
+- nerfed health of Trophy animals
+- Wear Robes With Boots Gloves Greave - disabled by default
+- enabled player only scaling for Spell Damage Scaling - otherwise spellcasters just do way too much damage, might also reduce/eliminate crashes when fighting against spellcasters
+- reduced chance to apply stagger by 15% since it was kinda easy to stunlock slow enemies by just spamming attacks
+
+***
+
+## BUG FIXES
+- fixed Quick Cast not working
+- the Orrery rumor can no longer be spoken by orc npcs due to the difference in voice actors. the line just doesn't sound good.
+- fixed invisible dark seducer boots
+- reverted fatigue to original oblivion values for a handful of creatures I had missed the last time I did this (remaster sets them to 1/4 of their original amount which makes damage/drain fatigue broken)
+- fixed Trophy Bucks to actually behave like other deer and not just stand still
+- increased texture streaming size to 6gb in the Ultra Plus config in the hopes this will eliminate/reduce crashing during load door transitions
+
+***
+
+
 # <p align="center">1.1.7 / Revision 4</p>
 
 ***
