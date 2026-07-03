@@ -7,6 +7,7 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gambling">Gambling</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-survival-optional">Survival</a> ] </br>
   
+For miscellaneous new mechanics that don't fit into a different category.
 
 ## <p align="center"> TRAVEL
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/cheydinhalstables.png)
