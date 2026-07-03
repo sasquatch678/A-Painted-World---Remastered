@@ -1,196 +1,149 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/doomstone.png)
+# <p align="center"> BIRTHSIGNS
 
-# <p align="center">BIRTHSIGNS</p>
+All birthsigns now have one passive ability and one lesser power which can be used at will. All of the lesser powers are intended to be powerful but have some kind of penalty, forcing you think about when you use them. Damaged attributes will catch up to you quickly as these effects permanently damage an attribute until you use a restore attribute spell, potion, or pray at a wayshrine of the nine. <br/>
 
-All birthsigns now provide:
-- 1 Passive ability  
-- 1 Lesser Power (usable at will)  
-- 1 Doomstone Greater Power (world unlock)
 
-Lesser Powers are intentionally powerful but come with meaningful drawbacks, often including **permanent attribute damage** until restored via:
-- Restore Attribute spells or potions  
-- Wayshrines of the Nine  
 
-Doomstone powers are unique, exploration-based **once-per-day ultimate abilities** tied to each birthsign. You may unlock any Doomstone regardless of your birthsign, but you can only have one active at a time.
+
+
+
+
+
+
+
+
+
+Additionally, there are unique and flavorful greater powers added to the doomstones you can find around the map. These are intended to be very powerful spells you can use once per day, as a sort of ultimate ability you unlock through exploration for each birthsign. You may unlock a doomstone power even if the stone does not match your birthsign choice, but you may only ever have one at a time.
+***
+### <p align="center"> Combat
+
 
 ***
+#### Lady
+- Birthsign: Nimble and versatile, the Lady grants 35 points of Fatigue, Restore Fatigue (2/s), and the lesser power Lady’s Riposte, reflecting incoming weapons and spells (40% for 30s), but damaging your Luck (3 points). Suited for tireless warriors who trade pure strength for greater stamina and the power to turn foes' strength against them.
 
-## <p align="center">COMBAT</p>
+- Doomstone Power: Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 30s.
+
+
+
+
+
+
+#### Lord 
+- Birthsign: Always keeping up appearances, the Lord birthsign grants 10 Endurance, Restore Health (1/s) and the lesser power Lord’s Vigor, Restoring Health (6/s for 30 seconds) but gaining 100% Weakness to Magic and Normal Weapons for the duration. Ideal for fearless combatants who embrace risk to rapidly recover and stay in the fight.
+
+- Doomstone Power: Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
+#### Steed
+- Birthsign: Lively and energetic, the Steed grants 10 Speed and Athletics, and the lesser power Steed’s Charge, which fortifies Athletics by 65 points, grants Water Walking, and grants 225 points of Feather for 180s, but damages Agility (3 points). Ideal for swift adventurers who value mobility over brute force in their journeys.
+
+- Doomstone Power: Icarian Flight - Call upon the Steed to gallop across the sky, fortifying your speed by 1,000 and your acrobatics by 25,000 for 30s. Hopefully you land before the blessing wanes.
+
+
+
+
+
+
+#### Warrior
+- Birthsign: A warrior lives and dies by their sword. The Warrior grants 10 Strength and Shield, and the lesser power Warrior’s Battlecry, increasing enemy damage taken in an area by 25% but damaging your equipment (5 points). Ideal for bold fighters willing to sacrifice durability.
+
+- Doomstone Power: Berserker Rage - Become a whirlwind of flesh and steel, fortifying your strength, blade, blunt, and hand to hand by 50 for 120 seconds. Each time you succumb to your rage you lose some of your humanity and become no better than the mindless beasts, damaging your intelligence by 10 points.
+***
+### <p align="center"> Magic
+
+
+
+
+
+
+
+
+
+
+
+
 
 ***
+#### Apprentice 
+- Birthsign: Eager to learn but foolhardy, the Apprentice birthsign grants Restore Magicka (2/s), 10 Willpower, and the lesser power Apprentice's Folly, which greatly boosts Magicka regeneration (15/s for 30s) at the cost of damaged Intelligence (3 points).  Ideal for bold mages who value raw magical force and hasty spellcasting over careful control.
 
-### LADY
-**Birthsign:** Nimble and versatile.  
-- +35 Fatigue  
-- Restore Fatigue (2/s)  
-- *Lady’s Riposte:* Reflects incoming weapons and spells (40% for 30s)  
-- Cost: -3 Luck  
+- Doomstone Power: Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
 
-**Doomstone – Womb of Rebirth**  
-Fully restores all attributes, but reduces all attributes by 25 for 30s after rebirth.
+
+
+
+
+
+
+#### Atronach 
+- Birthsign: The most resilient of the magical signs, the Atronach grants 15% resistance to elemental and physical damage, and the lesser power Atronach’s Thirst, which grants 50% spell absorption but damages your own Magicka reserves over 30 seconds (3/s).
+
+
+- Doomstone Power: Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
+
+#### Mage
+- Birthsign: Boasting a natural talent for spellcasting, the Mage grants 50 Magicka, 10 Intelligence, and the lesser power Mage’s Brilliance, fortifying intelligence (100 points for 30s) at the cost of damaged Willpower. (3 points). Ideal for gifted spellcasters who burn bright, even if briefly.
+
+- Doomstone Power: Elemental Triune - Conjure a massive storm of elemental power, dealing 10 points of fire, frost, and shock damage in a 75 yard radius for 60 seconds. The storm batters your own defenses, causing you to be 50% weaker to the elements for the duration.
+
+
+
+
+
+
+
+#### Ritual 
+- Birthsign: Righteous but bearing a dark secret, being born under the Ritual grants 10 Restoration, Conjuration, and Magic Resistance, and the lesser power Ritual’s Prayer, which cures all poisons and diseases, deals holy fire (fire + light) damage over time, and turns the dead (10s), but damages Health (5 for 5s). A sacred gift for those who endure pain to purge corruption, or embrace it.
+
+
+- Doomstone Power: Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, soul trap in an area, and reanimate on touch for the duration of the drain effect.
+***
+### <p align="center"> Stealth
+
+
+
+
+
+
+
 
 ***
+#### Lover 
+- Birthsign: Seductive and charming, the Lover birthsign grants 10 Personality, Speechcraft, Mercantile, and the lesser power Lover’s Kiss, which dispels magic effects on self and on touch (100 points) and calms enemies (10s) but damages fatigue (50 points). Perfect for silver-tongued adventurers who use allure and wit to turn the tide—at the expense of their stamina.
 
-### LORD
-**Birthsign:** Enduring and proud.  
-- +10 Endurance  
-- Restore Health (1/s)  
-- *Lord’s Vigor:* Restore Health (6/s for 30s)  
-- Cost: 100% Weakness to Magic and Normal Weapons (duration)
+- Doomstone Power: Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
+  
+#### Shadow 
+- Birthsign: Elusive and calculating, those born under the Shadow gain 10 Agility and Sneak, and the lesser power Shadow’s Prowl, gaining Invisibility (60s) and teleport to an area, but at the cost of damaged Speed (3 points). Perfect for elusive operatives who favor subtlety over swiftness in the art of infiltration.
 
-**Doomstone – Rallying Cry**  
-+150 Endurance and immunity to fear for 120s, but gains 100% Weakness to Disease and Poison.
+
+- Doomstone Power: Aspect of Terror - Demoralize targets in a 100 yard radius causing them to run in fear for 60s. In doing so you lose your ability to sneak, creating a 100 yard area of light centered on yourself for the duration.
+#### Thief
+- Birthsign: Nimble and dexterous, the Thief grants 15 Luck and the lesser power Thief’s Spree, fortifying Acrobatics and Security (50 points) and granting Telekinesis (30 yards) for 30s, but at the cost of damaged Personality (3 points). Perfect for swashbuckling rogues who rely on chance and fate to navigate dangerous paths.
+
+- Doomstone Power: Dance with Fate - Make a deal with fate, becoming 100% resistant to magic and normal weapons for 30s, but draining your luck by 50 points for the duration.
+
+
+
+
+
+
+
+
+
+#### Tower
+- Birthsign: Steadfast and immovable, the Tower birthsign grants 10% Damage Reflection and the lesser power Tower’s Vigilance, which grants 50 points of Resist Normal Weapons, Detect Life and Night Eye (15s), but renders you immobile (Burden 1000 points) for the duration. A powerful choice for those who stand firm and watch over the battlefield, trading mobility for keen awareness and defense.
+
+
+
+
+- Doomstone Power: Fortified Walls - Envelop yourself with spiked and impenetrable walls, reflecting 75% of incoming damage for 30s, but paralyze yourself for 15s.
+***
+### <p align="center"> Other
+
 
 ***
+#### Serpent
+- Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which paralyzes on touch (5s) but damages your Endurance (3 points). A sly and dangerous choice for those who seize opportunity to strike swiftly and sap resources to survive.
 
-### STEED
-**Birthsign:** Speed and momentum.  
-- +10 Speed  
-- +10 Athletics  
-- *Steed’s Charge:*  
-  - +65 Athletics  
-  - Water Walking  
-  - +225 Feather (180s)  
-- Cost: -3 Agility  
-
-**Doomstone – Icarian Flight**  
-+1000 Speed and +25,000 Acrobatics for 30s. Highly unstable aerial movement.
-
-***
-
-### WARRIOR
-**Birthsign:** Discipline through violence.  
-- +10 Strength  
-- +10 Shield  
-- *Warrior’s Battlecry:*  
-  - +25% enemy damage taken (AoE)  
-  - Cost: Weapon degradation (5 points)
-
-**Doomstone – Berserker Rage**  
-+50 Strength, Blade, Blunt, and Hand-to-Hand for 120s.  
-Each use reduces Intelligence by 10 permanently.
-
-***
-
-## <p align="center">MAGIC</p>
-
-***
-
-### APPRENTICE
-- Restore Magicka (2/s)  
-- +10 Willpower  
-- *Apprentice’s Folly:* +15 Magicka regen (30s)  
-- Cost: -3 Intelligence  
-
-**Doomstone – Arcane Fracture**  
-Enemies take 100% increased magic damage in 100-yard radius (60s).  
-You also take 100% increased magic damage.
-
-***
-
-### ATRONACH
-- 15% resistance to elemental and physical damage  
-- *Atronach’s Thirst:* 50% Spell Absorption  
-- Cost: Magicka drain (3/s for 30s)
-
-**Doomstone – Null Field**  
-Creates a 100-yard anti-magic zone for 60s: silences, dispels, and drains all magicka (including yours).
-
-***
-
-### MAGE
-- +50 Magicka  
-- +10 Intelligence  
-- *Mage’s Brilliance:* +100 Intelligence (30s)  
-- Cost: -3 Willpower  
-
-**Doomstone – Elemental Triune**  
-Massive elemental storm (fire, frost, shock) in 75-yard radius for 60s.  
-You take 50% increased elemental damage.
-
-***
-
-### RITUAL
-- +10 Restoration, Conjuration, Magic Resistance  
-- *Ritual’s Prayer:*  
-  - Cure poison and disease  
-  - Holy fire damage over time  
-  - Turn Undead (10s)  
-- Cost: Health drain (5/s for 5s)
-
-**Doomstone – Profane Ritual**  
-Health drain (25/s for 120s) while:
-- Conjures bound armor, mace, shield  
-- Soul trap AoE  
-- Reanimates on touch  
-
-***
-
-## <p align="center">STEALTH</p>
-
-***
-
-### LOVER
-- +10 Personality, Speechcraft, Mercantile  
-- *Lover’s Kiss:*  
-  - Dispel magic (100 pts)  
-  - Calm enemies (10s)  
-- Cost: -50 Fatigue  
-
-**Doomstone – Infatuation**  
-Command humanoid target for 120s and restore their stats slightly.  
-After expiration: Frenzy (30s, hostile to all).
-
-***
-
-### SHADOW
-- +10 Agility  
-- +10 Sneak  
-- *Shadow’s Prowl:*  
-  - Invisibility (60s)  
-  - Teleport  
-- Cost: -3 Speed  
-
-**Doomstone – Aspect of Terror**  
-100-yard fear AoE (60s).  
-You lose sneak capability and emit full light radius during effect.
-
-***
-
-### THIEF
-- +15 Luck  
-- *Thief’s Spree:*  
-  - +50 Acrobatics and Security  
-  - Telekinesis (30 yards, 30s)  
-- Cost: -3 Personality  
-
-**Doomstone – Dance with Fate**  
-100% resistance to magic and weapons (30s), but -50 Luck during effect.
-
-***
-
-### TOWER
-- 10% Damage Reflection  
-- *Tower’s Vigilance:*  
-  - +50 Resist Normal Weapons  
-  - Detect Life + Night Eye (15s)  
-- Cost: Immobility (Burden 1000)
-
-**Doomstone – Fortified Walls**  
-75% damage reflection for 30s.  
-Self-paralysis for 15s.
-
-***
-
-## <p align="center">OTHER</p>
-
-***
-
-### SERPENT
-- Restore Health, Magicka, Fatigue (1/s)  
-- *Serpent’s Curse:* Paralyze on touch (5s)  
-- Cost: -3 Endurance  
-
-**Doomstone – Star Curse**  
-Target gains 500% Weakness to Poison and loses 50 attributes (120s).  
-You suffer -1/s regeneration to all stats for 120s.
+- Doomstone Power: Star Curse - Curse a target with 500% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
