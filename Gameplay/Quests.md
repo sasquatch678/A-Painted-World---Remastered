@@ -30,7 +30,7 @@ This modlist tries to strike a balance. It removes some of the quest markers onl
 - Markers will generally show the location of quest givers or NPCs in town if it is implied that their current location is known to the player and is not a secret. This avoids the annoyance of searching for NPCs following their daily schedules or hovering over cell names in the local map.
 - If you have to find an NPC but it is implied that you don't know their exact location, frequent locations where the NPC can be found might be shown for some quests.
 
-There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by either tracking a quest which doesn't have quest targets, and still be able to find where you need to go.
+There are also now directions for each quest added to your journal entries, which allows you to play without quest markers if you desire by tracking a quest which doesn't have quest targets, and still be able to find where you need to go.
 ***
 ## <p align="center"> Main Quest
 
