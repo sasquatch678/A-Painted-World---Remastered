@@ -97,7 +97,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 ***
 ### Antivirus Exception
 
-Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow these instructions (https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow [these instructions](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Starting up the list
 Open the installation folder and double-click on the program called ModOrganizer.exe. 
