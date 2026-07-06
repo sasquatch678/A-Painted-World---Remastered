@@ -1,5 +1,94 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.9 / Revision 6</p>
+
+***
+
+## ADDED
+- SloBlivion - Ingredients And Potions
+- Dark Holy Armor - distributed to Lord Lovidicus and the Dark Brotherhood orc guy
+- Better Prophyric Hemophilia aka Vampire Disease
+- Lost Sorceries of the Ayleids
+- Body Hair for Type 2 Body
+- Menu Key Bindings Configurator (UE4SS) - put Show Details on V to avoid conflict with RaceMenu Utilities
+- Colored and Readable Grey Fox Wanted Poster Replacer
+- Beggar Shirt First Person Fix
+- Blackwater Leather Cuirass First Person Male Mesh Fix
+- Brown and turquoise robe
+- Madness Armor Set Restored
+- Mystic Emporium Door Locked Fix
+- MultiEnchant - armours - clothing - accessories
+- In Shambles
+- Brighter Light Spells
+- Faster Gate Weather Disperse
+- Spells Trigger Daedric Mines
+- Jauffre's Skill-Based Chest for Oblivion Remastered
+- No Daedric Quest Level Requirements
+- Skooma Dealer
+- Alternate Hermaeus Mora Quest Requirements
+- Silvered Dwarven Armor and Weapons - It just looks so much better when you end up mix and matching pieces of it
+- Knight of Order Hair Clipping Fix
+- (FIXED) True Imperial Dragon Helmet
+- Immersive Arena
+- Main Menu Fire SFX Remover
+- FuzzUI - No Intro
+- Vicious Trolls Sound Replacer Remastered
+- Mysterium Xarxes is Evil
+- Roots Shetcombe Farm - Player Home (The Sunken One)
+- Miaura's Marie Elena - IC Pirate Home
+- Dark Creatures
+- Expanded Greetings Redux
+- TTYM - Think To Yourself Messages
+- No Anachronistic Main Quest Comments Redux
+- Magic Sneak Attacks - UE4SS
+
+***
+
+## UPDATED
+- Alert Enemies
+- Cauldrons Of Oblivion (COO)
+- Oh Well
+
+***
+
+## REMOVED
+- HQ Masser Blood Moon Retexture - it just looks a bit off to me
+- Daedric Quests - Fame Requirements - redundant
+- Advanced Followers Remastered - was a neat experiment but not something I want to keep due to jank
+- Magical Item and Spell Sorter (MISS) - plays poorly with mod added items and spells
+- NBO + Addons - I really tried, but it's just been non stop issues in discord since it was introduced. The juice isn't worth the squeeze.
+
+***
+
+## CHANGES
+- increased the value of Glass, Ebony and Daedric weapons - with how scarce these items are, Sambuca's original values don't make sense and the items aren't even worth picking up due to their weight. They are still less valuable than vanilla by ~50%
+- increased armor rating value by ~25%
+- slightly increased skill leveling rate (moreso for minor skills) - still significantly slower than vanilla
+- increased player's base magicka and magicka regen by 25%
+- reduced the melee damage of summoned creatures by 25% - summons scale extremely well with increased difficulty settings so this change brings them more in line with other types of damage
+- all vampire enemies now have access to an apprentice level absorb health spell
+- reduced spellmaking and enchanting costs by ~30% so that the system is a bit more accessible while leveling up - not just for endgame characters
+- greatly reduced the levels of the marauders for the Leyawiin recommendation quest in the unleveled patch so that the quest is more fair when the player would naturally be completing it
+- removed the non-unique items added by Nosferat's Merchant & Loot Additions which greatly reduces the number of random weapons, armor, scrolls, potions, ingredients, and soul gems in vendor chests
+- marauders and bandits will now drop some septims even when the unleveled patch is disabled
+- taking a bath no longer restores attributes, and the Freshly Cleaned buff now Fortifies Personality and Speech by 15 points, and grants 30% disease resistance (was 10 points of just Personality and 25% resistance)
+- reduced passive weapon recharge to 25% per day (was 50% per day)
+- Core Survival Needs bars are now transparent when full
+
+***
+
+## BUG FIXES
+- fixed an issue that could cause the player to get stuck with "permanent" night eye when fighting vampires
+- fixed an issue that could cause high level equipment to appear on vendors at low levels even when the unleveled patch was disabled
+- fixed an issue that could cause some high level enemies to appear at low levels even when the unleveled patch was disabled
+- consistency patched mod added weapons and armor to match the values of Sambuca's Equipment overhauls
+- fixed bug which could cause the player to be unable to advance in the fighters or mages guild depending on which skills were met above the thresholds first
+- all mod added staves including the crafted staves from infinitum compendium will now carry the magicka regen buff from Mages Arsenal that previously only applied to vanilla staves
+- fixed a bug which could cause the "Let's play for higher stakes" dialogue topic to appear when it shouldn't
+
+***
+
+
 # <p align="center">1.1.8 / Revision 5</p>
 
 ***
