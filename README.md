@@ -113,7 +113,7 @@ A Painted World - Remastered comes with several customization options.
 - [Core Survival](https://www.nexusmods.com/oblivionremastered/mods/3037) is disabled by default, but is a great needs mod which adds a lot of new customizable features you can read about on the modpage.
 - **Ultrawide Support** can be found under the "ULTRAWIDE SUPPORT" section of Mod Organizer 2. Be sure to disable the 16x9 version of the mods in this section for full support.
 - If you own the **Deluxe Edition** of the game, you should enable the Unofficial Oblivion Remastered Patch - Deluxe here.
-- **No Fast Travel Remastered** can be enabled if you want to play without fast travel (there are alternate methods of travel in the list).
+- **No Fast Travel Remastered** can be enabled if you want to play without fast travel ([there are alternate methods of travel in the list](https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-travel)).
 
 >[!TIP]
 >You should not mess with the load order after changing any of these options. They have already been patched for the rest of the modlist where applicable if you just leave them in their default locations.
