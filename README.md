@@ -104,12 +104,13 @@ Open the installation folder and double-click on the program called ModOrganizer
 
 Make sure the dropdown box on the right is set to Play and press the Run button.
 
-## Optional Mods - Ultrawide Support, Leveling Options, & More!
+## Optional Mods - Ultrawide Support, Survival, Leveling Options, & More!
 
 A Painted World - Remastered comes with several customization options. 
 
 - There is an optional custom patch made specifically for the modlist which unlevels the entire game. This includes enemies, loot, quest rewards, everything. If you choose to disable this, the list will use a hybrid system where enemies, loot and quest rewards are leveled, but enemies only scale up to a certain cap and quest rewards will automatically upgrade when you reach a new level threshold.
 - There are three (four if you count reverting to vanilla) options for the leveling system, including both versions of [Mad Experience](https://www.nexusmods.com/oblivionremastered/mods/4881) and [Alternative Leveling](https://www.nexusmods.com/oblivionremastered/mods/2138).
+- [Core Survival](https://www.nexusmods.com/oblivionremastered/mods/3037) is disabled by default, but is a great needs mod which adds a lot of new customizable features you can read about on the modpage.
 - **Ultrawide Support** can be found under the "ULTRAWIDE SUPPORT" section of Mod Organizer 2. Be sure to disable the 16x9 version of the mods in this section for full support.
 - If you own the **Deluxe Edition** of the game, you should enable the Unofficial Oblivion Remastered Patch - Deluxe here.
 - **No Fast Travel Remastered** can be enabled if you want to play without fast travel (there are alternate methods of travel in the list).
