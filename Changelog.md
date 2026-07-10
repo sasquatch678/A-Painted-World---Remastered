@@ -5,7 +5,7 @@
 ***
 
 ## ADDED
-- SM Combat Hide
+- SM Combat Hide - doesn't have performance issues in the list anymore, probably because I've removed several mods adding new npcs everywhere
 - Clavicus Vile Retextures
 - Daedric Armor of Fury
 - Soul Gem Show Souls
