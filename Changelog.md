@@ -1,5 +1,46 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.10 / Revision 7</p>
+
+***
+
+## ADDED
+- SM Combat Hide
+- Clavicus Vile Retextures
+- Daedric Armor of Fury
+- Soul Gem Show Souls
+- Lavatic Daedric
+
+***
+
+## UPDATED
+- Idle Dialogue Remaster
+- ImpeREAL Empire - Unique Castles
+
+***
+
+## REMOVED
+- Alert Enemies - causing crashes
+
+***
+
+## CHANGES
+- reverted Supreme Magicka's changes to reduce magnitude of illusion enchantments and effects, namely Calm, Frenzy, Command, Charm, and Demoralize - you cannot rebalance these effects by making them just not work on enemies you would want to actually use them on. you rebalance them by increasing their costs, and making their durations shorter
+- lowered the fatigue drain of holding shots with marksman at all skill levels by ~25%
+- increased passive fatigue regen by 2/s
+- all of the powers granted by Clavicus Vile's Mask have been nerfed to be greater powers and their effects are reduced to feel more natural within the game world
+- tweaked difficulty settings to increase overall lethality for both the player and enemies
+
+***
+
+## BUG FIXES
+- re-conditioned the end of The Arena quest so it's a more clear introduction into Arena Infinitum
+- fixed Umbra's enchantment being able to deal permanent health damage to the player
+- fixed crash when entering Cheydinhal Castle County Hall
+
+***
+
+
 # <p align="center">1.1.9 / Revision 6</p>
 
 ***
