@@ -27,7 +27,7 @@ No more different modeled paddles! Blunt weapons tend to have high base damage, 
 
 All weapons can now cause stagger and critically strike. Blunt weapons have a much higher chance to cause stagger, while Blade weapons have a higher chance to critically strike. The exact amounts depend on the specific weapon type. Stagger chance is also doubled with power attacks for all weapons. Stagger is based on the attacker's Strength and the victim's Endurance, and critical strikes are based on the attacker's Luck.
 
-- Can perform power attacks with one button (default mouse button 4) instead of holding left click.
+- Can perform power attacks with one button instead of holding left click.
 - 10% to 30% damage buff on counter attacks from Perfect Dodge/Block within 5s window.
 - Counter attacks ragdoll the enemy based on an enemy strength roll, each 10 strength give 9% resistance
 ***
