@@ -12,12 +12,7 @@ The difficulty settings in Oblivion Remastered are a total mess. Novice is a jok
 
 >[!TIP]
 >You can configure these multipliers by pressing F10 and navigating the MCM ingame.<br/>
-
-#### <p align="center"> VANILLA
-#### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/vanillascaling.png)
-
-#### <p align="center"> APWR
-#### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/apwrscaling.png)
+#### <p align="center"> ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/new%20difficulty.png)
 
 Weapon balance has also been completely overhauled. Firstly, weapon weight has been cut by about half across the board, and weapon health and values have been tweaked to have more health (degrade slower) and a bit less value, so that mid - endgame is a bit harder to make gold. Next, using a very accurate formula, every weapon will now very closely match with the length of their mesh in the game, which means combat should overall feel much more fair and responsive. </br>
 
