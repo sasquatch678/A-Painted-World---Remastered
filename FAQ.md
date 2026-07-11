@@ -5,7 +5,7 @@
 Make a backup of everything in Documents\My Games\Oblivion Remastered and then delete everything in this location to force the game to recompile shaders.
 
 **How do I start the main quest?** </br>
- Get arrested by an Imperial Legion guard. After you finish the sewer sequence you can retrieve your belongings from the evidence chest back at the prison district.
+Commit a crime (or become falsely accused of one) and get arrested by an Imperial Legion guard. After you finish the sewer sequence you can retrieve your belongings from the evidence chest back at the Prison District.
 
 **How do I take screenshots?** </br>
 Press L to hide the UI and press Print Screen.
