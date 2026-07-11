@@ -20,8 +20,6 @@ Enemy AI has also been overhauled to be more aggressive, with lower idle times b
 
 Because of all of this, combat should feel quick, lethal, and fair for both the player and npcs. I recommend playing on Journeyman difficulty for enemy damage, and Adept/Journeyman for player damage for a moderate challenge that won't get you killed too often (as long as you are playing well), though you may wish to change these based on preference, build, or character progression. <br/>
 
->[!TIP]
->Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
 ***
 ## WEAPONS
 ***
@@ -33,6 +31,8 @@ All weapons can now cause stagger and critically strike. Blunt weapons have a mu
 - 10% to 30% damage buff on counter attacks from Perfect Dodge/Block within 5s window.
 - Counter attacks ragdoll the enemy based on an enemy strength roll, each 10 strength give 9% resistance
 ***
+>[!TIP]
+>Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
 ## DODGING
 ***
 - Requires a minimum 25 in Acrobatics
