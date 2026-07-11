@@ -31,9 +31,9 @@ All weapons can now cause stagger and critically strike. Blunt weapons have a mu
 - 10% to 30% damage buff on counter attacks from Perfect Dodge/Block within 5s window.
 - Counter attacks ragdoll the enemy based on an enemy strength roll, each 10 strength give 9% resistance
 ***
+## DODGING
 >[!TIP]
 >Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
-## DODGING
 ***
 - Requires a minimum 25 in Acrobatics
 - Dodge by tapping mouse button 5.
