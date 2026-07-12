@@ -158,115 +158,11 @@ Weakness to normal weapons is now under the alteration skill which fits lore you
 #### Invisibility 
 Invisibility effects now take a toll to maintain and will prevent magicka regen during its effect. This is to prevent abusing very low cost invisibility spells. Buy the higher cost and run away.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Paralyze
 Paralyze spells are very powerful, so now they have an additional % chance to fail on all enemies based on your illusion skill and luck. At level 1 without mods its 25% resistance, then about 0% at/over 100 skill.
 
 #### Chameleon God Mode Fix
 Chameleon is pretty broken at 100% effect as no one will interact with you in combat so the effect is now capped at 99% to disable god mode. If you crouch enemies will completely lose you (similar to 100%) and will eventually end combat. This only lasts for 10-15 seconds based on sneak skill. If you uncrouch effect will be lost. After effect has expired there is a number of seconds must pass (based on sneak) and you must be uncrouched. Then you can crouch and use the same tactic again. You will see messages when its possible to crouch or the effect has ended.
-
-#### Night Eye
-Higher level night eye spells/potions (spells with long durations) dynamically detect daylight and disable the night eye effect until your back in an area which needs it. This reduces the annoyance of the effect. Additionally you are given a"Night eye control" power to manually turn the night eye effect on and off while spell is active. Note when the location lighting changes again this will override your manual toggle. This does not affect/apply to lower skill night eye ,custom spells and enchantments where night eye is always maintained. Night eye now makes it easier to find items compared to previously and will illuminate corpses.
 
 #### Magic effect Weakness Spell Schools
 Resist normal weapons - This magic effect is now under the illusion skill like in morrowinds (sanctuary) rather than restoration, and its commonly present on ghosts which are not anywhere near the restoration spell school.
