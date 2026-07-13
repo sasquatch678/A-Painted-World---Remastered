@@ -134,7 +134,7 @@ Before updating, please check the changelog and back up your saves. You may need
 Updating is like installing the list. Simply make sure your paths are the same and tick the overwrite existing modlist button. **Note**: Any mods you have added will be deleted when updating unless prefixed with [NoDelete].
 
 ## Removing the Modlist
-Simply delete the folder, and you have uninstalled it.
+Simply delete the modlist folder and Documents\My Games\Oblivion Remastered\Saved\SaveGames\Mods, and you have uninstalled it.
 
 ## Credits and Thanks
 
