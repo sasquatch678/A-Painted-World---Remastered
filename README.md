@@ -125,7 +125,7 @@ If you add any mods yourself or change major game functions through the ingame m
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/cheydinhalstreets.png)
 ## Known Issues
 ***
-Sometimes the game can crash when starting a new game. This is listed as a known issue on the Ultra Combat mod page. If it's being persistent, you can disable the mod in mo2 and make a new save, then close the game and re-enable it, and load your save.
+Sometimes the game can crash when starting a new game. I've noticed this happens more often after disabling or enabling any mod and believe it is an issue with MO2's usvfs and UE4SS. Just retry launching the game a couple times if this happens, especially after changing anything in the optional mods section.
 
 ## Updating the modlist
 
