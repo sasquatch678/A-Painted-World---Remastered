@@ -100,9 +100,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 Modding tools and mod organizers are commonly flagged by antivirus software, including Windows Defender, as false positives. To get around this, you must set an exception for the modlist folder. For Windows Defender, follow [these instructions](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Starting up the list
-Open the installation folder and double-click on the program called ModOrganizer.exe. 
+Open the installation folder and double-click on the program called ModOrganizer.exe. Make sure the dropdown box on the right is set to Play and press the Run button. You will start the game in a ship cabin where you can create your character and choose your race, class, and birthsign. After you are done, interact with the door directly in front of you to get a variety of starting options. Pick one, and your journey will begin.
 
-Make sure the dropdown box on the right is set to Play and press the Run button.
+To start the main quest you will need to commit a crime ([or become falsely accused of one](https://en.uesp.net/wiki/Oblivion:Imperial_Corruption)) and get arrested by an Imperial Legion guard. After doing so you will begin the tutorial sequence in your prison cell. After you finish the sewer section you can retrieve your belongings from the Death Row Inmate chest back at the Prison District. Before starting the main quest, all references to the Emperor's death have been disabled and you can even find him sitting on the Ruby Throne protected by a few members of the Blades in the Imperial City Palace.
 
 ## Optional Mods - Ultrawide Support, Survival, Leveling Options, & More!
 
