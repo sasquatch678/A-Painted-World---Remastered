@@ -121,7 +121,7 @@ A Painted World - Remastered comes with several customization options.
 >[!TIP]
 >You should not mess with the load order after changing any of these options. They have already been patched for the rest of the modlist where applicable if you just leave them in their default locations.
 
-If you add any mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
+If you add any new mods yourself or change major game functions through the ingame mods menu or ini files you will void all official support for the modlist.
 
 ***
 
