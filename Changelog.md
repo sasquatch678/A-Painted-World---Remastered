@@ -69,7 +69,6 @@
 - reduced the damage of Wisp absorb health spell and their damage attribute spell no longer also absorbs health over time
 - Tab now works to close menus instead of Esc
 - reduced the max level of the highest Dremora rank (Valkynaz) to 50 (was 60) in the unleveled patch
-- the boss variant of Dremora Markynaz can now only spawn 2 of them (was 3) in the unleveled patch
 - reduced the overall quantity of dremora that could spawn in oblivion gates
 - enemy and summon elemental Atronach passive resistances now also include 15 points of their respective elemental shield/cloak spell
 - reduced the attack damage of xivilai by 33% and their level to 30 (was 37) in the unleveled patch
