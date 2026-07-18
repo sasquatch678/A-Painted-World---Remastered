@@ -17,7 +17,7 @@
 - Physical Abilities
 - Arch Mage Garden - Daedric Plants At Home
 - Arch-Mage's Master Alchemic Apparatus - integrated into unleveled patch only
-- Ultimate Combat
+- Ultimate Combat - the previous crashing was caused by Alert Enemies, not Ultimate Combat
 - Charm Has Consequences
 - Auto Hide Gear - F11 to open menu
 - Connor's Flora
