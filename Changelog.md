@@ -82,7 +82,7 @@
 - added a cooldown to prevent certain messages from constantly being spammed in combat
 - greatly reduced the amount of daedra that spawn during the final part of the main quest in the unleveled patch
 - buffed the hell out of Martin so he doesn't immediately die during the final part of the main quest on higher difficulties
-- lich enemies now have a passive magicka restoration effect so they don't run out of magicka after a few spells and just float there looking at you
+- magic casting enemies now have a passive magicka restoration effect so they don't run out of magicka after a few spells and just stand (or float, looking at you liches) there looking at you
 
 ***
 
