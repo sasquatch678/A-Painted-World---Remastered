@@ -1,5 +1,104 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.11 / Revision 8</p>
+
+***
+
+## ADDED
+- a third new Reshade preset - the current "Colder" preset has been renamed to "Neutral", made "Colder" preset even colder
+- Muted or lowered Church Bells sound
+- Wraiths Sounds Redesigned
+- Imp Sounds Remastered
+- Better Enchanted Weapon Sound
+- Fierce Ogre SFX overhaul
+- Feral Daedroth SFX
+- Charmed Wisp Sound Set Remastered         
+- Prestige Attributes (Uncapped Attributes)
+- Physical Abilities
+- Arch Mage Garden - Daedric Plants At Home
+- Arch-Mage's Master Alchemic Apparatus - integrated into unleveled patch only
+- Ultimate Combat
+- Charm Has Consequences
+- Auto Hide Gear - F11 to open menu
+- Connor's Flora
+- Reforestation OR
+- Classic Faces - Martin Septim
+- Simple Classic HUD
+- Engaging Combat - optional, by default is just 2% health damage for 1s on unblocked hit. If you hate it you can disable it but I think it makes endgame characters much more engaging to play without adding too much difficulty early on
+- Intelligent Magic Scaling
+- Buffed Allies
+
+***
+
+## UPDATED
+- all upscaling files to latest versions (DLSS, FSR, & XeSS)
+
+***
+
+## REMOVED
+- Ultra Combat - redundant
+- Balanced Shield Bash - doesn't work
+- Multi Enchant - doesn't work
+- Arena Crowd - made the Arena unplayable
+- NL-Tag Remover - redundant
+- Passive Weapon Enchantment Recharging - Enchanted Weapons Recharge Over Time - there is just no way to balance this mod since time is not a resource. It also heavily devalues soul trap and soul gems, and why on earth would you ever recharge from a merchant? There are already additional ways to recharge items in the list, this is essentially a cheat mod.
+- Dynamic Magic Crafting - redundant
+
+***
+
+## CHANGES
+- NPC vampires and necromancers now have a small chance to drop bottles of human blood (for convenience for vampire players)
+- in an effort to balance paralysis it now has an innate 10% chance to be resisted by ALL creatures and npcs. Goblin Warlords, Clanfear, Dremora Markynaz, Kynmarcher, Kynreeve, Dread Zombies, normal Minotaurs, and "Hard" trolls have an additional 15% resistance. Minotaur Lords, Atronachs, Dremora Valkynaz, Land Dreugh, Liches, and Ogres have an additional 30% chance to resist paralysis.
+- increased fatigue cost of shield bash by 50%
+- added a pair of unenchanted invisible cloth bracers integrated with normal clothing merchants which can be enchanted without losing spell effectiveness
+- reduced the level of staff awarded in "A Mage's Staff" one tier lower in the unleveled patch
+- NPCs will now react negatively after realizing their mind has been magically manipulated. If you are detected by them when an active Charm effect expires, the affected NPC permanently loses 15 points of disposition toward you. If you want to win them over again, you'll need to invest time doing Speechcraft or cast an even stronger Charm spell the next time. All premade Charm spells have had their magnitudes increased so they remain effective despite this drawback
+- all containers which do not respawn now have (Safe) added as a suffix (optional mod)
+- buffed Orrery passives to +10/-10 (was +5/-5)
+- reduced the value of arena gear
+- restore fatigue and restore magicka can be used in enchanting
+- reduced the duration and  proportionally increased the magnitude of restore health/magicka/fatigue potions to occur over 10s - combat felt like it needed to be too perfect, since potions were too slow to use as a good recovery option. there are already long variations of restore potions in Nosferat's Loot mod
+- the crafted staves from Infinitum Compendium no longer have infinite charge - this was especially overpowered with the paralysis staff since you could just spam 0 cost paralysis on every enemy indefinitely while summons or dots killed them
+- Reflect Damage can no longer be used in enchanting
+- reduced equipment breakage rate by 30% and proportionally increased the rate that Armorer levels up to compensate
+- reduced the passive fortify speed and athletics of arena combatants by 20 points each
+- reduced the damage and durations of all spells in the Stronger Bosses mod by 30% or more
+- Guild Advancement is now considered an optional mod
+- Unofficial Deluxe Patch is no longer considered optional - the Deluxe esp is included in both versions of the game so it can always be left on regardless
+- Show Details moved to B to avoid conflict with Ultimate Combat
+- reduced the damage of Wisp absorb health spell and their damage attribute spell no longer also absorbs health over time
+- Tab now works to close menus instead of Esc
+- reduced the max level of the highest Dremora rank (Valkynaz) to 50 (was 60) in the unleveled patch
+- the boss variant of Dremora Markynaz can now only spawn 2 of them (was 3) in the unleveled patch
+- reduced the overall quantity of dremora that could spawn in oblivion gates
+- enemy and summon elemental Atronach passive resistances now also include 15 points of their respective elemental shield/cloak spell
+- reduced the attack damage of xivilai by 33% and their level to 30 (was 37) in the unleveled patch
+- nerfed the enchantment of The Grey Aegis from the Arena to "only" give 35% magic resistance (was 100% lol)
+- the Death Row Inmate chest in the Bastion is now unlocked and considered owned by the player so you don't have to steal your own stuff back or go to jail again after the tutorial
+- recall and extricate can no longer be used in certain quest locations, Oblivion Gates, the Shivering Isles, and prisons which would either soft lock parts of the game or completely trivialize certain quests. you will get an immersive message if trying to teleport in a restricted area.
+- many secondary spell effects which were just labeled "Script Effect" now have more clear descriptions of what they actually do
+- stagger resistance now scales 25% better with each point of endurance
+- buffed the enchantments of Mankar Camoran's Robe and Staff
+- added a cooldown to prevent certain messages from constantly being spammed in combat
+- greatly reduced the amount of daedra that spawn during the final part of the main quest in the unleveled patch
+- buffed the hell out of Martin so he doesn't immediately die during the final part of the main quest on higher difficulties
+- lich enemies now have a passive magicka restoration effect so they don't run out of magicka after a few spells and just float there looking at you
+
+***
+
+## BUG FIXES
+- fixed a bug which caused gloves worn while wearing a robe to appear invisible in third person
+- fixed a bug in the unleveled patch in which during the quest "The Mages Staff" the soul trap staff wouldn't appear in the cupboard if it was chosen
+- increased the range of the chapel blessing spells so that the player can't interact with the altars while being out of range of the actual blessing spell being cast and thus not receive the blessing
+- fixed attribute text still appearing damaged (red) even after they were restored (requires new game to take effect)
+- disabled a table which Bothiel could get stuck on when she needed to go unlock the orrery
+- fixed a bug which could cause the player to be unable to move or perform any actions unless they made a save and loaded it after using a recall or extricate spell
+- fixed a bug which prevented the player from reading volume 2 of the commentaries on the mysterium xarxes
+- the Thief lesser power now correctly casts Telekinesis on Self instead of on Target
+
+***
+
+
 # <p align="center">1.1.10 / Revision 7</p>
 
 ***
