@@ -52,7 +52,7 @@
 - increased fatigue cost of shield bash by 50%
 - added a pair of unenchanted invisible cloth bracers integrated with normal clothing merchants which can be enchanted without losing spell effectiveness
 - reduced the level of staff awarded in "A Mage's Staff" one tier lower in the unleveled patch
-- NPCs will now react negatively after realizing their mind has been magically manipulated. If you are detected by them when an active Charm effect expires, the affected NPC permanently loses 15 points of disposition toward you. If you want to win them over again, you'll need to invest time doing Speechcraft or cast an even stronger Charm spell the next time. All premade Charm spells have had their magnitudes increased so they remain effective despite this drawback
+- NPCs will now react negatively after realizing their mind has been magically manipulated. If you are detected by them when an active Charm effect expires, the affected NPC permanently loses 15 points of disposition toward you. If you want to win them over again, you'll need to invest time doing Speechcraft or cast an even stronger Charm spell the next time. All premade Charm spells have had their magnitudes increased and the base Charm effect has been rebalanced accordingly so they remain effective despite this drawback
 - all containers which do not respawn now have (Safe) added as a suffix (optional mod)
 - buffed Orrery passives to +10/-10 (was +5/-5)
 - reduced the value of arena gear
