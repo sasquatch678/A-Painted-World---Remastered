@@ -58,7 +58,7 @@
 - reduced the value of arena gear
 - restore fatigue and restore magicka can be used in enchanting
 - reduced the duration and  proportionally increased the magnitude of restore health/magicka/fatigue potions to occur over 10s - combat felt like it needed to be too perfect, since potions were too slow to use as a good recovery option. there are already long variations of restore potions in Nosferat's Loot mod
-- the crafted staves from Infinitum Compendium no longer have infinite charge - this was especially overpowered with the paralysis staff since you could just spam 0 cost paralysis on every enemy indefinitely while summons or dots killed them
+- the crafted staves from Infinitum Compendium no longer have infinite charge - this was especially overpowered with the paralysis staff since you could just spam 0 cost paralysis on every enemy indefinitely while summons or damage over time killed them
 - Reflect Damage can no longer be used in enchanting
 - reduced equipment breakage rate by 30% and proportionally increased the rate that Armorer levels up to compensate
 - reduced the passive fortify speed and athletics of arena combatants by 20 points each
