@@ -15,7 +15,7 @@
 
 In general adding new and expansive quests or greatly modifying existing quests isn't possible in the Remaster. But there have still been changes and additions to each major factions questline, as well as delays to the main DLCs so the player won't be spammed with quest entries after first starting a game.
 
-Quest markers have also been modified. It is somewhat unimmersive and detrimential to roleplaying for the player character to have the clairvoyant ability to see a quest item in a cave on the other side of Tamriel. That said, the quest marker system can be helpful and saves the player from a lot of frustration. Searching for Radiant AI-driven NPCs or hovering over every map marker on the map is not THAT fun. The issue is that the current available options are either to keep all quest markers or to have no markers at all.
+Quest markers have also been modified. It is somewhat unimmersive and detrimental to roleplaying for the player character to have the clairvoyant ability to see a quest item in a cave on the other side of Tamriel. That said, the quest marker system can be helpful and saves the player from a lot of frustration. Searching for Radiant AI-driven NPCs or hovering over every map marker on the map is not THAT fun. The issue is that the current available options are either to keep all quest markers or to have no markers at all.
 
 This modlist tries to strike a balance. It removes some of the quest markers only when it makes sense, both in terms of common sense and gameplay. Some markers have been tweaked to remain helpful without breaking immersion. Almost every vanilla quest has been reworked.
 
