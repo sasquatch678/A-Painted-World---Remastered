@@ -59,7 +59,7 @@ There are now consequences to summoning the dead due to the Mages Guild ban on n
 
 Necromancy was banned by the Mages Guild, and if you summon undead near a Mages Guild member you will be expelled from the guild. In addition, while not illegal in the lore, summoning undead will result in a 100-gold bounty if done near a guard. (Note: This bounty is only added if a guard is nearby. Casting near citizens/other NPCs will not result in a bounty). <br/>
 
-As for daedric summons, while Conjuration has been an accepted school of magic in the past, in light of recent events the public perception has gone decidedly downhill. It's not illegal or anything, but absolutely frowned upon and most folk no longer trust it nor the mages who practice it. Summoning daedra while detected by a friendly npc will now add 1 point of infamy to the player. <br/>
+As for daedric summons, while Conjuration has been an accepted school of magic in the past, in light of recent events the public perception has gone decidedly downhill. It's not illegal or anything, but absolutely frowned upon and most folk no longer trust it nor the mages who practice it. Summoning daedra while detected by a friendly npc will now cause you to lose disposition with them. <br/>
 
 All summons now have a graphical effect to make it clear these are summons and not standard enemies. There is also a reanimate spell you can buy from a shady source, and reanimation effects from standard sources (not custom spells) additionally work on dead creatures, not just npcs.
 #### New summons
@@ -157,6 +157,9 @@ Weakness to normal weapons is now under the alteration skill which fits lore you
 ***
 #### Invisibility 
 Invisibility effects now take a toll to maintain and will prevent magicka regen during its effect. This is to prevent abusing very low cost invisibility spells. Buy the higher cost and run away.
+
+#### Charm
+It was really easy to bypass the entire speechcraft system with a custom 100 point 1s duration Charm spell. Now, Charm spells will cause the npc to lose disposition with if they are detecting you when the effect wears off, similar to the Friends cantrip in BG3. To bypass this you'll need to either set a longer duration for custom Charm spells, make sure to be undetected when they end, or play the speechcraft minigame afterwards to get your disposition back up.
 
 #### Paralyze
 Paralyze spells are very powerful, so now they have an additional % chance to fail on all enemies based on your illusion skill and luck. At level 1 without mods its 25% resistance, then about 0% at/over 100 skill.
