@@ -1,5 +1,34 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.12 / Revision 9</p>
+
+***
+
+## ADDED
+- Fountains Of Cyrodiil (FOC)
+- Ultra Combat - Fixed Edition
+
+***
+
+## UPDATED
+- Intelligent Magic Scaling
+- Core Survival
+
+***
+
+## REMOVED
+- Ultimate Combat - hopefully the last time you see this in the changelog
+- Reforestation OR
+- Connor's Flora
+
+***
+
+## CHANGES
+- reverted texture pool size in Ultra Plus to be managed by the game itself - hopefully results in increased stability across different machines
+- reverted closing menus to vanilla behavior, Tab caused issues on some machines causing the player to be stuck in the menu
+
+***
+
 # <p align="center">1.1.11 / Revision 8</p>
 
 ***
