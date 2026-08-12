@@ -36,7 +36,7 @@ All weapons can now cause stagger and critically strike. Blunt weapons have a mu
 >Most of the below features can be configured in mods\Ultra Combat V2 - Fixed Edition\UE4SS\UltraCombat\scripts\config.lua. You can find valid key inputs [here](https://unrealcommunity.wiki/list-of-key/gamepad-input-names-j9c5mqou) to change keybinds.<br/>
 ***
 - Requires a minimum 25 in Acrobatics
-- Dodge by tapping mouse button 5.
+- Dodge by tapping Alt (or hold block and tap jump on controller, like vanilla).
 - Dodging is blocked while the player is crouched, out of fatigue, and/or over encumbered, configurable.
 - During dodges, for 0.4s the player will have resistance to normal weapons based on acrobatics skill (2x skill, max 100%). Magic and special weapon materials can penetrate the physical barrier it provides.
 - Fatigue drain for dodging is based on acrobatics skill. Base 20 + Skill Modifier (Lower skill = More Fatigue Cost)
