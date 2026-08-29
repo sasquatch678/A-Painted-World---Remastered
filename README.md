@@ -102,6 +102,19 @@ Open the installation folder and double-click on the program called ModOrganizer
 
 To start the main quest you will need to commit a crime ([or become falsely accused of one](https://en.uesp.net/wiki/Oblivion:Imperial_Corruption)) and get arrested by an Imperial Legion guard. After doing so you will begin the tutorial sequence in your prison cell. After you finish the sewer section you can retrieve your belongings from the Death Row Inmate chest back at the Prison District. Before starting the main quest, all references to the Emperor's death have been disabled and you can even find him sitting on the Ruby Throne protected by a few members of the Blades in the Imperial City Palace.
 
+## Linux/Steam Deck
+
+In order for UE4SS to launch correctly you need to follow the steps below.
+1. Take the dwmapi.dll from the UE4SS-32-3-0-1-447-1752753994.zip archive in the downloads folder
+2. Place it in mods\UE4SS for OblivionRemastered\Root\OblivionRemastered\Binaries\Win64
+3. Force Proton to use the native app-local proxy: WINEDLLOVERRIDES=dwmapi=n,b
+
+Failure to do so will result in frequent crashes and other unexpected behavior.
+
+If you also want to launch the game through GSLoader (required for some minor game setting changes) you will also need to follow the instructions here https://discord.com/channels/1341621784767627264/1442573332577910855/1539520323525943296 - Otherwise, changing the dropdown in MO2 to launch the game through MagicLoader or OBSE should be fine.
+
+Ultimately I am not and have never been a linux user, so the support I can offer is limited. Feel free to post in Discord if you need help anyway, and if someone can help hopefully they will.
+
 ## Optional Mods - Ultrawide Support, Survival, Leveling Options, & More!
 
 A Painted World - Remastered comes with several customization options. 
@@ -136,19 +149,6 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## Removing the Modlist
 Simply delete the modlist folder and Documents\My Games\Oblivion Remastered\Saved\SaveGames\Mods, and you have uninstalled it.
-
-## Linux/Steam Deck
-
-In order for UE4SS to launch correctly you need to follow the steps below.
-1. Take the dwmapi.dll from the UE4SS-32-3-0-1-447-1752753994.zip archive in the downloads folder
-2. Place it in mods\UE4SS for OblivionRemastered\Root\OblivionRemastered\Binaries\Win64
-3. Force Proton to use the native app-local proxy: WINEDLLOVERRIDES=dwmapi=n,b
-
-Failure to do so will result in frequent crashes and other unexpected behavior.
-
-If you also want to launch the game through GSLoader (required for some minor game setting changes) you will also need to follow the instructions here https://discord.com/channels/1341621784767627264/1442573332577910855/1539520323525943296 - Otherwise, changing the dropdown in MO2 to launch the game through MagicLoader or OBSE should be fine.
-
-Ultimately I am not and have never been a linux user, so the support I can offer is limited. Feel free to post in Discord if you need help anyway, and if someone can help hopefully they will.
 
 ## Credits
 - _YOU_ for reading this.
