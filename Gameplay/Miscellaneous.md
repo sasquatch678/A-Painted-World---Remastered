@@ -5,6 +5,7 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gods--worship">Gods & Worship</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-jobs">Jobs</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-gambling">Gambling</a> |
+  <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-vampirism">Vampirism</a> | 
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Miscellaneous.md#-survival-optional">Survival</a> ] </br>
   
 
@@ -250,8 +251,6 @@ The buffs you get per stage now look like this:
 <details>
   <summary>Click to expand</summary>
   
-  This is the hidden text that will appear when expanded.
-  You can use standard **Markdown** here.
 Vampirism 25:
 
 No Sun damage
