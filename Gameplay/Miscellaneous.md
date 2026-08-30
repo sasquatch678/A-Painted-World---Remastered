@@ -254,89 +254,89 @@ The buffs you get per stage now look like this:
   You can use standard **Markdown** here.
 Vampirism 25:
 
-    No Sun damage
-    Resist Disease 100
-    Resist Poison 100
-    Resist Paralysis 100 
-    Fortify Speechcraft 20pts
-    Fortify Willpower 20pts
-    Fortify Mercantile 20pts
-    Fortify Destruction 20pts
-    Fortify Illusion 20pts
-    Fortify Mysticism 20pts
-    Fortify Sneak 20pts
+No Sun damage
+Resist Disease 100
+Resist Poison 100
+Resist Paralysis 100 
+Fortify Speechcraft 20pts
+Fortify Willpower 20pts
+Fortify Mercantile 20pts
+Fortify Destruction 20pts
+Fortify Illusion 20pts
+Fortify Mysticism 20pts
+Fortify Sneak 20pts
 
 
 Vampirism 50:
 
-    1pts per sec Sun damage
-    Resist Disease 100
-    Resist Poison 100
-    Resist Paralysis 100 
-    Resist Normal Weapons 10pts
-    Resist Frost 20pts
-    Weakness to fire 20pts
-    Fortify Speechcraft 15pts
-    Fortify Willpower 15pts
-    Fortify Mercantile 15pts
-    Fortify Destruction 15pts
-    Fortify Illusion 15pts
-    Fortify Mysticism 15pts
-    Fortify Sneak 15pts
-    Fortify Strength 5pts
-    Fortify Agility 5pts
-    Fortify Speed 5pts
-    Fortify Athletics 5pts
-    Fortify Acrobatics 5pts
-    Fortify Blade 5pts
-    Fortify Hand to hand 5pts
-
+1pts per sec Sun damage
+Resist Disease 100
+Resist Poison 100
+Resist Paralysis 100 
+Resist Normal Weapons 10pts
+Resist Frost 20pts
+Weakness to fire 20pts
+Fortify Speechcraft 15pts
+Fortify Willpower 15pts
+Fortify Mercantile 15pts
+Fortify Destruction 15pts
+Fortify Illusion 15pts
+Fortify Mysticism 15pts
+Fortify Sneak 15pts
+Fortify Strength 5pts
+Fortify Agility 5pts
+Fortify Speed 5pts
+Fortify Athletics 5pts
+Fortify Acrobatics 5pts
+Fortify Blade 5pts
+Fortify Hand to hand 5pts
 
 Vampirism 75 
 
-    4pts per sec Sun damage
-    Resist Disease 100
-    Resist Poison 100
-    Resist Paralysis 100 
-    Resist Normal Weapons 25pts
-    Resist Frost 50pts
-    Weakness to fire 50pts
-    Fortify Speechcraft 5pts
-    Fortify Willpower 5pts
-    Fortify Mercantile 5pts
-    Fortify Destruction 5pts
-    Fortify Illusion 5pts
-    Fortify Mysticism 5pts
-    Fortify Sneak 5pts
-    Fortify Strength 15pts
-    Fortify Agility 15pts
-    Fortify Speed 15pts
-    Fortify Athletics 15pts
-    Fortify Acrobatics 15pts
-    Fortify Blade 15pts
-    Fortify Hand to hand 15pts
+4pts per sec Sun damage
+Resist Disease 100
+Resist Poison 100
+Resist Paralysis 100 
+Resist Normal Weapons 25pts
+Resist Frost 50pts
+Weakness to fire 50pts
+Fortify Speechcraft 5pts
+Fortify Willpower 5pts
+Fortify Mercantile 5pts
+Fortify Destruction 5pts
+Fortify Illusion 5pts
+Fortify Mysticism 5pts
+Fortify Sneak 5pts
+Fortify Strength 15pts
+Fortify Agility 15pts
+Fortify Speed 15pts
+Fortify Athletics 15pts
+Fortify Acrobatics 15pts
+Fortify Blade 15pts
+Fortify Hand to hand 15pts
 
 
 Vampirism 100
 
-    8pts per sec Sun damage
-    Resist Disease 100
-    Resist Poison 100
-    Resist Paralysis 100 
-    Resist Normal Weapons 40pts
-    Resist Frost 75pts
-    Weakness to fire 75pts
-    Fortify Strength 20pts
-    Fortify Agility 20pts
-    Fortify Speed 20pts
-    Fortify Athletics 20pts
-    Fortify Acrobatics 20pts
-    Fortify Blade 20pts
-    Fortify Hand to hand 20pts
+8pts per sec Sun damage
+Resist Disease 100
+Resist Poison 100
+Resist Paralysis 100 
+Resist Normal Weapons 40pts
+Resist Frost 75pts
+Weakness to fire 75pts
+Fortify Strength 20pts
+Fortify Agility 20pts
+Fortify Speed 20pts
+Fortify Athletics 20pts
+Fortify Acrobatics 20pts
+Fortify Blade 20pts
+Fortify Hand to hand 20pts
+</details>
 
 It basically allows you to effectively ignore vampirism if you keep fed as you just get a nice set of bonuses to magic and social skills. But if you truly want to unleash the beast you can do with the caveat of increasingly harsh debuffs. 
 Stage 4 makes you very tough to kill against regular enemies, but beware the sun and fire! You also will get all the social disadvantages that this stage brings in the vanilla game.
-</details>
+
 ***
 ## <p align="center"> SURVIVAL (OPTIONAL)
 
