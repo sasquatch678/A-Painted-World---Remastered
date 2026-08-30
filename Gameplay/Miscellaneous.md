@@ -200,6 +200,7 @@ There are smithing stations placed in each major city, usually in blacksmith sho
 
 
 **LEATHER RACK** - Here you can process Wolf Pelts, Bear Pelts, Lion Pelts, Scamp Skin, and Daedra Silk. Every Leather Rack will check its specific workstation's Smithing Chest for materials to process. Crafted items are deposited into the player's inventory.
+
 ***
 ## <p align="center"> GAMBLING
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/gambling.png)
@@ -235,6 +236,107 @@ Basically a coin flip. Both parties bet 10 septims. Either you or the NPC will g
 Any NPC with a luck higher than 60 will give the option to play games at higher stakes. The options are 2x, 3x, and 4x. These option only show up if both parties can afford the larger transactions.
 >[!TIP]
 > You could craft a custom spell to Fortify Luck on touch/target in order to always play at High Stakes. You could also Fortify your own Luck to increase your own chances of winning.
+
+***
+## <p align="center"> VAMPIRISM
+
+Vampires in Oblivion suck. They are not worth the hassle of using as when fully fed you have such meager buffs and a weakness to fire (which nearly everything uses in the game).
+Then things get worse as you progress as you get sun damage heaped in while the only decently sized buffs come in at stage 4 by which point everyone hates you and you will by fried to a crisp at a moments notice.
+
+The vampires of Cyrodiil now act as described in the in game book "Immortal Blood" whereby when fully fed you are a charming aristocrat, able to blend into society and be indistinguishable from a human. When you start to get hungry you lose these personality and magical buffs but gain physical attributes like Strength, Agility, and Speed.  This gives you a reason to aim for specific stages depending on your build or current quest or location. Going to be talking to a lot of merchants and need to get some information out of someone? Feed up. Need to tear through a bunch of bandits or frost mages? Starve yourself.
+
+The buffs you get per stage now look like this:
+
+<details>
+  <summary>Click to expand</summary>
+  
+  This is the hidden text that will appear when expanded.
+  You can use standard **Markdown** here.
+Vampirism 25:
+
+    No Sun damage
+    Resist Disease 100
+    Resist Poison 100
+    Resist Paralysis 100 
+    Fortify Speechcraft 20pts
+    Fortify Willpower 20pts
+    Fortify Mercantile 20pts
+    Fortify Destruction 20pts
+    Fortify Illusion 20pts
+    Fortify Mysticism 20pts
+    Fortify Sneak 20pts
+
+
+Vampirism 50:
+
+    1pts per sec Sun damage
+    Resist Disease 100
+    Resist Poison 100
+    Resist Paralysis 100 
+    Resist Normal Weapons 10pts
+    Resist Frost 20pts
+    Weakness to fire 20pts
+    Fortify Speechcraft 15pts
+    Fortify Willpower 15pts
+    Fortify Mercantile 15pts
+    Fortify Destruction 15pts
+    Fortify Illusion 15pts
+    Fortify Mysticism 15pts
+    Fortify Sneak 15pts
+    Fortify Strength 5pts
+    Fortify Agility 5pts
+    Fortify Speed 5pts
+    Fortify Athletics 5pts
+    Fortify Acrobatics 5pts
+    Fortify Blade 5pts
+    Fortify Hand to hand 5pts
+
+
+Vampirism 75 
+
+    4pts per sec Sun damage
+    Resist Disease 100
+    Resist Poison 100
+    Resist Paralysis 100 
+    Resist Normal Weapons 25pts
+    Resist Frost 50pts
+    Weakness to fire 50pts
+    Fortify Speechcraft 5pts
+    Fortify Willpower 5pts
+    Fortify Mercantile 5pts
+    Fortify Destruction 5pts
+    Fortify Illusion 5pts
+    Fortify Mysticism 5pts
+    Fortify Sneak 5pts
+    Fortify Strength 15pts
+    Fortify Agility 15pts
+    Fortify Speed 15pts
+    Fortify Athletics 15pts
+    Fortify Acrobatics 15pts
+    Fortify Blade 15pts
+    Fortify Hand to hand 15pts
+
+
+Vampirism 100
+
+    8pts per sec Sun damage
+    Resist Disease 100
+    Resist Poison 100
+    Resist Paralysis 100 
+    Resist Normal Weapons 40pts
+    Resist Frost 75pts
+    Weakness to fire 75pts
+    Fortify Strength 20pts
+    Fortify Agility 20pts
+    Fortify Speed 20pts
+    Fortify Athletics 20pts
+    Fortify Acrobatics 20pts
+    Fortify Blade 20pts
+    Fortify Hand to hand 20pts
+
+It basically allows you to effectively ignore vampirism if you keep fed as you just get a nice set of bonuses to magic and social skills. But if you truly want to unleash the beast you can do with the caveat of increasingly harsh debuffs. 
+Stage 4 makes you very tough to kill against regular enemies, but beware the sun and fire! You also will get all the social disadvantages that this stage brings in the vanilla game.
+</details>
 ***
 ## <p align="center"> SURVIVAL (OPTIONAL)
 
