@@ -1,5 +1,44 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.13 / Revision 10</p>
+
+***
+
+## ADDED
+- I See You
+- Simple Keychain
+- Character Marks and Adornments
+- Gray Cowl of Luminescence
+- Stack Weight Display
+- Food Gives Health
+
+***
+
+## UPDATED
+- Fountains of Cyrodiil
+- Oh Well
+- Physical Techniques
+
+***
+
+## CHANGES
+- unleveled patch is now disabled by default
+- refactored install path of TesSyncMap to better support Linux users
+- reduced timed block slo-mo duration
+- npcs below level 4 now have 30% less health
+- passive health regen now works while out of combat
+- food items now have a small Restore Health amount as the first effect rather than Restore Fatigue, assigned in a logically consistent way such that more valuable foods restore greater amounts of health
+- potions now restore health/magicka/fatigue more quickly over 5 seconds (was 10) - the idea being that potions act as a fast recovery option in combat, while food can substitute to recover health in a pinch but acts more slowly and requires more of it/higher quality and rare foods
+
+***
+
+## BUG FIXES
+- fixed weight of the blackwater leather cuirass
+- fixed issues with the enchanting/spellmaking upgrade not appearing in the waterfront, chorrol, and cheydinhal house
+- fixed telekinesis aspect of the thief lesser power to work as intended
+
+***
+
 # <p align="center">1.1.12 / Revision 9</p>
 
 ***
