@@ -28,7 +28,7 @@
 - npcs below level 4 now have 30% less health
 - passive health regen now works while out of combat
 - food items now have a small Restore Health amount as the first effect rather than Restore Fatigue, assigned in a logically consistent way such that more valuable foods restore greater amounts of health
-- potions now restore health/magicka/fatigue more quickly over 5 seconds (was 10) - the idea being that potions act as a fast recovery option in combat, while food can substitute to recover health in a pinch but acts more slowly and requires more of it/higher quality and rare foods
+- potions now restore health/magicka/fatigue more quickly over 5 seconds (was 10) - the idea being that potions act as a fast recovery option in combat, while food can substitute to recover health in a pinch but acts more slowly and requires more of it/higher quality and rarer foods
 
 ***
 
