@@ -243,7 +243,7 @@ Any NPC with a luck higher than 60 will give the option to play games at higher 
 Vampires in Oblivion suck. They are not worth the hassle of using as when fully fed you have such meager buffs and a weakness to fire (which nearly everything uses in the game).
 Then things get worse as you progress as you get sun damage heaped in while the only decently sized buffs come in at stage 4 by which point everyone hates you and you will by fried to a crisp at a moments notice.
 
-The vampires of Cyrodiil now act as described in the in game book "Immortal Blood" whereby when fully fed you are a charming aristocrat, able to blend into society and be indistinguishable from a human. When you start to get hungry you lose these personality and magical buffs but gain physical attributes like Strength, Agility, and Speed.  This gives you a reason to aim for specific stages depending on your build or current quest or location. Going to be talking to a lot of merchants and need to get some information out of someone? Feed up. Need to tear through a bunch of bandits or frost mages? Starve yourself.
+The vampires of Cyrodiil now act as described in the in game book "Immortal Blood" whereby when fully fed you are a charming aristocrat, able to blend into society and be indistinguishable from a normal person. When you start to get hungry you lose these personality and magical buffs but gain physical attributes like Strength, Agility, and Speed.  This gives you a reason to aim for specific stages depending on your build or current quest or location. Going to be talking to a lot of merchants and need to get some information out of someone? Feed up. Need to tear through a bunch of bandits or frost mages? Starve yourself.
 
 The buffs you get per stage now look like this:
 
