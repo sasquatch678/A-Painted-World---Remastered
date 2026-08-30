@@ -335,7 +335,7 @@ Fortify Hand to hand 20pts
 </details>
 
 It basically allows you to effectively ignore vampirism if you keep fed as you just get a nice set of bonuses to magic and social skills. But if you truly want to unleash the beast you can do with the caveat of increasingly harsh debuffs. 
-Stage 4 makes you very tough to kill against regular enemies, but beware the sun and fire! You also will get all the social disadvantages that this stage brings in the vanilla game.
+Stage 4 makes you very tough to kill against regular enemies, but beware the sun and fire! You also will get all the social disadvantages that this stage brings in the vanilla game. Additionally, sun damage no longer applies during rainy or cloudy weather.
 
 ***
 ## <p align="center"> SURVIVAL (OPTIONAL)
