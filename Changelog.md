@@ -33,7 +33,7 @@
 ***
 
 ## BUG FIXES
-- fixed 30 object scripts in Little Locations that were compiled with errors and had missing checks to make them only trigger on activation for the player - could cause an infinite messagebox spam loop if an npc ever triggered these activators even across the map
+- fixed 30 object scripts in Little Locations that were compiled with errors and didn't have checks to make sure only the player could activate them - could cause infinite messagebox spam if an npc ever triggered these activators, even across the map
 
 ***
 
