@@ -44,7 +44,7 @@ All races now have one passive and one greater power which can be augmented by t
 
 - ﻿Hestra - Ancestor Guardian now also creates a 15 yard radius fire storm that deals 10 damage per second for 10 seconds.
 - ﻿Reman - Ancestor Guardian now also gives you 25 points of Fire Shield for 120 seconds.
-- ﻿Sidri-Ashak - Balanced Scales now also regenerates Fatigue when below 50% base Magicka, and regenerates Magicka when below 50% Fatigue.
+- ﻿Sidri-Ashak - Doubles the effects of Balanced Scales.
 ***
 ### High Elf
 
