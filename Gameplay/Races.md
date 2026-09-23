@@ -39,7 +39,7 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Dark Elf
 
-﻿*Passive* - Balanced Scales - When below 50% of your base Magicka, Fortify 25 points of Strength. When below 50% Fatigue, Fortify 25 points of Intelligence. Also gain 50% Fire Resistance. <br/>
+﻿*Passive* - Balanced Scales - When below 50% of your base Magicka, Fortify 20 points of Strength. When below 50% Fatigue, Fortify 20 points of Intelligence. Also gain 50% Fire Resistance. <br/>
 ﻿*Power* - Ancestor Guardian - Once per day Summon an Ancestor Guardian to protect you for 120s. (Ancestor Guardian now scales 1:1 with the player's level, has Fire Immunity in addition to it's existing Immunities, and casts a leveled fire spell instead of just snowball).
 
 - ﻿Hestra - Ancestor Guardian now also creates a 15 yard radius fire storm that deals 10 damage per second for 10 seconds.
