@@ -1,5 +1,42 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.14 / Revision 11</p>
+
+***
+
+## ADDED
+- Sapiarch's Splendor (NPC Overhaul for the Altmer - High Elves)
+- EnchantFormFix - Enchant Modded Items
+- Roadworn - Modular Leather Armor - NBO and Vanilla
+- The Viridian Knight Remastered - NBO and Vanilla
+
+***
+
+## UPDATED
+- Alternate Start - Main Quest Delayer Enhancer
+- Reshade to 6.8.0 with full addon support
+- Stack Weight and Value-Weight Display
+- Core Survival
+- Dark Brotherhood Arsenal ReDone
+- Race Based Runestones
+
+***
+
+## REMOVED
+- Immersive Movement - causing crashes during load transitions
+
+***
+
+## CHANGES
+- alt start now offers an option to immediately begin in the vanilla jail cell, and to go back and remake your character before choosing where you want to start
+
+***
+
+## BUG FIXES
+- fixed 30 object scripts in Little Locations that were compiled with errors and had missing checks to make them only trigger on activation for the player - could cause an infinite messagebox spam loop if an npc ever triggered these activators even across the map
+
+***
+
 # <p align="center">1.1.13 / Revision 10</p>
 
 ***
