@@ -1,5 +1,45 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.15 / Revision 12</p>
+
+***
+
+## ADDED
+- Sundial Wait Menus
+- Simple Loadout System for Oblivion Remastered
+- Camera Configuration Menu
+- Apocrypha Menu Framework
+- Knights Improved Infamy
+- Async Shader Compiler
+-Anvil Lighthouse Fire SFX Fix
+- Quick Loot - OBRE
+
+***
+
+## UPDATED
+- Alternate Start - Main Quest Delayer Enhancer
+
+***
+
+## REMOVED
+- No Invisible World Border - crashes
+- Simple Keychain - crashes
+- Dynamic Difficulty Multipliers - there are cases where the scripted nature of this mod does not apply, replaced with ini for Game Settings Loader instead
+- Stack Weight Display - it's implemented in a clunky/janky way that is confusing for users
+
+***
+
+## BUG FIXES
+- fixed an issue with the original Fatigue Affects Damage mod where only the multiplier for max fatigue was applied at all fatigue levels, making physical damage 25% higher than intended - I have pre-emptively adjusted the difficulty percentages accordingly so overall combat should feel similar but with fatigue actually mattering now
+- fixed multiple issues with the dog follower Clancy and the dogs in Pell's Gate
+- fixed issues related to Umbra's enchantment
+- fixed an issue where the game would crash after casting Mark
+- fixed issues related to Enchant Form Fix never actually loading
+- fixed KOTN Pilgirmage quest not progressing at each wayshrine
+
+***
+
+
 # <p align="center">1.1.14 / Revision 11</p>
 
 ***
