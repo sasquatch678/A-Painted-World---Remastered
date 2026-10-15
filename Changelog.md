@@ -11,7 +11,7 @@
 - Apocrypha Menu Framework
 - Knights Improved Infamy
 - Async Shader Compiler
--Anvil Lighthouse Fire SFX Fix
+- Anvil Lighthouse Fire SFX Fix
 - Quick Loot - OBRE
 
 ***
