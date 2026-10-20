@@ -147,8 +147,8 @@ Ways to Mitigate this:
 
 - If you use FSR and experience menu flickering, in your engine.ini (Documents\My Games\Oblivion Remastered\Saved\Config\Windows\Engine.ini), add:
 
-``[SystemSettings]</br>
-r.FidelityFX.FI.AllowAsyncWorkloads=1``
+``[SystemSettings]``</br>
+``r.FidelityFX.FI.AllowAsyncWorkloads=1``
 
 If you don't have [SystemSettings], just add it.
 
