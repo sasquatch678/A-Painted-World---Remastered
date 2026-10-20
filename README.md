@@ -141,10 +141,10 @@ If you add any new mods yourself or change major game functions through the inga
 ***
 
 <details><summary>View content</summary>
-Sometimes the game can crash on launch or when starting a new game. It's completely random, but I've noticed this happens more often after disabling or enabling any mod and believe it is a timing issue with MO2's usvfs and UE4SS. Just retry launching the game a couple times if this happens, especially after changing anything in the optional mods section.\
-\
+Sometimes the game can crash on launch or when starting a new game. It's completely random, but I've noticed this happens more often after disabling or enabling any mod and believe it is a timing issue with MO2's usvfs and UE4SS. Just retry launching the game a couple times if this happens, especially after changing anything in the optional mods section.
+/<br>
 Ways to Mitigate this:
-
+/<br>
 - avoid alt tabbing or moving to a different window while the game is starting up
 - lower your graphics settings from the main menu
 - close other apps running in the background
