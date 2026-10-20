@@ -139,18 +139,25 @@ If you add any new mods yourself or change major game functions through the inga
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/cheydinhalstreets.png)
 ## Known Issues
 ***
-1. Sometimes the game can crash on launch or when starting a new game. It's completely random, but I've noticed this happens more often after disabling or enabling any mod and believe it is an issue with MO2's usvfs and UE4SS. Just retry launching the game a couple times if this happens, especially after changing anything in the optional mods section.
 
+<details><summary>View content</summary>
+Sometimes the game can crash on launch or when starting a new game. It's completely random, but I've noticed this happens more often after disabling or enabling any mod and believe it is a timing issue with MO2's usvfs and UE4SS. Just retry launching the game a couple times if this happens, especially after changing anything in the optional mods section.\
+\
 Ways to Mitigate this:
+
 - avoid alt tabbing or moving to a different window while the game is starting up
-- lower your graphics settings
+- lower your graphics settings from the main menu
+- close other apps running in the background
+</details>
 
-2. If you use FSR and experience menu flickering, in your engine.ini (Documents\My Games\Oblivion Remastered\Saved\Config\Windows\Engine.ini), add:
+<details><summary>View content</summary>
+If you use FSR and experience menu flickering, in your engine.ini (Documents\My Games\Oblivion Remastered\Saved\Config\Windows\Engine.ini), add:
 
-``[SystemSettings]``</br>
-``r.FidelityFX.FI.AllowAsyncWorkloads=1``
+`[SystemSettings]`\
+`r.FidelityFX.FI.AllowAsyncWorkloads=1`
 
-If you don't have [SystemSettings], just add it.
+If you don't have \[SystemSettings], just add it.
+</details>
 
 ## Updating the modlist
 
