@@ -93,12 +93,12 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Redguard
 
-﻿*Passive* - Nomadic Heritage - Fortify Fatigue 100 points. <br/>
+﻿*Passive* - Nomadic Heritage - Fortify Fatigue 100 pts. While above 75% Fatigue, Fortify Speed and Athletics 15 points. <br/>
 ﻿*Power* - Adrenaline Rush - Restore 10 points of Fatigue/s for 120 seconds.
 
-- ﻿Hestra - Adrenaline Rush now also Restores 5 points of Magicka/s for 120 seconds.
-- ﻿Reman - Your passive Fatigue is now Fortified by 200 points.
-- ﻿Sidri-Ashak - Adrenaline Rush now also Fortifies your Speed by 50 points for 120 seconds.
+- ﻿Hestra - Adrenaline Rush also Fortifies 25 points of Blade and Blunt for the duration. 
+- ﻿Reman - Passive Fatigue bonus increased by 50, and incoming damage is reduced by 10% when above 75% Fatigue. 
+- ﻿Sidri-Ashak - Adrenaline Rush also adds Fortify Speed 50 pts and becomes a lesser power, but lasts 15s and costs 75 magicka.
 ***
 ### Wood Elf
 
