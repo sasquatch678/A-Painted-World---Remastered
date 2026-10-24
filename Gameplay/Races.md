@@ -84,7 +84,7 @@ All races now have one passive and one greater power which can be augmented by t
 ***
 ### Orc
 
-﻿*Passive* - Malacath's Scorn - When you are below 33% base Health, Fortify Strength 25 points and Restore Health 2/s. <br/>
+﻿*Passive* - Malacath's Scorn - When you are below 33% base Health, Fortify Strength 25 points and Restore Health 1/s. <br/>
 ﻿*Power* - Berserk - Fortify Strength 50 points and Resist Normal Weapons 25% for 120 seconds.
 
 - ﻿Hestra - Berserk now also Fortifies Blade, Blunt, and Hand to Hand by 50 points for 120 seconds.
