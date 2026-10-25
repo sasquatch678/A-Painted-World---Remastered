@@ -66,7 +66,7 @@ Gifted with an innate understanding of the arcane, those born under the Mage wie
 Those born under the Ritual are bound to the eternal cycle of life and death, wielding sacred power to preserve the living and command the forces that threaten them. Their blessings and curses are two halves of the same divine gift, each demanding a sacrifice of body or spirit.
 
 - **Passive:** Sacred Calling - Gain +10 Restoration, +10 Conjuration, and +10% Magic Resistance.</br>
-- **Lesser Powers:** Divine Prayer / Touch of the Damned - Alternate between two lesser powers with each cast. Divine Prayer restores Health and cures poisons and diseases, at the cost of your Magicka. Touch of the Damned absorbs Magicka, traps souls, and silences on touch, at the cost of your Health. Life and death are inseparable, and every gift demands its' penance.</br>
+- **Lesser Powers:** Divine Prayer / Touch of the Damned - Alternate between two lesser powers with each cast. Divine Prayer restores Health and cures poisons and diseases, at the cost of your Magicka. Touch of the Damned absorbs Magicka, traps souls, and silences on touch, at the cost of your Health. Life and death are inseparable, and every gift demands penance.</br>
 - **Doomstone Power:** Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, soul trap in an area, and reanimate on touch for the duration of the drain effect.
 
 ***
