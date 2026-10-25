@@ -19,8 +19,8 @@ Graceful under pressure and unwavering in spirit, those born under the Lady poss
 ### Lord 
 Those born under the Lord possess an indomitable constitution, enduring wounds that would fell lesser souls. Their fortitude seems almost divine, but even the mightiest champions must lower their guard when calling upon their greatest reserves of vitality.
 
-**Passive:** Lord's Constitution - Gain +10 Endurance and Restore Health (1/s).</br>
-**Lesser Power:** Lord's Vigor - For 30 seconds, restore 5 Health per second, but suffer 50% Weakness to Magic and 50% Weakness to Normal Weapons for the duration. Great fortitude comes at the cost of leaving yourself dangerously exposed.</br>
+**Passive:** Divine Fortitude - Gain +10 Endurance and Restore Health (1/s).</br>
+**Lesser Power:** Lord's Vigour - For 30 seconds, restore 5 Health per second, but suffer 50% Weakness to Magic and 50% Weakness to Normal Weapons for the duration. Great fortitude comes at the cost of leaving yourself dangerously exposed.</br>
 **Doomstone Power:** Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
 
 ### Steed
@@ -75,41 +75,39 @@ Those born under the Ritual are bound to the eternal cycle of life and death, wi
 
 ***
 ### Lover 
-- Birthsign: Seductive and charming, the Lover birthsign grants 10 Personality, Speechcraft, Mercantile, and the lesser power Lover’s Kiss, which dispels magic effects on self and on touch (100 points) and calms enemies (10s) but damages fatigue (50 points). Perfect for silver-tongued adventurers who use allure and wit to turn the tide—at the expense of their stamina.
+Blessed with irresistible charm and an effortless gift for persuasion, those born under the Lover excel at winning hearts and defusing conflict. Their presence can soothe even the fiercest tempers, though such enchanting grace leaves them momentarily drained.
 
-- Doomstone Power: Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
+**Passive:** Beguiling Presence - Gain +10 Personality, +10 Speechcraft, and +10 Mercantile.</br>
+**Lesser Power:** Lover's Kiss - Dispel 150 points of magical effects on yourself and on touch, and Calm enemies for 10 seconds, at the cost of 50 Fatigue. Your captivating presence washes away hostility and harmful magic alike, but the effort is physically exhausting.</br>
+**Doomstone Power:** Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
   
 ### Shadow 
-- Birthsign: Elusive and calculating, those born under the Shadow gain 10 Agility and Sneak, and the lesser power Shadow’s Prowl, gaining Invisibility (60s) and teleport to an area, but at the cost of damaged Speed (3 points). Perfect for elusive operatives who favor subtlety over swiftness in the art of infiltration.
+Patient and unseen, those born under the Shadow thrive where others would falter. Masters of stealth and deception, they strike from the darkness and vanish before their enemies can react, though every escape comes at the cost of their ability to manipulate others.
 
+**Passive:** Veiled Step - Gain +10 Agility and +10 Sneak.</br>
+**Lesser Power:** Shadow's Prowl - Become Invisible for 60 seconds and blink to a targeted location, at the cost of 3 Personality. Slip through the darkness unseen, but the strain of bending shadow to your will has a negative effect on your deception and trickery in the future.</br>
+**Doomstone Power:** Aspect of Terror - Demoralize targets in a 100 yard radius causing them to run in fear for 60s. In doing so you lose your ability to sneak, creating a 100 yard area of light centered on yourself for the duration.
 
-- Doomstone Power: Aspect of Terror - Demoralize targets in a 100 yard radius causing them to run in fear for 60s. In doing so you lose your ability to sneak, creating a 100 yard area of light centered on yourself for the duration.
 ### Thief
-- Birthsign: Nimble and dexterous, the Thief grants 15 Luck and the lesser power Thief’s Spree, fortifying Acrobatics and Security (50 points) and granting Telekinesis (30 yards) for 30s, but at the cost of damaged Personality (3 points). Perfect for swashbuckling rogues who rely on chance and fate to navigate dangerous paths.
+Those born under the Thief are nimble and dexterous, blessed with uncanny luck and an aptitude for nearly any situation. These cunning rogues excel at moving unseen, outwitting their foes, and pulling off daring heists. Yet even the greatest fortune comes at a price, and every gamble risks tipping the scales.
 
-- Doomstone Power: Dance with Fate - Make a deal with fate, becoming 100% resistant to magic and normal weapons for 30s, but draining your luck by 50 points for the duration.
-
-
-
-
-
-
-
-
+**Passive:** Beginner's Luck - Gain +15 Luck.</br>
+**Lesser Power:** Thief's Fate - Fortify Luck, Sneak, and Acrobatics by 50 points and grant Telekinesis at 30 yards for 30 seconds, at the cost of Burden (1000 points) for 5 seconds. Fortune favors the clever, but even the clever must bear its weight.</br>
+**Doomstone Power:** Fortune's Gambit - Gamble with fortune itself, gaining 100% resistance to magic and normal weapons for 60 seconds, but damaging Luck by 3 points. Even the luckiest rogue must pay their dues.
 
 ### Tower
-- Birthsign: Steadfast and immovable, the Tower birthsign grants 10% Damage Reflection and the lesser power Tower’s Vigilance, which grants 50 points of Resist Normal Weapons, Detect Life and Night Eye (15s), but renders you immobile (Burden 1000 points) for the duration. A powerful choice for those who stand firm and watch over the battlefield, trading mobility for keen awareness and defense.
+Steadfast and immovable, those born under the Tower are natural guardians, gifted with the strength to endure and the vigilance to perceive threats before they strike. Their defenses are formidable, allowing them to weather even the fiercest assaults, though such unwavering resolve comes at the eventual cost of mobility.
 
-
-
-
-- Doomstone Power: Fortified Walls - Envelop yourself with spiked and impenetrable walls, reflecting 75% of incoming damage for 30s, but paralyze yourself for 15s.
+**Passive:** Thorny Aegis - Gain +10% Damage Reflection.</br>
+**Lesser Power:** Tower's Vigilance - Fortify Armor, Resist Magic, and Detect Life by 50 points for 30 seconds, at the cost of 3 points of Speed. Those who stand firm see all, but sacrifice their freedom of movement.</br>
+**Doomstone Power:** Spiked Walls - Surround yourself with an impenetrable barrier of spiked defenses, reflecting 75% of incoming damage for 30 seconds, but paralyzing yourself for 30 seconds. To become an unyielding fortress is to surrender the freedom to move.
 ***
 ## <p align="center"> Other
 
-
 ***
 ### Serpent
-- Birthsign: The most blessed and cursed of the signs, the Serpent grants Restore Health, Magicka, and Fatigue (all 1/s),  and the lesser power Serpent’s Curse, which paralyzes on touch (5s) but damages your Endurance (3 points). A sly and dangerous choice for those who seize opportunity to strike swiftly and sap resources to survive.
+Feared and revered in equal measure, those born under the Serpent walk a treacherous path between blessing and burden. Its gifts sustain the body at the expense of its vigor, while its venom brings even the mightiest foes to their knees. The Serpent offers no mercy, not even to those who bear its mark.
 
-- Doomstone Power: Star Curse - Curse a target with 500% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
+**Passive:** Betrayer's Debt - Restore Health (2/s), but suffer Damage Fatigue (1/s). The Serpent sustains its bearer through an unnatural bargain, preserving life while slowly sapping their strength.</br>
+**Lesser Power: **Serpent's Bite - Paralyze and absorb fatigue 40 points on touch for 5 seconds at the cost of 3 Endurance. The Serpent's venom can leave even the mightiest foe helpless, but its bite weakens its bearer as well.</br>
+**Doomstone Power:** Star Curse - Curse a target with 500% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
