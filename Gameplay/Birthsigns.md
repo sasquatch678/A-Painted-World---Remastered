@@ -23,15 +23,15 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 ### Lady
 Graceful under pressure and unwavering in spirit, those born under the Lady possess remarkable endurance and poise. Their quiet confidence allows them to weather hardship with ease, though calling upon their greatest gifts demands a measure of fortune in return.
 
-**Passive:** Graceful Bearing - Gain +35 Fatigue and Restore Fatigue (2/s).
-**Lesser Power:** Lady's Riposte - Gain 25% Reflect Damage and Restore an additional 10 points of Fatigue for 30 seconds, turning your enemies' attacks back upon them at the cost of 3 Luck.
+**Passive:** Graceful Bearing - Gain +35 Fatigue and Restore Fatigue (2/s).</br>
+**Lesser Power:** Lady's Riposte - Gain 25% Reflect Damage and Restore an additional 10 points of Fatigue for 30 seconds, turning your enemies' attacks back upon them at the cost of 3 Luck.</br>
 **Doomstone Power:** Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 30s.
 
 ### Lord 
 Those born under the Lord possess an indomitable constitution, enduring wounds that would fell lesser souls. Their fortitude seems almost divine, but even the mightiest champions must lower their guard when calling upon their greatest reserves of vitality.
 
-**Passive:** Lord's Constitution - Gain +10 Endurance and Restore Health (1/s).
-**Lesser Power:** Lord's Vigor - For 30 seconds, restore 5 Health per second, but suffer 50% Weakness to Magic and 50% Weakness to Normal Weapons for the duration. Great fortitude comes at the cost of leaving yourself dangerously exposed.
+**Passive:** Lord's Constitution - Gain +10 Endurance and Restore Health (1/s).</br>
+**Lesser Power:** Lord's Vigor - For 30 seconds, restore 5 Health per second, but suffer 50% Weakness to Magic and 50% Weakness to Normal Weapons for the duration. Great fortitude comes at the cost of leaving yourself dangerously exposed.</br>
 **Doomstone Power:** Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
 
 ### Steed
