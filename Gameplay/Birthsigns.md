@@ -33,8 +33,8 @@ Restless and ever-moving, those born under the Steed are defined by their boundl
 ### Warrior
 Those born under the Warrior thrive on strength, discipline, and an unyielding will to overcome any foe. They dominate the battlefield through raw might and relentless aggression, breaking enemy ranks with a fearsome battlecry. Yet surrendering to such fury comes at a cost, slowly eroding the clarity of mind needed to master the art of war.
 
-**Passive:** Martial Discipline - Gain +10 Strength and +10 Shield.
-**Lesser Power:** Warrior's Battlecry - Unleash a fearsome battlecry that causes enemies in the area to take 25% increased damage and become Frenzied for 30 seconds, at the cost of 3 Intelligence. The chaos leaves foes vulnerable to devastating attacks, but the exertion comes at a lasting cost to the Warrior's clarity.
+**Passive:** Martial Discipline - Gain +10 Strength and +10 Shield.</br>
+**Lesser Power:** Warrior's Battlecry - Unleash a fearsome battlecry that causes enemies in the area to take 25% increased damage and become Frenzied for 30 seconds, at the cost of 3 Intelligence. The chaos leaves foes vulnerable to devastating attacks, but the exertion comes at a lasting cost to the Warrior's clarity.</br>
 **Doomstone Power:** Burning Rage - Become an undying whirlwind of flesh and steel, fortifying your strength by 100 points and granting 50% damage reduction for 120 seconds. While enraged you suffer fire damage over time.
 
 ***
@@ -44,39 +44,34 @@ Those born under the Warrior thrive on strength, discipline, and an unyielding w
 ### Apprentice 
 Those born under the Apprentice possess an extraordinary affinity for magic, learning arcane arts with remarkable ease. Yet their eagerness often outpaces their wisdom, and many Apprentices discover that true mastery demands restraint as much as talent.
 
-**Passive:** Arcane Aptitude - Gain Restore Magicka (2/s) and +10 Willpower.
-**Lesser Power:** Apprentice's Folly - Momentarily abandon caution, regenerating 15 Magicka per second for 30 seconds at the cost of 3 Intelligence. The surge of magical energy is immense, but prolonged reliance on such reckless power comes at a price.
+**Passive:** Arcane Aptitude - Gain Restore Magicka (2/s) and +10 Willpower.</br>
+**Lesser Power:** Apprentice's Folly - Momentarily abandon caution, regenerating 10 Magicka per second while suffering 50% weakness to magic damage for 30 seconds . The surge of magical energy is immense, but prolonged reliance on such reckless power comes at a price.</br>
 **Doomstone Power:** Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
 
 ### Atronach 
-- Birthsign: The most resilient of the magical signs, the Atronach grants 15% resistance to elemental and physical damage, and the lesser power Atronach’s Thirst, which grants 50% spell absorption but damages your own Magicka reserves over 30 seconds (3/s).
-- Doomstone Power: Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
+Those born under the Atronach are vessels of immense magical potential, their bodies attuned to absorb the arcane energies that others wield. Yet this gift comes at a price, severing their connection to the natural flow of Magicka. To sustain their power, they must draw upon the reserves of others, trading their own vitality for the energy they cannot replenish themselves.
+
+**Passive:** Living Bulwark - Gain 50% Spell Absorption, but suffer from Stunted Magicka, preventing natural Magicka regeneration.</br>
+**Lesser Power:** Atronach's Thirst - Absorb Magicka from nearby enemies, taking their stolen energy to replenish your own reserves. The process consumes your Health, forcing you to sacrifice your vitality to sustain your magic.</br>
+**Doomstone Power:** Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
 
 ### Mage
-- Birthsign: Boasting a natural talent for spellcasting, the Mage grants 50 Magicka, 10 Intelligence, and the lesser power Mage’s Brilliance, fortifying intelligence (100 points for 30s) at the cost of damaged Willpower. (3 points). Ideal for gifted spellcasters who burn bright, even if briefly.
+Gifted with an innate understanding of the arcane, those born under the Mage wield magic with confidence and clarity. Their brilliance allows them to grasp even the most complex spells, though moments of extraordinary insight can leave their resolve diminished.
 
-- Doomstone Power: Elemental Triune - Conjure a massive storm of elemental power, dealing 10 points of fire, frost, and shock damage in a 75 yard radius for 60 seconds. The storm batters your own defenses, causing you to be 50% weaker to the elements for the duration.
-
-
-
-
-
-
+**Passive:** Arcane Mastery - Gain +75 Magicka and +10 Intelligence.</br>
+**Lesser Power:** Mage's Brilliance - For 30 seconds, gain +100 Intelligence at the cost of 3 Willpower. The surge of magical insight greatly enhances your spellcasting, but leaves your mind temporarily less disciplined.</br>
+**Doomstone Power:** Elemental Triune - Conjure a massive storm of elemental power, dealing 10 points of fire, frost, and shock damage in a 75 yard radius for 60 seconds. The storm batters your own defenses, causing you to be 50% weaker to the elements for the duration.
 
 ### Ritual 
-- Birthsign: Righteous but bearing a dark secret, being born under the Ritual grants 10 Restoration, Conjuration, and Magic Resistance, and the lesser power Ritual’s Prayer, which cures all poisons and diseases, deals holy fire (fire + light) damage over time, and turns the dead (10s), but damages Health (5 for 5s). A sacred gift for those who endure pain to purge corruption, or embrace it.
+Those born under the Ritual are bound to the eternal cycle of life and death, wielding sacred power to preserve the living and command the forces that threaten them. Their blessings and curses are two halves of the same divine gift, each demanding a sacrifice of body or spirit.
 
+**Passive:** Sacred Calling - Gain +10 Restoration, +10 Conjuration, and +10% Magic Resistance.</br>
+**Lesser Powers:** Divine Prayer / Touch of the Damned - Alternate between two lesser powers with each cast. Divine Prayer restores Health and cures poisons and diseases, at the cost of your Magicka. Touch of the Damned absorbs Magicka, traps souls, and dispels magical effects on touch, at the cost of your Health. Life and death are inseparable, and every gift demands its' penance.</br>
+**Doomstone Power:** Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, soul trap in an area, and reanimate on touch for the duration of the drain effect.
 
-- Doomstone Power: Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, soul trap in an area, and reanimate on touch for the duration of the drain effect.
 ***
+
 ## <p align="center"> Stealth
-
-
-
-
-
-
-
 
 ***
 ### Lover 
