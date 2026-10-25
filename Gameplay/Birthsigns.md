@@ -13,7 +13,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 Graceful under pressure and unwavering in spirit, those born under the Lady possess remarkable endurance and poise. Their quiet confidence allows them to weather hardship with ease, though calling upon their greatest gifts demands a measure of fortune in return.
 
 - **Passive:** Graceful Bearing - Gain +35 Fatigue and Restore Fatigue (2/s).</br>
-- **Lesser Power:** Lady's Riposte - Gain 25% Reflect Damage and Restore an additional 10 points of Fatigue for 30 seconds, turning your enemies' attacks back upon them at the cost of 3 Luck.</br>
+- **Lesser Power:** Lady's Deflection - Gain 25% Reflect Damage and Restore an additional 10 points of Fatigue for 30 seconds, turning your enemies' attacks back upon them at the cost of 3 Luck.</br>
 - **Doomstone Power:** Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 30s.
 
 ### Lord 
@@ -49,10 +49,10 @@ Those born under the Apprentice possess an extraordinary affinity for magic, lea
 - **Doomstone Power:** Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
 
 ### Atronach 
-Those born under the Atronach are vessels of immense magical potential, their bodies attuned to absorb the arcane energies that others wield. Yet this gift comes at a price, severing their connection to the natural flow of Magicka. To sustain their power, they must draw upon the reserves of others, trading their own vitality for the energy they cannot replenish themselves.
+Those born under the Atronach are vessels of immense magical potential, their bodies attuned to absorb the arcane energies that others wield. Yet this gift comes at a price, severing their connection to the natural flow of Magicka. To sustain their power, they must draw upon the reserves of others, trading their physical energy for the resource they cannot replenish themselves..
 
 - **Passive:** Living Bulwark - Gain 50% Spell Absorption, but suffer from Stunted Magicka, preventing natural Magicka regeneration.</br>
-- **Lesser Power:** Atronach's Thirst - Absorb Magicka from nearby enemies, taking their stolen energy to replenish your own reserves. The process consumes your Health, forcing you to sacrifice your vitality to sustain your magic.</br>
+- **Lesser Power:** Atronach's Thirst - Absorb Magicka from nearby enemies, taking their stolen energy to replenish your own reserves. The process consumes your Fatigue, becoming more exhausted as you sustain your spellcasting.</br>
 - **Doomstone Power:** Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
 
 ### Mage
@@ -108,6 +108,6 @@ Steadfast and immovable, those born under the Tower are natural guardians, gifte
 ### Serpent
 Feared and revered in equal measure, those born under the Serpent walk a treacherous path between blessing and burden. Its gifts sustain the body at the expense of its vigor, while its venom brings even the mightiest foes to their knees. The Serpent offers no mercy, not even to those who bear its mark.
 
-- **Passive:** Betrayer's Debt - Restore Health (2/s), but suffer Damage Fatigue (1/s). The Serpent sustains its bearer through an unnatural bargain, preserving life while slowly sapping their strength.</br>
+- **Passive:** Betrayer's Debt - Restore Health (2/s), but suffer Damage Fatigue (4/s). The Serpent sustains its bearer through an unnatural bargain, preserving life while slowly sapping their strength.</br>
 - **Lesser Power:** Serpent's Bite - Paralyze and absorb fatigue 40 points on touch for 5 seconds, but lose 20 points of health over 5 seconds. The Serpent's venom can leave even the mightiest foe helpless, but its bite weakens its bearer as well.</br>
 - **Doomstone Power:** Star Curse - Curse a target with 100% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
