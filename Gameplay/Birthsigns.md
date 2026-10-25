@@ -99,7 +99,7 @@ Those born under the Thief are nimble and dexterous, blessed with uncanny luck a
 Steadfast and immovable, those born under the Tower are natural guardians, gifted with the strength to endure and the vigilance to perceive threats before they strike. Their defenses are formidable, allowing them to weather even the fiercest assaults, though such unwavering resolve comes at the eventual cost of mobility.
 
 - **Passive:** Thorny Aegis - Gain +10% Damage Reflection.</br>
-- **Lesser Power:** Tower's Vigilance - Fortify Armor, Resist Magic, and Detect Life by 50 points for 30 seconds, at the cost of 3 points of Speed. Those who stand firm see all, but sacrifice their freedom of movement.</br>
+- **Lesser Power:** Tower's Vigilance - For 30 seconds, gain 50% Damage Reduction and Detect Life, but experience gradual immobilization with 3 points of damaged speed on each use. The Tower reveals all and withstands all, yet cannot easily shift once its stance is set.</br>
 - **Doomstone Power:** Spiked Walls - Surround yourself with an impenetrable barrier of spiked defenses, reflecting 75% of incoming damage for 30 seconds, but paralyzing yourself for 30 seconds. To become an unyielding fortress is to surrender the freedom to move.
 ***
 ## <p align="center"> Other
