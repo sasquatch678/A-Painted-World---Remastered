@@ -110,4 +110,4 @@ Feared and revered in equal measure, those born under the Serpent walk a treache
 
 - **Passive:** Betrayer's Debt - Restore Health (2/s), but suffer Damage Fatigue (1/s). The Serpent sustains its bearer through an unnatural bargain, preserving life while slowly sapping their strength.</br>
 - **Lesser Power:** Serpent's Bite - Paralyze and absorb fatigue 40 points on touch for 5 seconds at the cost of 3 Endurance. The Serpent's venom can leave even the mightiest foe helpless, but its bite weakens its bearer as well.</br>
-- **Doomstone Power:** Star Curse - Curse a target with 500% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
+- **Doomstone Power:** Star Curse - Curse a target with 100% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
