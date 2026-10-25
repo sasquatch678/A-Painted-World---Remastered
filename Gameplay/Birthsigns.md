@@ -21,7 +21,7 @@ Those born under the Lord possess an indomitable constitution, enduring wounds t
 
 - **Passive:** Divine Fortitude - Gain +10 Endurance and Restore Health (1/s).</br>
 - **Lesser Power:** Lord's Vigour - For 30 seconds, restore 5 Health per second, but suffer 50% Weakness to Magic and 50% Weakness to Normal Weapons for the duration. Great fortitude comes at the cost of leaving yourself dangerously exposed.</br>
-- **Doomstone Power:** Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
+- **Doomstone Power:** Rallying Cry - Rally yourself, fortifying endurance by 100 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
 
 ### Steed
 Restless and ever-moving, those born under the Steed are defined by their boundless energy and relentless momentum. They traverse the world with unmatched swiftness, though such unrestrained speed can leave them briefly unbalanced.
@@ -67,7 +67,7 @@ Those born under the Ritual are bound to the eternal cycle of life and death, wi
 
 - **Passive:** Sacred Calling - Gain +10 Restoration, +10 Conjuration, and +10% Magic Resistance.</br>
 - **Lesser Powers:** Divine Prayer / Touch of the Damned - Alternate between two lesser powers with each cast. Divine Prayer restores Health and cures poisons and diseases, at the cost of your Magicka. Touch of the Damned absorbs Magicka, traps souls, and silences on touch, at the cost of your Health. Life and death are inseparable, and every gift demands penance.</br>
-- **Doomstone Power:** Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, soul trap in an area, and reanimate on touch for the duration of the drain effect.
+- **Doomstone Power:** Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
 
 ***
 
