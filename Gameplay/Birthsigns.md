@@ -12,9 +12,9 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 ### Lady
 Graceful under pressure and unwavering in spirit, those born under the Lady possess remarkable endurance and poise. Their quiet confidence allows them to weather hardship with ease, though calling upon their greatest gifts demands a measure of fortune in return.
 
-**Passive:** Graceful Bearing - Gain +35 Fatigue and Restore Fatigue (2/s).</br>
-**Lesser Power:** Lady's Riposte - Gain 25% Reflect Damage and Restore an additional 10 points of Fatigue for 30 seconds, turning your enemies' attacks back upon them at the cost of 3 Luck.</br>
-**Doomstone Power:** Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 30s.
+- **Passive:** Graceful Bearing - Gain +35 Fatigue and Restore Fatigue (2/s).</br>
+- **Lesser Power:** Lady's Riposte - Gain 25% Reflect Damage and Restore an additional 10 points of Fatigue for 30 seconds, turning your enemies' attacks back upon them at the cost of 3 Luck.</br>
+- **Doomstone Power:** Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 30s.
 
 ### Lord 
 Those born under the Lord possess an indomitable constitution, enduring wounds that would fell lesser souls. Their fortitude seems almost divine, but even the mightiest champions must lower their guard when calling upon their greatest reserves of vitality.
