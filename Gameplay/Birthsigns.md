@@ -52,7 +52,7 @@ Those born under the Apprentice possess an extraordinary affinity for magic, lea
 Those born under the Atronach are vessels of immense magical potential, their bodies attuned to absorb the arcane energies that others wield. Yet this gift comes at a price, severing their connection to the natural flow of Magicka. To sustain their power, they must draw upon the reserves of others, trading their physical energy for the resource they cannot replenish themselves..
 
 - **Passive:** Living Bulwark - Gain 50% Spell Absorption, but suffer from Stunted Magicka, preventing natural Magicka regeneration.</br>
-- **Lesser Power:** Atronach's Thirst - Absorb Magicka from nearby enemies, taking their stolen energy to replenish your own reserves. The process consumes your Fatigue, becoming more exhausted as you sustain your spellcasting.</br>
+- **Lesser Power:** Atronach's Thirst - Absorb Magicka from nearby enemies, taking their stolen energy to replenish your own reserves. The process consumes your Fatigue, becoming more exhausted as you sustain your never-ending thirst for magic.</br>
 - **Doomstone Power:** Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
 
 ### Mage
