@@ -3,17 +3,6 @@
 
 All birthsigns now have one passive ability and one lesser power which can be used at will. All of the lesser powers are intended to be powerful but have some kind of penalty, forcing you think about when you use them. Damaged attributes will catch up to you quickly as these effects permanently damage an attribute until you use a restore attribute spell, potion, or pray at a wayshrine of the nine. <br/>
 
-
-
-
-
-
-
-
-
-
-
-
 Additionally, there are unique and flavorful greater powers added to the doomstones you can find around the map. These are intended to be very powerful spells you can use once per day, as a sort of ultimate ability you unlock through exploration for each birthsign. You may unlock a doomstone power even if the stone does not match your birthsign choice, but you may only ever have one at a time.
 ***
 ## <p align="center"> Combat
@@ -35,50 +24,32 @@ Those born under the Lord possess an indomitable constitution, enduring wounds t
 **Doomstone Power:** Rallying Cry - Rally yourself, fortifying endurance by 150 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
 
 ### Steed
-- Birthsign: Lively and energetic, the Steed grants 10 Speed and Athletics, and the lesser power Steed’s Charge, which fortifies Athletics by 65 points, grants Water Walking, and grants 225 points of Feather for 180s, but damages Agility (3 points). Ideal for swift adventurers who value mobility over brute force in their journeys.
+Restless and ever-moving, those born under the Steed are defined by their boundless energy and relentless momentum. They traverse the world with unmatched swiftness, though such unrestrained speed can leave them briefly unbalanced.
 
-- Doomstone Power: Icarian Flight - Call upon the Steed to gallop across the sky, fortifying your speed by 1,000 and your acrobatics by 25,000 for 30s. Hopefully you land before the blessing wanes.
-
-
-
-
-
+**Passive:** Fleet Stride - Gain +10 Speed and +10 Athletics.</br>
+**Lesser Power:** Steed's Charge - For 30 seconds, fortify Speed and Athletics by 50 points and gain Water Walking, at the cost of 3 Agility. When the Steed surges forward, few can hope to keep pace, but control is often the price of such overwhelming momentum.</br>
+**Doomstone Power:** Icarian Flight - Call upon the Steed to gallop across the sky, fortifying your speed by 500, acrobatics by 10,000, and granting 25 points of feather for 45s. Hopefully you land before the blessing wanes.
 
 ### Warrior
-- Birthsign: A warrior lives and dies by their sword. The Warrior grants 10 Strength and Shield, and the lesser power Warrior’s Battlecry, increasing enemy damage taken in an area by 25% but damaging your equipment (5 points). Ideal for bold fighters willing to sacrifice durability.
+Those born under the Warrior thrive on strength, discipline, and an unyielding will to overcome any foe. They dominate the battlefield through raw might and relentless aggression, breaking enemy ranks with a fearsome battlecry. Yet surrendering to such fury comes at a cost, slowly eroding the clarity of mind needed to master the art of war.
 
-- Doomstone Power: Berserker Rage - Become a whirlwind of flesh and steel, fortifying your strength, blade, blunt, and hand to hand by 50 for 120 seconds. Each time you succumb to your rage you lose some of your humanity and become no better than the mindless beasts, damaging your intelligence by 10 points.
+**Passive:** Martial Discipline - Gain +10 Strength and +10 Shield.
+**Lesser Power:** Warrior's Battlecry - Unleash a fearsome battlecry that causes enemies in the area to take 25% increased damage and become Frenzied for 30 seconds, at the cost of 3 Intelligence. The chaos leaves foes vulnerable to devastating attacks, but the exertion comes at a lasting cost to the Warrior's clarity.
+**Doomstone Power:** Burning Rage - Become an undying whirlwind of flesh and steel, fortifying your strength by 100 points and granting 50% damage reduction for 120 seconds. While enraged you suffer fire damage over time.
+
 ***
 ## <p align="center"> Magic
 
-
-
-
-
-
-
-
-
-
-
-
-
 ***
 ### Apprentice 
-- Birthsign: Eager to learn but foolhardy, the Apprentice birthsign grants Restore Magicka (2/s), 10 Willpower, and the lesser power Apprentice's Folly, which greatly boosts Magicka regeneration (15/s for 30s) at the cost of damaged Intelligence (3 points).  Ideal for bold mages who value raw magical force and hasty spellcasting over careful control.
+Those born under the Apprentice possess an extraordinary affinity for magic, learning arcane arts with remarkable ease. Yet their eagerness often outpaces their wisdom, and many Apprentices discover that true mastery demands restraint as much as talent.
 
-- Doomstone Power: Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
-
-
-
-
-
-
+**Passive:** Arcane Aptitude - Gain Restore Magicka (2/s) and +10 Willpower.
+**Lesser Power:** Apprentice's Folly - Momentarily abandon caution, regenerating 15 Magicka per second for 30 seconds at the cost of 3 Intelligence. The surge of magical energy is immense, but prolonged reliance on such reckless power comes at a price.
+**Doomstone Power:** Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
 
 ### Atronach 
 - Birthsign: The most resilient of the magical signs, the Atronach grants 15% resistance to elemental and physical damage, and the lesser power Atronach’s Thirst, which grants 50% spell absorption but damages your own Magicka reserves over 30 seconds (3/s).
-
-
 - Doomstone Power: Null Field - Create a zone of no magicka, silencing, dispelling, and fully depleting magicka of all targets (including yourself) in a 100 yard radius for 60 seconds.
 
 ### Mage
