@@ -66,7 +66,7 @@ Gifted with an innate understanding of the arcane, those born under the Mage wie
 Those born under the Ritual are bound to the eternal cycle of life and death, wielding sacred power to preserve the living and command the forces that threaten them. Their blessings and curses are two halves of the same divine gift, each demanding a sacrifice of body or spirit.
 
 - **Passive:** Sacred Calling - Gain +10 Restoration, +10 Conjuration, and +10% Magic Resistance.</br>
-- **Lesser Powers:** Divine Prayer / Touch of the Damned - Alternate between two lesser powers with each cast. Divine Prayer restores Health and cures poisons and diseases, at the cost of your Magicka. Touch of the Damned absorbs Magicka, traps souls, and dispels magical effects on touch, at the cost of your Health. Life and death are inseparable, and every gift demands its' penance.</br>
+- **Lesser Powers:** Divine Prayer / Touch of the Damned - Alternate between two lesser powers with each cast. Divine Prayer restores Health and cures poisons and diseases, at the cost of your Magicka. Touch of the Damned absorbs Magicka, traps souls, and silences on touch, at the cost of your Health. Life and death are inseparable, and every gift demands its' penance.</br>
 - **Doomstone Power:** Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, soul trap in an area, and reanimate on touch for the duration of the drain effect.
 
 ***
@@ -78,7 +78,7 @@ Those born under the Ritual are bound to the eternal cycle of life and death, wi
 Blessed with irresistible charm and an effortless gift for persuasion, those born under the Lover excel at winning hearts and defusing conflict. Their presence can soothe even the fiercest tempers, though such enchanting grace leaves them momentarily drained.
 
 - **Passive:** Beguiling Presence - Gain +10 Personality, +10 Speechcraft, and +10 Mercantile.</br>
-- **Lesser Power:** Lover's Kiss - Dispel 150 points of magical effects on yourself and on touch, and Calm enemies for 10 seconds, at the cost of 50 Fatigue. Your captivating presence washes away hostility and harmful magic alike, but the effort is physically exhausting.</br>
+- **Lesser Power:** Lover's Kiss - Calm enemies for 10 seconds and Dispel 100 points of magical effects on yourself and on touch , at the cost of 50 Fatigue. Your captivating presence washes away hostility and harmful magic alike, but the effort is physically exhausting.</br>
 - **Doomstone Power:** Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
   
 ### Shadow 
@@ -109,5 +109,5 @@ Steadfast and immovable, those born under the Tower are natural guardians, gifte
 Feared and revered in equal measure, those born under the Serpent walk a treacherous path between blessing and burden. Its gifts sustain the body at the expense of its vigor, while its venom brings even the mightiest foes to their knees. The Serpent offers no mercy, not even to those who bear its mark.
 
 - **Passive:** Betrayer's Debt - Restore Health (2/s), but suffer Damage Fatigue (1/s). The Serpent sustains its bearer through an unnatural bargain, preserving life while slowly sapping their strength.</br>
-- **Lesser Power:** Serpent's Bite - Paralyze and absorb fatigue 40 points on touch but lose 30 points of health over 3 seconds. The Serpent's venom can leave even the mightiest foe helpless, but its bite weakens its bearer as well.</br>
+- **Lesser Power:** Serpent's Bite - Paralyze and absorb fatigue 40 points on touch for 5 seconds, but lose 20 points of health over 5 seconds. The Serpent's venom can leave even the mightiest foe helpless, but its bite weakens its bearer as well.</br>
 - **Doomstone Power:** Star Curse - Curse a target with 100% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
