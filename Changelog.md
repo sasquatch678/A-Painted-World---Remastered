@@ -1,5 +1,65 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.16 / Revision 15</p>
+
+***
+
+## ADDED
+- Oblivion Remastered Performance Fix
+- Improved Wheels Plus
+- SearchLight - Search Bars for Every Menu
+- SearchLight - Controller Keyboard
+- Smooth Menus - Crash Fix and Improved Performance
+- IC Arboretum Echo Fix
+- Nenalata Ruin Muffle Fix
+- County Bounties - Bounty Quests for Oblivion Remastered
+- Dungeon Tracker
+- Earrings Of Oblivion
+- Oblivion Custom Music - OCM
+- Configurable Temper Levels - OBSE
+- Cabin Window Fix
+- Refited and improved Fur Armor 
+
+***
+
+## UPDATED
+- Delete Spells - OBSE - ASI - Updated - fixes a bug which caused some controllers not to work
+- Race Based Runestones - fixes issues with the Orc's low health passive and overhauls Redguard abilities to be more interesting
+- Star Signs - Birthsigns Reimagined - changes to every birthsign, focused on enhancing the personality and core themes of each sign while introducing more unique and varied gameplay
+- Twilight Gifts - Boons of the Doomstones - complementary changes for the Star Signs update
+
+***
+
+## REMOVED
+- Basic Bounty System - replaced
+- Quick Cast (Cast Automatically) - redundant
+- Optimized Tweaks BOOST - redundant
+- AMF Apocrypha Menu Framework for Oblivion Remastered - crashes
+- Camera Configuration Menu - crashes
+
+***
+
+## CHANGES
+- all music tracks now have an equal chance to play - previously the new tracks fully replaced most vanilla tracks.
+- you will no longer be spammed with quest notifications upon joining the Mages Guild
+- Ancestor Guardian now restores bonus magicka per second so they don't run out of magicka after casting a few spells
+- reduced the amount of health coming from Strength by 75% and the health coming from Endurance by 25% - mid to late game you just end up with a massive health pool that trivializes combat
+- reduced amount of passive health regen, to incentivize using food to restore health
+- food items now only restore health when used out of combat, and because the first ingredient is now a scripted effect rather than restore health, can no longer be used to create giga healing potions
+- food items from Core Survival have now been integrated into the health regen/food system
+- reduced the cost of Calm spells by 25%
+- small improvements to each of the three Reshade presets
+
+***
+
+## BUG FIXES
+- fixed an issue causing the Legion Shield to appear invisible
+- fixed an issue where Trophy Bucks would not flee the player
+- fixed an issue which could cause Necromancer enemies to stop engaging in combat
+- fixed an issue where Giant Slaughterfish were not aggressive
+
+***
+
 # <p align="center">1.1.15 / Revision 12</p>
 
 ***
