@@ -12,7 +12,7 @@ Additionally, there are unique and flavorful greater powers added to the doomsto
 ### Lady
 Graceful under pressure and unwavering in spirit, those born under the Lady possess remarkable endurance and poise. Their quiet confidence allows them to weather hardship with ease, though calling upon their greatest gifts demands a measure of fortune in return.
 
-- **Passive:** Graceful Bearing - Gain +35 Fatigue and Restore Fatigue (2/s).</br>
+- **Passive:** Graceful Bearing - Gain +50 Fatigue and Restore Fatigue (2/s).</br>
 - **Lesser Power:** Lady's Deflection - Gain 25% Reflect Damage and Restore an additional 10 points of Fatigue for 30 seconds, turning your enemies' attacks back upon them at the cost of 3 Luck.</br>
 - **Doomstone Power:** Womb of Rebirth - Through the Lady you are given a chance at rebirth, fully restoring all your attributes. However, the process of rebirth leaves you weakened for a time, draining all of your attributes by 25 for 30s.
 
@@ -21,7 +21,7 @@ Those born under the Lord possess an indomitable constitution, enduring wounds t
 
 - **Passive:** Divine Fortitude - Gain +10 Endurance and Restore Health (1/s).</br>
 - **Lesser Power:** Lord's Vigour - For 30 seconds, restore 5 Health per second, but suffer 50% Weakness to Magic and 50% Weakness to Normal Weapons for the duration. Great fortitude comes at the cost of leaving yourself dangerously exposed.</br>
-- **Doomstone Power:** Rallying Cry - Rally yourself, fortifying endurance by 100 and becoming immune to fear for 120 seconds. However, you become 100% weaker to disease and poison for the duration, the bane of all kings.
+- **Doomstone Power:** Rallying Cry - Fortify your endurance by 100 for 60 seconds and rally your surrounding allies, causing them to become immune to fear for the duration. However, you become 100% weaker to disease and poison, the bane of all kings.
 
 ### Steed
 Restless and ever-moving, those born under the Steed are defined by their boundless energy and relentless momentum. They traverse the world with unmatched swiftness, though such unrestrained speed can leave them briefly unbalanced.
@@ -34,8 +34,8 @@ Restless and ever-moving, those born under the Steed are defined by their boundl
 Those born under the Warrior thrive on strength, discipline, and an unyielding will to overcome any foe. They dominate the battlefield through raw might and relentless aggression, breaking enemy ranks with a fearsome battlecry. Yet surrendering to such fury comes at a cost, slowly eroding the clarity of mind needed to master the art of war.
 
 - **Passive:** Martial Discipline - Gain +10 Strength and +10 Shield.</br>
-- **Lesser Power:** Warrior's Battlecry - Unleash a fearsome battlecry that causes enemies in the area to take 25% increased damage and become Frenzied for 30 seconds, at the cost of 3 Intelligence. The chaos leaves foes vulnerable to devastating attacks, but the exertion comes at a lasting cost to the Warrior's clarity.</br>
-- **Doomstone Power:** Burning Rage - Become an undying whirlwind of flesh and steel, fortifying your strength by 100 points and granting 50% damage reduction for 120 seconds. While enraged you suffer fire damage over time.
+- **Lesser Power:** Warrior's Battlecry - Unleash a fearsome battlecry that causes enemies in the area to take 50% increased damage and become Frenzied for 30 seconds, at the cost of 3 Intelligence. The chaos leaves foes vulnerable to devastating attacks, but the exertion comes at a lasting cost to the Warrior's clarity.</br>
+- **Doomstone Power:** Burning Rage - Feel no pain and become a whirlwind of flesh and steel, fortifying your strength by 100 points and granting 50% damage reduction for 60 seconds. While enraged you suffer fire damage over time.
 
 ***
 ## <p align="center"> Magic
@@ -67,7 +67,7 @@ Those born under the Ritual are bound to the eternal cycle of life and death, wi
 
 - **Passive:** Sacred Calling - Gain +10 Restoration, +10 Conjuration, and +10% Magic Resistance.</br>
 - **Lesser Powers:** Divine Prayer / Touch of the Damned - Alternate between two lesser powers with each cast. Divine Prayer restores Health and cures poisons and diseases, at the cost of your Magicka. Touch of the Damned absorbs Magicka, traps souls, and silences on touch, at the cost of your Health. Life and death are inseparable, and every gift demands penance.</br>
-- **Doomstone Power:** Profane Ritual - Drain 25 points of your own health for 120s while conjuring a full suit of bound armor, a mace, and a shield, and reanimate on touch for the duration of the drain effect.
+- **Doomstone Power:** Profane Ritual - Drain 25 points of your own health for 60 seconds to reanimate a corpse and conjure a full suit of bound armor for the duration.
 
 ***
 
@@ -79,7 +79,7 @@ Blessed with irresistible charm and an effortless gift for persuasion, those bor
 
 - **Passive:** Beguiling Presence - Gain +10 Personality, +10 Speechcraft, and +10 Mercantile.</br>
 - **Lesser Power:** Lover's Kiss - Calm enemies for 10 seconds and Dispel 100 points of magical effects on yourself and on touch , at the cost of 50 Fatigue. Your captivating presence washes away hostility and harmful magic alike, but the effort is physically exhausting.</br>
-- **Doomstone Power:** Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 120s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
+- **Doomstone Power:** Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 60s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
   
 ### Shadow 
 Patient and unseen, those born under the Shadow thrive where others would falter. Masters of stealth and deception, they strike from the darkness and vanish before their enemies can react, though every escape comes at the cost of their ability to manipulate others.
@@ -93,14 +93,14 @@ Those born under the Thief are nimble and dexterous, blessed with uncanny luck a
 
 - **Passive:** Beginner's Luck - Gain +15 Luck.</br>
 - **Lesser Power:** Thief's Fate - Fortify Luck, Sneak, and Acrobatics by 50 points and grant Telekinesis at 30 yards for 30 seconds, at the cost of Burden (1000 points) for 5 seconds. Fortune favors the clever, but even the clever must bear its weight.</br>
-- **Doomstone Power:** Fortune's Gambit - Gamble with fortune itself, gaining 100% resistance to magic and normal weapons for 60 seconds, but damaging Luck by 3 points. Even the luckiest rogue must pay their dues.
+- **Doomstone Power:** Fortune's Gambit - Gamble with fortune itself, gaining 100% resistance to magic and normal weapons for 30 seconds, but damaging Luck by 3 points. Even the luckiest rogue must pay their dues.
 
 ### Tower
 Steadfast and immovable, those born under the Tower are natural guardians, gifted with the strength to endure and the vigilance to perceive threats before they strike. Their defenses are formidable, allowing them to weather even the fiercest assaults, though such unwavering resolve comes at the eventual cost of mobility.
 
-- **Passive:** Thorny Aegis - Gain +10% Damage Reflection.</br>
+- **Passive:** Spiked Walls - Gain +10% Damage Reflection.</br>
 - **Lesser Power:** Tower's Vigilance - For 30 seconds, gain 50% Damage Reduction and Detect Life, but experience gradual immobilization with 3 points of damaged speed on each use. The Tower reveals all and withstands all, yet cannot easily shift once its stance is set.</br>
-- **Doomstone Power:** Spiked Walls - Surround yourself with an impenetrable barrier of spiked defenses, reflecting 75% of incoming damage for 30 seconds, but paralyzing yourself for 30 seconds. To become an unyielding fortress is to surrender the freedom to move.
+- **Doomstone Power:** The Still Hour - Paralyze all enemies in a 50-yard radius for 60 seconds and render them immune to damage for the duration. The battlefield falls still, and neither blade nor spell can claim a victor.
 ***
 ## <p align="center"> Other
 
@@ -108,6 +108,6 @@ Steadfast and immovable, those born under the Tower are natural guardians, gifte
 ### Serpent
 Feared and revered in equal measure, those born under the Serpent walk a treacherous path between blessing and burden. Its gifts sustain the body at the expense of its vigor, while its venom brings even the mightiest foes to their knees. The Serpent offers no mercy, not even to those who bear its mark.
 
-- **Passive:** Betrayer's Debt - Restore Health (4/s), but suffer Damage Fatigue (10/s). The Serpent sustains its bearer through an unnatural bargain, preserving life while slowly sapping their strength.</br>
-- **Lesser Power:** Serpent's Bite - Paralyze and absorb fatigue 40 points on touch for 5 seconds, but lose 30 points of health over 5 seconds. The Serpent's venom can leave even the mightiest foe helpless, but its bite weakens its bearer as well.</br>
-- **Doomstone Power:** Star Curse - Curse a target with 100% weakness to poison for 120s and absorb all of their attributes (50 points for 120s), but halt your natural regeneration, damaging your health, magicka, and fatigue by 1/s for 120s.
+- **Passive:** Betrayer's Debt - Restore Health (3/s), but suffer Damage Fatigue (10/s). The Serpent sustains its bearer through an unnatural bargain, preserving life while slowly sapping their strength.</br>
+- **Lesser Power:** Serpent's Bite - Paralyze and absorb fatigue 50 points on touch for 3 seconds, but lose 30 points of health over 3 seconds. The Serpent's venom can leave even the mightiest foe helpless, but its bite weakens its bearer as well.</br>
+- **Doomstone Power:** Star Curse - Curse a target with 100% weakness to poison and absorb all of their attributes (50 points) for 60 seconds, but damage your health 75 points.
