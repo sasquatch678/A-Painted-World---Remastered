@@ -49,7 +49,7 @@ Those born under the Apprentice possess an extraordinary affinity for magic, lea
 - **Doomstone Power:** Arcane Fracture - Unleash a nova of pure arcane energy, causing enemies to be 100% weaker to magic in a 100 yard radius for 60 seconds. However, due to your reckless spellcasting you also become 100% weaker to magic for the duration.
 
 ### Atronach 
-Those born under the Atronach are vessels of immense magical potential, their bodies attuned to absorb the arcane energies that others wield. Yet this gift comes at a price, severing their connection to the natural flow of Magicka. To sustain their power, they must draw upon the reserves of others, trading their physical energy for the resource they cannot replenish themselves..
+Those born under the Atronach are vessels of immense magical potential, their bodies attuned to absorb the arcane energies that others wield. Yet this gift comes at a price, severing their connection to the natural flow of Magicka. To sustain their power, they must draw upon the reserves of others, trading their physical energy for the resource they cannot replenish themselves.
 
 - **Passive:** Living Bulwark - Gain 50% Spell Absorption, but suffer from Stunted Magicka, preventing natural Magicka regeneration.</br>
 - **Lesser Power:** Atronach's Thirst - Absorb Magicka from nearby enemies, taking their stolen energy to replenish your own reserves. The process consumes your Fatigue, becoming more exhausted as you sustain your never-ending thirst for magic.</br>
@@ -78,7 +78,7 @@ Those born under the Ritual are bound to the eternal cycle of life and death, wi
 Blessed with irresistible charm and an effortless gift for persuasion, those born under the Lover excel at winning hearts and defusing conflict. Their presence can soothe even the fiercest tempers, though such enchanting grace leaves them momentarily drained.
 
 - **Passive:** Beguiling Presence - Gain +10 Personality, +10 Speechcraft, and +10 Mercantile.</br>
-- **Lesser Power:** Lover's Kiss - Calm enemies for 10 seconds and Dispel 100 points of magical effects on yourself and on touch , at the cost of 50 Fatigue. Your captivating presence washes away hostility and harmful magic alike, but the effort is physically exhausting.</br>
+- **Lesser Power:** Lover's Kiss - Calm enemies for 10 seconds and Dispel 100 points of magical effects on yourself and on touch, at the cost of 50 Fatigue. Your captivating presence washes away hostility and harmful magic alike, but the effort is physically exhausting.</br>
 - **Doomstone Power:** Infatuation - Command any humanoid and restore their health, magicka, and fatigue by 3 for 60s. However when the command ends they will be frenzied for another 30s, attacking anything in sight including you.
   
 ### Shadow 
