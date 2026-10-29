@@ -8,7 +8,7 @@
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#marksman">Marksman</a> |
   <a href="https://github.com/sasquatch678/A-Painted-World---Remastered/blob/main/Gameplay/Combat.md#slowmo">SloMo</a> ]
 </p>
-The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together so that each selection actually serves a purpose. A detailed breakdown is below.
+The difficulty settings in Oblivion Remastered are a total mess. Novice is a joke, Apprentice isn't much better, Adept is fine and everything else is borderline unplayable. In A Painted World these difficulty settings have been brought closer together and made more linear, so there aren't any weird spikes in difficulty and each selection actually fulfills a purpose. A detailed breakdown is below.
 
 >[!TIP]
 >You can configure these multipliers in mods\Difficulty Slider Fixed for 1.2 Game Settings Loader\GameSettings.<br/>
