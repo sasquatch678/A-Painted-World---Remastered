@@ -268,7 +268,7 @@ Vampirism 25:
 
 Vampirism 50:
 
-- 1pts per sec Sun damage
+- No Sun damage
 - Resist Disease 100
 - Resist Poison 100
 - Resist Paralysis 100 
@@ -292,7 +292,7 @@ Vampirism 50:
 
 Vampirism 75 
 
-- 4pts per sec Sun damage
+- 2pts per sec Sun damage
 - Resist Disease 100
 - Resist Poison 100
 - Resist Paralysis 100 
@@ -317,7 +317,7 @@ Vampirism 75
 
 Vampirism 100
 
-- 8pts per sec Sun damage
+- 4pts per sec Sun damage
 - Resist Disease 100
 - Resist Poison 100
 - Resist Paralysis 100 
