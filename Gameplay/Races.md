@@ -44,7 +44,7 @@ All races now have one passive and one greater power which can be augmented by t
 
 - ﻿Hestra - The effects of Balanced Scales are doubled.
 - ﻿Reman - Ancestor Guardian now also gives you 50 points of Fire Shield for 120 seconds.
-- ﻿Sidri-Ashak - Ancestor Guardian is now a lesser power, but costs 75 magicka.
+- ﻿Sidri-Ashak - Ancestor Guardian is now a lesser power and Soul Traps a target, but costs 75 magicka.
 ***
 ### High Elf
 
