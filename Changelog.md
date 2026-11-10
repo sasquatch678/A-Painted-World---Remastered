@@ -1,5 +1,57 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.17 / Revision 16</p>
+
+***
+
+## ADDED
+- Obscured Helmets
+- Shield Spell Durability Bug Fix
+- Menus Revamped
+- Longer Unvoiced Dialogue - OBSE
+- No AutoSaves - (optional, disabled by default) game can freeze if you level up with the Mad Experience mod during an autosave (common during certain quests). Supposedly also improves stability during load screens.
+- Immersive Necromancer and Conjurer Loot
+- Seamless Leveling - Automatic Attributes - optional, disabled by default
+
+***
+
+## UPDATED
+- Oblivion Remastered Performance Fix
+- Oblivion Custom Music
+- Improved Wheels Plus
+- Race Based Runestones - adjustments and reworks to many races
+- Async Shader Compiler
+
+***
+
+## REMOVED
+- SearchLight - redundant
+- SearchLight - Controller Keyboard - redundant
+- Smooth Menus - redundant
+- Fatigue Affects Damage - the mod is just broken and causes issues with damage scaling across various difficulties, which can result in attacks that deal 0 damage
+- Sundial Wait Menu
+- Simple Loadout System for Oblivion Remastered
+
+***
+
+## CHANGES
+- weapon durability now has less impact on outgoing damage
+- reduced the multiplicative scaling of strength and weapon skill on outgoing damage while increasing the base amount they contribute in the damage formula. Weapon damage still has a similar maximum as before so you won't be totally overpowered at endgame, but it will feel a lot better at lower levels while still offering a sense of progression. This also means that swinging a weapon won't feel completely useless if you lack in weapon skill (ie. pure mages using bound weapons)
+- reduced the base weapon damage of warhammers from a 200% increase over vanilla to a 150% increase - still the highest damaging weapon type in the game by a significant margin, but no longer overpowered especially when stacking with other damage multipliers
+- slightly increased passive health regen, scaling more with endurance
+- altered the duration and magnitude of health regeneration from food - the same amount of health is restored, just in half the time
+- buffed the passive abilities of Mannimarco and Mankar Camoran to increase their health and make them restore additional magicka
+- vampires no longer experience sun damage up to stage 2 of vampirism (was stage 1). sun damage from stages 3 and 4 has been halved.
+
+***
+
+## BUG FIXES
+- spectating a match in the arena will now pick music from town instead of dungeon tracks (vanilla "bug")
+- added a linked storage chest to the Chorrol house (this is the only house that was missing one)
+- fixed an issue where Guild Advancement wasn't actually optional and would crash the game if disabled
+
+***
+
 # <p align="center">1.1.16 / Revision 15</p>
 
 ***
