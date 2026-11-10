@@ -1,6 +1,6 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
-# <p align="center">1.1.17 / Revision 16</p>
+# <p align="center">1.1.17 / Revision 17</p>
 
 ***
 
