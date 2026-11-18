@@ -1,5 +1,26 @@
 ![banner image](https://raw.githubusercontent.com/sasquatch678/A-Painted-World---Remastered/refs/heads/main/Images/sunrise.png)
 
+# <p align="center">1.1.18 / Revision 19</p>
+
+***
+
+## ADDED
+- Invisibility and Chameleon Visuals Fix
+
+***
+
+## UPDATED
+- Race Based Runestones
+- Seamless Leveling - Automatic Attributes
+- Async Shader Compiler
+- Oblivion Remastered Performance Fix
+- Menus Revamped - Search Sorting and UI Improvements
+
+***
+
+## REMOVED
+- Engaging Combat - Oblivion
+
 # <p align="center">1.1.17 / Revision 17</p>
 
 ***
